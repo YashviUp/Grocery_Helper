@@ -1,0 +1,3055 @@
+[
+  {
+    "data": [
+      {
+        "id": "284304",
+        "name": "Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/284304_4-catch-red-chillilal-mirch-powder.jpg"
+        ],
+        "mrp": "115",
+        "offer_price": "80.5",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/284304",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "284304"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 10902,
+        "name": "Catch Kashmiri Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/602b2dcb-6aa9-48c9-aa3b-816a60fa17fd.jpg?ts=1712572676",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902c.jpg?ts=1706777730",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902d.jpg?ts=1706777730",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902e.jpg?ts=1706777730",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902f.jpg?ts=1706777730",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902g.jpg?ts=1706777730",
+          "https://cdn.grofers.com/app/images/products/sliding_image/10902h.jpg?ts=1706777730"
+        ],
+        "mrp": 110,
+        "offer_price": 83,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/10902",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 17,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          10902
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "23ad890a-fcc7-49f0-b0ae-ae8bc7b57599",
+        "name": "Catch Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aa142f35-1711-44c1-a52a-e473f83a12c5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/10fd6e43-2250-4146-b77f-9bd63b1521c7-1DSArY2rc7YKhrLJf3OC9jYrXpUaHuhDl.jpeg"
+        ],
+        "mrp": 300.0,
+        "offer_price": 261.0,
+        "unit_level_price": 261.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/10fd6e43-2250-4146-b77f-9bd63b1521c7",
+        "id": "10fd6e43-2250-4146-b77f-9bd63b1521c7",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "10fd6e43-2250-4146-b77f-9bd63b1521c7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "490069979",
+        "name": "Catch Red Chilli Powder 100 g",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/490069979/catch-red-chilli-powder-100-g-product-images-o490069979-p490069979-0-202203170514.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 40,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/catch-red-chilli-powder-100-g/490069979",
+        "id": "490069979",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "490069979"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "R0NK3576H4",
+        "name": "Supreme Harvest Red Chilli Powder",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/368bc9a6-05eb-4e4e-876e-b614480b54ce_20725.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/09ed904ec599b850ec8f772225d423e7",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a76581e4d5859ec1c84591fe8ab1e0c4"
+        ],
+        "mrp": 91,
+        "x_available": true,
+        "available": true,
+        "offer_price": 31,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/KPQA14OTI5",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "R0NK3576H4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1084503",
+        "name": "Badshah Red Chilli Powder ",
+        "brand": "Badshah",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/OCT110003451xx10OCT22_5_P.jpg"
+        ],
+        "mrp": 295,
+        "offer_price": 148,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/badshah-red-chilli-powder-pmasala0bads5xx111022?selectedProd=1084503",
+        "id": "1175505",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1175505"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 21869,
+        "name": "Catch (Kutti Mirch) Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/07b1cf37-d3f4-4677-aeb0-94a7736e3eed.jpg?ts=1707557493",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869b.jpg?ts=1647089039",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869c.jpg?ts=1647089039",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869g.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21869h.jpg"
+        ],
+        "mrp": 68,
+        "offer_price": 52,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/21869",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21869
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8fd376ec-7274-4c12-ac77-813686565833",
+        "name": "Catch Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e39d1aa7-0da0-4820-9028-d10b9bb8468e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae51a94a-36c8-4744-a759-137e0ed52fa7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0bde13e2-8426-4432-a105-eb457c5c25b7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d9135107-a55f-411c-8f66-151c1687775b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/841eb579-b841-4b22-ad7d-e375cdcc4a60.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/adb73f93-b99b-4de4-a30e-de5d2cbe2513.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c2e386ac-6eac-4e85-bf19-22732236c4b1.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 53.0,
+        "unit_level_price": 53.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/093c96e7-eef7-43ec-abd4-ab2cf96138c8",
+        "id": "093c96e7-eef7-43ec-abd4-ab2cf96138c8",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "093c96e7-eef7-43ec-abd4-ab2cf96138c8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "F0FKZQK0RK",
+        "name": "Catch Red Chilli Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9f38f5fead8e7f88507abe9f81a13023"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 90,
+        "unit_level_price": "45/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ND57FIQB7Z",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F0FKZQK0RK",
+          "3POR7SMLKW",
+          "1CACJYAJVS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18614",
+        "name": "DMart Premia Red Chilli Powder ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000467xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 378,
+        "offer_price": 194,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/premia-red-chilli-powder?selectedProd=18614",
+        "id": "15122",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15122"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 25002,
+        "name": "Catch Kuti Red Chilli Powder",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8beade56-ee20-4f1c-8be7-6f216544e331.jpg?ts=1708588718",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002b.jpg?ts=1647089039",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002c.jpg?ts=1647089039",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002d.jpg?ts=1647089039",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002g.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25002h.jpg"
+        ],
+        "mrp": 135,
+        "offer_price": 101,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/25002",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          25002
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3POR7SMLKW",
+        "name": "Catch Red Chilli Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0f144e60d8fbe31ed88529c4248e38be",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/df6776350cffe787acdda54938dbbbef",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c751cd0910ed022d3e029073248b3cac",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/694aa08002d60ff6278aacb08cf84db6"
+        ],
+        "mrp": 60,
+        "x_available": true,
+        "available": true,
+        "offer_price": 46,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ND57FIQB7Z",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F0FKZQK0RK",
+          "3POR7SMLKW",
+          "1CACJYAJVS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "TWSHYZH7AS",
+        "name": "Everest Tikhalal Hot & Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b7eb1cd93378f9cfda5242023bc881ba"
+        ],
+        "mrp": 108,
+        "x_available": true,
+        "available": true,
+        "offer_price": 95,
+        "unit_level_price": "47.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BEM26XW2CT",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "TWSHYZH7AS",
+          "VX1ZPLPHRP"
+        ]
+      },
+      {
+        "id": 25281,
+        "name": "Everest Tikhalal Red Chilli Powder",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4157bf50-e80c-420a-a964-747dd58cea02.jpg?ts=1708588722",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25281b.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25281c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25281d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25281e.jpg"
+        ],
+        "mrp": 108,
+        "offer_price": 95,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/25281",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          25281,
+          25279
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "1CACJYAJVS",
+        "name": "Catch Red Chilli Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/59f8f881ca711cb2cca9508a5cb10d84",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1efe09cc1dbfe93c21f9fd453ddfa662",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/aa693c281b5b5cfd91fe2590beb706e9",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1959e3729d78c383e1911dd7e93eb590",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/916598c10218f72b15af2e8c271ebfcd",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/6ae89bb3f1f5fa6bb1a1eed9356d810f"
+        ],
+        "mrp": 285,
+        "x_available": true,
+        "available": false,
+        "offer_price": 214,
+        "unit_level_price": "42.8/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ND57FIQB7Z",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 1,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F0FKZQK0RK",
+          "3POR7SMLKW",
+          "1CACJYAJVS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VX1ZPLPHRP",
+        "name": "Everest Tikhalal Hot & Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gjd8gnyc9du50f8suflh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hneu4kudqf3l5lm9snps",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/sffgnijqgrldjukfaftb"
+        ],
+        "mrp": 54,
+        "x_available": true,
+        "available": true,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BEM26XW2CT",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "TWSHYZH7AS",
+          "VX1ZPLPHRP"
+        ]
+      },
+      {
+        "id": 25279,
+        "name": "Everest Tikhalal Red Chilli Powder",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24ebaa60-1c83-4987-acd2-a5ef0415ec54.jpg?ts=1708588722",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25279b.jpg?ts=1612770952",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25279c.jpg?ts=1612770952",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25279d.jpg?ts=1612770952",
+          "https://cdn.grofers.com/app/images/products/sliding_image/25279e.jpg?ts=1612770952"
+        ],
+        "mrp": 54,
+        "offer_price": 54,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/25279",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          25281,
+          25279
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11231",
+        "name": "Ramdev Chilli Powder ",
+        "brand": "Ramdev",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110000256xx23MAY22_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 78,
+        "unit_level_price": "(\u20b9 0.39 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/ramdev-chilli-powder?selectedProd=11231",
+        "id": "14113",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14113"
+        ]
+      },
+      {
+        "id": "7LBFE2ISPA",
+        "name": "Everest Kashmirilal Brilliant Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ialseegsvkxwnq0sxnf5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/oroa3vtwyjzumf2fljxg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/babuwnjpbbblgsiuyzm6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/kngiost8hcoicrtzl2yr",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/v8za2kwpqvmluw7jwdhk"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 95,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RC3K6K8EVA",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "91WZ35WQNQ",
+          "7LBFE2ISPA"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Everest Kashmiri Red Chilli Powder",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e329e79c-5bf7-43de-ad9d-6091825cc7eb.jpg?ts=1716541343",
+          "https://cdn.grofers.com/app/images/products/sliding_image/90b.jpg?ts=1611642820",
+          "https://cdn.grofers.com/app/images/products/sliding_image/90c.jpg?ts=1611642820",
+          "https://cdn.grofers.com/app/images/products/sliding_image/90d.jpg?ts=1611642820",
+          "https://cdn.grofers.com/app/images/products/sliding_image/90e.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 100,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/90",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 31,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 207776,
+        "name": "Tata Sampann Chilli Powder with Natural Oils",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cde60cb3-50e8-45ce-82c2-f1858533880a.jpg?ts=1735194617",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1dc5da36-1b0f-4112-ae31-ec96dcd9df34.jpg?ts=1738822821",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2a8f8062-abac-4316-b18e-4ac7f309cdb8.jpg?ts=1738822822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3ef20a9-1038-4f55-b9a6-ed6b2f4fccf2.jpg?ts=1738822822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8b92729d-5da6-497c-8dcc-34f24b5b79bf.jpg?ts=1738822822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b55d7dc-d07a-4aba-8b9d-72c4333c9a1f.jpg?ts=1738822822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2d7015de-c143-4bb7-91eb-97af872aa882.jpg?ts=1738822823",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/04ca6667-5122-44ee-8023-b58a39af1a8d.jpg?ts=1738822823",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2b0566c3-14ea-48a4-9c5a-af8142f07728.jpg?ts=1738822823",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0cbee14-c581-486b-8474-5df29f0afd6c.jpg?ts=1738822823",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cfa4f0c4-fe52-4437-b649-c0f8fc6cc5e5.jpg?ts=1738822823",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90cd69da-9208-4229-96f0-14e2a8d7c9f2.jpg?ts=1738822823"
+        ],
+        "mrp": 128,
+        "offer_price": 84,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/207776",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 11,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          207776,
+          324882
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30FTJHHK6S",
+        "name": "Supreme Harvest Coriander Powder",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/2d82a255-174d-4ab7-b5cf-89b3651dcecb_20727.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2340be6dd65b2a919b51fc0cd047ec35",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2f744916484c63e941a0f2acacdeed30"
+        ],
+        "mrp": 78,
+        "x_available": true,
+        "available": true,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XYKGHV5ZCC",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "30FTJHHK6S"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "689228",
+        "name": "Ambari Mirchi Powder ",
+        "brand": "Ambari",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IPMASALA0Amba57xx210521_5_P.jpg"
+        ],
+        "mrp": 87,
+        "offer_price": 67,
+        "unit_level_price": "(\u20b9 0.34 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/ambari-mirchi-powder-pmasala0amba57xx260320?selectedProd=689228",
+        "id": "690185",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "690185"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 324882,
+        "name": "Tata Sampann Chilli Powder with Natural Oils",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eb083b23-cca3-4e05-a352-608643cd44f0.jpg?ts=1730877679",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2eedfe2f-daf5-493a-aa8e-942c45541d20.jpg?ts=1738822840",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/29b98176-970a-4ede-a0fe-e0b9ad65a42f.jpg?ts=1738822840",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c9499c69-6b6d-48b7-ab12-1f068e7cca78.jpg?ts=1738822840",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48daa02f-7f67-4f51-9e7b-585fb7905c92.jpg?ts=1738822840",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ea96e432-72b4-4224-ba9a-7e4900f03a98.jpg?ts=1738822840",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9a55608f-e1b5-4fb4-bfb0-4cdeecbb418b.jpg?ts=1738822841",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d56ab36c-162f-4f80-bfe8-d6094eeedf96.jpg?ts=1738822841",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ee0748ca-e0c3-47ce-93a2-b8d52f7618a0.jpg?ts=1738822841",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5eb081b0-897a-43bb-99cb-9f13bc3350c1.jpg?ts=1738822842",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e36d1e89-5796-469f-9aef-a4170a31982c.jpg?ts=1738822842",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f375f3f6-2938-435b-9b55-44f267d7540b.jpg?ts=1738822842"
+        ],
+        "mrp": 315,
+        "offer_price": 197,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/324882",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          207776,
+          324882
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X63GIK6XW7",
+        "name": "Supreme Harvest Turmeric Powder Pouch",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/f958d5a6-83e7-444b-9826-ba2fc314699c_20715.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c14c39920cebf26e52bf14b17d8b178a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/24e035f1ff85e9e5392cae7d90d13bd0"
+        ],
+        "mrp": 46,
+        "x_available": true,
+        "available": true,
+        "offer_price": 28,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YGYCFKSVJW",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X63GIK6XW7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "22004",
+        "name": "DMart Premia Kashmiri Chilli Powder Deluxe ",
+        "brand": "DMart Premia",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000442xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 164,
+        "offer_price": 104,
+        "unit_level_price": "(\u20b9 0.52 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-kashmiri-chilli-powder-deluxe?selectedProd=22004",
+        "id": "15121",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15121"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525545,
+        "name": "Whole Farm Premium Red Chilli Powder",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525545a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/82241698-1e0e-4c56-b092-680242e879db.jpg?ts=1743764640",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525545c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525545d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 31,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525545",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525545
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VZKAFBRU9B",
+        "name": "Catch Coriander Powder/Dhania",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e5bce788edadbb862181b3909f7cef20",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fd78486e53b93fc0a5ec9cdd554b41e0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5bb9676cc361f136a483e5ca5528ba78",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d3d15ebeb4523bd2a467d90fe8a31e19",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d700d4f54ebee46b806922388a5802f7",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/72b7cb6be2d5890c34b428b3aca2b7ba"
+        ],
+        "mrp": 195,
+        "x_available": true,
+        "available": true,
+        "offer_price": 146,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SFUIAKNMQ0",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VZKAFBRU9B"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 45067,
+        "name": "Satyam Kashmiri Red Chilli Powder",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/07fee675-f172-40ce-9d64-26d94b98e4fe.jpg?ts=1708592365"
+        ],
+        "mrp": 71,
+        "offer_price": 67,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/45067",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          45067
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9U5Q4KEDME",
+        "name": "Catch Coriander Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zd5hcjw7pk9qfrhcujo0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/pnce5bxn96gncuptnz8s",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/mgjajfefagz53csd5n6l"
+        ],
+        "mrp": 40,
+        "x_available": true,
+        "available": true,
+        "offer_price": 30,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/JV0GDR0NK7",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9U5Q4KEDME"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18607",
+        "name": "DMart Premia Kashmiri Chilli Powder ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000461xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 705,
+        "offer_price": 486,
+        "unit_level_price": "(\u20b9 0.49 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/premia-kashmiri-chilli-powder?selectedProd=18607",
+        "id": "18606",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18606"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 35242,
+        "name": "Eastern Kashmiri Red Chilli Powder (100 g)",
+        "brand": "Eastern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0eb3a108-6abc-4c2f-a122-13de433a917c.jpg?ts=1708591252",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35242b.jpg?ts=1685436603",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35242c.jpg?ts=1685436603",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35242d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35242e.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 88,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/35242",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          35242
+        ]
+      },
+      {
+        "xid": "220501",
+        "name": "Everest Kashmirilal Red Chilli Powder ",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KPOWderMasalaEVRS161xx281220_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 98,
+        "unit_level_price": "(\u20b9 0.98 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/everest-kashmirilal-red-chilli-powder?selectedProd=220501",
+        "id": "220006",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "220006"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "91WZ35WQNQ",
+        "name": "Everest Kashmirilal Brilliant Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3bf8382d9fc8a4ba55d781a52f6d4fa8"
+        ],
+        "mrp": 200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 189,
+        "unit_level_price": "94.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RC3K6K8EVA",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "91WZ35WQNQ",
+          "7LBFE2ISPA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1682525",
+        "name": "DMart Premia Kashmiri ChillI Powder ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004786xx14JAN25_5_P.jpg"
+        ],
+        "mrp": 345,
+        "offer_price": 255,
+        "unit_level_price": "(\u20b9 0.51 / 1 g)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/dmart-premia-kashmiri-chilli-powder-pchillipowder6xx140125?selectedProd=1682525",
+        "id": "1686054",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1686054"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "772505",
+        "name": "Suhana Ambari Bedgi Mirchi Powder ",
+        "brand": "Suhana Ambari",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LMASALA200gmSuha24xx010621_5_P.jpg"
+        ],
+        "mrp": 132,
+        "offer_price": 112,
+        "unit_level_price": "(\u20b9 0.56 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/suhana-ambari-bedgi-mirchi-powder-pmasala0suha23xx220820?selectedProd=772505",
+        "id": "780508",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "780508"
+        ]
+      },
+      {
+        "id": 377681,
+        "name": "Suhana Byadgi Chilli Powder / Tikhat",
+        "brand": "Suhana",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3beb45d7-2fa9-4ad2-ba35-bd8227c311d8.jpg?ts=1740389767",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3b8283a-c545-460c-8d2d-91922ea119d6.jpg?ts=1740389767",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9fadd8e1-95b9-4489-97ce-99fc4fbc32f3.jpg?ts=1740389768"
+        ],
+        "mrp": 132,
+        "offer_price": 122,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/377681",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          377681
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1682524",
+        "name": "DMart Premia Kashmiri ChillI Powder ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004785xx14JAN25_5_P.jpg"
+        ],
+        "mrp": 148,
+        "offer_price": 106,
+        "unit_level_price": "(\u20b9 0.53 / 1 g)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/dmart-premia-kashmiri-chilli-powder-pchillipowder5xx140125?selectedProd=1682524",
+        "id": "1686052",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1686052"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 471766,
+        "name": "Tata Sampann Chilli Powder + Tata Sampann Turmeric Powder/Haldi + Tata Sampann Coriander Powder/Dhania Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1d64511b-9c5b-4e24-a3f4-3c2e97842819.jpg?ts=1716882911",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b6b464a6-9cf3-44c2-b7f1-824075122e30.jpg?ts=1716882912",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3b791675-48c5-4fa3-8d4a-949207b0144b.jpg?ts=1716882913",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/877cb900-2612-4bc6-9830-37b953e2e643.jpg?ts=1716882913",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6f2a6354-3b3a-42cb-ba12-a86f593bb419.jpg?ts=1716882914",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/204099a9-c4c8-456d-8583-b834b23281e5.jpg?ts=1716882915",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ec7a4dd0-4aa6-4054-b984-0c65dd8a0310.jpg?ts=1716882915",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/629580c0-dcee-4c60-9ca4-37f715dca538.jpg?ts=1716882915"
+        ],
+        "mrp": 314,
+        "offer_price": 247,
+        "unit_level_price": "",
+        "quantity": "200 g + 200 g + 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/471766",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          471766
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QF0JW27JDH",
+        "name": "24 Mantra Organic Chilly Powder",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/85390e85-0a5f-4d4c-8710-6afa6fac4c89_45991_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/1460dd7d-ef40-4362-a55e-f911d21e43b0_45991_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/168e7ae2-06e5-4e5b-a70a-2faa348e8d5a_45991_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/d91e3b4d-53b0-43e1-bf61-6a6d0ed48c13_45991_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/efeec8fa-b65a-45dc-b237-488a817fd510_45991_5.png"
+        ],
+        "mrp": 75,
+        "x_available": true,
+        "available": true,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DRC1FTF3RN",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QF0JW27JDH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "99512",
+        "name": "Everest Kutilal Chilli Powder ",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KPPowderMasalaEVRS3744XX301220_5_P.jpg"
+        ],
+        "mrp": 116,
+        "offer_price": 105,
+        "unit_level_price": "(\u20b9 0.53 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/everest-kuti-chilli-powder?selectedProd=99512",
+        "id": "14165",
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14165"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 32153,
+        "name": "Aashirvaad Chilli Powder /Lal Mirch Powder",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5dc274d5-6bb9-4380-b4b4-685a866f8fd1.jpg?ts=1722424226",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cf146c7a-8090-4c4b-bb8e-fb86fd1b7a7e.jpg?ts=1722424228",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d0076162-ea8b-402a-9a30-99d218e8ce5a.jpg?ts=1722424229",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0ae46894-eb3f-42e1-a6c0-9c8472341a3f.jpg?ts=1722424230",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bd19722a-5dfc-42b0-ad17-e5baf20061b1.jpg?ts=1722424231",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/19ceb9a4-05bc-434b-9769-29a1b64c2038.jpg?ts=1722424232",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9b318020-8e94-441b-b313-cf3817b23989.jpg?ts=1722424234",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/98cf829a-e4f0-41e5-9465-eebf7910fe83.jpg?ts=1722424235",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/197fc49a-f75a-4989-a13a-1a9786641fac.jpg?ts=1722424236"
+        ],
+        "mrp": 72,
+        "offer_price": 45,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32153",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32153
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BNRNG4MP1M",
+        "name": "Everest Turmeric Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f255713112a13ef39e580a96d22cacf9"
+        ],
+        "mrp": 184,
+        "x_available": true,
+        "available": true,
+        "offer_price": 172,
+        "unit_level_price": "43/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/E5SPNR36Y2",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BNRNG4MP1M",
+          "ZY0HSILRX6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713202",
+        "name": "Suhana Ambari Chilli Powder ",
+        "brand": "Suhana",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110002041xx16JAN23_5_P.jpg"
+        ],
+        "mrp": 216,
+        "offer_price": 161,
+        "unit_level_price": "(\u20b9 0.32 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/pravin-chilli-powder-pmasala0aash71xx90520?selectedProd=713202",
+        "id": "714544",
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714544"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 432246,
+        "name": "Aashirvaad Kashmiri Chilli Powder",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8f6ca3c7-b4d6-4d61-b2ec-e1b1707ca710.jpg?ts=1722424376",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b8fbf5a6-d540-42b0-bc6d-865a3b6be1a5.jpg?ts=1722424377",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a27ba557-f7fd-4408-96df-ff9fac173158.jpg?ts=1722424379",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fe462d47-2ead-40d7-a639-e0ecb0b3e79f.jpg?ts=1722424380",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/06269938-738e-45e1-bb04-eb50f7856e59.jpg?ts=1722424382",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/368d71f6-2d33-44e5-ab63-0a7301163a75.jpg?ts=1722424383",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bbb13417-a04a-46fc-8fe4-2d4b7f50f505.jpg?ts=1722424384",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8fee330c-3763-48dc-8955-b606671a7b1b.jpg?ts=1722424386",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d9542f19-c474-440f-8f78-b386480c89b5.jpg?ts=1722424387",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0e591c39-cf4d-43eb-ae06-32a2fdaa836c.jpg?ts=1722424388"
+        ],
+        "mrp": 140,
+        "offer_price": 91,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/432246",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          432246
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZY0HSILRX6",
+        "name": "Everest Turmeric Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/uurnngwcponanc1w2imz",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bpmoodnlwzg3almvgzj3",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/v3pibkgtga9opkt5mslw"
+        ],
+        "mrp": 92,
+        "x_available": true,
+        "available": true,
+        "offer_price": 86,
+        "unit_level_price": "43/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/E5SPNR36Y2",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BNRNG4MP1M",
+          "ZY0HSILRX6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 56070,
+        "name": "Eastern Red Chilli Powder",
+        "brand": "Eastern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070a.jpg?ts=1674113150",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070b.jpg?ts=1674113150",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56070f.jpg"
+        ],
+        "mrp": 125,
+        "offer_price": 115,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/56070",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          56070
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YTLMJUW129",
+        "name": "Catch Turmeric Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fc7c03046be8826d25faa72538cc7338"
+        ],
+        "mrp": 184,
+        "x_available": true,
+        "available": true,
+        "offer_price": 134,
+        "unit_level_price": "33.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0EUYHKXXEE",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YTLMJUW129",
+          "8A395LMA7X"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11199",
+        "name": "Everest Tikhalal Chilli Powder ",
+        "brand": "Everest",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IPowderMasala500gmEVRS3771xx281220_5_P.jpg"
+        ],
+        "mrp": 260,
+        "offer_price": 219,
+        "unit_level_price": "(\u20b9 0.44 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/everest-tikhalal-chilli-powder?selectedProd=11199",
+        "id": "14170",
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14170"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528789,
+        "name": "Whole Farm Premium Red Chilli Powder",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528789a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c334141d-e65a-47f3-a34d-70a60f34baf8.jpg?ts=1743764692",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528789c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528789d.jpg"
+        ],
+        "mrp": 140,
+        "offer_price": 73,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528789",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528789
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "8A395LMA7X",
+        "name": "Catch Turmeric Powder",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rytz4ecjtqr1ihfjtihq",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hh5hsgbqagy7z4mc9kqv",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tg2ut3j9p262tm7i507g"
+        ],
+        "mrp": 92,
+        "x_available": true,
+        "available": true,
+        "offer_price": 69,
+        "unit_level_price": "34.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0EUYHKXXEE",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YTLMJUW129",
+          "8A395LMA7X"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 491370,
+        "name": "Emami Healthy & Tasty Mantra Mirch/ Chilli Powder",
+        "brand": "Emami Healthy & Tasty",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370a.jpg?ts=1687335688",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370e.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370f.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/491370g.jpg"
+        ],
+        "mrp": 136,
+        "offer_price": 74,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/491370",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          491370
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GOY3L0TCY8",
+        "name": "Everest Tikhalal Hot Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e49616cd8aab02392c5ad388603e99d3"
+        ],
+        "mrp": 216,
+        "x_available": true,
+        "available": true,
+        "offer_price": 206,
+        "unit_level_price": "51.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/C55PBG5Z2Z",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GOY3L0TCY8",
+          "P0HNO11ZRZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1012001",
+        "name": "Suhana Ambari Dandi Rahit Mirchi Powder ",
+        "brand": "Suhana",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110003374xx3NOV23_5_P.jpg"
+        ],
+        "mrp": 162,
+        "offer_price": 124,
+        "unit_level_price": "(\u20b9 0.62 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/suhana-ambari-mirchi-powder-pmasala0suha11xx31123?selectedProd=1012001",
+        "id": "1418570",
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1418570"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 21862,
+        "name": "24 Mantra Organic Red Chilli Powder",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1e6a633a-c186-433d-bc95-341de3834ffe.jpg?ts=1742469820",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/02ab34de-8088-4b93-a516-0ae0dde63fe5.jpg?ts=1742469821",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7ec6b25e-2dd6-43b7-9763-0b07ba26a644.jpg?ts=1742469821",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ecb65147-2ea7-4c86-8c65-915c145bde04.jpg?ts=1742469821",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21862e.jpg"
+        ],
+        "mrp": 195,
+        "offer_price": 158,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/21862",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21862,
+          485505
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P0HNO11ZRZ",
+        "name": "Everest Tikhalal Hot Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/lihuzhtqd9erxsinulsq",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ojbofplhbthubujwkvur",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tqjxmiwlfwvyhyoadrrm"
+        ],
+        "mrp": 108,
+        "x_available": true,
+        "available": true,
+        "offer_price": 104,
+        "unit_level_price": "52/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/C55PBG5Z2Z",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GOY3L0TCY8",
+          "P0HNO11ZRZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "24512",
+        "name": "Snapin Kashmiri Chilli Paprika ",
+        "brand": "Snapin",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JPowderedMasalaSPN40gm232xx070820_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 68,
+        "unit_level_price": "(\u20b9 1.70 / 1 gm)",
+        "quantity": "40 g",
+        "deeplink": "https://www.dmart.in/product/snapin-chilly-paprika-spice?selectedProd=24512",
+        "id": "24511",
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "24511"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 485505,
+        "name": "24 Mantra Organic Red Chilli Powder - Pack of 2",
+        "brand": "24 Mantra Organic",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f41a4f45-6fd4-47fa-af05-dab74528fcdd.jpg?ts=1742470107",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1667ba1a-0920-4b67-9e26-aa38087d5f54.jpg?ts=1742470107",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cf9007b3-968d-495e-9dd3-b55272996061.jpg?ts=1742470108",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/220a2c26-85e4-4921-a691-17ec32190b62.jpg?ts=1742470108",
+          "https://cdn.grofers.com/app/images/products/sliding_image/485505d.jpg?ts=1710347397"
+        ],
+        "mrp": 390,
+        "offer_price": 310,
+        "unit_level_price": "",
+        "quantity": "2 x 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/485505",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 16,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21862,
+          485505
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XFMW27AVAW",
+        "name": "Everest Tikhalal Hot & Red Chilli Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9f479970383dc19526f1ee18b4f9a1a1",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d876c3e3373508e7bfc3e3af9ea88289",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1586b11994fe1a11c1260dffc891e757"
+        ],
+        "mrp": 280,
+        "x_available": true,
+        "available": true,
+        "offer_price": 258,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ERL804KTM7",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XFMW27AVAW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "24510",
+        "name": "Snapin Chilli Flakes Spice ",
+        "brand": "Snapin",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JPowderedMasalaSPN38gm230xx070820_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 68,
+        "unit_level_price": "(\u20b9 1.94 / 1 gm)",
+        "quantity": "35 g",
+        "deeplink": "https://www.dmart.in/product/snapin-chilly-flakes-spice?selectedProd=24510",
+        "id": "24509",
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "24509"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 35243,
+        "name": "Eastern Kashmiri Red Chilli Powder",
+        "brand": "Eastern",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/57500e79-86c0-465b-a70a-2e8a7f23cc3f.jpg?ts=1708591252",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35243b.jpg?ts=1685436603",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35243c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35243d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/35243e.jpg"
+        ],
+        "mrp": 270,
+        "offer_price": 232,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/35243",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          35243
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YV0QOAVZXA",
+        "name": "Everest Green Coriander Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/z9ncfzzkxk9hyr8rypjh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qsyj7q2vdvg9kroykhif",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/xibw7aldyap0mfsofxic"
+        ],
+        "mrp": 40,
+        "x_available": true,
+        "available": true,
+        "offer_price": 38,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/W8SU92VJCD",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YV0QOAVZXA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "837007",
+        "name": "Inchi Red Chilli Sauce ",
+        "brand": "Inchi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV120004772xx22NOV21_5_P.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 35,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "190 g",
+        "deeplink": "https://www.dmart.in/product/inchi-red-chilli-sauce-psauces0inch3xx221121?selectedProd=837007",
+        "id": "953013",
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "953013"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "31FBWZCC0C",
+        "name": "Everest Coriander Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c94f28ed89054c6c671477d9ff01e914"
+        ],
+        "mrp": 160,
+        "x_available": true,
+        "available": true,
+        "offer_price": 149,
+        "unit_level_price": "37.3/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZGPYQCOV2Z",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "31FBWZCC0C",
+          "BS9G172USC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1281837",
+        "name": "Surabhi Red Chilli Sauce ",
+        "brand": "Surbhi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY120006306xx18MAY23_5_P.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 30,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "190 g",
+        "deeplink": "https://www.dmart.in/product/surabhi-red-chili-sauce-psauces0surb29xx250523?selectedProd=1281837",
+        "id": "1325095",
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1325095"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BS9G172USC",
+        "name": "Everest Coriander Powder",
+        "brand": "Everest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/iml3sdnmpcx5vd7uckan",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/oi1sgdhufwkfth7h39bb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/w7zweky0qaw80jkmoe7h"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "37.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZGPYQCOV2Z",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "31FBWZCC0C",
+          "BS9G172USC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1366508",
+        "name": "Knorr Red Chilli Sauce ",
+        "brand": "Knorr",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120006604xx1AUG23_5_P.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/knorr-red-chilli-sauce-psauces0knor5xx20823?selectedProd=1366508",
+        "id": "1369009",
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1369009"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3Y8HGPKM52",
+        "name": "Ram bandhu Chilli Powder",
+        "brand": "Ram bandhu",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/014ab93cc61604e28f4def002c1d8a3e",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7d4216e23bb225cf1d744931c9bd9118",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0730d295383a8e9fe35738e6931c5f98"
+        ],
+        "mrp": 105,
+        "x_available": true,
+        "available": true,
+        "offer_price": 79,
+        "unit_level_price": "39.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VINMABARO8",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3Y8HGPKM52",
+          "OCPGP36HXV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11739",
+        "name": "Ching's Red Chilli Sauce ",
+        "brand": "Ching's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120000386xx16JUN22_5_P.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 49,
+        "unit_level_price": "(\u20b9 0.24 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/chings-red-chilli-sauce?selectedProd=11739",
+        "id": "13610",
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13610"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "OCPGP36HXV",
+        "name": "Ram bandhu Chilli Powder",
+        "brand": "Ram bandhu",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b55bc13d09eba6c05c008e1347a67302"
+        ],
+        "mrp": 210,
+        "x_available": true,
+        "available": false,
+        "offer_price": 155,
+        "unit_level_price": "38.8/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VINMABARO8",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 15,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3Y8HGPKM52",
+          "OCPGP36HXV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713245",
+        "name": "Keya Wonder Hot Red Chilli Flakes",
+        "brand": "Keya",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110002084xx03JUN22_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 72,
+        "unit_level_price": "(\u20b9 1.80 / 1 gm)",
+        "quantity": "40 g",
+        "deeplink": "https://www.dmart.in/product/keya-wonder-hot-red-chilli-flakes:-40-gms-pherbs0keya93xx90520?selectedProd=713245",
+        "id": "714506",
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714506"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JSSZB14MMC",
+        "name": "Ram bandhu Chilli Powder Pouch",
+        "brand": "Ram bandhu",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/24/7290df4e-6c84-4737-be58-7767b93b6ead_masalaandspice_JSSZB14MMC_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/2c594729-5d0e-48ab-883c-be513a51cff0_masalaandspice_JSSZB14MMC_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/24/1f65b01e-9bc1-4255-9091-7865cbd5badf_masalaandspice_JSSZB14MMC_AL2.png"
+        ],
+        "mrp": 238,
+        "x_available": true,
+        "available": true,
+        "offer_price": 159,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RHHTSYG8QA",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "JSSZB14MMC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1118018",
+        "name": "DMart Premia Red Chilli Flakes ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/OCT110003506xx26OCT22_5_P.jpg"
+        ],
+        "mrp": 43,
+        "offer_price": 30,
+        "unit_level_price": "(\u20b9 0.60 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-red-chilli-flakes-pseasoning0prem3xx1122?selectedProd=1118018",
+        "id": "1192004",
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1192004"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "V0JODPUTQU",
+        "name": "Tata Sampann Turmeric Powder Masala",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/791defc40cf4631286c7751657fc30f9"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 95,
+        "unit_level_price": "47.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9GK9933ING",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "V0JODPUTQU",
+          "JUCDH2LH8H"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1362507",
+        "name": "Makino Corn Chilli Chatka Munch ",
+        "brand": "Makino",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120006592xx3AUG23_5_P.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/makino-corn-chilli-chatka-munch-pnamkeens0maki9xx40823?selectedProd=1362507",
+        "id": "1370562",
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1370562"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JUCDH2LH8H",
+        "name": "Tata Sampann Turmeric Powder Masala",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/9c506d1a-d8f6-41a7-98a0-5114156a6490_2617_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/b9569c65-5fed-4419-bfec-80ab9324ea9d_2617_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/4ca6bde4-e55e-436a-8eef-bb053757cf1a_2617_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/e901d0b6-8186-4824-a6c1-bb511ed143c0_2618_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/e804dce7-5801-4ffc-92f5-afd6cfb899b2_2617_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/31/f4240a86-3ab0-446e-bce9-96a622e32146_2617_6.png"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9GK9933ING",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "V0JODPUTQU",
+          "JUCDH2LH8H"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "772513",
+        "name": "Katdare Lasun Chutney ",
+        "brand": "Katdare",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120003926xx28JAN25_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.40 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/katdare-lasun-chutney-ppickles0budh61xx220820?selectedProd=772513",
+        "id": "780520",
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "780520"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "772514",
+        "name": "Katdare Groundnut Chutney ",
+        "brand": "Katdare",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120003927xx28JAN25_5_P.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.40 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/katdare-groundnut-chutney-ppickles0nutr91xx220820?selectedProd=772514",
+        "id": "780524",
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "780524"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12026",
+        "name": "Brooke Bond Red Label Natural Care Tea ",
+        "brand": "Brooke Bond Red Label",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB130000179xx29FEB24_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 155,
+        "unit_level_price": "(\u20b9 0.62 / 1 gm)",
+        "quantity": "250 g",
+        "deeplink": "https://www.dmart.in/product/brooke-bond-red-label-natural-care-tea?selectedProd=12026",
+        "id": "14368",
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14368"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "379001",
+        "name": "Nasle Shenga (Groundnut) Chutney ",
+        "brand": "Nasle",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KPICKLES200gmNSLE24xx26042021_5_P.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 49,
+        "unit_level_price": "(\u20b9 0.24 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/nasle-shenga-(groundnut)-chutney-ppicklesnsle23xx211018?selectedProd=379001",
+        "id": "367603",
+        "parentIndex": 33,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "367603"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "835009",
+        "name": "Mothers Recipe Desi Schezwan Chutney ",
+        "brand": "Mother's Recipe",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL120004763xx11JUL23_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "250 g",
+        "deeplink": "https://www.dmart.in/product/mothers-recipe-desi-shzwn-chutney--psauces0moth19xx100221?selectedProd=835009",
+        "id": "836540",
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "836540"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "911013",
+        "name": "Inchi Schezwan Chutney ",
+        "brand": "Inchi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/OCT120005137xx25OCT21_5_P.jpg"
+        ],
+        "mrp": 290,
+        "offer_price": 145,
+        "unit_level_price": "(\u20b9 0.14 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/inchi-schezwan-chutney-jar-psauces0inch1xx251021?selectedProd=911013",
+        "id": "935002",
+        "parentIndex": 36,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "935002"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1381019",
+        "name": "Ching's Schezwan Chutney ",
+        "brand": "Ching's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120006651xx28AUG23_5_P.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 29,
+        "unit_level_price": "(\u20b9 0.20 / 1 gm)",
+        "quantity": "145 g",
+        "deeplink": "https://www.dmart.in/product/chings-schezwan-chutney-psauces0chin1xx290823?selectedProd=1381019",
+        "id": "1381018",
+        "parentIndex": 37,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1381018"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "410504",
+        "name": "Ching's Schezwan Chutney ",
+        "brand": "Ching's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120001409xx11DEC24_5_P.jpg"
+        ],
+        "mrp": 180,
+        "offer_price": 149,
+        "unit_level_price": "(\u20b9 0.25 / 1 gm)",
+        "quantity": "590 g",
+        "deeplink": "https://www.dmart.in/product/chings-schezwan-chutney?selectedProd=410504",
+        "id": "13627",
+        "parentIndex": 39,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13627"
+        ]
+      }
+    ]
+  }
+]

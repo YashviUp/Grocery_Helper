@@ -1,0 +1,3804 @@
+[
+  {
+    "data": [
+      {
+        "id": "40241160",
+        "name": "Til/SesamOil - Cold Pressed, Kacchi Ghani, Pure, No Preservatives, For Healthy Heart",
+        "brand": "Sneh-Sattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40241160_1-snehsattva-tilsesamoil-cold-pressed-kacchi-ghani-pure-no-preservatives-for-healthy-heart.jpg"
+        ],
+        "mrp": "630",
+        "offer_price": "630",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40241160",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40241160"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "731010",
+        "name": "Kings Rice Bran Physically Refined Rice Bran Oil ",
+        "brand": "Kings",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110002356xx10APR25_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 135,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "840 g",
+        "deeplink": "https://www.dmart.in/product/kings-rice-bran-physically-refined-rice-bran-oil-poil0king31xx20620?selectedProd=731010",
+        "id": "732664",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "732664"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 109135,
+        "name": "Emami Healthy & Tasty Physically Refined Rice Bran Oil",
+        "brand": "Emami Healthy & Tasty",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/109135a.jpg?ts=1729775000",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fc33ba75-d488-4d43-bc17-3fc66a4e015a.jpg?ts=1734430680",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109135d.jpg?ts=1729775000",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109135e.jpg?ts=1729775000",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109135f.jpg?ts=1729775000",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109135g.jpg?ts=1729775000"
+        ],
+        "mrp": 165,
+        "offer_price": 145,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/109135",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          109135
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d800c352-1aa6-40f4-baef-78878055beeb",
+        "name": "Gemini Refined Rice Bran Oil | Pouch",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f9bf0ed1-feeb-441a-a199-e24ef4b3599d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1gWToG52MQvEDVYuwOrry7y86gh-RFE4Z.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1abdU_TW6JfoC0Ue9abRp4pLc1QXHQIge.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1nWY_99vPpeW8ddNR4s2IOsZ28NzvDzxc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1B6F5rzg7morEDk7VyRJcLR4dn-Jh7ZT4.jpeg"
+        ],
+        "mrp": 195.0,
+        "offer_price": 165.0,
+        "unit_level_price": 165.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8acc39d1-3331-481b-af24-41d70ff63984",
+        "id": "8acc39d1-3331-481b-af24-41d70ff63984",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8acc39d1-3331-481b-af24-41d70ff63984"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "HTCRHGSCZI",
+        "name": "Dhara Refined Rice Bran Oil",
+        "brand": "Dhara",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qcametdrbg9ksbovsere",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/nuacwshjoutufcevglw5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/y1y7mltjyj6vk9hqrbsp"
+        ],
+        "mrp": 950,
+        "x_available": true,
+        "available": true,
+        "offer_price": 950,
+        "unit_level_price": "190/L",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BUZFPQTUHR",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "HTCRHGSCZI",
+          "ST801C4QR0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "841501",
+        "name": "DMart Premia Refined Rice Bran Oil (1 L) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110003087xx21JUL23_5_P.jpg"
+        ],
+        "mrp": 155,
+        "offer_price": 132,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/premia-refined-rice-bran-oil-poil0011xx240321?selectedProd=841501",
+        "id": "847546",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "847546"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 109136,
+        "name": "Emami Healthy & Tasty Refined Sunflower Oil",
+        "brand": "Emami Healthy & Tasty",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d7cecb3-b8ec-4a37-9234-b0a79cf3918c.jpg?ts=1734430682",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/213ef5ca-058f-4680-b1a1-6695b3c88d21.jpg?ts=1734430682",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109136c.jpg?ts=1695285804",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109136d.jpg?ts=1695285805",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109136e.jpg?ts=1695285805",
+          "https://cdn.grofers.com/app/images/products/sliding_image/109136f.jpg?ts=1695285805"
+        ],
+        "mrp": 180,
+        "offer_price": 156,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/109136",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          109136
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e4cd20d9-0be9-457b-ba66-c541493b1be0",
+        "name": "Daily Good Refined Rice bran Oil",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/05763fa5-b679-471a-ade9-0d6e0c2d2bbe.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9a894b5-8e2c-49f9-880c-c00292af40b6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/89331c22-07bb-4d15-a093-85d9f04cf9c6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a3c31eb0-07e4-45d4-bf0f-609aca64a119.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ee3fb7c-3823-4e9c-b05f-9c69e16a4c22.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7b0f08b7-0ded-452f-8579-0378d8cf89cf.jpeg"
+        ],
+        "mrp": 199.0,
+        "offer_price": 154.0,
+        "unit_level_price": 154.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0281821d-12cd-4c1e-bf8a-e8f31a81eb5a",
+        "id": "0281821d-12cd-4c1e-bf8a-e8f31a81eb5a",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0281821d-12cd-4c1e-bf8a-e8f31a81eb5a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40293247",
+        "name": "Heart Care Oil - Infused With Arjuna, For Healthy Heart",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40293247_1-dabur-heart-care-oil-infused-with-arjuna-for-healthy-heart.jpg"
+        ],
+        "mrp": "350",
+        "offer_price": "280",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40293247",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40293247"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "99504",
+        "name": "Dhara Life Refined Rice Bran Oil (1 L) ",
+        "brand": "Dhara",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KPRiceBOilDHRAXX040621_5_P.jpg"
+        ],
+        "mrp": 195,
+        "offer_price": 153,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/dhara-refined-rice-bran-oil-pcookingoildhar16xx131218?selectedProd=99504",
+        "id": "408540",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "408540"
+        ]
+      },
+      {
+        "id": 18581,
+        "name": "Dhara Life Refined Rice Bran Oil",
+        "brand": "Dhara",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/18581a.jpg?ts=1688464172",
+          "http://cdn.grofers.com/app/images/products/sliding_image/18581b.jpg?ts=1652848752",
+          "http://cdn.grofers.com/app/images/products/sliding_image/18581c.jpg?ts=1652848752",
+          "http://cdn.grofers.com/app/images/products/sliding_image/18581d.jpg?ts=1652848752",
+          "http://cdn.grofers.com/app/images/products/sliding_image/18581e.jpg"
+        ],
+        "mrp": 195,
+        "offer_price": 162,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/18581",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          18581
+        ]
+      },
+      {
+        "xid": "9590eb75-eaf1-4b8d-904f-68ade9a68025",
+        "name": "Dhara Life Refined Ricebran Oil | Pouch",
+        "brand": "Dhara",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b465c2df-efa0-46ec-928c-8e3023133898.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/a20761d5-7573-44a7-af7d-5dc2569bf178-1r5NV5fA3Kilejdl4r6vRjzr75h-JvE9d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/a20761d5-7573-44a7-af7d-5dc2569bf178-1SB8w0iNeTNnTjm9ZL-keMPfgsuIm5_S8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/a20761d5-7573-44a7-af7d-5dc2569bf178-1FEtb7FNA7r6Fktt4I11FVgogpcQEWgWH.jpeg"
+        ],
+        "mrp": 195.0,
+        "offer_price": 166.0,
+        "unit_level_price": 166.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a20761d5-7573-44a7-af7d-5dc2569bf178",
+        "id": "a20761d5-7573-44a7-af7d-5dc2569bf178",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a20761d5-7573-44a7-af7d-5dc2569bf178"
+        ]
+      },
+      {
+        "id": "ST801C4QR0",
+        "name": "Dhara Refined Rice Bran Oil",
+        "brand": "Dhara",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/i5grdluuzpv8enjkufgf",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/t3by9biyxjzerqjbynzd",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/nar3h7ygzzgaxabiip3o"
+        ],
+        "mrp": 195,
+        "x_available": true,
+        "available": false,
+        "offer_price": 164,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BUZFPQTUHR",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "HTCRHGSCZI",
+          "ST801C4QR0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "24ba23ab-f944-4282-8753-8f5ed2be8785",
+        "name": "Dhara Ricebran Refined Oil | Jar",
+        "brand": "Dhara",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/028f2168-5fd3-4bf5-bd6f-609802b2421d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/38294bbe-fbec-4cdc-a790-38784ff1052c-1lJyDFakRKfrr8X7KALdbXIbkIShMDspf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/38294bbe-fbec-4cdc-a790-38784ff1052c-1SB8w0iNeTNnTjm9ZL-keMPfgsuIm5_S8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/38294bbe-fbec-4cdc-a790-38784ff1052c-1FEtb7FNA7r6Fktt4I11FVgogpcQEWgWH.jpeg"
+        ],
+        "mrp": 1000.0,
+        "offer_price": 850.0,
+        "unit_level_price": 850.0,
+        "quantity": "5 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/38294bbe-fbec-4cdc-a790-38784ff1052c",
+        "id": "38294bbe-fbec-4cdc-a790-38784ff1052c",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "38294bbe-fbec-4cdc-a790-38784ff1052c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YMV0PLE1BF",
+        "name": "Saffola Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/35390364-1cb9-4270-a056-878b2466deed_cookingandedibleoils_YMV0PLE1BF_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/c045e8b4-4889-4961-97cd-c111c9dcd79c_cookingandedibleoils_6RW9ZWNLZ7_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/cb2111e9-d198-4371-95d4-01fbb5b2041d_cookingandedibleoils_6RW9ZWNLZ7_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/bb982294-21e5-4d29-b824-7863ee34e56a_cookingandedibleoils_6RW9ZWNLZ7_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/07f4c37d-c4cb-4cd4-a458-3b0d1077c9f3_cookingandedibleoils_6RW9ZWNLZ7_AL5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/bed3fed9-1d11-4c6d-8c86-c590c3ef7fa7_cookingandedibleoils_6RW9ZWNLZ7_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/ac8182ac-de6b-48c2-9355-ba1a3d34ccf2_cookingandedibleoils_YMV0PLE1BF_AL6.png"
+        ],
+        "mrp": 449,
+        "x_available": true,
+        "available": true,
+        "offer_price": 399,
+        "unit_level_price": "",
+        "quantity": "2 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZHERN73WWY",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YMV0PLE1BF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 112116,
+        "name": "Emami Healthy & Tasty Refined Soyabean Oil (Ultra Lite)",
+        "brand": "Emami Healthy & Tasty",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2703c010-6b5d-400d-832f-69b5792697c1.jpg?ts=1745822814",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/95163f1f-3268-4986-8ed7-4def990edce2.jpg?ts=1745822814",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ebca085-34ed-4b6d-b407-11620e050055.jpg?ts=1745822814",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7682db4b-4c48-42a9-a3da-0f13d7a9a78c.jpg?ts=1727940299",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3a740ff4-7921-4b45-bbd7-30bb77972223.jpg?ts=1727940301",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6198014c-b1ce-43da-bfa2-98ec9c2e2f3a.jpg?ts=1727940302",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e52195be-6d5c-489f-bb0e-ac04f2066bfe.jpg"
+        ],
+        "mrp": 165,
+        "offer_price": 136,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/112116",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          112116
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VJXP2OYWTN",
+        "name": "Saffola Total Refined Cooking Oil Blend Of Rice Bran & Safflower Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/66583e26a4c5a3765a258354891a44c1",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ed21fc2134cf4e16018ad2aa8ee4ac40",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f27fb1c98e032cc0b0dc3bbb67c97029",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/99a8314397b74f4c2b361f14e80551b5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8ba26284a655030f1250d1487d002b4c",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/74d5ffcdb40bedbdcb1a38a1159ad73b"
+        ],
+        "mrp": 1285,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1100,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SD750XTQC5",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VJXP2OYWTN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "660503",
+        "name": "Gemini Refined Rice Bran Oil Jar (5 L) ",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110001375xx16MAY23_5_P.jpg"
+        ],
+        "mrp": 1000,
+        "offer_price": 785,
+        "unit_level_price": "(\u20b9 172.53 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/gemini-rice-bran-oil-poil0gemi59xx170120?selectedProd=660503",
+        "id": "658661",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "658661"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X9QJ3PUU8H",
+        "name": "Fortune Rice Bran Health Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ezyho5znwijx0squmigm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/krvdalhebbr8vfvrwvvt",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ewwi1qsuopsygn1lgpsi"
+        ],
+        "mrp": 1025,
+        "x_available": true,
+        "available": true,
+        "offer_price": 785,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/V6FASAB6OJ",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X9QJ3PUU8H"
+        ]
+      },
+      {
+        "id": 14627,
+        "name": "Fortune Rice Bran Oil",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0e5884b9-e9d2-4f47-953d-be29df9e25da.jpg?ts=1741857355",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/787c32ba-da4a-429a-a731-6ff124e293c0.jpg?ts=1741857355",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/da7bfb3d-9807-4777-b8f4-3aedc501c939.jpg?ts=1741857355",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64d22ddb-c853-475d-ae71-67a65af11ca3.jpg?ts=1741857355",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/61831aab-0851-4af9-bab9-7104bbdc551f.jpg?ts=1741857355"
+        ],
+        "mrp": 1025,
+        "offer_price": 819,
+        "unit_level_price": "",
+        "quantity": "5 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/14627",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          14627
+        ]
+      },
+      {
+        "xid": "17c91d0f-df28-4918-93cc-dd1e452ca8d7",
+        "name": "Fortune Rice Bran Health Oil | Jar",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4d5b4fd7-6cbc-4bf3-8510-9d83df13febd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/79a3e32c-df70-4c5c-999f-049ce3de12a8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/809c4448-e353-4977-915d-87157642b253.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99d04a87-12c1-48d1-8880-1ae2bdcb7838.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5bb88d10-20bc-44d8-9e59-5fd369d221ab.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/106463c4-8955-4529-9efb-cb0d083a89cc.jpeg"
+        ],
+        "mrp": 1025.0,
+        "offer_price": 830.0,
+        "unit_level_price": 830.0,
+        "quantity": "5 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1077a55a-8193-4845-bab0-6a5bbea0fae6",
+        "id": "1077a55a-8193-4845-bab0-6a5bbea0fae6",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1077a55a-8193-4845-bab0-6a5bbea0fae6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZKOFD5R32I",
+        "name": "Fortune Xpert Total Balance Oil Blend Of Rice Bran Soyabean & Flaxseed Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/6f33ed76039cd6de7bea30cf4d304653"
+        ],
+        "mrp": 600,
+        "x_available": true,
+        "available": true,
+        "offer_price": 486,
+        "unit_level_price": "162/L",
+        "quantity": "1 L x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1YN70M7Q6H",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZKOFD5R32I",
+          "2KFOWFCZWL",
+          "KP4NXZ41UB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 14624,
+        "name": "Fortune Rice Bran Oil",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ef1120c6-8ca4-46ef-9dda-9d5962cfa0e6.jpg?ts=1741347933",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bd05d15f-b8a6-4039-9cfd-65a89476d6da.jpg?ts=1741347933",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/676faf4d-5062-4919-8117-88ca53bfa4d6.jpg?ts=1744286028",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2879e1aa-e7a9-4bec-a730-0986ea8f68ad.jpg?ts=1741347933",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cefa5aa3-feea-4c6c-b0dd-3c061d0cbad5.jpg?ts=1741347933",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b6082f8-0c6e-409d-8fb6-8b44a2482352.jpg?ts=1741347933"
+        ],
+        "mrp": 209,
+        "offer_price": 162,
+        "unit_level_price": "",
+        "quantity": "870 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/14624",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 19,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          14624
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e2fadf9c-ab97-4068-bb85-feb9122c6d8b",
+        "name": "Fortune Rice Bran Health Oil - Pouch",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d9b1c4f5-6bda-4430-9499-7f6bb70094ce.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/896ec515-de67-4b87-8102-66ba7256fd7b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/55e1daae-83f1-4258-9c43-8fe56c8a1f2c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bf539a7d-5b50-4a7b-8ce6-462cf9591f07.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e5a6ff20-91bc-4494-8c95-7b5d268d5374.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d7e1743c-61ff-4fe4-b2a8-d2de6ca0e2bc.jpeg"
+        ],
+        "mrp": 199.0,
+        "offer_price": 165.0,
+        "unit_level_price": 165.0,
+        "quantity": "870 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ad326d96-9833-47b0-8728-71d8d07a1282",
+        "id": "ad326d96-9833-47b0-8728-71d8d07a1282",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 25,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ad326d96-9833-47b0-8728-71d8d07a1282"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2KFOWFCZWL",
+        "name": "Fortune Xpert Total Balance Oil Blend Of Rice Bran Soyabean & Flaxseed Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/51f0a11e-00fd-4dc2-ade7-647ec717e515_331369.png"
+        ],
+        "mrp": 400,
+        "x_available": true,
+        "available": true,
+        "offer_price": 324,
+        "unit_level_price": "162/L",
+        "quantity": "1 L x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1YN70M7Q6H",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZKOFD5R32I",
+          "2KFOWFCZWL",
+          "KP4NXZ41UB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1267501",
+        "name": "Riso 100% Rice Bran Oil Pouch (1 L) ",
+        "brand": "Riso",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110003709xx27FEB23_5_P.jpg"
+        ],
+        "mrp": 190,
+        "offer_price": 145,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/riso-100-rice-bran-oil-pouch-poil0riso9xx270223?selectedProd=1267501",
+        "id": "1270506",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1270506"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 597151,
+        "name": "Dalda Physically Refined Rice Bran Oil",
+        "brand": "Dalda",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3db57597-9179-4786-8ae1-7b9717ee0080.jpg?ts=1734950291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48c7e393-f7b0-49a5-a5a2-6a09ef47db27.jpg?ts=1734950291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ffebb4b-b26a-4f7c-81b1-0201f6b77046.jpg?ts=1734950291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1ed4bdc-fb29-40f3-92e1-0619bdbd9389.jpg?ts=1734950291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae2e21d1-afd5-4a68-9591-6330b801c9ca.jpg?ts=1734950292"
+        ],
+        "mrp": 200,
+        "offer_price": 147,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/597151",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          597151
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "222911ff-e0cd-44cf-99a5-a869c4d04221",
+        "name": "Fortune Plus Soya Health Refined Soyabean oil | Pouch",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a1dbab75-9a56-431e-8155-5ca8f5866d6e.png",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fd769035-c5ed-4fd2-a4c6-7bc670c7ac28.png",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f723f7bc-d403-4fc5-a8e0-0d6383347dac.jpeg"
+        ],
+        "mrp": 185.0,
+        "offer_price": 151.0,
+        "unit_level_price": 151.0,
+        "quantity": "870 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9a6b448c-6f0b-49fa-8cb1-766f5560b9a0",
+        "id": "9a6b448c-6f0b-49fa-8cb1-766f5560b9a0",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 22,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9a6b448c-6f0b-49fa-8cb1-766f5560b9a0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KP4NXZ41UB",
+        "name": "Fortune Xpert Total Balance Oil Blend Of Rice Bran Soyabean & Flaxseed Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dvqbmzqlqchty9dw3fss",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/vjmxrj1dz5ll1obmyr3n",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rs4hjioobkh0zrhddx4c"
+        ],
+        "mrp": 200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 171,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1YN70M7Q6H",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZKOFD5R32I",
+          "2KFOWFCZWL",
+          "KP4NXZ41UB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1267503",
+        "name": "Svity Kolam Rice Bran Oil Pouch (1 L) ",
+        "brand": "Svity Kolam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110003711xx27FEB23_5_P.jpg"
+        ],
+        "mrp": 165,
+        "offer_price": 135,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/svity-kolam-rice-bran-oil-pouch-poil0svit13xx270223?selectedProd=1267503",
+        "id": "1270508",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1270508"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "DMFJP9V963",
+        "name": "Saffola Active Refined Cooking Oil Blend Of Rice Bran & Soyabean Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/5b02ce30-62d7-450a-884e-c4670e548b87_cookingandedibleoils_DMFJP9V963_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/456a270b-17e4-4c92-acaa-73be9b61faae_cookingandedibleoils_DMFJP9V963_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/37730eee-e9ce-49cf-a6b5-8bddb29edea1_cookingandedibleoils_DMFJP9V963_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/8962d552-e80e-4aa8-8fe3-d05329ac30df_cookingandedibleoils_DMFJP9V963_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/204b8410-020d-491a-ac39-3bbdc80155d4_cookingandedibleoils_DMFJP9V963_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/22/dc97b6ec-1570-4e4a-81d5-552b0839255d_cookingandedibleoils_DMFJP9V963_AL5.png"
+        ],
+        "mrp": 197,
+        "x_available": true,
+        "available": true,
+        "offer_price": 163,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NGLP1SZ5CW",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "DMFJP9V963"
+        ]
+      },
+      {
+        "id": 108920,
+        "name": "Saffola Active Pro Weight Watchers Blended Cooking Oil",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b17c14ea-5daa-4354-807d-8516730ce6df.jpg?ts=1732017259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4d7aea51-b7dd-4d0e-babf-c0c215871e90.jpg?ts=1732017259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0616bf03-6781-4de9-ad0f-53e0c416ce89.jpg?ts=1732017260",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c3a3e1cc-7f0e-4945-89e8-20c45e59c6ba.jpg?ts=1732017260",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5f1858e5-12cb-4a40-b7fe-8679b01dff38.jpg?ts=1732017261",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3f6d67c2-d369-4bda-92ec-fa1e45bf4df4.jpg?ts=1732017261",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bef100f-52ac-4d16-9b3e-b3218f979780.jpg?ts=1732017262",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6972c5f8-14a8-4ac4-a0a1-d4cf8d57b2d2.jpg?ts=1732017262",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/971a5b5f-7889-493b-b409-9a3cb24fdfdf.jpg?ts=1732017262",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/366fd6a3-7ad8-44cc-a35c-8fd77936592f.jpg"
+        ],
+        "mrp": 197,
+        "offer_price": 167,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/108920",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 35,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108920
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "989ace47-722a-4fbb-8771-93eaf9155ff6",
+        "name": "Saffola Oats with Nutty Chocolate, Healthy & Tasty, Anytime Snack",
+        "brand": "Saffola Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ac29ba8-b28d-44a6-be54-1dd497263226.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/476c339e-627d-4979-a8ef-b9432608e30c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/807913eb-8392-45c9-bdb1-4e3be5671d37.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8109194c-ff17-4e5f-9732-6836e7491741.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/964489d2-a582-4a4c-8bf4-fee09d56c293.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 217.0,
+        "unit_level_price": 217.0,
+        "quantity": "400 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/934bb13e-a492-4dcb-a0cc-32eef594d3fe",
+        "id": "934bb13e-a492-4dcb-a0cc-32eef594d3fe",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "934bb13e-a492-4dcb-a0cc-32eef594d3fe"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "439002",
+        "name": "Sunday Oryfit Rice Bran Oil Pouch ",
+        "brand": "Sunday",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LOIL1LSund6XX310820_5_P.jpg"
+        ],
+        "mrp": 220,
+        "offer_price": 144,
+        "unit_level_price": "(\u20b9 0.14 / 1 ml)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/sunday-oryfit-rice-bran-oil-pp-poil0sund5xx14219?selectedProd=439002",
+        "id": "437540",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "437540"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 447212,
+        "name": "Saffola Gold Healthy Lifestyle & Heart Edible Oil (1 ltr) - Pack of 2",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ff9bfab6-949f-4a7c-8118-a350d7666e06.jpg?ts=1717419817",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212a.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212b.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212c.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212d.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212e.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212f.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212g.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212h.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212i.jpg?ts=1710347217",
+          "https://cdn.grofers.com/app/images/products/sliding_image/447212j.jpg?ts=1710347217"
+        ],
+        "mrp": 434,
+        "offer_price": 379,
+        "unit_level_price": "",
+        "quantity": "2 x 1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/447212",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          447212,
+          82224
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0fbc22b5-dfd0-4822-b834-aaf0dcf373f4",
+        "name": "Saffola Masala Oats Cheesy Italian, Healthy & Tasty, Anytime Snack",
+        "brand": "Saffola Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e3bfb938-6979-4439-b215-67817f8783c8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/672f94ad-54a7-4b3d-9ad0-9cb699203ce7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f799d7ba-92bb-4c73-a434-71e386ec778e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6212e9e3-9d98-4b39-828b-70ade7c1ea52.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4650c14a-d38e-450e-91a4-d60f8a1409af.jpeg"
+        ],
+        "mrp": 225.0,
+        "offer_price": 189.0,
+        "unit_level_price": 189.0,
+        "quantity": "400 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e71e6229-b3b6-484a-85ab-8eb96a03cd2f",
+        "id": "e71e6229-b3b6-484a-85ab-8eb96a03cd2f",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e71e6229-b3b6-484a-85ab-8eb96a03cd2f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11113",
+        "name": "Fortune Rice Bran Health Oil (5 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000133xx23NOV23_5_P.jpg"
+        ],
+        "mrp": 1125,
+        "offer_price": 910,
+        "unit_level_price": "(\u20b9 200.00 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-rice-bran-health-oil?selectedProd=11113",
+        "id": "14108",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14108"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6RW9ZWNLZ7",
+        "name": "Saffola Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/9a88ef1e-678c-4d6a-bfc8-7ff7e7909bd3_cookingandedibleoils_6RW9ZWNLZ7_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/cb2111e9-d198-4371-95d4-01fbb5b2041d_cookingandedibleoils_6RW9ZWNLZ7_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/c045e8b4-4889-4961-97cd-c111c9dcd79c_cookingandedibleoils_6RW9ZWNLZ7_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/bb982294-21e5-4d29-b824-7863ee34e56a_cookingandedibleoils_6RW9ZWNLZ7_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/bed3fed9-1d11-4c6d-8c86-c590c3ef7fa7_cookingandedibleoils_6RW9ZWNLZ7_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/07f4c37d-c4cb-4cd4-a458-3b0d1077c9f3_cookingandedibleoils_6RW9ZWNLZ7_AL5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/12/c098e65c-99e7-4ab5-9ccd-3224bbd75025_cookingandedibleoils_6RW9ZWNLZ7_AL6.png"
+        ],
+        "mrp": 217,
+        "x_available": true,
+        "available": true,
+        "offer_price": 187,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YI8H2OAOMI",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTF8NKZ7TU",
+          "6RW9ZWNLZ7"
+        ]
+      },
+      {
+        "id": 82224,
+        "name": "Saffola Gold Healthy Lifestyle & Heart Edible Oil (1 ltr)",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c8349218-236c-425a-9fe0-5b9ab7c3592b.jpg?ts=1732017254",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/60143670-10e0-492a-87e2-098915d19512.jpg?ts=1732017254",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/516b3901-6453-4db9-a314-5c4433d1ce19.jpg?ts=1732017255",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f06f22a9-d4f4-4f20-8f59-b8247366367c.jpg?ts=1732017255",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11b3af9d-8153-47a3-b448-e108a7098c21.jpg?ts=1732017256",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7201292d-1801-494a-a517-daee61bea555.jpg?ts=1732017256",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8cb4e3cf-3e76-4057-bd48-9c9d362ec2d0.jpg?ts=1732017257",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/76b00e5a-58c6-4f07-8bbe-a87812286667.jpg?ts=1732017257",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/54130624-b077-4b0c-8cc7-feeb776ec696.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4387c641-b2eb-4a2c-9af7-e0508d594c2f.jpg"
+        ],
+        "mrp": 217,
+        "offer_price": 194,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/82224",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 20,
+        "parentIndex": 8,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          447212,
+          82224
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1da95bac-c2a4-4395-908b-80394762b58e",
+        "name": "Open Secret Zero Maida Chocolate Millet Biscuit, Healthy Snacks with No Refined Sugar & No Palm Oil",
+        "brand": "Open Secret",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d3ea0f12-ac55-4d34-ab41-f46a6bee1ac9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/94f8f721-98af-4bcf-8be8-a3231b5708ec-/tmp/20230207-0833182.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c318344a-b551-482b-b12a-8887bdd76033-/tmp/20230207-0833193.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/87660e14-7238-4718-aff3-70d2f09fe478-/tmp/20230207-0833214.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c98c4495-6775-4235-812b-ffbb2134c882-/tmp/20230207-0833225.jpeg"
+        ],
+        "mrp": 45.0,
+        "offer_price": 39.0,
+        "unit_level_price": 39.0,
+        "quantity": "40 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0794178f-895d-4f5d-a08f-2acbdf1e3bc0",
+        "id": "0794178f-895d-4f5d-a08f-2acbdf1e3bc0",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0794178f-895d-4f5d-a08f-2acbdf1e3bc0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 114918,
+        "name": "Saffola Gold Refined Blended Cooking Oil (Rice Bran + Sunflower) - Free 1 l Pouch",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64a4e858-f67c-42fc-a879-6c1d2e5e5f40.jpg?ts=1732171103",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c508df29-2b92-47b2-9da3-384e47986886.jpg?ts=1732171103",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1ff1a3b6-143d-4b0b-b52e-cd19929725da.jpg?ts=1732171104",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/338b6454-a6d1-45e7-acf6-6b14ca74b5fc.jpg?ts=1732171104",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/65087095-f22f-4fb0-8d93-9a7376460f03.jpg?ts=1732171105",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/31783ac9-58cd-4389-8d06-16113fe37449.jpg?ts=1732171105",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c86fd466-433d-471a-9d31-3d2aa0d92b82.jpg?ts=1732171106",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3cf1c385-40ea-4d17-b298-fbacb491dbc4.jpg?ts=1732171106",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f54a59fd-6b02-43d6-bf6a-996dbf70d56f.jpg"
+        ],
+        "mrp": 1182,
+        "offer_price": 1100,
+        "unit_level_price": "",
+        "quantity": "5 l + 1 l",
+        "deeplink": "https://blinkit.com/prn/x/prid/114918",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          114918
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "32c7ac7e-accf-4d87-ae5e-1aeb38c879ef",
+        "name": "Saffola Oats with Apple 'n' Almonds, Healthy & Tasty, Anytime Snack",
+        "brand": "Saffola Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/97e170a4-2895-49ca-b2f6-15bc475e1572.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eab8d7c9-b45f-4fce-9283-ce0cf5676cf8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7dba1ce3-5494-4a43-a7d7-1c1021485b6f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3325d3ff-566b-4264-b1d7-23d9e0f6dd0d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6011f378-022d-49fa-97d8-6f2a1076e60b.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 217.0,
+        "unit_level_price": 217.0,
+        "quantity": "400 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2a95f5af-9097-41d6-8959-67146637c684",
+        "id": "2a95f5af-9097-41d6-8959-67146637c684",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2a95f5af-9097-41d6-8959-67146637c684"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1267502",
+        "name": "Riso 100% Rice Bran Oil Jar (5 L) ",
+        "brand": "Riso",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110003710xx27FEB23_5_P.jpg"
+        ],
+        "mrp": 1100,
+        "offer_price": 740,
+        "unit_level_price": "(\u20b9 162.64 / 1 kg)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/riso-100-rice-bran-oil-jar-poil0riso11xx270223?selectedProd=1267502",
+        "id": "1270507",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1270507"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PTF8NKZ7TU",
+        "name": "Saffola Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/176bc7d8044cb95532943d4a36381012"
+        ],
+        "mrp": 651,
+        "x_available": true,
+        "available": true,
+        "offer_price": 558,
+        "unit_level_price": "186/L",
+        "quantity": "1 L x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YI8H2OAOMI",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTF8NKZ7TU",
+          "6RW9ZWNLZ7"
+        ]
+      },
+      {
+        "id": 487646,
+        "name": "Saffola Gold Refined Multi-source Edible Oil",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd9bc88c-b834-42ae-8711-ed25c8d26d1c.jpg?ts=1732508924",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/275d8d61-35d2-47cb-a67a-a2ac227f36e9.jpg?ts=1732508925",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/303eb49a-c1f2-4c6b-b8b0-f47ae88b58fd.jpg?ts=1732508926",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6b330813-12c3-44ea-a45e-1ea02b19f981.jpg?ts=1732508926",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c9295fae-1b96-4c92-80f4-f44e53ae3b4e.jpg?ts=1732508927",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd139892-6f21-440c-9711-6f37655cb946.jpg?ts=1732508927",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ac3b817d-382b-4b95-8ef6-987dd2688715.jpg?ts=1725449358"
+        ],
+        "mrp": 651,
+        "offer_price": 579,
+        "unit_level_price": "",
+        "quantity": "3 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/487646",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          487646
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "3fd84bb4-2f17-4c26-82d1-0b114548894b",
+        "name": "Slurrp Farm No Added Sugar Cereal - Ragi Rice And Mango With Milk | No Preservatives (200g) & Slurrp Farm Wheat Apple And Banana Instant Healthy Cereal 100% Natural | No Added Sugar | No Milk (300g) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9751ae6c-dc4e-45d5-9888-7559b03e2592.jpg"
+        ],
+        "mrp": 648.0,
+        "offer_price": 648.0,
+        "unit_level_price": 648.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7be3a39e-ea39-433b-9f55-1d2e51fa2178",
+        "id": "7be3a39e-ea39-433b-9f55-1d2e51fa2178",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7be3a39e-ea39-433b-9f55-1d2e51fa2178"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PZ9WHX99IA",
+        "name": "Saffola Total Refined Cooking Oil Blend Of Rice Bran & Safflower Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/22/f3740e1e-d3b3-450c-a472-9007956aa1b1_3120_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/22/7ade3622-c551-4630-8f83-476b285bab77_3120_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/22/c9d52e19-c58f-4055-82e1-8ecc55533f1d_3120_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/22/29231485-558b-4d9a-9a08-d09c4a19581c_3120_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/22/15907ed9-0a13-4a9e-833e-68f5d71813a6_3120_5.png"
+        ],
+        "mrp": 237,
+        "x_available": true,
+        "available": true,
+        "offer_price": 203,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/P55YL8AP42",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PZ9WHX99IA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "32007",
+        "name": "Fortune Rice Bran Health Oil (15 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JRiceBranOil15LFortune514XX061020201538_5_P.jpg"
+        ],
+        "mrp": 2999,
+        "offer_price": 2300,
+        "unit_level_price": "(\u20b9 168.50 / 1 kg)",
+        "quantity": "15 L",
+        "deeplink": "https://www.dmart.in/product/fortune-rice-bran-health-oil---15-ltr-pricebranoilftn3429xx290218?selectedProd=32007",
+        "id": "228006",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "228006"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11138",
+        "name": "Saffola Active Oil (5 L) ",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110000161xx1APR22_5_P.jpg"
+        ],
+        "mrp": 985,
+        "offer_price": 803,
+        "unit_level_price": "(\u20b9 176.54 / 1 kg)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/saffola-active-oil?selectedProd=11138",
+        "id": "14212",
+        "parentIndex": 41,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14212"
+        ]
+      },
+      {
+        "id": 34718,
+        "name": "Saffola Active Pro Weight Watchers Edible Oil",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2001ef37-b66d-485a-8c79-a5c9f9b4dc23.jpg?ts=1732017248",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/30478d1b-ff90-4537-b5b8-8e6c782992a7.jpg?ts=1732017249",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3753d059-fc7d-4a8a-8ef4-ebbfbd7240f9.jpg?ts=1732017249",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9ddb19de-c048-4f38-8bf8-3749f7134ea0.jpg?ts=1732017250",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/688ab5fb-166e-4043-8647-a1d4ed1e96c1.jpg?ts=1732017250",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/302133ca-4c50-44a6-891a-8fcf2e78937a.jpg?ts=1732017251",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36fb89b3-9eda-4151-b563-76e799d19495.jpg?ts=1732017251",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03bc6d06-9e45-4ce7-829c-37ad8b9631b3.jpg?ts=1732017252",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/10fd1465-b376-484a-85f5-22038cab6db8.jpg?ts=1732017252",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8dcd69aa-ed19-4d5f-98fe-28ecb1d1def1.jpg?ts=1732017253"
+        ],
+        "mrp": 985,
+        "offer_price": 822,
+        "unit_level_price": "",
+        "quantity": "5 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/34718",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          34718
+        ]
+      },
+      {
+        "id": "S5L44Z5C0C",
+        "name": "Saffola Active Refined Cooking Oil Blend Of Rice Bran & Soyabean Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qrm1estctndrri0ebfde",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qzzckv0ydzlov6e2qi03",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/pjawmec4eeoaso4pitbi"
+        ],
+        "mrp": 985,
+        "x_available": true,
+        "available": true,
+        "offer_price": 826,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/KVF4Z8XC2T",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "S5L44Z5C0C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "649c3875-3c42-4dd9-9556-e84b51937278",
+        "name": "Slurrp Farm No Added Sugar Cereal - Ragi, Rice And Mango With Milk, No Preservatives, Made With Multigrain Millets, 200 Gm(200gms) & Slurrp Farm Ragi Rice Strawberry Instant Healthy Cereal, Mildly Sweetened With Date Powder, 200 Gm(200gms) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d985e7e8-02d5-470c-af6f-7c6061237b95.jpg"
+        ],
+        "mrp": 698.0,
+        "offer_price": 698.0,
+        "unit_level_price": 698.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cffaaa51-f03f-4569-813e-43b10fce037b",
+        "id": "cffaaa51-f03f-4569-813e-43b10fce037b",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cffaaa51-f03f-4569-813e-43b10fce037b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1356501",
+        "name": "Swad Refined Soyabean Oil Jar (5 L) ",
+        "brand": "Swad",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110004052xx7APR25_5_P.jpg"
+        ],
+        "mrp": 800,
+        "offer_price": 699,
+        "unit_level_price": "(\u20b9 153.63 / 1 kg)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/swaad-refined-soyabean-oil-poil0swaa1xx120723?selectedProd=1356501",
+        "id": "1357005",
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1357005"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d317ba60-4365-4740-a146-238287fd212c",
+        "name": "Slurrp Farm Wheat Apple & Banana Instant Healthy Cereal 100% Natural No Added Sugar No Milk, 300 Gm(300gms) & Slurrp Farm No Added Sugar No Salt Strawberry, Ragi & Rice Cereal Trial Pack 50 G(50gms) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fa2dab07-18b2-4bd5-8ca9-9bae99ec3dbd.jpg"
+        ],
+        "mrp": 414.0,
+        "offer_price": 414.0,
+        "unit_level_price": 414.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b66c194b-b3ac-45e8-8422-6b41887cb998",
+        "id": "b66c194b-b3ac-45e8-8422-6b41887cb998",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b66c194b-b3ac-45e8-8422-6b41887cb998"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9HV1PG8RK2",
+        "name": "Oleev Pomace Oil",
+        "brand": "Oleev",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/25/7fc623d7-e3de-4698-a1ce-0954e2f79ee6_cookingandedibleoils_9HV1PG8RK2_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/25/cda2eefb-8abc-45ee-8b91-b5efb3eee8f3_cookingandedibleoils_9HV1PG8RK2_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/25/32ef8a42-40a8-47b5-995d-6eb0f3685838_cookingandedibleoils_9HV1PG8RK2_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9463eaffd00b2ae1ddd35bf41a624c02",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/998afc953fdad3987249c9ccf64c8d63"
+        ],
+        "mrp": 3999,
+        "x_available": true,
+        "available": true,
+        "offer_price": 2198,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SHEKP3UY5Q",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9HV1PG8RK2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "87c97f78-450b-403a-8d0a-dd09e17f55d6",
+        "name": "Slurrp Farm Ragi Rice Strawberry Instant Healthy Cereal, Mildly Sweetened With Date Powder, 200 Gm(200gms) & Slurrp Farm No Added Sugar Cereal - Ragi, Rice And Mango With Milk, No Preservatives, Made With Multigrain Millets, 200 Gm(200gms) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/93394825-9e3a-4a88-89f0-8427193ba216.jpg"
+        ],
+        "mrp": 698.0,
+        "offer_price": 698.0,
+        "unit_level_price": 698.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6be367ad-37b2-49a7-98a7-6d300e3ba66b",
+        "id": "6be367ad-37b2-49a7-98a7-6d300e3ba66b",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6be367ad-37b2-49a7-98a7-6d300e3ba66b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IPAQ07QO0C",
+        "name": "Saffola Gold Pro Healthy Lifestyle Edible Oil Jar",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/1b398105-c572-479c-8b1f-8201c75a4b1b_cookingandedibleoils_IPAQ07QO0C_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/ac506ca9-3d7f-4555-b46f-0028a94ec21f_cookingandedibleoils_IPAQ07QO0C_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/2c58eace-ebfb-46a2-b036-44dbf3caefdd_cookingandedibleoils_IPAQ07QO0C_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/c9ac17ac-d60f-4dd3-b561-ab7da2b6da28_cookingandedibleoils_IPAQ07QO0C_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/bff74093-c136-40e3-bac1-7633288e170e_cookingandedibleoils_IPAQ07QO0C_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/f7c69656-a1f0-4e4e-a7f8-874b8f8e3f5b_cookingandedibleoils_IPAQ07QO0C_AL5.png"
+        ],
+        "mrp": 651,
+        "x_available": true,
+        "available": true,
+        "offer_price": 574,
+        "unit_level_price": "",
+        "quantity": "3 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/32ZI2GS5HZ",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "IPAQ07QO0C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11104",
+        "name": "Aadhaar Refined Sunflower Oil Pouch ",
+        "brand": "Aadhaar",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110000123xx8DEC21_5_P.jpg"
+        ],
+        "mrp": 191,
+        "offer_price": 146,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "900 g",
+        "deeplink": "https://www.dmart.in/product/aadhaar-refined-sunflower-oil-pouch?selectedProd=11104",
+        "id": "14056",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14056"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "79a836fe-2360-476c-be30-fa10f4edc770",
+        "name": "Slurrp Farm Wheat Apple And Banana Instant Healthy Cereal 100% Natural | No Added Sugar | No Milk (300g) & Slurrp Farm Ragi Rice Strawberry Instant Healthy Cereal | Mildly Sweetened With Date Powder (200g) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c09795b3-0314-46de-a30c-266e7c9675f4.jpg"
+        ],
+        "mrp": 648.0,
+        "offer_price": 648.0,
+        "unit_level_price": 648.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e18eaa54-3c3b-4ed2-b307-30986f29538b",
+        "id": "e18eaa54-3c3b-4ed2-b307-30986f29538b",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e18eaa54-3c3b-4ed2-b307-30986f29538b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9ZU40Y64IB",
+        "name": "Fortune Rice Bran 1L & Mustard Oil 1L Pet",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d1dfb1e132ec3390e079fc08cd300cc9"
+        ],
+        "mrp": 414,
+        "x_available": true,
+        "available": true,
+        "offer_price": 323,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XPPHWTVAB1",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9ZU40Y64IB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "689055",
+        "name": "Gemini Refined Groundnut Oil Pouch ",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110001475xx26JAN23_5_P.jpg"
+        ],
+        "mrp": 250,
+        "offer_price": 175,
+        "unit_level_price": "(\u20b9 0.17 / 1 ml)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/gemini-groundnut-oil-pouch-poil0tiru75xx260320?selectedProd=689055",
+        "id": "690241",
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "690241"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "5d4e550b-6cfd-4dd3-9636-1be0c62e24da",
+        "name": "Slurrp Farm Ragi Rice Strawberry Instant Healthy Cereal | Mildly Sweetened With Date Powder (200g) & Slurrp Farm Wheat Apple And Banana Instant Healthy Cereal 100% Natural | No Added Sugar | No Milk (300g) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/77daddc2-004f-44be-a2e4-4df658f2b783.jpg"
+        ],
+        "mrp": 648.0,
+        "offer_price": 648.0,
+        "unit_level_price": 648.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/274d0656-696c-4c04-943a-8ac6d2160ef4",
+        "id": "274d0656-696c-4c04-943a-8ac6d2160ef4",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "274d0656-696c-4c04-943a-8ac6d2160ef4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "R1M5TDHZMO",
+        "name": "Saffola Tasty Refined Cooking Oil Blend Of Corn & Rice Bran Oil",
+        "brand": "Saffola",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/47816f27-53cb-4a35-9088-54d4a97613cc_102_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/04fba269-bebb-4f03-a2fb-723bd389d405_102_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/f69b6562-184a-4f2b-971b-dcea48e04b2d_102_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/3613c58d-661b-4adf-88ab-ff1c07b6712a_102_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/8c40a75b-e237-4723-b1fe-d3b4e7b66780_102_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/5e5dab24-289a-4782-af8e-a884a17f7806_102_6.png"
+        ],
+        "mrp": 187,
+        "x_available": true,
+        "available": true,
+        "offer_price": 183,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/33SFLF6F3A",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "R1M5TDHZMO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713103",
+        "name": "Sunny Soya Fit Refined Soyabean Oil Pouch ",
+        "brand": "Sunny",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110001942xx26FEB23_5_P.jpg"
+        ],
+        "mrp": 165,
+        "offer_price": 139,
+        "unit_level_price": "(\u20b9 0.15 / 1 ml)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/sunny-soya-fit-soyabean-oil-pouch-poil0ruch93xx90520?selectedProd=713103",
+        "id": "714674",
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714674"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "340ff0d8-62d2-40e7-a289-f488a2fdd5dd",
+        "name": "Slurrp Farm Wheat Apple & Banana Instant Healthy Cereal 100% Natural No Added Sugar No Milk, 300 Gm(300gms) & Slurrp Farm No Added Sugar Cereal - Ragi, Rice And Mango With Milk, No Preservatives, Made With Multigrain Millets, 200 Gm(200gms) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/57a15780-be2b-4c2f-b673-cfc67d3230c2.jpg"
+        ],
+        "mrp": 648.0,
+        "offer_price": 648.0,
+        "unit_level_price": 648.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a82f7b24-7604-4f9b-b4e3-091588dd4e52",
+        "id": "a82f7b24-7604-4f9b-b4e3-091588dd4e52",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a82f7b24-7604-4f9b-b4e3-091588dd4e52"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LVBPKCZ7P3",
+        "name": "Gemini Refined Sunflower Oil",
+        "brand": "Gemini",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/33806b36d050284780f82f7d07877fcb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4cccd9ee5f18ecd9f3397d0dc25dd9f0"
+        ],
+        "mrp": 1015,
+        "x_available": true,
+        "available": true,
+        "offer_price": 787,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3UL1KGFOHT",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LVBPKCZ7P3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "689150",
+        "name": "Kings Refined Soyabean Oil Pouch ",
+        "brand": "Kings",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/OCT110001570xx21OCT24_5_P.jpg"
+        ],
+        "mrp": 169,
+        "offer_price": 134,
+        "unit_level_price": "(\u20b9 0.17 / 1 g)",
+        "quantity": "800 g",
+        "deeplink": "https://www.dmart.in/product/kings-refined-soyabean-oil-poil0king41xx260320?selectedProd=689150",
+        "id": "690318",
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "690318"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "db78380f-0bfc-4619-a872-aefed7e6be17",
+        "name": "Fortune Rozana Basmati Rice(5kg), Fortune Sunlite Refined Sunflower Oil(1l) & Madhur Pure & Hygienic Sugar(1kg) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1458ea05-927f-477b-9d32-64599eb9da3b-8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a0cf1d9-f412-473c-886e-1161fc5a9b87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/029991d8-08e6-4b48-a47d-71a292be10d5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5a379ea-bf17-468c-b250-ce50207d8702.jpeg"
+        ],
+        "mrp": 1115.0,
+        "offer_price": 859.0,
+        "unit_level_price": 859.0,
+        "quantity": "5 Pieces",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "id": "7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7e138f3b-85ee-4788-b232-e9f19c893f3e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XL36DHXWTN",
+        "name": "Fortune Sunlite Refined Sunflower Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/8/ff125793-d562-41b8-8e79-ac3ceaa892d5_318899.png"
+        ],
+        "mrp": 570,
+        "x_available": true,
+        "available": true,
+        "offer_price": 441,
+        "unit_level_price": "147/L",
+        "quantity": "1 L x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1SFM0MIXU4",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XL36DHXWTN",
+          "RXZ1HRU7HU",
+          "PUHXM33U8E"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "157001",
+        "name": "Dalda Refined Sunflower Oil ",
+        "brand": "Dalda",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110000925xx17APR25_5_P.jpg"
+        ],
+        "mrp": 950,
+        "offer_price": 789,
+        "unit_level_price": "(\u20b9 173.41 / 1 L)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/dalda-refined-sunflower-oil-pouch?selectedProd=157001",
+        "id": "14138",
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14138"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "faea4510-a63e-4ba9-a8b5-592ccc45ed07",
+        "name": "Protein Chef Baked Coated Peanut Guilt Free Healthy Snacks Tasty Masala Peanuts Roasted Baked Namkeen",
+        "brand": "Protein Chef",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/67124ab7-f3fe-4ea5-8e1f-52225102604b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/299670f2-0de5-41cd-b5b9-39b95066d36f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ab7265a-3d54-46ce-81f3-db5336f0511d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/69d4dc9f-1311-4ebb-a96d-a243b73f4948.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1f5a1878-ca34-4b46-a1a4-1399c2315a8f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8100421a-6602-47f1-b30f-e14b3df03b2d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ed03351-818d-4467-b892-23cc23526df2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/511f47c2-ad62-43d3-a532-e7523bc01d69.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 65.0,
+        "unit_level_price": 65.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a65f8d54-f719-48c7-beaa-76c7de0ca186",
+        "id": "a65f8d54-f719-48c7-beaa-76c7de0ca186",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a65f8d54-f719-48c7-beaa-76c7de0ca186"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "RXZ1HRU7HU",
+        "name": "Fortune Sunlite Refined Sunflower Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b675939f362c5185e45b581c3a1610cc"
+        ],
+        "mrp": 380,
+        "x_available": true,
+        "available": true,
+        "offer_price": 298,
+        "unit_level_price": "149/L",
+        "quantity": "1 L x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1SFM0MIXU4",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XL36DHXWTN",
+          "RXZ1HRU7HU",
+          "PUHXM33U8E"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "98d40a05-750f-476a-ba46-1966370a9f5d",
+        "name": "Faces Canada Ultimepro Hd Deep Black One Stroke Kajal Longstay I Rice Bran Wax I Waterproof",
+        "brand": "Faces Canada",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/07da722c-77d1-4be6-a3d3-f36f9c511cd6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b22089e-a46c-4ca4-8b25-8a920b53d5c4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c04fe8e1-7f85-4f96-adde-a3753df6cb89.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/075b1590-f8c2-4756-8f94-66b479dd020e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7103d512-e2f6-4e69-a8b0-eeb2d34c5d55.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/832805ec-4d30-43d2-a449-edb54eb61a4b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7be88574-a515-4cb0-816b-ee868b1c90d8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf173699-9fc6-4a29-95d6-edc17d8be9ba.jpeg"
+        ],
+        "mrp": 699.0,
+        "offer_price": 511.0,
+        "unit_level_price": 511.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/44d7de71-bc79-4a39-a4ae-5783d19f60ea",
+        "id": "44d7de71-bc79-4a39-a4ae-5783d19f60ea",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "44d7de71-bc79-4a39-a4ae-5783d19f60ea"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PUHXM33U8E",
+        "name": "Fortune Sunlite Refined Sunflower Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/e191fa20-2e61-41ca-a0d7-7a7fc8401142_1766_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/42c9db59-c623-4bd9-9c73-09a01e6e7b6d_1766_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/18/b918f4b3-9bf4-44a3-9872-e402558e5b1d_1766_3.png"
+        ],
+        "mrp": 190,
+        "x_available": true,
+        "available": true,
+        "offer_price": 149,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1SFM0MIXU4",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XL36DHXWTN",
+          "RXZ1HRU7HU",
+          "PUHXM33U8E"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "358501",
+        "name": "Swad Refined Sunflower Oil Jar 4.55 Kg",
+        "brand": "Swad",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110001104xx3APR25_5_P.jpg"
+        ],
+        "mrp": 850,
+        "offer_price": 739,
+        "unit_level_price": "(\u20b9 162.42 / 1 kg)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/swaad-refined-sunflower-oil-psunfloweroilswad3258xx40518?selectedProd=358501",
+        "id": "297501",
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "297501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "693a97e2-f632-4746-bf0c-96d1d7d5546a",
+        "name": "Fortune Sunlite Refined Sunflower Oil (Jar)(5l) & Fortune Sugar(1kg) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1411.jpg"
+        ],
+        "mrp": 1095.0,
+        "offer_price": 864.0,
+        "unit_level_price": 864.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/567e2b9e-eaaa-4f4b-aec1-060f12e8e91b",
+        "id": "567e2b9e-eaaa-4f4b-aec1-060f12e8e91b",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "567e2b9e-eaaa-4f4b-aec1-060f12e8e91b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LQ4CD5BKNN",
+        "name": "Sundrop Heart Blended Cooking Oil",
+        "brand": "Sundrop",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ppngc8sdfbnnzsqvystk",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/eo4fqcalhelhazvngnw9",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ojxujkmxxlmeyhmyaos8"
+        ],
+        "mrp": 549,
+        "x_available": true,
+        "available": true,
+        "offer_price": 532,
+        "unit_level_price": "",
+        "quantity": "3 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/79YWO02Q4H",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LQ4CD5BKNN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6b3f79cb-00f5-4b32-88f8-e942ae66e3e1",
+        "name": "Patanjali Cow Ghee Desi Danedar Rich Aroma Natural And Healthy | Tetra Pack",
+        "brand": "Patanjali",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0f3ed082-df88-4efe-ac1c-e60fbf15b6c0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fafed4c0-a6a8-4041-94cd-757448c8636d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/20d40cb6-dd87-425f-a46b-ae0f0a12d8c7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a67390c5-8bf0-4174-b796-d337a8315f71.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/df5541a5-e1c0-498b-87b9-5837b2508674.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/962f2cf8-480d-46d9-ad0e-bb310eab5c3a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06ec4594-a1e6-47a5-b862-f082d0f744f0.jpeg"
+        ],
+        "mrp": 700.0,
+        "offer_price": 651.0,
+        "unit_level_price": 651.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/02d38d77-0dcc-4afe-b7f5-6fd44e1350b1",
+        "id": "02d38d77-0dcc-4afe-b7f5-6fd44e1350b1",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "02d38d77-0dcc-4afe-b7f5-6fd44e1350b1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YA7JC2369X",
+        "name": "Oleev Smart Multi Source Edible Oil Jar",
+        "brand": "Oleev",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/f6addbaf-1d91-442c-8174-7c67a26c1421_98968_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/9d694f8e-6b58-42d0-b739-76d576712c79_98968_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/fe30a9eb-8ba3-458e-8d1f-227c45fa383e_98968_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/bbe6c299-e801-4114-97be-70f1e56a53b3_98968_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/e22ab66c-0b02-4332-a41b-c501f02f198a_8819_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/7/367f3d9c-ac97-4df1-9c87-c84c2fc193dc_98968_6.png"
+        ],
+        "mrp": 999,
+        "x_available": true,
+        "available": true,
+        "offer_price": 912,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/JM05AV1S2T",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YA7JC2369X"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11131",
+        "name": "Gemini Refined Soyabean Oil (1 L) ",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG110000153xx29AUG22_5_P.jpg"
+        ],
+        "mrp": 175,
+        "offer_price": 145,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/gemini-refined-soyabean-oil?selectedProd=11131",
+        "id": "14109",
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14109"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2d362144-9a8f-4fe5-a792-aca5a14d12e7",
+        "name": "Daily Good Maida / Refined Wheat Flour(500gms) & Daily Good Sooji / Rava(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c7598b24-a608-4876-b729-45dc57d9f27a.jpg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 44.0,
+        "unit_level_price": 44.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cb21fb2c-f56c-494f-8541-c79a56c5fc2e",
+        "id": "cb21fb2c-f56c-494f-8541-c79a56c5fc2e",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cb21fb2c-f56c-494f-8541-c79a56c5fc2e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3ZFN7IU710",
+        "name": "Sundrop Refined Sunflower Oil",
+        "brand": "Sundrop",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/pp9htmq0ghmhxgyxojo0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rxof5hykgvntheejvmfx",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/djitdzktergu1iadmmzi"
+        ],
+        "mrp": 240,
+        "x_available": true,
+        "available": true,
+        "offer_price": 237,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/N1DGK7H1N1",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3ZFN7IU710"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "13193452-87d9-40bf-a4f8-877b31401e79",
+        "name": "Patanjali Wheat Flour Atta With Bran Traditional Chakki Gehu Atta For Soft and Fluffy Roti",
+        "brand": "Patanjali",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/053d01c7-b563-47d8-9c0d-1e523ab0ce8d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b27849c5-b5a0-4386-8529-29ef7b04ed61.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fcad3af5-6159-4ea9-8052-febdf974e3e4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/806f13f2-69fe-45c5-96f7-0fc8cbdac737.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e6f5af2c-8448-4806-aff4-cf8f5fab999b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a439851-a55e-49cb-a8fe-187651448362.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddf5f1aa-9309-4787-997c-f03381aceadb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8da4e9d8-675f-4bc3-8ad1-f1e9feea2a27.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/12d5ff3c-b978-4727-a966-cd341501edf8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9edadbd-4d61-48a0-8195-23b42ac94d37.jpeg"
+        ],
+        "mrp": 255.0,
+        "offer_price": 253.0,
+        "unit_level_price": 253.0,
+        "quantity": "5 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0de96881-8bea-4c43-99a2-3b6e7a8a4404",
+        "id": "0de96881-8bea-4c43-99a2-3b6e7a8a4404",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0de96881-8bea-4c43-99a2-3b6e7a8a4404"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZW1ZKR4QIG",
+        "name": "Fortune Xpert Pro Immunity Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wydnbrujf6z5kouhsfn7",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/eqlfwgz7nrktdybn6vkr",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zrxmtvqo7g0chfirpqm6"
+        ],
+        "mrp": 190,
+        "x_available": true,
+        "available": true,
+        "offer_price": 165,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3BPCJHVG3W",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZW1ZKR4QIG",
+          "VWZODVGCMU",
+          "9AS6I8NT2F"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11107",
+        "name": "Fortune Sunlite Refined Sunflower Oil ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110000126xx26MAR25_5_P.jpg"
+        ],
+        "mrp": 1030,
+        "offer_price": 825,
+        "unit_level_price": "(\u20b9 189.66 / 1 kg)",
+        "quantity": "4.35 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-sunlite-refined-sunflower-oil?selectedProd=11107",
+        "id": "14110",
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14110"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "38a9b766-11b2-4990-8988-30528e4ae909",
+        "name": "Patanjali Cow Ghee Desi Danedar Rich Aroma Natural And Healthy | Tetra Pack 1 l Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/00643584-a8b0-4304-bfd4-49188e3336da.jpg"
+        ],
+        "mrp": 1400.0,
+        "offer_price": 1302.0,
+        "unit_level_price": 1302.0,
+        "quantity": "1 l X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bfb97749-e953-4b1a-b9dd-43e259fc18b9",
+        "id": "bfb97749-e953-4b1a-b9dd-43e259fc18b9",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "bfb97749-e953-4b1a-b9dd-43e259fc18b9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VWZODVGCMU",
+        "name": "Fortune Xpert Pro Immunity Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/b932f7a3-995d-44f2-80b8-d42f675323bb_732040.png"
+        ],
+        "mrp": 570,
+        "x_available": true,
+        "available": false,
+        "offer_price": 483,
+        "unit_level_price": "161/L",
+        "quantity": "1 L x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3BPCJHVG3W",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZW1ZKR4QIG",
+          "VWZODVGCMU",
+          "9AS6I8NT2F"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a5a661f5-0aa5-4241-84e9-978154902bd6",
+        "name": "Gemini Refined Groundnut Oil | Pouch",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf78e413-e0df-4d84-a196-0a937f67c52b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1629c1d5-285b-4aa9-9a6e-849bab5f47d0-1G1-1fjt426KH4FkyiwPzXtZL5Nz5px1N.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1629c1d5-285b-4aa9-9a6e-849bab5f47d0-1HyAHkIFB_f3vr_SbbBao8VdG2FxzbX29.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1629c1d5-285b-4aa9-9a6e-849bab5f47d0-14DxGUKOpDBAg6K9u8-hHKZTImkpP1mDU.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1629c1d5-285b-4aa9-9a6e-849bab5f47d0-1MwcPqDp2D2jMX23sGt1Iq9D-NaAGaAl1.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 181.0,
+        "unit_level_price": 181.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1629c1d5-285b-4aa9-9a6e-849bab5f47d0",
+        "id": "1629c1d5-285b-4aa9-9a6e-849bab5f47d0",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1629c1d5-285b-4aa9-9a6e-849bab5f47d0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9AS6I8NT2F",
+        "name": "Fortune Xpert Pro Immunity Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/95cd2686-6d21-497b-80ad-84c1de21cc53_163104.png"
+        ],
+        "mrp": 380,
+        "x_available": true,
+        "available": false,
+        "offer_price": 322,
+        "unit_level_price": "161/L",
+        "quantity": "1 L x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3BPCJHVG3W",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 18,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZW1ZKR4QIG",
+          "VWZODVGCMU",
+          "9AS6I8NT2F"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11098",
+        "name": "Gemini Refined Sunflower Oil (5 L) ",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG110000116xx20AUG22_5_P.jpg"
+        ],
+        "mrp": 1015,
+        "offer_price": 824,
+        "unit_level_price": "(\u20b9 181.10 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/gemini-refined-sunflower-oil?selectedProd=11098",
+        "id": "14111",
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14111"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9f279da7-bda4-4543-a530-791c7200dbeb",
+        "name": "Samrat Refined Mp Maida Pp",
+        "brand": "Samrat",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5bb0b131-4679-474a-abc0-60e53e2a4247-/tmp/20230427-0829251.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e94d38ee-7d9e-4f70-bd98-7a8891ebf287-/tmp/20230427-0829262.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/40519244-3859-4344-87d5-a73e19a71a15-/tmp/20230427-0829283.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0bd37f81-3e4c-4382-afda-9285664427b7-/tmp/20230427-0829304.jpeg"
+        ],
+        "mrp": 44.0,
+        "offer_price": 37.0,
+        "unit_level_price": 37.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/966a264e-0808-4285-bf16-2dbc91d735ed",
+        "id": "966a264e-0808-4285-bf16-2dbc91d735ed",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "966a264e-0808-4285-bf16-2dbc91d735ed"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QB5XIRYNI5",
+        "name": "Fortune Kachi Ghani Mustard Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b4cf61646ffa02ffc4d6a0af18c8f1ba"
+        ],
+        "mrp": 430,
+        "x_available": true,
+        "available": true,
+        "offer_price": 338,
+        "unit_level_price": "169/L",
+        "quantity": "1 L x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZWWM8ANDU0",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QB5XIRYNI5",
+          "KKWTRNHHBO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "4fb9aaa2-606d-43f0-9747-2fd10fb8656f",
+        "name": "Daily Good Maida - Refined Wheat Flour",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/417a2068-465f-49f8-8f6c-4d994e73ff53.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e1447c98-d321-4ea3-96e1-1fb3ddf68c84.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/67d9dc82-bcb2-4de6-8291-3cb5cdab0d03.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9a895197-7a4a-4cc9-ae3a-cbac0ee9e5cd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bd688a6c-f8d9-47da-a59c-3c2b660575bc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/871e61ea-866e-494f-8811-9d376632da14.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/518e0267-eb19-4800-a842-7bd7fd606c38.jpeg"
+        ],
+        "mrp": 45.0,
+        "offer_price": 27.0,
+        "unit_level_price": 27.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cceca12e-71b0-424f-822a-9dca0b884dcf",
+        "id": "cceca12e-71b0-424f-822a-9dca0b884dcf",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cceca12e-71b0-424f-822a-9dca0b884dcf"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KKWTRNHHBO",
+        "name": "Fortune Kachi Ghani Mustard Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/5bc4f948-1ccb-4f30-9dc7-633d3e3ebb03_267_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/c8c37e6c-e98c-42d6-97f3-14518ed3efe0_267_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/c9d49440-2638-4cc6-bb8a-4980133f16be_267_3.png"
+        ],
+        "mrp": 215,
+        "x_available": true,
+        "available": true,
+        "offer_price": 171,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZWWM8ANDU0",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QB5XIRYNI5",
+          "KKWTRNHHBO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11094",
+        "name": "Dhara Refined Sunflower Oil (5 L) ",
+        "brand": "Dhara",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110000112xx10DEC21_5_P.jpg"
+        ],
+        "mrp": 1000,
+        "offer_price": 815,
+        "unit_level_price": "(\u20b9 179.12 / 1 kg)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/dhara-health-refined-sunflower-oil?selectedProd=11094",
+        "id": "14139",
+        "parentIndex": 30,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14139"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1731e36a-6b16-4349-a653-b335b6c5c748",
+        "name": "24 Mantra Organic Peanuts",
+        "brand": "24 Mantra",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f0c9d2d-183a-442c-8241-498207a90959.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3ed10104-7a82-4371-b783-57d4dabdae2e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e3a98e29-d84e-4a8c-8c11-ff0f1458bc8f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2fccd2a1-e56f-4f17-8d65-93a54517b4ce.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0f6d616f-3cf2-4d66-8f9c-12cee39b129b-13pgtU_X7poWxnyouFug8obo1eH1TPEYJ.jpeg"
+        ],
+        "mrp": 170.0,
+        "offer_price": 144.0,
+        "unit_level_price": 144.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0f6d616f-3cf2-4d66-8f9c-12cee39b129b",
+        "id": "0f6d616f-3cf2-4d66-8f9c-12cee39b129b",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0f6d616f-3cf2-4d66-8f9c-12cee39b129b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11078",
+        "name": "Ruchi Gold Refined Palmolein Oil ",
+        "brand": "Ruchi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110000094xx28JAN23_5_P.jpg"
+        ],
+        "mrp": 165,
+        "offer_price": 130,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "850 g",
+        "deeplink": "https://www.dmart.in/product/ruchi-gold-vegetable-refined-palm-oil?selectedProd=11078",
+        "id": "14149",
+        "parentIndex": 31,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14149"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11101",
+        "name": "Sunday Refined Sunflower Oil ",
+        "brand": "Sunday",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000119xx23JUN23_5_P.jpg"
+        ],
+        "mrp": 205,
+        "offer_price": 159,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/sunday-refined-sunflower-oil?selectedProd=11101",
+        "id": "14142",
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14142"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "221001",
+        "name": "Sunny Sun Lite Refined Sunflower Oil ",
+        "brand": "Sunny",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110000981xx17APR25_5_P.jpg"
+        ],
+        "mrp": 930,
+        "offer_price": 791,
+        "unit_level_price": "(\u20b9 173.85 / 1 L)",
+        "quantity": "4.55 kg",
+        "deeplink": "https://www.dmart.in/product/sunny-refined-lite-sunflower-oil-1?selectedProd=221001",
+        "id": "220007",
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "220007"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "558003",
+        "name": "Liberty Vista Refined Sunflower Oil ",
+        "brand": "Liberty",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001243xx23JUN23_5_P.jpg"
+        ],
+        "mrp": 190,
+        "offer_price": 144,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "899 g",
+        "deeplink": "https://www.dmart.in/product/liberty-vista-refined-sunflower-oil-poil0libe5xx80819?selectedProd=558003",
+        "id": "552069",
+        "parentIndex": 35,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "552069"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1313001",
+        "name": "Radhuni Gold Refined Palmolein Oil ",
+        "brand": "Radhuni Gold",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP110004011xx11SEP23_5_P.jpg"
+        ],
+        "mrp": 161,
+        "offer_price": 135,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "850 g",
+        "deeplink": "https://www.dmart.in/product/radhuni-gold-refined-palmolein-oil-pouch-poil0radh1xx15052023?selectedProd=1313001",
+        "id": "1317501",
+        "parentIndex": 36,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1317501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11141",
+        "name": "Saffola Gold Oil (5 L) ",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IBlendedOils5ltrSFOL3355xx2806213_5_P.jpg"
+        ],
+        "mrp": 1182,
+        "offer_price": 1099,
+        "unit_level_price": "(\u20b9 241.54 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/saffola-gold-oil?selectedProd=11141",
+        "id": "14213",
+        "parentIndex": 39,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14213"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "353001",
+        "name": "Saffola Active Oil (15 L) ",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KBLENDED15LSFOL23xx170521_5_P.jpg"
+        ],
+        "mrp": 2955,
+        "offer_price": 2199,
+        "unit_level_price": "(\u20b9 161.10 / 1 kg)",
+        "quantity": "13.650 kg",
+        "deeplink": "https://www.dmart.in/product/saffola-active-oil-pblendedsfol22xx3718?selectedProd=353001",
+        "id": "351510",
+        "parentIndex": 42,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "351510"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11132",
+        "name": "Saffola Gold Oil (15 L) ",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110000155xx1APR22_5_P.jpg"
+        ],
+        "mrp": 3055,
+        "offer_price": 2770,
+        "unit_level_price": "(\u20b9 202.93 / 1 kg)",
+        "quantity": "13.650 kg",
+        "deeplink": "https://www.dmart.in/product/saffola-gold-oil-pblendedoilssfol3353xx091019?selectedProd=11132",
+        "id": "593501",
+        "parentIndex": 43,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "593501"
+        ]
+      }
+    ]
+  }
+]

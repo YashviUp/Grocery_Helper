@@ -1,0 +1,4846 @@
+[
+  {
+    "data": [
+      {
+        "xid": "62b6b939-8ed5-4bd7-8a62-a1ae4e515fbf",
+        "name": "Fortune Sugar",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/95224103-9345-40fa-9d0d-bba84aad6d1d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddfd85f3-5a35-40bb-b98c-f17741596092.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a492ac4b-c128-443f-93bd-56d244392c02.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1340cba8-0d26-4c11-be90-bd872365244b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/13d437c3-193a-4fe3-a9ff-e32496749742.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/897a6788-0a6c-4e07-bba3-a68816b47724.jpeg"
+        ],
+        "mrp": 320.0,
+        "offer_price": 278.0,
+        "unit_level_price": 278.0,
+        "quantity": "5 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cf854bbd-85e9-44bc-b638-6f961c090991",
+        "id": "cf854bbd-85e9-44bc-b638-6f961c090991",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cf854bbd-85e9-44bc-b638-6f961c090991"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 429694,
+        "name": "Fortune Sulphurless Sugar",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1f76cafc-a76d-44f1-b047-a216f01ac5d9.jpg?ts=1744367792",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/399052db-8ea8-4560-b624-f8f44c1822e5.jpg?ts=1744367792",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3bdd960e-9f37-40cc-be4b-b529f21b222a.jpg?ts=1744367793",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6c0f9802-fa47-47ec-9660-57a4ca6d335e.jpg?ts=1744367794",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e0f115e7-8869-4996-b458-38eab242b8ba.jpg?ts=1744367794",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/08d5554e-e0ee-4a1e-82f9-046e11b3991e.jpg?ts=1744367794"
+        ],
+        "mrp": 65,
+        "offer_price": 59,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/429694",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 27,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          429694
+        ]
+      },
+      {
+        "id": "V34QW1RPLX",
+        "name": "Fortune Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4ade15e8925b1fc6564f5f02ae8895d2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a8d56cdf11fb7e0c152f356ed463c44f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e8b0db90676d891daf6de3dfaaa97a68"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3YPF5VL873",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "DHDO0YPL8V",
+          "V34QW1RPLX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11341",
+        "name": "DMart Premia Sugar Crystals (Khadi Shakkar) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000375xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 24,
+        "offer_price": 17,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-ravalgaon-sugar?selectedProd=11341",
+        "id": "15125",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15125"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H0R1LQ9XZG",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/ceef07d2-145a-4790-8601-200a534609ab_sugar_H0R1LQ9XZG_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f346cc8556236b9c877f7b9888b924c2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4afa871fbac073c4778999ef9f67085c"
+        ],
+        "mrp": 350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 235,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ANVQ4Q2POF",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H0R1LQ9XZG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7d8464b4-5d40-49d4-a511-7b0671eca6b7",
+        "name": "Fortune Sugar",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/134addec-ffb3-4fd1-9c81-ce05708033b1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cfc55bad-79da-4921-8877-8afb8bc8e1b5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ff67702-3f8a-4e9f-ace5-dcae5bf88763.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2c7aae64-9f40-40f8-ad2e-311bc7ee18bd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ed51c586-b300-40e1-bfa2-72fd804cc3dd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e039984-e139-40d9-a703-79013d9e3832.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 60.0,
+        "unit_level_price": 60.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/afb1aae8-9ad1-40ed-bf4d-9f3af5f6f57d",
+        "id": "afb1aae8-9ad1-40ed-bf4d-9f3af5f6f57d",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "afb1aae8-9ad1-40ed-bf4d-9f3af5f6f57d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 230242,
+        "name": "Fortune Xpert Pro Sugar Conscious Edible Oil",
+        "brand": "Fortune Xpert",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242a.jpg?ts=1687324817",
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242b.jpg?ts=1663761895",
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242c.jpg?ts=1663761895",
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242d.jpg?ts=1663761895",
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/230242f.jpg"
+        ],
+        "mrp": 900,
+        "offer_price": 882,
+        "unit_level_price": "",
+        "quantity": "5 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/230242",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          230242
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "17522",
+        "name": "DMart Premia Sakariya ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000470xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 24,
+        "offer_price": 18,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-sakariya?selectedProd=17522",
+        "id": "18617",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18617"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BFJLCF96G2",
+        "name": "Fortune 100% Pure Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/46a9eb4a3d5be148ada196d3f0c7f1bc"
+        ],
+        "mrp": 740,
+        "x_available": true,
+        "available": true,
+        "offer_price": 733,
+        "unit_level_price": "73.3/kg",
+        "quantity": "5 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/D7VJCB5Q7E",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BFJLCF96G2",
+          "IRYXSOWTIS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "db78380f-0bfc-4619-a872-aefed7e6be17",
+        "name": "Fortune Rozana Basmati Rice(5kg), Fortune Sunlite Refined Sunflower Oil(1l) & Madhur Pure & Hygienic Sugar(1kg) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1458ea05-927f-477b-9d32-64599eb9da3b-8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a0cf1d9-f412-473c-886e-1161fc5a9b87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/029991d8-08e6-4b48-a47d-71a292be10d5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5a379ea-bf17-468c-b250-ce50207d8702.jpeg"
+        ],
+        "mrp": 1115.0,
+        "offer_price": 859.0,
+        "unit_level_price": 859.0,
+        "quantity": "5 Pieces",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "id": "7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7e138f3b-85ee-4788-b232-e9f19c893f3e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ALDBDE0VUV",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d1dbda41b751502bebc6c210e1329635",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db94688bd3be92cb6e2d13b276f7d239",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a72c91ce75be67d7612ad25d47d40137"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      },
+      {
+        "id": 11006,
+        "name": "Madhur Pure & Hygienic Sulphurless Sugar",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/56be7f15-5ec0-48fc-876f-3fc275dba950.jpg?ts=1715067177",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ec8bf373-0fb6-486f-a30d-624b5e27898d.jpg?ts=1715067178",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8b790d6c-c201-4aaf-8042-91636fc5aae4.jpg?ts=1715067179",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/66b70d2e-5927-4679-a4fe-b988b7b67036.jpg?ts=1715067179",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/92d43a0d-a7d6-4fae-9e08-a3e3e4cb27ff.jpg?ts=1715067180",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/69dc7a02-7fdf-455e-9143-2da9b3a08dd5.jpg?ts=1715067180",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/19687440-a193-49ee-9cd6-ea17fc7c069d.jpg?ts=1715067182",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d0fdf826-3e5a-44bd-842f-ed2fc1aec0d6.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/11006",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 50,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          11006
+        ]
+      },
+      {
+        "id": "40195037",
+        "name": "Sugar",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40195037_3-fortune-sugar.jpg"
+        ],
+        "mrp": "65",
+        "offer_price": "60.25",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40195037",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40195037"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "689264",
+        "name": "DMart Premia Big Sakariya ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110001684xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 21,
+        "offer_price": 16,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-big-sakariya-psugar0prem7xx260320?selectedProd=689264",
+        "id": "690162",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "690162"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IRYXSOWTIS",
+        "name": "Fortune 100% Pure Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/697cb273500b8542e7f60c72428b4946",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/13fe9ab1405c8a99956be5cb74aaf33a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1d89045b28c6606e77cbd7f655649715"
+        ],
+        "mrp": 370,
+        "x_available": true,
+        "available": true,
+        "offer_price": 370,
+        "unit_level_price": "74/kg",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/D7VJCB5Q7E",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BFJLCF96G2",
+          "IRYXSOWTIS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527639,
+        "name": "Whole Farm Grocery Sugar (Packet)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5c044aca-92d5-4bfc-a1c5-a688db25a316.jpg?ts=1718106537",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b43da53b-6deb-4293-831a-f8896b74cb9d.jpg?ts=1743766957",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639c.jpg?ts=1692432209",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639d.jpg?ts=1692432209",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639e.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 49,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527639",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 50,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527639
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "127002",
+        "name": "Fortune Chana Dal Besan ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110000809xx23MAY22_5_P.jpg"
+        ],
+        "mrp": 169,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-chana-dal-besan?selectedProd=127002",
+        "id": "113075",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "113075"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "98DG1XN9O2",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/ff5f4dc1-c3f9-42f1-a1ee-d79ba53c24c2_15755.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 51,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/2UDNQI8MR0",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "98DG1XN9O2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 14162,
+        "name": "Madhur Pure & Hygienic Sulphurless Sugar (M30)",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/850c710f-102a-4d12-a786-2e8edecb0f21.jpg?ts=1715067185",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/64e84ad5-d033-4a36-b59e-df558adca169.jpg?ts=1715067186",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f0721e7a-ad56-41c6-aa28-0aac2f3ee34f.jpg?ts=1715067186",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/faf74915-6123-4ab3-aac3-c802af998c66.jpg?ts=1715067188",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c0d4d48a-ce56-4ba6-af4e-4d0639d6747d.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4057d8df-4767-4eb3-a134-45ee544fa2cc.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f982dac8-9c35-48e5-b1bc-81e6102d6933.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/768b289a-bf5d-477f-b95f-539c499dc9a6.jpg"
+        ],
+        "mrp": 315,
+        "offer_price": 267,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/14162",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          14162
+        ]
+      },
+      {
+        "id": "Q6B4JWIBCD",
+        "name": "Madhur Sugar M30",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db75fe860c0321d70c16d346261eef8f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/54e2ca4c8072d9d3bac3d370282f4906",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3ab9f6ad06d01601e9fa8d004ad81103"
+        ],
+        "mrp": 315,
+        "x_available": true,
+        "available": false,
+        "offer_price": 275,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/847G82IUCN",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Q6B4JWIBCD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "796040",
+        "name": "Fortune Filtered Groundnut Oil ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP110002783xx21SEP21_5_P.jpg"
+        ],
+        "mrp": 1275,
+        "offer_price": 900,
+        "unit_level_price": "(\u20b9 180.00 / 1 L)",
+        "quantity": "5 L",
+        "deeplink": "https://www.dmart.in/product/fortune-pure-groundnut-oil-poil0fort1xx90921?selectedProd=796040",
+        "id": "908518",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "908518"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "8MUJ7U71VL",
+        "name": "Fortune Sugar 1 kg + Tata Sampann Iodized Salt 1 kg",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/000d66a4459875ffcd7ed8f3554f9e0a"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 92,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/15KLFD8GRN",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "8MUJ7U71VL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "633509",
+        "name": "Organic Tattva Brown Sugar ",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001357xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 65,
+        "unit_level_price": "(\u20b9 0.13 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/organic-tattva-brown-sugar-psugar0orga11xx060120?selectedProd=633509",
+        "id": "627758",
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627758"
+        ]
+      },
+      {
+        "id": 5450,
+        "name": "Organic Tattva Organic Brown Sugar",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3a3c2b61-061a-4740-bf53-1e797e657323.jpg?ts=1745585794",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/108dd90f-e63d-44b8-a728-a9bcdb3e7ad6.jpg?ts=1745585795",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8fcc17e0-a71b-4bdc-9b48-2f63e6778be2.jpg?ts=1745585795",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba7d0a86-e3d4-4466-b777-ebc5e807ffd4.jpg?ts=1745585796",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a2754213-da36-4ed6-b0ae-f349a4afadeb.jpg?ts=1745585797",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/20eb40db-0aff-4301-b464-057753964b46.jpg?ts=1745585797",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/de03ab3c-9587-4aa5-9fcb-a8f324589d7c.jpg?ts=1745585798",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7518f1d8-dd00-4f6a-8eb2-e3668a357e05.jpg?ts=1745585798",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/669547c5-df02-4e17-9b98-b18c5434f1ff.jpg?ts=1745585799"
+        ],
+        "mrp": 90,
+        "offer_price": 73,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/5450",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          5450
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "121501",
+        "name": "Fortune Refined Sunflower Oil Tin ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110000805xx26MAR25_5_P.jpg"
+        ],
+        "mrp": 3050,
+        "offer_price": 2299,
+        "unit_level_price": "(\u20b9 176.85 / 1 kg)",
+        "quantity": "13 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-sunlite-refined-sunflower-oil---15-ltr-pedibleoilftn2266xx200418?selectedProd=121501",
+        "id": "228005",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "228005"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5WCFIMANCY",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/149b1c2550fd66503fb70eb276313c2a"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 111,
+        "unit_level_price": "55.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525557,
+        "name": "Whole Farm Premium Sugar Powder",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5106bee5-fb84-4e05-85eb-c7313f41aa7c.jpg?ts=1743764650",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 44,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525557",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 13,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525557
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "338501",
+        "name": "Fortune Filtered Groundnut Oil (1 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KGROUNDNUTOIL1LFRTN12XX200220201127_5_P.jpg"
+        ],
+        "mrp": 240,
+        "offer_price": 161,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/fortune-filtered-groundnut-oil-pgroundnutoilfrtn11xx14718?selectedProd=338501",
+        "id": "337503",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "337503"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527638,
+        "name": "Whole Farm Grocery Sugar (5 kg)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f6128bcb-94b4-4e1d-948e-a01c1c475e19.jpg?ts=1743766956",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638e.jpg"
+        ],
+        "mrp": 490,
+        "offer_price": 240,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527638",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527638
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713256",
+        "name": "Fortune Biryani Special Basmati Rice ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110002095xx28JAN23_5_P.jpg"
+        ],
+        "mrp": 210,
+        "offer_price": 149,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-biryani-special-basmati-rice-price0fort57xx80520?selectedProd=713256",
+        "id": "712185",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "712185"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LOTYMJVFG4",
+        "name": "Safe Harvest Pesticide Free Khandsari Sugar",
+        "brand": "Safe Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/c4dff5f1-54c0-48dd-97da-49bd39def759_sugar_LOTYMJVFG4_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/4dacafbe-722b-4aac-b1af-632c6d47313f_sugar_LOTYMJVFG4_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/dd286d95-041b-4a08-bd57-70e815eb7602_sugar_LOTYMJVFG4_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/2ecdadbd-5dff-459b-8007-ecb4f0e1d527_sugar_LOTYMJVFG4_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/3b04a368-8837-4abf-8ac8-b256026c050e_sugar_LOTYMJVFG4_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/b05aa7e4-8f5a-4e38-8a51-1a82f8ae7017_sugar_LOTYMJVFG4_AL5.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VFOU98D1WF",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LOTYMJVFG4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 555367,
+        "name": "Parry's Gold Premium Brown Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7dcdf6ed-dbd2-4fb8-a3dd-5b07ee59a186.jpg?ts=1718207982",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b1e183b6-7ad1-4be3-96a9-418b5d86dd83.jpg?ts=1718207983",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e98045a6-e2ce-4384-89f2-cc4e69a1db9a.jpg?ts=1718207983",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d037b78b-18a3-4477-9b37-141f3c0a5644.jpg?ts=1718207984",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/07684e59-b447-455a-beeb-579b17c0425e.jpg?ts=1718207985"
+        ],
+        "mrp": 40,
+        "offer_price": 40,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/555367",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          555367
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "32007",
+        "name": "Fortune Rice Bran Health Oil (15 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JRiceBranOil15LFortune514XX061020201538_5_P.jpg"
+        ],
+        "mrp": 2999,
+        "offer_price": 2300,
+        "unit_level_price": "(\u20b9 168.50 / 1 kg)",
+        "quantity": "15 L",
+        "deeplink": "https://www.dmart.in/product/fortune-rice-bran-health-oil---15-ltr-pricebranoilftn3429xx290218?selectedProd=32007",
+        "id": "228006",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "228006"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "DHDO0YPL8V",
+        "name": "Fortune Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d1758e28dea344eb2df90368b7c75c9d"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 129,
+        "unit_level_price": "64.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3YPF5VL873",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "DHDO0YPL8V",
+          "V34QW1RPLX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 32006,
+        "name": "24 Mantra Organic Brown Sugar",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1846f27-e2fe-4708-84e4-568a81619ae3.jpg?ts=1742469841",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/40a3e896-a4e5-4e98-bafa-e0acdc7230c2.jpg?ts=1742469842",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3a1d4431-1779-4333-8d8d-bc252ee8b648.jpg?ts=1742469842",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/356ff00c-96a7-4207-91dc-50de5e7ab435.jpg?ts=1742469843"
+        ],
+        "mrp": 85,
+        "offer_price": 72,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32006",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32006
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11105",
+        "name": "Fortune Sunlite Refined Sunflower Oil ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110000124xx26MAR25_5_P.jpg"
+        ],
+        "mrp": 2950,
+        "offer_price": 2355,
+        "unit_level_price": "(\u20b9 181.15 / 1 kg)",
+        "quantity": "13 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-sunlite-refined-sunflower-oil-15ltr?selectedProd=11105",
+        "id": "227501",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "227501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 449050,
+        "name": "Parry's Jaggery Powder",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e89c09d7-b2b9-4e5f-8507-b9940243c5f6.jpg?ts=1708593408",
+          "http://cdn.grofers.com/app/images/products/sliding_image/449050c.jpg?ts=1707742233",
+          "http://cdn.grofers.com/app/images/products/sliding_image/449050d.jpg?ts=1707742233",
+          "http://cdn.grofers.com/app/images/products/sliding_image/449050e.jpg?ts=1707742233",
+          "http://cdn.grofers.com/app/images/products/sliding_image/449050f.jpg?ts=1707742233",
+          "http://cdn.grofers.com/app/images/products/sliding_image/449050g.jpg?ts=1707742233"
+        ],
+        "mrp": 55,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/449050",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 18,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          449050,
+          490865
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11129",
+        "name": "Fortune Plus Soya Health Oil ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110000150xx26MAR25_5_P.jpg"
+        ],
+        "mrp": 185,
+        "offer_price": 142,
+        "unit_level_price": "(\u20b9 0.16 / 1 g)",
+        "quantity": "870 g",
+        "deeplink": "https://www.dmart.in/product/fortune-plus-soya-health-oil?selectedProd=11129",
+        "id": "14100",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14100"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A17DA1CWDY",
+        "name": "Maya Medium Sugar",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wbzrkiytrinfetmqfijd"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 70,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3B01NI7F5Q",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A17DA1CWDY"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 490865,
+        "name": "Parry's Jaggery Powder - Pack of 2",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2ef0630a-e584-4a22-8613-b3661c5b6ce1.jpg?ts=1742558139",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865a.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865b.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865c.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865d.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865e.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865f.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865g.jpg?ts=1710347585",
+          "http://cdn.grofers.com/app/images/products/sliding_image/490865h.jpg?ts=1710347585"
+        ],
+        "mrp": 110,
+        "offer_price": 95,
+        "unit_level_price": "",
+        "quantity": "2 x 500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/490865",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 9,
+        "parentIndex": 10,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          449050,
+          490865
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CX7KN2HUSI",
+        "name": "Dhampur Sulpherless Desi Khand Unrefined Sugar",
+        "brand": "Dhampur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/77a25de01f5507f5988190e4c8737b5b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5ad8a4546456535e4956a4f87b7aa057",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/054396fb646ec05fe796abecf8124639"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8MCMK6O34Q",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CX7KN2HUSI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 23544,
+        "name": "Conscious Food Raw Sugar / Khandsari",
+        "brand": "Conscious Food",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ad3e578b-28f3-4fb1-aa71-d4b54d625ce8.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a3bf5614-1a96-436f-b64b-98d515e94534.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0c808d2-703d-482a-8a08-5de299fe9a32.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/729076d5-1a1c-4141-ad8e-73890d137491.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/53ae0ff6-9f5e-4289-88b3-c7e6fb44ac92.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3efe86dd-5914-4c29-9fa4-37a61ec5812f.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0265bc15-005a-4858-8a1f-d1da35f304aa.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/417d0689-5946-4a8a-aa03-bdec67d208e7.jpg?ts=1734943880",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11969b9e-a67f-4853-9e1c-51a786a588a9.jpg?ts=1734943880"
+        ],
+        "mrp": 99,
+        "offer_price": 78,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/23544",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          23544,
+          482186
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "99517",
+        "name": "Fortune Hamesha Mini Dubar Basmati Rice (Broken) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110000771xx1FEB24_5_P.jpg"
+        ],
+        "mrp": 465,
+        "offer_price": 348,
+        "unit_level_price": "(\u20b9 69.60 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-hamesha-basmati-rice?selectedProd=99517",
+        "id": "96566",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "96566"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "N7W9BUDD66",
+        "name": "Satyam Sugar",
+        "brand": "Satyam",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/clcwgmxubyy4xx6diq2q",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qsbk4aextgy1v8jjsgcb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b0jlwit68cdnklbn97oa"
+        ],
+        "mrp": 62,
+        "x_available": true,
+        "available": true,
+        "offer_price": 62,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NKF7IGLOGJ",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "N7W9BUDD66"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 482186,
+        "name": "Conscious Food Raw Sugar / Khandsari",
+        "brand": "Conscious Food",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f6e9158b-c4ab-418e-9672-fa487ae8b374.jpg?ts=1741687833",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0fef81d9-9145-44cf-8f23-0367ed9dd1ed.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1061a0b3-a800-43dd-9472-203fc740000c.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ee19ed95-2a64-44d3-a3cd-9affda93fd1f.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ddea14d-227d-466a-a739-1f9f38370902.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/89b00c5b-2f73-4de7-834e-7ba4a57fecb9.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/91949c9f-7160-4842-8fca-00d3d02c82e5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1dcace65-b1be-4c97-acbe-0031e7c9048d.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/41e8e95b-db12-43bc-bd85-d14355f475ca.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 234,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/482186",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 11,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          23544,
+          482186
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "31507",
+        "name": "Fortune Kachi Ghani Mustard Oil Bottle (1 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110000576xx5JAN22_5_P.jpg"
+        ],
+        "mrp": 215,
+        "offer_price": 172,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/fortune-kachi-ghani-mustard-oil-bottle?selectedProd=31507",
+        "id": "45562",
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45562"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 38910,
+        "name": "Parry's White Label Sulphurless Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/16feca10-a956-4781-b7fd-4dd1e1bd0f1f.jpg?ts=1708591846",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910b.jpg?ts=1612185613",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910g.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/38910",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38910
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11113",
+        "name": "Fortune Rice Bran Health Oil (5 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000133xx23NOV23_5_P.jpg"
+        ],
+        "mrp": 1125,
+        "offer_price": 910,
+        "unit_level_price": "(\u20b9 200.00 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-rice-bran-health-oil?selectedProd=11113",
+        "id": "14108",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14108"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 13473,
+        "name": "Organic Tattva Organic Sugar",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c514c189-ccce-448b-b7d3-2c1f0b7ae879.jpg?ts=1745585816",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f03635bb-a4ba-460f-b80d-fde8b15cfe12.jpg?ts=1745585817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c3dad4d7-0321-42a4-8995-551fe69bf6ee.jpg?ts=1745585817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7b66e885-5b34-4acc-8630-09ca9ffff7b8.jpg?ts=1745585818",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f5bdb11a-b3a6-4ba8-a3a2-5caedffdb31b.jpg?ts=1745585818",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9941068d-0d6a-45ad-8bbb-86d05a198033.jpg?ts=1745585819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ec0f9c11-6339-4540-9786-19686b173baa.jpg?ts=1745585819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aa397222-2b83-45cd-aa07-86b62a2b1a59.jpg?ts=1745585820",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/05676d96-93d8-4dc2-afa3-06784b09f0aa.jpg?ts=1745585820"
+        ],
+        "mrp": 85,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/13473",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13473
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "TFUX4WKSZP",
+        "name": "organic tattva Sugar",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/20e70709f6ec1193456fff09c1080f4f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a4167b875b556c62ff552c502540905f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4d01b216994e0289ce9a7fa8c8423a12"
+        ],
+        "mrp": 85,
+        "x_available": true,
+        "available": true,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/PKKDU6VC95",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "TFUX4WKSZP"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 449049,
+        "name": "Parry's Sweet Care Low GI Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8c9cde0d-8676-4a31-bd22-879c7fd63e29.jpg?ts=1729081867",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/69a58111-fb68-4c6e-b95f-d0bc02735e06.jpg?ts=1728995531",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b1d6848b-638e-4c44-8dbf-5a1e49ed0844.jpg?ts=1728995531",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc84251c-d91f-4560-8a3b-4c01934230cb.jpg?ts=1729081868",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6fe63909-0128-4eb5-93fc-d78082db1f01.jpg?ts=1728995531",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2de09494-b6c2-4d45-a721-984b8ff54cae.jpg?ts=1728995531",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fed1db11-4c6b-4110-a975-bbe88dd212f5.jpg?ts=1728995531",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/aac48aa0-aae6-4812-9874-0ee627b2b2a7.jpg?ts=1728995531",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/12d0356c-a498-441c-8d1d-cb4c55a65e8b.jpg?ts=1728995531"
+        ],
+        "mrp": 60,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/449049",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          449049,
+          490863
+        ]
+      },
+      {
+        "id": "FXKC7SHNLH",
+        "name": "Parry's White Label Sugar",
+        "brand": "Parry's",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ff5d4592eae0e7d2f3696c0332450860",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4a6d4340ded601046bbf45efe2ef0793",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fba472f0890806b529b6f0370387eee7"
+        ],
+        "mrp": 60,
+        "x_available": true,
+        "available": true,
+        "offer_price": 51,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9VLHCQ8L38",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "FXKC7SHNLH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "30501",
+        "name": "Fortune Kachi Ghani Mustard Oil (1 L) ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110000562xx5JAN22_5_P.jpg"
+        ],
+        "mrp": 210,
+        "offer_price": 172,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "910 g",
+        "deeplink": "https://www.dmart.in/product/fortune-kachi-ghani-mustard-oil?selectedProd=30501",
+        "id": "45554",
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45554"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LWXK420XXY",
+        "name": "Supreme Harvest Crystal Sugar 1 kg + Aashirvaad Iodized Salt 1 kg",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/11/d8345724-ca10-4622-ba32-ebb05373467a_sugar_LWXK420XXY_MN.png"
+        ],
+        "mrp": 110,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/728DL26ZZE",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LWXK420XXY"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 490863,
+        "name": "Parry's Sweet Care Low GI Sugar - Pack of 2",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/361664bb-ff93-4132-85d3-9bb0c13596d6.jpg?ts=1722328879",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b3112de3-e20e-4e4d-b433-3d558e655a0a.jpg?ts=1722328880",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bf94346d-ade1-4e34-a92a-b329a5ea74e7.jpg?ts=1722328882",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ead5de47-79f1-428a-aac4-4e0389801d7b.jpg?ts=1722328883",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eee9c438-5068-4fcf-8823-e5efd01eba0c.jpg?ts=1722328884",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6190e564-eb23-4451-bbba-2f30114d203f.jpg?ts=1722328885",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f94febaa-9d5a-4097-82c7-0a5b2ef5ff5c.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8d3bcee9-ca7b-4c7a-8cfa-3dfced187da0.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 89,
+        "unit_level_price": "",
+        "quantity": "2 x 500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/490863",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          449049,
+          490863
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11107",
+        "name": "Fortune Sunlite Refined Sunflower Oil ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110000126xx26MAR25_5_P.jpg"
+        ],
+        "mrp": 1030,
+        "offer_price": 825,
+        "unit_level_price": "(\u20b9 189.66 / 1 kg)",
+        "quantity": "4.35 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-sunlite-refined-sunflower-oil?selectedProd=11107",
+        "id": "14110",
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14110"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZMPZQLF5FQ",
+        "name": "Safe Harvest Pesticide Free Khandsari Sugar",
+        "brand": "Safe Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/7438ee8c-4520-4feb-98c3-fec9cd921e16_sugar_ZMPZQLF5FQ_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/7e42b8f2-b702-4bea-ad16-582f867f5588_sugar_ZMPZQLF5FQ_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/049fc26c-c4e9-44e2-b2c8-b0e24230ace8_sugar_ZMPZQLF5FQ_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/61cac713-86c4-4fc3-8e8e-3f9df35a36eb_sugar_ZMPZQLF5FQ_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/ac735a86-a329-421b-bbf5-1b75f0193adc_sugar_ZMPZQLF5FQ_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/10/5c8ec3e0-8e05-4dc1-a182-37aac7fb4848_sugar_ZMPZQLF5FQ_AL5.png"
+        ],
+        "mrp": 149,
+        "x_available": true,
+        "available": true,
+        "offer_price": 136,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5WHMCXLDMR",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZMPZQLF5FQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 38905,
+        "name": "Parry's Pure Refined Sulphurless Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9e071f75-6d62-458b-b68c-52da9397f6b2.jpg?ts=1724329300",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/751a62f6-7c24-4171-80d0-abf855676230.jpg?ts=1724329301",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/62977d8c-8259-4329-8cbf-1e6116864f90.jpg?ts=1724329302",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0708490a-8874-42b6-a688-39f40d578d7d.jpg?ts=1724329303",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8a145777-39be-48e2-b9eb-472961ef6199.jpg?ts=1724329305",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5745c443-c9eb-4ee6-aa77-d0aadfc0223a.jpg?ts=1724329306",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/07527424-397a-4dd7-8087-4edbd6c1e628.jpg?ts=1724329307"
+        ],
+        "mrp": 70,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/38905",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38905,
+          490864
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P3MB65WNGV",
+        "name": "Madhur Sugar & Tata Iodized Salt Pouch Combo",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/29f85a6f9b6d4775049e5c5ba10e2a3d"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 83,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RQGQ85HX6E",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "P3MB65WNGV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 490864,
+        "name": "Parry's Pure Refined Sulphurless Sugar - Pack of 2",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e5a2b466-b27f-4a04-ba92-b74140bbbfb0.jpg?ts=1742558137",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864a.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864b.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864c.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864d.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864e.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864f.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864g.jpg?ts=1710347585"
+        ],
+        "mrp": 140,
+        "offer_price": 129,
+        "unit_level_price": "",
+        "quantity": "2 x 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/490864",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38905,
+          490864
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "683001",
+        "name": "Fortune Chakki Fresh Wheat Atta ",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001410xx28JUN22_5_P.jpg"
+        ],
+        "mrp": 531,
+        "offer_price": 449,
+        "unit_level_price": "(\u20b9 44.90 / 1 kg)",
+        "quantity": "10 kg",
+        "deeplink": "https://www.dmart.in/product/fortune-chakki-fresh-atta-patta0fort45xx160320?selectedProd=683001",
+        "id": "679534",
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "679534"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "N41MNJ8F8P",
+        "name": "Sugar Free Gold",
+        "brand": "Sugar Free",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/6cb30938-0460-4185-8d0a-b419b9c97162_6448_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/e60bc1ef-43bf-4d75-84fb-f07f4d40bbd5_6448_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/5079fa30-89d9-419d-903f-c6fc6cf52d50_6448_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/d6a4978c-6922-467f-9677-03f4b36fea4b_6448_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/e7a2f6de-c71c-4764-a8a4-6ecb345ab2c6_6448_5.png"
+        ],
+        "mrp": 310,
+        "x_available": true,
+        "available": true,
+        "offer_price": 310,
+        "unit_level_price": "",
+        "quantity": "50 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9YSNA6O564",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "N41MNJ8F8P"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 28752,
+        "name": "Pro Nature Organic Sugar",
+        "brand": "Pro Nature",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/da768360-4914-49f1-a194-a5fb0b70cd93.jpg?ts=1711713899",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/21cc3855-3001-4c5b-8964-dd3a5f6e74c3.jpg?ts=1711713899",
+          "https://cdn.grofers.com/app/images/products/sliding_image/28752c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/28752d.jpg"
+        ],
+        "mrp": 76,
+        "offer_price": 64,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/28752",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          28752
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0L50R2L32C",
+        "name": "Parry's Superfine sugar",
+        "brand": "Parry's",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/28/45534e9d-c915-47c5-912b-79135345462c_890822_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/28/41b5b05b-8273-41f5-846d-3cb6e6cabe8f_890822_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/28/57b44bcc-d818-4109-b602-2de6fe32d811_890822_3.png"
+        ],
+        "mrp": 75,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9WGSP9M1D3",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0L50R2L32C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 495432,
+        "name": "Parry's Superfine Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ca24453a-fedb-469a-aae0-e72b8620ee55.jpg?ts=1722328890",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/555c822c-ed1e-44ee-96fb-3d48b1ed57c0.jpg?ts=1722328891",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/270eb360-a43b-4419-a87d-8af11aa97fd7.jpg?ts=1722328893",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b31c9c6f-69ec-49ff-8333-5b06307828cd.jpg?ts=1722328894",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a95829ba-667b-4afd-8c75-5af7ce8307a4.jpg?ts=1722328895"
+        ],
+        "mrp": 75,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/495432",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          495432
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11353",
+        "name": "Sugar Free Natura Powder ",
+        "brand": "Sugar Free",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISugarfree100gSGRF3686xx070621_5_P.jpg"
+        ],
+        "mrp": 159,
+        "offer_price": 139,
+        "unit_level_price": "(\u20b9 1.39 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/sugar-free-natura-powder?selectedProd=11353",
+        "id": "14107",
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14107"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9LQVXRMYQS",
+        "name": "Sugar Free Gold",
+        "brand": "Sugar Free",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/edf71bfa-0ee7-4720-9316-326182e4fa95_63571_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/7c6fcd48-a843-43ad-8dfd-0ece2e7968d5_63571_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/c37e5da7-7c21-431d-af80-3a7e2a1b4e60_63571_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/e111f81f-be3f-4a66-ab64-47098cb801bd_14444_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/99a5e104-673c-485b-b0e1-3c3e54e5082b_63571_5.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 80,
+        "unit_level_price": "",
+        "quantity": "100 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/GE4FNCGHO7",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9LQVXRMYQS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 59642,
+        "name": "24 Mantra Organic Sugar",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/29fd4e48-53a4-4a4d-8c9b-826572d23b30.jpg?ts=1745478118",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f73b3d9a-5630-4d50-b577-42d663121f6b.jpg?ts=1745478118",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d8ac777-01fb-4ee9-b289-08d71af93caa.jpg?ts=1745478119",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fbac9453-07ef-4c14-9f93-5f9338d44ecf.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9bae97dc-9ef6-4742-b739-593b00c3c536.jpg?ts=1715163654"
+        ],
+        "mrp": 145,
+        "offer_price": 127,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/59642",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          59642,
+          477802,
+          625388
+        ]
+      },
+      {
+        "xid": "394503",
+        "name": "24 Mantra Organic Sugar ",
+        "brand": "24 Mantra Organic",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110001129xx30NOV23_5_P.jpg"
+        ],
+        "mrp": 145,
+        "offer_price": 119,
+        "unit_level_price": "(\u20b9 0.12 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/24-mantra-organic-sugar-psugarmntr17xx151118?selectedProd=394503",
+        "id": "367717",
+        "parentIndex": 31,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "367717"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11357",
+        "name": "Sugar Free Natura Pellets ",
+        "brand": "Sugar Free",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISugarfree500SGRF3682xx070621_5_P.jpg"
+        ],
+        "mrp": 320,
+        "offer_price": 280,
+        "unit_level_price": "(\u20b9 0.56 / 1 U)",
+        "quantity": "500 U",
+        "deeplink": "https://www.dmart.in/product/sugar-free-natura-pellets?selectedProd=11357",
+        "id": "14159",
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14159"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6BS3J6BLO2",
+        "name": "Sugar Free Green Stevia",
+        "brand": "Sugar Free",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/09538554-eb1a-4cce-aae2-4bc74b61914b_48707_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/64c86fd7-06c5-41c7-b9d8-b491c55b4d6e_48707_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/b23b3db1-c201-4982-b384-b60d2376839a_14446_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/402a38f5-8e5e-4f27-8b0b-453db4394d77_14446_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/9a617f2b-1759-44ca-8066-033d72d2cdad_14446_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/8c2ec90c-4e72-4cb1-baff-d1f6dba8515b_48707_6.png"
+        ],
+        "mrp": 315,
+        "x_available": true,
+        "available": true,
+        "offer_price": 306,
+        "unit_level_price": "",
+        "quantity": "300 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/K0TK32DMFI",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "8 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "6BS3J6BLO2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 477802,
+        "name": "24 Mantra Organic Sugar - Pack of 2",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9efcf503-43ef-41ca-8a4f-dd7bf81559cc.jpg?ts=1742470093",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae219564-19ab-474e-907f-bc5d3fc48bef.jpg?ts=1742470093",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d3b25452-0853-4999-9707-3adf50deb85c.jpg?ts=1742470093",
+          "https://cdn.grofers.com/app/images/products/sliding_image/477802c.jpg?ts=1710347254",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2ac84c8e-529a-4d9f-80e5-4562d16653b8.jpg?ts=1715163657",
+          "https://cdn.grofers.com/app/images/products/sliding_image/477802e.jpg?ts=1710347254",
+          "https://cdn.grofers.com/app/images/products/sliding_image/477802f.jpg?ts=1710347254",
+          "https://cdn.grofers.com/app/images/products/sliding_image/477802g.jpg?ts=1710347254"
+        ],
+        "mrp": 290,
+        "offer_price": 236,
+        "unit_level_price": "",
+        "quantity": "2 x 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/477802",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          59642,
+          477802,
+          625388
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11354",
+        "name": "Sugar Free Gold Powder ",
+        "brand": "Sugar Free",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISugarfree100gSGRF3678xx070621_5_P.jpg"
+        ],
+        "mrp": 159,
+        "offer_price": 139,
+        "unit_level_price": "(\u20b9 1.39 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/sugar-free-gold-powder?selectedProd=11354",
+        "id": "14082",
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14082"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 625388,
+        "name": "24 Mantra Organic Sugar",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d8adc2e4-0f91-4e24-b41e-e8b13d1c37bb.jpg?ts=1742470752",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3c80be49-3dcc-460e-956d-96c3735170a9.jpg?ts=1742470753",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd18a354-e298-4513-97ec-ff22ea56ff4e.jpg?ts=1742470753",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b140d5af-cf4b-4c9b-a9c2-14f5d8fe5be6.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6da89f9f-6694-4cbd-94cc-6bafbcc19600.jpg"
+        ],
+        "mrp": 435,
+        "offer_price": 326,
+        "unit_level_price": "",
+        "quantity": "3 x 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/625388",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          59642,
+          477802,
+          625388
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11359",
+        "name": "Sugar Free Gold Pellets ",
+        "brand": "Sugar Free",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISugarfree500SGRF3676xx070621_5_P.jpg"
+        ],
+        "mrp": 320,
+        "offer_price": 280,
+        "unit_level_price": "(\u20b9 0.56 / 1 U)",
+        "quantity": "500 U",
+        "deeplink": "https://www.dmart.in/product/sugar-free-gold-pellets?selectedProd=11359",
+        "id": "14081",
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14081"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 520628,
+        "name": "True Story Natural Organic Brown Sugar",
+        "brand": "True Story",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e3432c15-0e8a-42d9-abe2-e9d0a77cdc73.jpg?ts=1723795834",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7ff9fad0-2533-4ea9-8d47-0fe989b47a6f.jpg?ts=1719234228",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/70ceb812-be94-4833-8556-5e7cc32c3610.jpg?ts=1719234229",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f96579cd-b59c-421a-be3f-e9866826ed60.jpg?ts=1719234230"
+        ],
+        "mrp": 90,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/520628",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          520628
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11343",
+        "name": "DMart Premia Sugar Candy ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000377xx30JUN22_5_P.jpg"
+        ],
+        "mrp": 34,
+        "offer_price": 25,
+        "unit_level_price": "(\u20b9 0.13 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-sugar-candy?selectedProd=11343",
+        "id": "15111",
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15111"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "34508",
+        "name": "Madhur Pure & Hygienic Sugar ",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000558xx8JUN22_5_P.jpg"
+        ],
+        "mrp": 315,
+        "offer_price": 245,
+        "unit_level_price": "(\u20b9 49.00 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/madhur-pure-&-hygienic-sugar?selectedProd=34508",
+        "id": "14080",
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14080"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11346",
+        "name": "DMart Premia Sugar ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000380xx24NOV21_5_P.jpg"
+        ],
+        "mrp": 296,
+        "offer_price": 227,
+        "unit_level_price": "(\u20b9 45.40 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/premia-sugar?selectedProd=11346",
+        "id": "15112",
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15112"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "37003",
+        "name": "Satyam Sugar Bura ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JSugar500gmSTYM534xx205021_5_P.jpg"
+        ],
+        "mrp": 42,
+        "offer_price": 34,
+        "unit_level_price": "(\u20b9 0.07 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/satyam-sugar-bura?selectedProd=37003",
+        "id": "45581",
+        "parentIndex": 30,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45581"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "633507",
+        "name": "Organic Tattva Sugar ",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001355xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 115,
+        "unit_level_price": "(\u20b9 0.12 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/organic-tattva-sugar-psugar0orga7xx060120?selectedProd=633507",
+        "id": "627756",
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627756"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1694525",
+        "name": "Star Struck Liquid Sugar Plum Lip Color ",
+        "brand": "Star Struck",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR140006255xx3MAR25_5_P.jpg"
+        ],
+        "mrp": 799,
+        "offer_price": 399,
+        "unit_level_price": "(\u20b9 72.55 / 1 ml)",
+        "quantity": "5.5 ml",
+        "deeplink": "https://www.dmart.in/product/star-struck-liquid-sugar-plum-lip-color-plipstick5xx3325?selectedProd=1694525",
+        "id": "1706565",
+        "parentIndex": 33,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1706565"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1558534",
+        "name": "Brimune Sugar Free Aloe Juice ",
+        "brand": "Brimune",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR130002245xx16APR24_5_P.jpg"
+        ],
+        "mrp": 500,
+        "offer_price": 399,
+        "unit_level_price": "(\u20b9 0.40 / 1 ml)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/brimune-sugar-free-aloe-juice-pjuices0brim13xx160424?selectedProd=1558534",
+        "id": "1558533",
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1558533"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1694523",
+        "name": "Star Struck Intense Matte Sugar Plum Lp Color ",
+        "brand": "Star Struck",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR140006253xx3MAR25_5_P.jpg"
+        ],
+        "mrp": 799,
+        "offer_price": 399,
+        "unit_level_price": "(\u20b9 95.00 / 1 g)",
+        "quantity": "4.2 g",
+        "deeplink": "https://www.dmart.in/product/star-struck-intense-matte-sugar-plum-lp-color-plipstick3xx3325?selectedProd=1694523",
+        "id": "1706563",
+        "parentIndex": 35,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1706563"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1161644",
+        "name": "Coca Cola Zero Sugar Bottle ",
+        "brand": "Coca Cola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB130001921xx23FEB24_5_P.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 29,
+        "unit_level_price": "(\u20b9 0.04 / 1 ml)",
+        "quantity": "750 ml",
+        "deeplink": "https://www.dmart.in/product/coca-cola-zero-sugar-bottle-psftdrinks0coca7xx230224?selectedProd=1161644",
+        "id": "1481090",
+        "parentIndex": 36,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1481090"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "759253",
+        "name": "D Homes Glass Deli Sugar Bowl (Candy Jar) - 290 ml",
+        "brand": "D Homes",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150001337xx26FEB25_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/d-homes-glass-deli-bowl-290-ml-pbowl2xx81124?selectedProd=759253",
+        "id": "1663522",
+        "parentIndex": 37,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1663522"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "627004",
+        "name": "Orbit Spearmint Sugar Free Chewing Gum ",
+        "brand": "Orbit",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120001899xx14DEC21_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 2.05 / 1 gm)",
+        "quantity": "22 g",
+        "deeplink": "https://www.dmart.in/product/orbit-spearmint-sugar-free-chewing-gum-pcandies0orbi5xx201219?selectedProd=627004",
+        "id": "627504",
+        "parentIndex": 38,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627504"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "665032",
+        "name": "Soulfull Diet Millet Muesli - No Added Sugar ",
+        "brand": "Soulfull",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN140001529xx22JAN25_5_P.jpg"
+        ],
+        "mrp": 539,
+        "offer_price": 377,
+        "unit_level_price": "(\u20b9 0.54 / 1 gm)",
+        "quantity": "700 g",
+        "deeplink": "https://www.dmart.in/product/soulfull-diet-millet-muesli---no-added-sugar-phairshmpo0soul33xx170120?selectedProd=665032",
+        "id": "658683",
+        "parentIndex": 39,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "658683"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713322",
+        "name": "Wrigley's Orbit Mixed Fruit Sugar Free Chewing Gum ",
+        "brand": "Wrigley's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LCANDIES22gmWrig44xx90520_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 2.05 / 1 gm)",
+        "quantity": "22 g",
+        "deeplink": "https://www.dmart.in/product/wrigley-orbit-mix-fruit-sugar-free-chewing-gum-pcandies0wrig43xx90520?selectedProd=713322",
+        "id": "714590",
+        "parentIndex": 40,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714590"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "740170",
+        "name": "Coke Zero Sugar ",
+        "brand": "Coca Cola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN130000269xx17JAN22_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 29,
+        "unit_level_price": "(\u20b9 0.10 / 1 ml)",
+        "quantity": "300 ml",
+        "deeplink": "https://www.dmart.in/product/coke-zero-can-psftdrinks0coke1xx230421?selectedProd=740170",
+        "id": "861010",
+        "parentIndex": 41,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "861010"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "829006",
+        "name": "Coca-Cola No Sugar Bottle ",
+        "brand": "Coca Cola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC130001550xx8DEC21_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 140,
+        "unit_level_price": "",
+        "quantity": "8 x 250 ml",
+        "deeplink": "https://www.dmart.in/product/coca-cola-no-sugar-multipack-bot-psftdrinks0coca7xx250121?selectedProd=829006",
+        "id": "829521",
+        "parentIndex": 42,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "829521"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1384043",
+        "name": "Lakme Cushion Matte Lipstick - Burgundy Bloom ",
+        "brand": "Lakme",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR140005213xx22APR25_5_P.jpg"
+        ],
+        "mrp": 325,
+        "offer_price": 243,
+        "unit_level_price": "(\u20b9 54.00 / 1 gm)",
+        "quantity": "Burgundy Bloom",
+        "deeplink": "https://www.dmart.in/product/lakme-cushion-matte-lipstick---plum-obsession-plipstick5214xx1223?selectedProd=1384043",
+        "id": "1387023",
+        "parentIndex": 45,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1387023"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1462018",
+        "name": "Varna Wooden Finish Tea Coffee And Sugar Containers - Set of 3 ",
+        "brand": "Varna",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150006048xx1FEB24_5_P.jpg"
+        ],
+        "mrp": 1899,
+        "offer_price": 679,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/varna-wooden-finish-tea--coffee-and-sugar-containers-psteelcont0varn17xx10224?selectedProd=1462018",
+        "id": "1477509",
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1477509"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1627107",
+        "name": "Deepvansh Stainless Steel Tea & Sugar Storage Jar (Canisters) ",
+        "brand": "Deepvansh",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP150007573xx10SEP24_5_P.jpg"
+        ],
+        "mrp": 389,
+        "offer_price": 249,
+        "unit_level_price": "(\u20b9 124.50 / 1 U)",
+        "quantity": "2 U",
+        "deeplink": "https://www.dmart.in/product/deepvansh-stainless-steel-tea-sugar-storage-jar-(canisters)-psteelcontainers29xx100924?selectedProd=1627107",
+        "id": "1629594",
+        "parentIndex": 47,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1629594"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11402",
+        "name": "Dukes Nice Sugar Sprinkled Coconut Biscuits ",
+        "brand": "Dukes",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR120000040xx19MAR23_5_P.jpg"
+        ],
+        "mrp": 35,
+        "offer_price": 22,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "145 g",
+        "deeplink": "https://www.dmart.in/product/dukes-nice-sugar-sprinkled-coconut-biscuits?selectedProd=11402",
+        "id": "13539",
+        "parentIndex": 48,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13539"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1281887",
+        "name": "Kokan Raj Kokum Agal Sharbat (Sugar Free) ",
+        "brand": "Kokan Raj",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR130002013xx3MAR25_5_P.jpg"
+        ],
+        "mrp": 170,
+        "offer_price": 85,
+        "unit_level_price": "(\u20b9 0.09 / 1 ml)",
+        "quantity": "1 L",
+        "deeplink": "https://www.dmart.in/product/kokan-raj-kokum-agal-sharbat-(sugar-free)-psquash-syrups1xx30525?selectedProd=1281887",
+        "id": "1706559",
+        "parentIndex": 49,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1706559"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669532",
+        "name": "Color Fx New York Sugar Wine 107 Nail Enamel ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006098xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 150,
+        "unit_level_price": "(\u20b9 16.67 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-wine-107-nail-enamel-pnailpolish11xx1125?selectedProd=1669532",
+        "id": "1676873",
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676873"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669533",
+        "name": "Color Fx New York Sugar Lemon 109 Nail Enamel ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006099xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 249,
+        "unit_level_price": "(\u20b9 27.67 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-lemon-109-nail-enamel-pnailpolish12xx1125?selectedProd=1669533",
+        "id": "1676874",
+        "parentIndex": 51,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676874"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669534",
+        "name": "Color Fx New York Sugar Crimson 113 Nail Enamel - Red ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006100xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 150,
+        "unit_level_price": "(\u20b9 16.67 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-crimson-113-nail-enamel-red-pnailpolish13xx1125?selectedProd=1669534",
+        "id": "1676875",
+        "parentIndex": 52,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676875"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669535",
+        "name": "Color Fx New York Sugar Royal 114 Nail Enamel - Blue ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006101xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 199,
+        "unit_level_price": "(\u20b9 22.11 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-royal-114-nail-enamel-blue-pnailpolish14xx1125?selectedProd=1669535",
+        "id": "1676876",
+        "parentIndex": 53,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676876"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669536",
+        "name": "Color Fx New York Sugar Baby 116 Nail Enamel - Magenda ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006102xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 199,
+        "unit_level_price": "(\u20b9 22.11 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-baby-116-nail-enamel-magenda-pnailpolish15xx1125?selectedProd=1669536",
+        "id": "1676877",
+        "parentIndex": 54,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676877"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669537",
+        "name": "Color Fx New York Sugar Baby Baby 117 Nail Enamel - Pink ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006103xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 199,
+        "unit_level_price": "(\u20b9 22.11 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-baby-baby-117-nail-enamel-pink-pnailpolish16xx1125?selectedProd=1669537",
+        "id": "1676878",
+        "parentIndex": 55,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676878"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1669538",
+        "name": "Color Fx New York Sugar Baby 118 Nail Enamel - Pink ",
+        "brand": "Color Fx",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC140006104xx31DEC24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 149,
+        "unit_level_price": "(\u20b9 16.56 / 1 ml)",
+        "quantity": "9 ml",
+        "deeplink": "https://www.dmart.in/product/color-fx-new-york-sugar-baby-118-nail-enamel-pink-pnailpolish17xx1125?selectedProd=1669538",
+        "id": "1676879",
+        "parentIndex": 56,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1676879"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "498001",
+        "name": "Nutrivalue Stevia Leaves - Natural Sweetener ",
+        "brand": "Nutrivalue",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110001197xx14DEC21_5_P.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 140,
+        "unit_level_price": "(\u20b9 2.80 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/nutrivalue-stevia-leaves---natural-sweetner-psgrsubst0nutr1xx19419?selectedProd=498001",
+        "id": "494031",
+        "parentIndex": 57,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "494031"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39001",
+        "name": "Satyam Sindhav Powder ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JSalt100gmSTYM546xx205021_5_P.jpg"
+        ],
+        "mrp": 14,
+        "offer_price": 8,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/satyam-sindhav-powder?selectedProd=39001",
+        "id": "45590",
+        "parentIndex": 58,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45590"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "242005",
+        "name": "24 Mantra Organic Jaggery Powder ",
+        "brand": "24 Mantra Organic",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110001003xx3APR24_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 78,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/24-mantra-organic-jaggery-powder-ppoha24maor21xx130218?selectedProd=242005",
+        "id": "237540",
+        "parentIndex": 59,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "237540"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "627001",
+        "name": "Paawak Jaggery Cubes Jar ",
+        "brand": "Paawak",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LJAGGERY500gmPaaw12xx250150121_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 55,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/paawak-natural-jaggery-jar-pjaggery0paaw11xx221219?selectedProd=627001",
+        "id": "627501",
+        "parentIndex": 60,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713279",
+        "name": "Sonai Jaggery Powder Pouch ",
+        "brand": "Sonai",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110002118xx30JAN23_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 80,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/sonai-jaggery-powder-pouch-pjaggery0daur63xx80520?selectedProd=713279",
+        "id": "712188",
+        "parentIndex": 61,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "712188"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "885501",
+        "name": "Tata SuperLite Salt ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110003196xx17JAN23_5_P.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 65,
+        "unit_level_price": "(\u20b9 0.07 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-superlite-salt-1kg-psalt0tata15xx150721?selectedProd=885501",
+        "id": "885042",
+        "parentIndex": 62,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "885042"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1281591",
+        "name": "Paawak Jaggery Powder Pouch ",
+        "brand": "Paawak",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110003809xx27APR23_5_P.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 42,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/paawak-jaggery-powder-pouch-pjaggery0paaw3xx270423?selectedProd=1281591",
+        "id": "1307025",
+        "parentIndex": 63,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1307025"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1598674",
+        "name": "Jivana Jaggery Powder Jar ",
+        "brand": "Jivana",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004494xx1JUL24_5_P.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 83,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/jivana-jaggery-powder-jar-pjaggery0jiva19xx10724?selectedProd=1598674",
+        "id": "1598673",
+        "parentIndex": 64,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1598673"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1673022",
+        "name": "AGVS Bandhu Jaggery Bites ",
+        "brand": "AGVS Bandhu",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004695xx18DEC24_5_P.jpg"
+        ],
+        "mrp": 180,
+        "offer_price": 90,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/agvs-bandhu-jaggery-bites-pjaggery29xx211224?selectedProd=1673022",
+        "id": "1674405",
+        "parentIndex": 65,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1674405"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1680029",
+        "name": "Organic India Jaggery Powder ",
+        "brand": "Organic India",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110004769xx27JAN25_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 95,
+        "unit_level_price": "(\u20b9 0.19 / 1 g)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/organic-india-jaggery-powder-pjaggery7xx270125?selectedProd=1680029",
+        "id": "1686167",
+        "parentIndex": 66,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1686167"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "307001",
+        "name": "Puro Healthy Salt ",
+        "brand": "Puro",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110001045xx28NOV22_5_P.jpg"
+        ],
+        "mrp": 115,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/puro-healthy-salt-psugarnjaggerypuro85xx150518?selectedProd=307001",
+        "id": "302576",
+        "parentIndex": 67,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "302576"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1483017",
+        "name": "Crystal Pink Rock Salt ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110004352xx14MAR24_5_P.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 59,
+        "unit_level_price": "(\u20b9 0.06 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/crystal-pink-rock-salt-psalt0015xx200324?selectedProd=1483017",
+        "id": "1545568",
+        "parentIndex": 68,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1545568"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1468004",
+        "name": "Swarnaras Jaggery Bites ",
+        "brand": "Swarnaras",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110004309xx30JAN24_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 57,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/swarnaras-jaggery-bites-pjaggery0swar13xx60224?selectedProd=1468004",
+        "id": "1471007",
+        "parentIndex": 69,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1471007"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1483016",
+        "name": "Kastoori Jaggery Powder ",
+        "brand": "KASTURI",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110004351xx14MAR24_5_P.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 48,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/kastoori-jaggery-powder-pjaggery0kast13xx200324?selectedProd=1483016",
+        "id": "1545567",
+        "parentIndex": 70,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1545567"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1483018",
+        "name": "Black Salt ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110004353xx14MAR24_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 24,
+        "unit_level_price": "(\u20b9 0.12 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/black-salt-psalt0017xx200324?selectedProd=1483018",
+        "id": "1545569",
+        "parentIndex": 71,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1545569"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18579",
+        "name": "Keshar Premium Natural Jaggery Jar ",
+        "brand": "Keshar",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000504xx12NOV24_5_P.jpg"
+        ],
+        "mrp": 125,
+        "offer_price": 90,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "800 g",
+        "deeplink": "https://www.dmart.in/product/keshar-premium-natural-jaggery-jar?selectedProd=18579",
+        "id": "18578",
+        "parentIndex": 72,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18578"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "109003",
+        "name": "Patanjali Iodine Namak ",
+        "brand": "Patanjali",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110000791xx10FEB25_5_P.jpg"
+        ],
+        "mrp": 22,
+        "offer_price": 11,
+        "unit_level_price": "(\u20b9 0.01 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/patanjali-iodine-namak?selectedProd=109003",
+        "id": "111010",
+        "parentIndex": 73,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "111010"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "486501",
+        "name": "Pitambari Ruchiyana Jaggery Powder ",
+        "brand": "Pitambari",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LJAGGERY500gmPITA48xx100621_5_P.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 44,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/pitambari-ruchiyana-jaggery---chemical-free-pjaggerypita47xx14419?selectedProd=486501",
+        "id": "484080",
+        "parentIndex": 74,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "484080"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11349",
+        "name": "Jaggery ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110000383xx27DEC23_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 67,
+        "unit_level_price": "(\u20b9 0.07 / 1 gm)",
+        "quantity": "900 g",
+        "deeplink": "https://www.dmart.in/product/premia-jaggery?selectedProd=11349",
+        "id": "15108",
+        "parentIndex": 76,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15108"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1053501",
+        "name": "Shree Annapurna Jaggery Powder ",
+        "brand": "Annapurna",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110003437xx05MAY22_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 64,
+        "unit_level_price": "(\u20b9 0.06 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/shree-annapurna-jaggery-powder-pjaggery0033xx50522?selectedProd=1053501",
+        "id": "1062017",
+        "parentIndex": 77,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1062017"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11351",
+        "name": "Satyam Jaggery ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IJaggery500gmSTYM3647xx205021_5_P.jpg"
+        ],
+        "mrp": 67,
+        "offer_price": 56,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/satyam-jaggery?selectedProd=11351",
+        "id": "14079",
+        "parentIndex": 78,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14079"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11347",
+        "name": "Premium Jaggery ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110000381xx27DEC23_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 66,
+        "unit_level_price": "(\u20b9 0.07 / 1 gm)",
+        "quantity": "900 g",
+        "deeplink": "https://www.dmart.in/product/mast-mast-premium-jaggery?selectedProd=11347",
+        "id": "15109",
+        "parentIndex": 79,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15109"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11338",
+        "name": "Aashirvaad Salt ",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISalt1kgASHW3649xx150421_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 22,
+        "unit_level_price": "(\u20b9 0.02 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/aashirvaad-salt?selectedProd=11338",
+        "id": "14155",
+        "parentIndex": 80,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14155"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "982501",
+        "name": "Rock Salt ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110003331xx12APR23_5_P.jpg"
+        ],
+        "mrp": 78,
+        "offer_price": 53,
+        "unit_level_price": "(\u20b9 0.05 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/rock-salt-psalt001xx200122?selectedProd=982501",
+        "id": "989501",
+        "parentIndex": 81,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "989501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11339",
+        "name": "Tata Salt Lite - Low Sodium Iodised ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000373xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.04 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-salt-lite?selectedProd=11339",
+        "id": "14156",
+        "parentIndex": 82,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14156"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "631501",
+        "name": "Tata Rock Salt Powder Pouch ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001341xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 56,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/tata-rock-salt-powder-pouch-psalt0saty81xx271219?selectedProd=631501",
+        "id": "627677",
+        "parentIndex": 84,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627677"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11340",
+        "name": "Tata Salt - Evaporated Iodised ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISalt1kgTATA3655xx190521_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 26,
+        "unit_level_price": "(\u20b9 0.03 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-salt?selectedProd=11340",
+        "id": "14217",
+        "parentIndex": 85,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14217"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "990002",
+        "name": "FNF Crossline Men's Hanky - Multicolour ",
+        "brand": "FNF",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR160001440xx29MAR22_5_P.jpg"
+        ],
+        "mrp": 180,
+        "offer_price": 119,
+        "unit_level_price": "(\u20b9 39.67 / 1 U)",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/fnf-crossline-mens-hanky---multicolour-phnkrchif0017xx280322?selectedProd=990002",
+        "id": "1039504",
+        "parentIndex": 86,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1039504"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1281839",
+        "name": "Threptin Lite Diskettes ",
+        "brand": "Threptin",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR120006308xx27APR23_5_P.jpg"
+        ],
+        "mrp": 499,
+        "offer_price": 399,
+        "unit_level_price": "(\u20b9 1.45 / 1 gm)",
+        "quantity": "275 g",
+        "deeplink": "https://www.dmart.in/product/threptin-lite-diskettes-pbiscuits0thre3xx270423?selectedProd=1281839",
+        "id": "1307023",
+        "parentIndex": 87,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1307023"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "899048",
+        "name": "D Homes Glass Cube Jar Tall - 970 ml ",
+        "brand": "D Homes",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV150003443xx1NOV24_5_P.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/cr-glass-cube-jar-tall-970ml-[asl]-(-offline-)-psnackset005xx150823?selectedProd=899048",
+        "id": "1376592",
+        "parentIndex": 88,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1376592"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "660503",
+        "name": "Gemini Refined Rice Bran Oil Jar (5 L) ",
+        "brand": "Gemini",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110001375xx16MAY23_5_P.jpg"
+        ],
+        "mrp": 1000,
+        "offer_price": 785,
+        "unit_level_price": "(\u20b9 172.53 / 1 kg)",
+        "quantity": "4.550 kg",
+        "deeplink": "https://www.dmart.in/product/gemini-rice-bran-oil-poil0gemi59xx170120?selectedProd=660503",
+        "id": "658661",
+        "parentIndex": 90,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "658661"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11370",
+        "name": "Dabur Chyawanprakash Sugarfree ",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120000004xx16DEC24_5_P.jpg"
+        ],
+        "mrp": 460,
+        "offer_price": 340,
+        "unit_level_price": "(\u20b9 0.38 / 1 gm)",
+        "quantity": "900 g",
+        "deeplink": "https://www.dmart.in/product/dabur-chyawanprakash-sugar-free?selectedProd=11370",
+        "id": "13520",
+        "parentIndex": 91,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13520"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "665064",
+        "name": "Gokul Stainless Steel Tea Time Canister ",
+        "brand": "Gokul",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LMUGS2PcsGoku6xx130220_5_P.jpg"
+        ],
+        "mrp": 450,
+        "offer_price": 149,
+        "unit_level_price": "(\u20b9 74.50 / 1 U)",
+        "quantity": "2 U",
+        "deeplink": "https://www.dmart.in/product/gokul-stainless-steel-tea-time-canister-pmugs0goku5xx130220?selectedProd=665064",
+        "id": "658690",
+        "parentIndex": 92,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "658690"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "912506",
+        "name": "Stainless Steel Tea Time Canister",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP150003636xx30SEP21_5_P.jpg"
+        ],
+        "mrp": 535,
+        "offer_price": 229,
+        "unit_level_price": "(\u20b9 114.50 / 1 U)",
+        "quantity": "2 U",
+        "deeplink": "https://www.dmart.in/product/sl-tea---sugar-cannistr-2pc-set[bm]-psteelcont003xx300921?selectedProd=912506",
+        "id": "917135",
+        "parentIndex": 93,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "917135"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1359004",
+        "name": "Joyo Spacio Container (German Lavender) 1.5 L - Set Of 3 ",
+        "brand": "Joyo",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL150005451xx27JUL23_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/-joyo-spacio-container---15-litres-(german-lavender)-pcontainers0joyo1xx10823?selectedProd=1359004",
+        "id": "1368009",
+        "parentIndex": 94,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1368009"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1359005",
+        "name": "Joyo Spacio Container (German Blue) 1.5 L - Set Of 3 ",
+        "brand": "Joyo",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL150005452xx27JUL23_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/-joyo-spacio-container---15-litres-(german-blue)-pcontainers0joyo3xx10823?selectedProd=1359005",
+        "id": "1368010",
+        "parentIndex": 95,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1368010"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1462016",
+        "name": "Varna Apple Shape Ubha Dabba - Set of 3 ",
+        "brand": "Varna",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150006046xx1FEB24_5_P.jpg"
+        ],
+        "mrp": 1499,
+        "offer_price": 729,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/varna-apple-shape-ubha-dabba-psteelcont0varn13xx10224?selectedProd=1462016",
+        "id": "1477507",
+        "parentIndex": 96,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1477507"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1462017",
+        "name": "Varna Baby Diamond Deep Dabba - Set of 3 ",
+        "brand": "Varna",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150006047xx1FEB24_5_P.jpg"
+        ],
+        "mrp": 1499,
+        "offer_price": 429,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/varna-baby-diamond-deep-dabba-psteelcont0varn15xx10224?selectedProd=1462017",
+        "id": "1477508",
+        "parentIndex": 97,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1477508"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "409001",
+        "name": "Britannia Little Hearts Classic ",
+        "brand": "Britannia Little Hearts",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120001399xx24JUN24_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 25,
+        "unit_level_price": "(\u20b9 0.36 / 1 gm)",
+        "quantity": "70 g",
+        "deeplink": "https://www.dmart.in/product/britannia-little-hearts-classic-biscuits?selectedProd=409001",
+        "id": "13514",
+        "parentIndex": 99,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13514"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2601 @@
+[
+  {
+    "data": [
+      {
+        "id": "40021405",
+        "name": "Californian Almond - Giri",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40021405_12-bb-popular-almondbadam-californian-giri.jpg"
+        ],
+        "mrp": "1435",
+        "offer_price": "992",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40021405",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40021405"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 549422,
+        "name": "Happilo 100% Natural Popular Californian Almonds",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bd43f112-4aa5-4ec9-b7e2-45524dae152a.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/25e64eae-3092-4bde-a669-20563911b4d2.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/358ef2ec-d778-4f43-b023-b46abbe1aa8a.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/765bb1b0-b8bd-4dfc-8431-0a6f6b59b31b.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/46ddecd6-16fb-4598-8a32-7f134bf70b2f.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/51e3b913-c233-43d9-8b3e-971be2d9078f.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fb7c251b-7743-4730-9ab7-ba7b24aea4d2.jpg"
+        ],
+        "mrp": 1300,
+        "offer_price": 849,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/549422",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          549422
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2afb7f26-3236-4d2d-a83d-da271cfd9b93",
+        "name": "Happilo Natural Popular Californian Almonds",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d925f6a5-dc7f-46fc-b062-5ec721155992.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2fdf98bc-528a-4552-9964-3f7651caede0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3e6c7b23-d43c-44ae-a9c6-93e63b0ab75c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f44fcdd2-1d9a-43d0-a6f0-3dfe0f07af48.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6bbb628f-1a3b-43bc-b8da-46060f521632.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/192e9c23-b415-44a6-a60c-3eefdabc5ffc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a52d827c-8742-4535-aae3-0e6ca252e1eb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7b1aa2fd-2fe4-48ba-9eec-d0d5306327b3.jpeg"
+        ],
+        "mrp": 600.0,
+        "offer_price": 482.0,
+        "unit_level_price": 482.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/001c9b87-508c-4d3c-ac83-dcae6dc92d25",
+        "id": "001c9b87-508c-4d3c-ac83-dcae6dc92d25",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "001c9b87-508c-4d3c-ac83-dcae6dc92d25"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "593542921",
+        "name": "Ziofit 500g Popular Almonds California",
+        "brand": "ZIOFIT",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvikkdy1cf/ziofit-popular-californian-almonds-500-g-raw-badam-dry-fruit-high-protien-snack-and-super-healthy-nuts-product-images-orvikkdy1cf-p593542921-0-202208282122.jpg"
+        ],
+        "mrp": 625,
+        "offer_price": 310,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/ziofit-popular-californian-almonds-500-g-raw-badam-dry-fruit-high-protien-snack-and-super-healthy-nuts/593542921",
+        "id": "593542921",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "593542921"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A13AF8134U",
+        "name": "Basic Almond",
+        "brand": "        ",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/31/220dfb8d-bb91-4176-8585-2a91aeb32314_driedfruitsnutsandseeds_A13AF8134U_MN.png"
+        ],
+        "mrp": 1200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 806,
+        "unit_level_price": "80.6/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5I9394OL4R",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A13AF8134U",
+          "WILHMQG801"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0274ff27-b3b6-4330-9d49-f7f4a4575963",
+        "name": "Happilo 100% Natural Premium Californian Almonds",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aa4c23e4-9001-4f34-9a89-622f13842b79.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6520d57c-d5df-4b34-8d1d-b41e99ffb365.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/494b0b09-7366-4e47-a998-91509475ac63.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f6654a48-d7ad-4596-8561-30acd6721119.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3616afee-ab3b-404a-93ae-6c1250f5940c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/57b03bdc-7aa9-4ed3-b002-fade430e79f5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/08bf61b1-ea0e-4598-904e-709084dd332b.jpeg"
+        ],
+        "mrp": 675.0,
+        "offer_price": 561.0,
+        "unit_level_price": 561.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f745287f-81bd-4e0f-adb0-d97a9b3d3a76",
+        "id": "f745287f-81bd-4e0f-adb0-d97a9b3d3a76",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f745287f-81bd-4e0f-adb0-d97a9b3d3a76"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "593487244",
+        "name": "Ziofit 1kg Popular Almonds Calfornia",
+        "brand": "ZIOFIT",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv5wlz2bqa/ziofit-popular-californian-almonds-1-kg-raw-badam-dry-fruit-high-protien-snack-and-super-healthy-nuts-product-images-orv5wlz2bqa-p593487244-0-202208271443.jpg"
+        ],
+        "mrp": 1250,
+        "offer_price": 838,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/ziofit-popular-californian-almonds-1-kg-raw-badam-dry-fruit-high-protien-snack-and-super-healthy-nuts/593487244",
+        "id": "593487244",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "593487244"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WILHMQG801",
+        "name": "Basic Almond",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/19/a7b62ba6-5d58-4594-bf53-4b5db007cd56_74314.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/2/94d89a97-a1d4-4b4f-b713-918e1aaf33aa_74314_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/1/c43216aa-66c6-4d29-9fa2-0ffe50e1e7f6_74314_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/1/bdce3afb-56ec-4455-b5d2-fcb1b6502b79_74314_4.png"
+        ],
+        "mrp": 600,
+        "x_available": true,
+        "available": true,
+        "offer_price": 409,
+        "unit_level_price": "81.8/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5I9394OL4R",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A13AF8134U",
+          "WILHMQG801"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f2bab267-8aa2-4c68-89b8-0a125e2cc7ca",
+        "name": "Hershey's Exotic Dark Chocolate Californian Almonds - With Blackberry Crunchy Dark Chocolate",
+        "brand": "Hershey's",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/66073efd-dec5-41a0-90b7-f98c401d8e81.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8e27f404-a83a-4c4c-b11c-bf5ddc6f461a-1yJVFhHSo-_SWaesGtc3VsECN7JzcFmkz.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8e27f404-a83a-4c4c-b11c-bf5ddc6f461a-1RSPLJU-jmR88e2ZRKtUzWTvS9Nuw4EIX.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8e27f404-a83a-4c4c-b11c-bf5ddc6f461a-1QdA_eylwCcSOA3joNIQFbNiDPuc0DcPi.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8e27f404-a83a-4c4c-b11c-bf5ddc6f461a-1cl-l0butbgpsO3eCa-UIB4assKoMWpo5.jpeg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 65.0,
+        "unit_level_price": 65.0,
+        "quantity": "30 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8e27f404-a83a-4c4c-b11c-bf5ddc6f461a",
+        "id": "8e27f404-a83a-4c4c-b11c-bf5ddc6f461a",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8e27f404-a83a-4c4c-b11c-bf5ddc6f461a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X93NPM29T0",
+        "name": "Yogabar Almonds Premium California Dried Almonds",
+        "brand": "Yogabar",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d28be7ab8648aff55112ba593c1518aa"
+        ],
+        "mrp": 598,
+        "x_available": true,
+        "available": true,
+        "offer_price": 468,
+        "unit_level_price": "117/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VOV1160O6N",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X93NPM29T0",
+          "0ZILXFRYXQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c2c1d7a6-7674-406d-9a7e-b34b6d90dd80",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e07f6168-3ee8-4969-9c3b-641727078f3b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/106f4f7a-3835-4ead-94c6-39d9a094ba01.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e6d19ca3-176c-4ca8-a677-99d8d534e904.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d71312d-838c-4ae7-97ab-e2187cb88c57.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1334b077-ac58-4797-84fe-ec44bbec1616.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83a03e84-01ed-4cd6-af3d-f84198633f83.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3d74efdd-6bff-449a-b393-bdd3aa4d8152.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a17a5d76-0007-4a89-90a7-fccac14a4bd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c6c3e560-90b7-43d7-b265-e524663c2ac5.jpeg"
+        ],
+        "mrp": 829.0,
+        "offer_price": 651.0,
+        "unit_level_price": 651.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "id": "0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0e8c47cb-65ab-40aa-a197-300ab42f3b7d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0ZILXFRYXQ",
+        "name": "Yogabar Almonds Premium California Dried Almonds",
+        "brand": "Yogabar",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/437d7c58e5641d798446d940df4c976a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/37e847ec363d89b1c80424b4f84776ff",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/790768a690763f307f6ca414b278343c",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c78126902d085a2c43bfedebaf9ea58a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1dc02b727cf3a621b42777af784caa1a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b4e1710045e8b67873ae3cd797e13854"
+        ],
+        "mrp": 299,
+        "x_available": true,
+        "available": true,
+        "offer_price": 237,
+        "unit_level_price": "118.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VOV1160O6N",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X93NPM29T0",
+          "0ZILXFRYXQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a41bedc0-4a0f-468f-8d14-a7226adb976d",
+        "name": "Daily Good Cashew ( W320)(200gms) & Daily Good Almond (California)(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3df60db9-7356-4d5a-a9f6-4f2c1ae0ac7c.jpg"
+        ],
+        "mrp": 574.0,
+        "offer_price": 416.0,
+        "unit_level_price": 416.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7e1fe5ea-1538-4b72-ae8e-5a021954f7e1",
+        "id": "7e1fe5ea-1538-4b72-ae8e-5a021954f7e1",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7e1fe5ea-1538-4b72-ae8e-5a021954f7e1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "986TBJMOBW",
+        "name": "Open Secret premium california almonds (badam)",
+        "brand": "OPEN SECRET",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/14/ee0bdf24-6f06-44ec-91d1-66c423dc0dde_746565.png"
+        ],
+        "mrp": 700,
+        "x_available": true,
+        "available": true,
+        "offer_price": 631,
+        "unit_level_price": "157.8/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/V9IYS2OL2R",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "986TBJMOBW",
+          "CIG3QO29MS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40338241",
+        "name": "Natural Popular Californian Almonds",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40338241_1-happilo-natural-popular-californian-almonds.jpg"
+        ],
+        "mrp": "600",
+        "offer_price": "600",
+        "unit_level_price": "",
+        "quantity": "400 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40338241",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40338241"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "906d01c0-e5d3-5485-8b57-642cb01312bc",
+        "name": "Farmley 100% Natural California Almonds - Badam",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7fea3a4b-d67d-44bf-b502-584dc30a0382.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/567900d2-c1f8-450a-a8c5-1eb2d7b5ed49.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dcd954ae-1674-41fe-9e8a-3053a7dcd774.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d38fa12f-6878-43e9-8242-3f7365473420.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2d834ce7-6f69-45fb-8386-56e856929e5f.jpg"
+        ],
+        "mrp": 899.0,
+        "offer_price": 652.0,
+        "unit_level_price": 652.0,
+        "quantity": null,
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/df1f4b00-777f-499e-8149-c0a335aadd43",
+        "id": "df1f4b00-777f-499e-8149-c0a335aadd43",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "df1f4b00-777f-499e-8149-c0a335aadd43"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CIG3QO29MS",
+        "name": "Open Secret premium california almonds (badam)",
+        "brand": "OPEN SECRET",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/11ebe0ebf446f9b0b311e0d754329b5f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/538c9d7e146a63b8f2b40d2419101221",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9d0db2d3408f9a59f687de0cd8853899"
+        ],
+        "mrp": 350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 319,
+        "unit_level_price": "159.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/V9IYS2OL2R",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "986TBJMOBW",
+          "CIG3QO29MS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d19be730-b451-406f-8239-352eb8c94e2b",
+        "name": "Daily Good Almond (California)",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d41d6207-3b7a-4761-98c1-c8961ec694a4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7585fe8a-48e0-4ceb-87b1-793b0ceb8842.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d77a09d1-db15-4b48-a73f-811920ae202c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/751ce5c1-7efc-4646-9e8d-6d093f6a724c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e030f5d3-9e75-43b4-a329-6edd482b26ca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/368706a6-b777-4583-b5b5-18cb52118a86.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4e70269c-85b0-41ea-9030-aa35bf4db83a.jpeg"
+        ],
+        "mrp": 1095.0,
+        "offer_price": 896.0,
+        "unit_level_price": 896.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/33afa0c8-347a-4be5-87d9-fbd620ed0181",
+        "id": "33afa0c8-347a-4be5-87d9-fbd620ed0181",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "33afa0c8-347a-4be5-87d9-fbd620ed0181"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WG25OT46XH",
+        "name": "Happilo Essentials Californian Popular Almond",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ef84d41a-2138-4674-a40d-bd80bcf2ad8d_26594_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/7e7b88d7-b02a-4ee4-bbc4-2f4809ce6b51_26594_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/23a3e772-d18c-43c4-b986-e2fdca310448_26594_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/816ce2e1-984b-4f5f-9dff-fe837607116e_26594_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/c02e597b-e793-4164-aa1c-883d71416359_26594_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/3b77138a-4c24-42eb-843e-725c2610bbee_26594_6.png"
+        ],
+        "mrp": 725,
+        "x_available": true,
+        "available": true,
+        "offer_price": 529,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/JOK3PF0X1Z",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WG25OT46XH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40274476",
+        "name": "California Almonds",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40274476_10-tata-sampann-100-pure-premium-california-almonds-whole-protein-rich.jpg"
+        ],
+        "mrp": "1432.27",
+        "offer_price": "1156",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40274476",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40274476"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "923df308-938f-4ff4-901d-68e91135e39b",
+        "name": "Daily Good Almond / Badam (California)(100gms) & Daily Good Dried Dates(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/518b0633-a7c0-4dfb-9472-416639bffd3f.jpg"
+        ],
+        "mrp": 240.0,
+        "offer_price": 219.0,
+        "unit_level_price": 219.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/765ad1f7-d66c-4d6a-bf05-298eaa78161e",
+        "id": "765ad1f7-d66c-4d6a-bf05-298eaa78161e",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "765ad1f7-d66c-4d6a-bf05-298eaa78161e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "K3Z11R786C",
+        "name": "Wonderland Foods California Almond",
+        "brand": "Wonderland Foods",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/3/3dddd180-a948-45ed-b764-e703e3bac20f_707686_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/892af3a6-edb3-4dfc-b9e9-67d3a857f938_707686_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/3/e0315ccc-d32e-4589-b85d-82d8fab3e1ea_707686_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/3/91722a22-631e-41ac-a6a1-32652e076b33_707686_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/3/25964509-08fd-4122-b591-9e1d2c7b046c_707686_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/3/d7628a61-96ca-4e0d-95ab-25accd7f90a4_707686_6.png"
+        ],
+        "mrp": 1450,
+        "x_available": true,
+        "available": true,
+        "offer_price": 932,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/FRO22Q8TPY",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "K3Z11R786C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "45ed05c1-5669-497f-b334-25dccc23f5bc",
+        "name": "Nutraj Almond/Badam California",
+        "brand": "Nutraj",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b9d3dea-f1f8-40c3-b37f-d552279ac956.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/60b41320-87c7-4d81-8ab7-c92b6d052aee16PZwQ5Ev3Rvydv63ovpwgPB-p6hJZzWA.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/27fce21c-d46c-4e1f-87e3-c9d726faf70d1TvekaxhCN0qV3ZwfIZgawz6_XABNSM8v.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c4534561-2d5c-4903-ba8e-f70897430ae01l9YQiU4K-Wr1SRNJ9OChMVEMxr5dejNw.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dc0b23a4-6e4e-4238-94bb-ae9fc10dbf871X-PxHcJ7JL_hdf49e2ccPtxq7_C4ZVI_.jpeg"
+        ],
+        "mrp": 1149.0,
+        "offer_price": 940.0,
+        "unit_level_price": 940.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a1f1d768-3cf7-47fb-a71a-2ac829cde9a5",
+        "id": "a1f1d768-3cf7-47fb-a71a-2ac829cde9a5",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a1f1d768-3cf7-47fb-a71a-2ac829cde9a5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BNG52TN7P7",
+        "name": "Happilo 100% Natural Premium Californian Almonds Badam",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/99fc5abc-f983-4e10-b42a-bc26068b2cd8_75750_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ea9b9835-deee-4eb1-9835-887a4cb3c1ce_75750_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/d1baa8d4-5b69-47a0-acd9-a765329dc149_75750_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/165dfe07-38f0-4d90-8974-25bda3d640e1_75750_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/5b67a5a1-5bdb-4f80-9a77-27096480a95b_75750_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/85dfca85-ada8-4484-ae2a-283a96766673_75750_6.png"
+        ],
+        "mrp": 1350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 999,
+        "unit_level_price": "",
+        "quantity": "1000 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RPF5REJOVE",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BNG52TN7P7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a86d388d-ece1-4009-8262-ca9cb4e8ce7d",
+        "name": "Daily Good Almond (California)(200gms) & Daily Good Raisin Golden(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7a81da66-1182-4f3b-8638-3352c93991d0.jpg"
+        ],
+        "mrp": 345.0,
+        "offer_price": 241.0,
+        "unit_level_price": 241.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5f473a06-c64f-4150-a17e-a8386e482ee0",
+        "id": "5f473a06-c64f-4150-a17e-a8386e482ee0",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "5f473a06-c64f-4150-a17e-a8386e482ee0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XBPGFWBD8O",
+        "name": "Tata Sampann - 100% Pure California Almonds/Badam",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/105e97189a531a1a37a69de3ee82b941"
+        ],
+        "mrp": 1658,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1209,
+        "unit_level_price": "120.9/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NSYA2T1EYC",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XBPGFWBD8O",
+          "361HRRG2LW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d50153d6-b1c9-420c-9862-4c383679439e",
+        "name": "Daily Good Cashew ( W320)(200gms), Daily Good Almond (California)(200gms) & Daily Good Raisin Golden(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4c4e06a9-499c-4713-9f1f-d022765f94bd.jpg"
+        ],
+        "mrp": 694.0,
+        "offer_price": 532.0,
+        "unit_level_price": 532.0,
+        "quantity": "3 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ac1011c5-d894-4431-8f86-e77d493b6acd",
+        "id": "ac1011c5-d894-4431-8f86-e77d493b6acd",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ac1011c5-d894-4431-8f86-e77d493b6acd"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "361HRRG2LW",
+        "name": "Tata Sampann - 100% Pure California Almonds/Badam",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/6c5dfd5d-103a-4bbc-8ae9-ecd2903ce177_15215_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/f34b1c08-59af-4680-8604-e231ad915dc8_15215_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/0debd498-c4fa-466c-b309-2ee51426ea83_15215_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/9/126c1821-18e3-42ef-95b9-716d624bc8de_15215_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/f4cf017e-354d-45a1-b765-07eb78703330_15215_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/403011e5-d58a-455d-861a-698826abce8b_15215_6.png"
+        ],
+        "mrp": 829,
+        "x_available": true,
+        "available": true,
+        "offer_price": 621,
+        "unit_level_price": "124.2/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NSYA2T1EYC",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XBPGFWBD8O",
+          "361HRRG2LW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c22db7d5-e257-4a87-b1e7-38553a3f0eea",
+        "name": "Daily Good Cashew / Kaju Split(100gms), Daily Good Almond / Badam (California)(100gms) & Daily Good Pistachios California Salted(100gms) & Daily Good Walnut / Akhrot Broken Kernels(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99648496-d6cc-4a24-b25d-0700e1df1ed8.jpg"
+        ],
+        "mrp": 784.0,
+        "offer_price": 665.0,
+        "unit_level_price": 665.0,
+        "quantity": "4 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/484ea167-01bc-4130-a69b-ae626c50b36f",
+        "id": "484ea167-01bc-4130-a69b-ae626c50b36f",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "484ea167-01bc-4130-a69b-ae626c50b36f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KDTW4MCDZO",
+        "name": "Wonderland Foods Raw Almonds & Cashews Combo",
+        "brand": "Wonderland Foods",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/7fb1fc7f-e18a-4e9c-990c-1c90398347aa_driedfruitsnutsandseeds_KDTW4MCDZO_MN.png"
+        ],
+        "mrp": 1569,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1007,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MDA27NROO0",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "KDTW4MCDZO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40202556",
+        "name": "Californian Almonds",
+        "brand": "bb SUPER SAVER",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40202556_3-super-saver-californian-almond.jpg"
+        ],
+        "mrp": "430",
+        "offer_price": "430",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40202556",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40202556"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "82732a5b-202a-405e-9322-e9d32825c9fb",
+        "name": "Daily Good Cashew (W320)(500gms) & Daily Good Almond (California)(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a8ddca0a-6f4b-4bef-939f-2274b793e597.jpg"
+        ],
+        "mrp": 1240.0,
+        "offer_price": 1074.0,
+        "unit_level_price": 1074.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b8b6521d-5be3-424c-9d74-502f89c86090",
+        "id": "b8b6521d-5be3-424c-9d74-502f89c86090",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b8b6521d-5be3-424c-9d74-502f89c86090"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X29Y11KPZ7",
+        "name": "Tata Sampann 100% Pure California Whole Almonds/Badam",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/aa0d0da1-ad3f-4728-a7d4-3d0fbc5023fb_485516_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/6004a35c-a77c-464e-8253-29a49203fd9b_485516_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/8f38a76b-645d-4cdb-8079-9c733d1b67ea_485516_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/c8ccdff0-b6cc-4182-bcc3-32a739fd9e59_485516_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/9fe6fd0b-5058-4685-988b-067fd41a8268_485516_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/24/39be8525-a8d9-4e22-80e2-7e001c7f4f5a_485516_6.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/26/341a7bcc-5f7d-434b-acf8-343b3084ba92_485516_6.png"
+        ],
+        "mrp": 1345,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1170,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/AKG0W73VST",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X29Y11KPZ7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b89a3b28-6f0b-4b33-b8aa-49dc33a79346",
+        "name": "Farmley Premium California Almonds",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6e03eb8e-a79e-4f3f-87bd-44de25324ced.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0cae2a94-8c8e-4746-a60d-a07b2f6ac270-1FDkQdPbXGPspd-aTeOhv0xNvlZjl8oMN.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0cae2a94-8c8e-4746-a60d-a07b2f6ac270-1d8Gb5p35-3Uo7tSlWSy6ghA1LEMT1Zgh.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0cae2a94-8c8e-4746-a60d-a07b2f6ac270-1p_0XoSzfVW_qKO9jl-KqC7tAgKC9x_vJ.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0cae2a94-8c8e-4746-a60d-a07b2f6ac270-1pC8mHxbeaWnQi8HmEeK2KhK8kRkCGRLz.jpeg"
+        ],
+        "mrp": 699.0,
+        "offer_price": 547.0,
+        "unit_level_price": 547.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0cae2a94-8c8e-4746-a60d-a07b2f6ac270",
+        "id": "0cae2a94-8c8e-4746-a60d-a07b2f6ac270",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0cae2a94-8c8e-4746-a60d-a07b2f6ac270"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PRA68FY8QI",
+        "name": "Open Secret Premium California Almonds (Badam)",
+        "brand": "OPEN SECRET",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/16/eba6bb29-c548-4d50-ae3e-50dc1b46cc38_941714_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/16/e99f1e18-eb52-49b5-8756-252e1061afc1_941714_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/16/3913216d-f132-4353-890c-ded36c76d5e8_941714_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/16/63e884b6-4e16-4958-9af6-0ed70d98ff78_941714_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/16/20820f6a-f7b8-4b08-a4ae-a0eda6aa6bd3_941714_5.png"
+        ],
+        "mrp": 1598,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1399,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/391QRX2KKY",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PRA68FY8QI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40087191",
+        "name": "100% Natural Premium Californian Almonds",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40087191_6-happilo-premium-natural-californian-almonds.jpg"
+        ],
+        "mrp": "275",
+        "offer_price": "225.5",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40087191",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40087191"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8228de3e-2e75-43da-844d-b3c2ebb2e6ae",
+        "name": "Daily Good Almond / Badam | California",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5f3bc542-4e9a-46f9-8cd0-5276c09ead8c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a4aa1808-a2e8-4ad9-8878-050558a7f8ba.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/62143378-db9d-448b-8460-c8beddb5e9e3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/255246dc-c605-49b9-9ca8-d07280ece25a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d254a939-7c81-4031-91a0-f1240a9de85c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be37931e-a2ec-4e27-9a94-97e40f858b13.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/51a4d988-0b69-4943-a20b-2434c8e88ded.jpeg"
+        ],
+        "mrp": 545.0,
+        "offer_price": 527.0,
+        "unit_level_price": 527.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/26510ea9-60a1-403c-a384-0c18b76b80fb",
+        "id": "26510ea9-60a1-403c-a384-0c18b76b80fb",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "26510ea9-60a1-403c-a384-0c18b76b80fb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X81NTXMGLD",
+        "name": "Wonderland Foods Raw Almonds Value Pack",
+        "brand": "Wonderland Foods",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/792149c7-b7c5-49d0-8e19-787937bf9734_39395_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/71903ba5-6590-4c2e-8031-159b7b7fcf87_39395_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/a97af238-b7df-4e1d-bd4f-b226724cfe40_39395_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/754da95a-51fa-432c-9c58-f8ff47377366_39395_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/7f42b1c7-1ec6-4ead-9be5-4508fe80ac8c_39395_5.png"
+        ],
+        "mrp": 799,
+        "x_available": true,
+        "available": true,
+        "offer_price": 478,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZBPZGZ9NHO",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X81NTXMGLD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8ab36bbf-9098-4b92-98a0-7ea29f7c27b5",
+        "name": "Open Secret Premium California Almonds | Badam | Fasting Special | Vrat",
+        "brand": "Open Secret",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6d950b46-f73c-4add-b1d2-956aeb6e0bc5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f1acaefb-32c5-415f-bc0d-82c7f86bb522.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f853a70-c975-4711-9985-9870e92fe73f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/22b2eb35-aa4b-43b7-9420-eeefebd8e59f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/df910209-df7f-44e1-88e8-e319015e9f85.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cc123a52-e834-464c-bc65-d859ce28d019.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec188ba5-fc4b-4b1a-96ba-68f112ab1dca.jpeg"
+        ],
+        "mrp": 1598.0,
+        "offer_price": 940.0,
+        "unit_level_price": 940.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dcd241cf-3ba1-4677-a146-d94027ed8ad4",
+        "id": "dcd241cf-3ba1-4677-a146-d94027ed8ad4",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "dcd241cf-3ba1-4677-a146-d94027ed8ad4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AXDF3GDJUK",
+        "name": "True Elements Panchmewa - Cashews, Almonds, Raisins, Black Currants and Dates",
+        "brand": "True Elements",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/27/5ffd8b2f-99b1-4aad-aada-22583d9a5748_351291.png"
+        ],
+        "mrp": 1200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 820,
+        "unit_level_price": "",
+        "quantity": "400 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/J9A1P0QAXM",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AXDF3GDJUK"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000519",
+        "name": "California Almonds - Premium, Protein Packed",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000519_17-bb-royal-almondbadam-californian-giri.jpg"
+        ],
+        "mrp": "328",
+        "offer_price": "252",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000519",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000519"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "56eb8a8b-cc00-4b29-9926-933f109b7022",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47317afa-09c2-4c6c-a5bb-6b54cf3a3bd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b92c145c-079d-4bb8-b71f-c154df0543e0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/11305eec-936d-4b9c-afb3-1bce33a4b62e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1196fb5a-5fdd-44cd-ae6d-faba492f412e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d4383b6-2066-4f82-bd56-1e2b076b9333.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8c24eafd-a6e6-49be-8f24-f0606bd1172a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4091e61-8945-4b0a-8f3c-32f602c0d040.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af7b001d-b5b5-4b65-8e3c-1dbe9c3021c1.jpeg"
+        ],
+        "mrp": 1695.0,
+        "offer_price": 1242.0,
+        "unit_level_price": 1242.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ae033b29-2305-4dd1-8289-bc008d9555dc",
+        "id": "ae033b29-2305-4dd1-8289-bc008d9555dc",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ae033b29-2305-4dd1-8289-bc008d9555dc"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YIFN1K7HI1",
+        "name": "Happilo 100% Natural Premium Californian Almonds",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/fd25ca09-2b5d-4c0c-ba00-05303248e6d7_38355_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/eeb97c60-b663-4bfe-8be4-1fc582719395_38355_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/c2b0c5f3-6be4-47d1-8428-2a7ee2ef7015_3371_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/b6ffefce-5dfe-44d5-b586-54853a6b3790_38355_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/3bcccf49-a048-42d6-a19d-d20dc5905b45_38355_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/7b7acff1-b2b6-4b9f-aad5-0a9946f5051c_38355_6.png"
+        ],
+        "mrp": 675,
+        "x_available": true,
+        "available": true,
+        "offer_price": 549,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ECGIREAKZA",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YIFN1K7HI1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ce1367ac-5749-47d6-a921-e636551fd042",
+        "name": "Daily Good Almond / Badam | California 500 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e2af54a5-a35e-4cd8-9ee5-6120167c4f9e.jpg"
+        ],
+        "mrp": 1090.0,
+        "offer_price": 1022.0,
+        "unit_level_price": 1022.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/27a0d694-b4a6-4bd0-a4d8-2679f6261eb5",
+        "id": "27a0d694-b4a6-4bd0-a4d8-2679f6261eb5",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "27a0d694-b4a6-4bd0-a4d8-2679f6261eb5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "SWVV9SWUUB",
+        "name": "Happilo Premium Californian Roasted & Salted Pistachios",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/9bf95b55-a5a2-4091-8735-bda46b78f5e0_38354_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/5efdad5c-704e-486c-aa59-1d46e68c3f12_38354_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ad0d2587-cf45-4148-9050-a5359f6a55cb_38354_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/aed8362f-38d5-491e-ada8-12f1c746002a_38354_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/c57b452d-e06e-4482-ba00-882979130e00_38354_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/7f9a9e36-3369-4a82-bfe9-1f34592f0900_38354_6.png"
+        ],
+        "mrp": 990,
+        "x_available": true,
+        "available": true,
+        "offer_price": 771,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/33XNKW8PBX",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "SWVV9SWUUB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7d079ccd-dfeb-48f6-a734-fbaa73cd95aa",
+        "name": "Smart One Almond | California Indi",
+        "brand": "Smart One",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/abaadb7d-bcaa-4b25-8a4c-e220e2cb611c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f0cb9463-2642-4e9b-b83c-ce887c2e74fe.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7ae6812d-7c16-4b78-a145-2389502607eb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be985f88-21de-42f1-863d-35b1f50cd994.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3dee1d71-f681-4440-89dc-d6c0c03ab411.jpeg"
+        ],
+        "mrp": 210.0,
+        "offer_price": 172.0,
+        "unit_level_price": 172.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1b103f59-b17a-4f3a-ba18-3092cbbd0df1",
+        "id": "1b103f59-b17a-4f3a-ba18-3092cbbd0df1",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1b103f59-b17a-4f3a-ba18-3092cbbd0df1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5NWTKB48DI",
+        "name": "Happilo Natural Popular Californian Almonds",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/bb8c5eac-e0a6-426a-91a4-96bab80b28a9_670175_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ccbf1634-b3fa-4ddd-bd40-cc855c2e8125_670175_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/dc81e2b7-171d-45a5-8d56-dbd78b2d1f78_670175_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/00e1d3d5-a16a-40e2-a8eb-1b8d4a0a0620_670175_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ac9a9967-ce2e-422e-8beb-6f49b6cfb092_670175_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/dddd125f-8a52-4d36-90fa-7f08c12657ed_670175_6.png"
+        ],
+        "mrp": 600,
+        "x_available": true,
+        "available": true,
+        "offer_price": 429,
+        "unit_level_price": "",
+        "quantity": "400 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/R88WQSL9R3",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5NWTKB48DI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1a72deb7-3219-4c37-ae1d-38645b913791",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/856006ba-f984-405f-9e9c-5caf143f2edd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f97dd348-892b-4c59-89b8-ead24f85a3a2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8c2eab83-6b02-40fc-b2b5-d247bc985037.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4fd4a1b-f8a7-4af0-b840-d56f4e01b78c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/deed0c31-d0f0-4163-9e74-c64320b32d25.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f59b606-f840-4012-a91e-70c1807bbac6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5b655695-229b-40ab-8fa2-467a0a2c26bc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ef335a0b-f0fb-4ad5-a8bc-585b88d1c9f8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c68dc66-61bc-4ef2-828b-10fdac8c791a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8f42efa1-784e-4e1c-b096-d655caa00282.jpeg"
+        ],
+        "mrp": 314.0,
+        "offer_price": 290.0,
+        "unit_level_price": 290.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/66b5d4be-30df-48a4-b37c-531dda138599",
+        "id": "66b5d4be-30df-48a4-b37c-531dda138599",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 9,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "66b5d4be-30df-48a4-b37c-531dda138599"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9SWSE8FJPD",
+        "name": "Tata Sampann - 100% Pure California Almonds Tata Sampann 100% Pure Premium Cashews",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/28/c6a35223-95f6-4b92-a03a-93c90ace9034_977672.png"
+        ],
+        "mrp": 1604,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1373,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MHXERI3JHG",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9SWSE8FJPD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40231848",
+        "name": "100% Natural Californian Almonds",
+        "brand": "Happilo",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40231848_3-happilo-100-natural-premium-californian-almonds-value-pack.jpg"
+        ],
+        "mrp": "1350",
+        "offer_price": "945",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40231848",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40231848"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2a0a9771-4077-4591-adfb-9a43e4b25a7e",
+        "name": "Daily Good Almond - Badam | California",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4fe35be0-218e-4293-8b62-013cf8df456f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5f63694c-eba3-4b39-a681-21111a230f88.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ee218098-3352-4e0b-8f75-d86aa1ead03a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/96c01e89-91fe-4c8f-b0df-0928e04d8632.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31a1433d-1d7a-4444-b542-d8279040892b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1489ec70-b47b-4f9a-8367-581abac90630.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/019f2f5e-2901-4d05-8eef-e6556351c94b.jpeg"
+        ],
+        "mrp": 225.0,
+        "offer_price": 146.0,
+        "unit_level_price": 146.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e079d563-e6f0-43c5-ac3a-9f918aeece73",
+        "id": "e079d563-e6f0-43c5-ac3a-9f918aeece73",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e079d563-e6f0-43c5-ac3a-9f918aeece73"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "L80Y2MIMOB",
+        "name": "Happilo 100% Natural Premium Whole Cashews",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/a2047a8b-4106-4c1b-862d-0648afeddbbe_31628_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/be74b965-1495-4d97-b834-ff06e2e06dfb_31628_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/85cc4fb9-80d2-4608-9f06-47e58cdfa8ef_31628_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/e24cbad0-4bb4-47e4-a086-cd42d48c7d0b_31628_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/1619f21f-b904-4763-b512-b5a8cb59b7a2_31628_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/8799999f-a725-4fc1-ad11-9106e7c98e53_31628_6.png"
+        ],
+        "mrp": 995,
+        "x_available": true,
+        "available": true,
+        "offer_price": 649,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/R5CN2PYBLG",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "L80Y2MIMOB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c854e41d-1a0e-4b5f-92c5-429e7052eb37",
+        "name": "Open Secret Premium California Almonds-Badam | Fasting Special | Vrat",
+        "brand": "Open Secret",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8481ab19-4ac5-4a91-bb2a-195e94026ce5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3091a246-38df-4127-bf85-e850693a3b3c-/tmp/20231020-1422312.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/2769c054-50e1-48d5-9cbf-b7972461f34d-/tmp/20231020-1422333.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/4376b583-4f69-457b-bdea-07bd0607f5c5-/tmp/20231020-1422344.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/2d904101-53de-43de-9d1d-b6152f13c865-/tmp/20231020-1422355.jpeg"
+        ],
+        "mrp": 799.0,
+        "offer_price": 506.0,
+        "unit_level_price": 506.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bfef5986-ffed-49a4-828b-3f813e799564",
+        "id": "bfef5986-ffed-49a4-828b-3f813e799564",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "bfef5986-ffed-49a4-828b-3f813e799564"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Y37X5FZX4V",
+        "name": "Farmley Premium California Natural Almonds (Badam)",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/15/03d4e686-09a3-4658-9dd8-80a3229693bf_driedfruitsnutsandseeds_5KJ1NWV2SR_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/15/258d7812-d91f-42a5-aafa-74fa106977ae_driedfruitsnutsandseeds_5KJ1NWV2SR_AL5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/16/fc08b606-7cbd-4e4d-a01b-d6309f62ba06_driedfruitsnutsandseeds_Y37X5FZX4V_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/16/40da8699-8309-491b-9fbe-f3dcc6bc570e_driedfruitsnutsandseeds_Y37X5FZX4V_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/16/56133bd2-714a-41be-a6b3-028a3ef2b84a_driedfruitsnutsandseeds_Y37X5FZX4V_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/16/ed56047a-2c2c-4458-9335-68f5deb339f3_driedfruitsnutsandseeds_Y37X5FZX4V_AL5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/15/5f55df62-1dc5-499b-8720-7bf94829d17d_driedfruitsnutsandseeds_5KJ1NWV2SR_AL6.png"
+        ],
+        "mrp": 699,
+        "x_available": true,
+        "available": true,
+        "offer_price": 547,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DKL3ARK7HE",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Y37X5FZX4V"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "de996ee7-46bd-4031-8563-a50da47e7e00",
+        "name": "Daily Good Almond / Badam | California",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e1a85dde-1e95-4a15-8e52-4f23d4098727.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31bc0fbb-1ac6-49d8-8d98-17aefc48be3b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cfdfe110-8d6f-4bc2-adc3-dd1ce0f65a91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0aaa4666-741f-45d8-9bf3-76eae18f3ac5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0ebdeced-fad1-4ab2-97bf-a1fadb74844e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/336c7569-d912-4bb7-b24e-37bd4ac68133.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/86eceb51-12a7-4100-8fc2-49ab9dc76485.jpeg"
+        ],
+        "mrp": 115.0,
+        "offer_price": 95.0,
+        "unit_level_price": 95.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7496ad02-953e-44a2-8894-b9b0dc309386",
+        "id": "7496ad02-953e-44a2-8894-b9b0dc309386",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7496ad02-953e-44a2-8894-b9b0dc309386"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "RQON8W4Y6C",
+        "name": "Farmley 100% Natural Whole Cashews (Kaju)",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/1/52d687e0-b110-4d9c-ba86-c33d4608c229_driedfruitsnutsandseeds_RQON8W4Y6C_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/1/73c9d530-3313-4f42-b3b4-92987cfbfe69_driedfruitsnutsandseeds_RQON8W4Y6C_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/1/3a74e512-e55b-4efd-b84f-62f06e48feb0_driedfruitsnutsandseeds_RQON8W4Y6C_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/1/5650d078-cb93-4ec8-bd9e-97c068b23ac2_driedfruitsnutsandseeds_RQON8W4Y6C_AL3.png"
+        ],
+        "mrp": 899,
+        "x_available": true,
+        "available": true,
+        "offer_price": 578,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/G4QY7L6OUQ",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "RQON8W4Y6C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40224162",
+        "name": "Exotic Dark Californian Almonds Chocolate - Seasoned With Guava & Mexican Chili Flavor",
+        "brand": "Hershey's",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40224162_1-hersheys-exotic-dark-chocolate-californian-almonds-with-guava-mexican-chilli-flavour.jpg"
+        ],
+        "mrp": "65",
+        "offer_price": "61.75",
+        "unit_level_price": "",
+        "quantity": "30 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40224162",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40224162"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b7245e66-6c0a-4e49-818b-a1ae39ed3c06",
+        "name": "Open Secret Premium California Almonds | Badam | Fasting Special | Vrat 1 kg Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f904b007-3adb-46f4-9325-7640c3ebc297.jpg"
+        ],
+        "mrp": 3196.0,
+        "offer_price": 1880.0,
+        "unit_level_price": 1880.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/27b6ac03-2973-4d6b-935f-7795d2725f3f",
+        "id": "27b6ac03-2973-4d6b-935f-7795d2725f3f",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "27b6ac03-2973-4d6b-935f-7795d2725f3f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0NWP6VWHYD",
+        "name": "Happilo\u00a0Premium Natural Californian Walnut Kernels",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/a5beb35d-7ede-407b-be0c-ecd51e44a829_57104_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/255497fa-f064-4d72-9b3d-5a9d0e5ee031_57104_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/265fd35f-e15a-4100-9200-6af66cce6c28_57104_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/396a81e6-d189-4311-9aee-44ba6ee3be13_57104_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/1dbb398e-62f2-4d02-bab5-36259de1285b_57104_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/efe898e2-1d82-4cc9-bf0a-0595bcd001f8_57104_6.png"
+        ],
+        "mrp": 495,
+        "x_available": true,
+        "available": true,
+        "offer_price": 376,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/EN2CFDS1Q7",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0NWP6VWHYD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "78e4cd12-2ea1-40a9-aad7-daa9680bbc21",
+        "name": "Daily Good Cashew / Kaju Split(100gms), Daily Good Almond / Badam (California)(100gms) & Daily Good Walnut / Akhrot Broken Kernels(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/58a59b94-9bd9-4590-94db-fd5c4b4e7e64.jpg"
+        ],
+        "mrp": 609.0,
+        "offer_price": 500.0,
+        "unit_level_price": 500.0,
+        "quantity": "3 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3400e764-38f0-4fa4-a9cf-5edef5e3425a",
+        "id": "3400e764-38f0-4fa4-a9cf-5edef5e3425a",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3400e764-38f0-4fa4-a9cf-5edef5e3425a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8ffb1b05-c4d1-4019-a683-e8f175680670",
+        "name": "Daily Good Almond (California)(1kg) & Daily Good Cashew (W320)(100gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3c54cb89-74e5-4da2-a8d7-c1af3c59a9a9.jpg"
+        ],
+        "mrp": 1270.0,
+        "offer_price": 1028.0,
+        "unit_level_price": 1028.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9461ba5c-04fa-41fe-9057-e67dd9a7cc42",
+        "id": "9461ba5c-04fa-41fe-9057-e67dd9a7cc42",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9461ba5c-04fa-41fe-9057-e67dd9a7cc42"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40224160",
+        "name": "Exotic Dark Californian Almonds Chocolate - Sprinkled With Blackberry Flavour",
+        "brand": "Hershey's",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40224160_1-hersheys-exotic-dark-chocolate-californian-almonds-with-blackberry-flavour-crunchy.jpg"
+        ],
+        "mrp": "65",
+        "offer_price": "61.75",
+        "unit_level_price": "",
+        "quantity": "30 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40224160",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40224160"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a6a1c776-9674-4d7c-b44e-7cde3bef87a6",
+        "name": "Daily Good Cashew (W320)(500gms), Daily Good Almond (California)(500gms) & Daily Good Raisin Golden(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/19f230df-1365-495a-a12b-7fdcfcfb38f6.jpg"
+        ],
+        "mrp": 1460.0,
+        "offer_price": 1254.0,
+        "unit_level_price": 1254.0,
+        "quantity": "3 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/fa6382a8-9241-480a-bdd7-bae0cd691de0",
+        "id": "fa6382a8-9241-480a-bdd7-bae0cd691de0",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "fa6382a8-9241-480a-bdd7-bae0cd691de0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "99f13563-d398-4e6f-a00c-4be574a79324",
+        "name": "Daily Good Almond (California)(500gms) & Daily Good Raisin Golden(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d93ba29-7bbc-4003-a0f1-e6e5113011c3.jpg"
+        ],
+        "mrp": 765.0,
+        "offer_price": 691.0,
+        "unit_level_price": 691.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/946dc92f-17f3-4c55-bba6-3dcf5f418b2e",
+        "id": "946dc92f-17f3-4c55-bba6-3dcf5f418b2e",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "946dc92f-17f3-4c55-bba6-3dcf5f418b2e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30010385",
+        "name": "Peanuts/Shengdane - Raw",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30010385_12-bb-popular-peanutsmungaphali-raw.jpg"
+        ],
+        "mrp": "110",
+        "offer_price": "85",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30010385",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 30,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30010385"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c19f82e9-2ca2-4888-9e8b-7d42b4bc4a16",
+        "name": "Kellogg's Almond and Honey Corn Flakes | Box | Cholesterol-free",
+        "brand": "Kellogg's",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f363fd52-282a-4493-a400-498703111d38.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a1695a17-e900-4d90-80dd-f747476264b0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d8f4d49-19ca-4a87-9a70-f0263f4de933.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/82f5066b-3375-46c7-bc5c-11c3a77de26b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d6ced603-2b3e-47ad-972a-bd5cab0e7d92.jpeg"
+        ],
+        "mrp": 580.0,
+        "offer_price": 480.0,
+        "unit_level_price": 480.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/58c88f10-9336-47b0-a003-b5c0f37a53eb",
+        "id": "58c88f10-9336-47b0-a003-b5c0f37a53eb",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "58c88f10-9336-47b0-a003-b5c0f37a53eb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d78d4e65-4395-4daf-9fcb-7af509bdde50",
+        "name": "Lo Foods Ultra Low Carb Keto Flour, Keto Friendly Select Multigrain Atta with Almond Flour",
+        "brand": "Lo! Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d01b93d6-47c4-4773-aaca-5989db9a3c4d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ce247311-ef38-4cf8-8571-bfa7d2371cd2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/714fd814-e9a0-4883-b053-3f75a7e32e3f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/34607439-ab13-43d6-9467-77788bc080b4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a33386b3-dc39-4895-9542-6b2698355a74.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/235db254-3871-470e-b298-607f2212fe9a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dd889ab4-327a-46b5-aa5e-876ecba0a3dd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/04ead2c3-6415-4b64-ba1a-9200dae50bd6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/305ba89c-adea-41bf-9831-6ae9d63eee16.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/abfd0cb2-6a53-458c-bf37-51e536cf0b6a.jpeg"
+        ],
+        "mrp": 599.0,
+        "offer_price": 299.0,
+        "unit_level_price": 299.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/42799bbd-7ce8-4c14-b1f5-096cceda19a0",
+        "id": "42799bbd-7ce8-4c14-b1f5-096cceda19a0",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "42799bbd-7ce8-4c14-b1f5-096cceda19a0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40200455",
+        "name": "Bakery Biscuit - Badam",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40200455_2-bb-popular-bakery-biscuit-badam.jpg"
+        ],
+        "mrp": "155",
+        "offer_price": "155",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40200455",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40200455"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+azure-functions
+azure-cosmos
+requests
+beautifulsoup4
+pandas 

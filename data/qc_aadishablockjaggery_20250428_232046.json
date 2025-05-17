@@ -1,0 +1,1472 @@
+[
+  {
+    "data": [
+      {
+        "id": "40328214",
+        "name": "Combo Puzzle For 3-Year-Old Kids & Above - Vegetables, Flowers, Wild Animals & Dinosaurs",
+        "brand": "Frank",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40328214_1-frank-combo-puzzle-for-3-year-old-kids-above-vegetables-flowers-wild-animals-dinosaurs.jpg"
+        ],
+        "mrp": "440",
+        "offer_price": "399",
+        "unit_level_price": "",
+        "quantity": "1 pc",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40328214",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40328214"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 492185,
+        "name": "Two Brothers Sugarcane Jaggery Block",
+        "brand": "Two Brothers",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/11263a8c-f274-4c28-a747-ea6c5d8eebb9.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a41fcce8-2be0-4907-b567-a833b2ffb759.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e9924f06-6035-4d3d-b402-abdae3a81922.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a0728f99-069d-4c77-9dbd-b70f5c83a72f.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24bad033-943e-41cc-883f-5afd44790b7f.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/be217334-5d22-4583-baaa-eb693a6c0b34.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/23fef7b4-1696-400c-9184-5fb08761d126.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bc979156-0b8c-4630-a8ae-342a901bb7ef.jpg?ts=1710410611",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/60670f09-dc98-4fea-a13c-06d30db89275.jpg?ts=1710410611"
+        ],
+        "mrp": 299,
+        "offer_price": 268,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/492185",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          492185
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8dfb6f51-b93f-4560-8c73-33a9faaa2da5",
+        "name": "Aadisha Jaggery Block",
+        "brand": "Aadisha",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c880a2c5-0e74-44e5-af27-051605c98d56.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83dbd2df-8861-44ee-a350-27d90607d8c6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d1853b7e-eb66-4baa-b971-50d59be231a5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ef77f00a-6f71-448b-a2d1-1357077dc538.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d933dc12-bc25-4a46-9162-2c8b237efa8b.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 33.0,
+        "unit_level_price": 33.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8b2d11f6-d1a6-41ba-9091-feabce4f1230",
+        "id": "8b2d11f6-d1a6-41ba-9091-feabce4f1230",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8b2d11f6-d1a6-41ba-9091-feabce4f1230"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9336NI8QT2",
+        "name": "Supreme Harvest Jaggery Bucket",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/7/be0e8f3f-c547-4ba7-9df9-5beeb70b747f_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/1/3110fdda-be39-4f15-8951-c399c2ac20aa_driedfruitsnutsandseeds_FLABU3P8I0_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/1/b7b1d610-c4a0-411f-bf96-ccdf7fb1e2b1_driedfruitsnutsandseeds_FLABU3P8I0_AL2.png"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 53,
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8EITM7IC2W",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9336NI8QT2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525550,
+        "name": "Whole Farm Premium Jaggery",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f88ca369-e857-4824-b9c3-a686d16841a1.jpg?ts=1736608762",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/56ce6e73-e6d1-438c-86d8-8d28bb8e0266.jpg?ts=1743764644",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525550c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525550d.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 83,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/525550",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525550
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "UV7614YHPS",
+        "name": "Toyshine 120 Pcs Multi Colour Wooden Dominos Blocks Set",
+        "brand": "Toyshine",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7797e3dc2d57624d84c48f2fbf9863ef",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/94a911a6a816348bfc632def3dbd2192",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/55bb6fae043b08e1799f2dc594c19b9c",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/20d5bc7ba52785150664ddb97e5a8661",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/871a9728d30832e3861032aa9ddf041d",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b23a1aa50eda510c9030b4a63de17534",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/011472183976b91e820347c5d560789b"
+        ],
+        "mrp": 499,
+        "x_available": true,
+        "available": true,
+        "offer_price": 210,
+        "unit_level_price": "",
+        "quantity": "1 pack",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NMI4L6MV7F",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UV7614YHPS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 226017,
+        "name": "Conscious Food Jaggery",
+        "brand": "Conscious Food",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a96f3653-d033-486c-85ba-432a28d1fbf5.jpg?ts=1733319108",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/249ae7bf-62dc-4c63-b794-618b9501eefa.jpg?ts=1733319109",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/be4fd8e0-e174-4483-8145-2d5d259c2c90.jpg?ts=1733319110",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/69bb0388-5f30-4e7a-9a47-b8eea0292059.jpg?ts=1733319110",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4b8e2632-cb00-4dc1-ac41-5b628e56350c.jpg?ts=1733319111"
+        ],
+        "mrp": 190,
+        "offer_price": 137,
+        "unit_level_price": "",
+        "quantity": "925 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/226017",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          226017
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "C63SIWF25C",
+        "name": "Harpic Hygienic Toilet Cleaner Rim Block (Lavender)",
+        "brand": "Harpic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/6b0674d9-5b58-4433-b417-6bc455915af1_48290_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/24ddeb31-af43-4caa-927b-7ad3498307b3_48290_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/0156c015-5e10-4df8-aecf-7e609ebadca6_48290_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/6625d53b-1ee4-4dea-8d4e-906c6309ab95_48290_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/eb33c6b2-1ae9-41ba-8a24-6c20c02f6ff0_48290_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/15f825c3-6b27-4ad9-a3eb-bac8b1c72e21_48290_6.png"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "26 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0BA5YTBHYX",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "C63SIWF25C"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 400777,
+        "name": "Ras Malai Premium Desi Jaggery",
+        "brand": "Ras Malai",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/400777a.jpg?ts=1688470759",
+          "https://cdn.grofers.com/app/images/products/sliding_image/400777b.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/400777c.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 76,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/400777",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          400777
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "USA0VYXHRS",
+        "name": "Harpic Hygienic Toilet Rim Block (Citrus)",
+        "brand": "Harpic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0caf07b52e4617ade0c76f9d06a47581"
+        ],
+        "mrp": 285,
+        "x_available": true,
+        "available": true,
+        "offer_price": 242,
+        "unit_level_price": "310.3/100 g",
+        "quantity": "26 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MOG9R3TLW5",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "USA0VYXHRS",
+          "UJNO7IJNVA",
+          "A0TKY2SH5G"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 608696,
+        "name": "Slurrp Farm Healthy Jaggery Powder",
+        "brand": "Slurrp Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bffeeec-3f07-486e-9cd5-2fd6e4751812.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fe51116e-e830-4584-9c23-9274127001c3.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a8bd05a3-9c59-4639-8859-8d2acf6fe81e.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b2d61c74-2fc2-4207-9079-85a5341a68c6.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f1840106-a212-4a9f-aff3-4f74159788ab.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48cd6742-76e1-421a-8f58-52b7332d5438.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/28f8a056-ac7c-4fe2-bb2e-70952d86950d.jpg"
+        ],
+        "mrp": 249,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "300 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/608696",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          608696
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "UJNO7IJNVA",
+        "name": "Harpic Hygienic Toilet Rim Block (Citrus)",
+        "brand": "Harpic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ecd97070692a4557de1af6bd9ceda283"
+        ],
+        "mrp": 190,
+        "x_available": true,
+        "available": true,
+        "offer_price": 181,
+        "unit_level_price": "348.1/100 g",
+        "quantity": "26 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MOG9R3TLW5",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "USA0VYXHRS",
+          "UJNO7IJNVA",
+          "A0TKY2SH5G"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525558,
+        "name": "Whole Farm Premium Kolhapuri Jaggery",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/25138419-b388-4d75-8237-966abe1fcebb.jpg?ts=1737462772",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/092dcf21-90b2-4874-8530-303715209b35.jpg?ts=1743764651",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525558c.jpg?ts=1737462743",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525558d.jpg?ts=1737462743"
+        ],
+        "mrp": 105,
+        "offer_price": 66,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525558",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525558
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A0TKY2SH5G",
+        "name": "Harpic Hygienic Toilet Rim Block (Citrus)",
+        "brand": "Harpic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/72ec13b2-74d7-4a99-9302-7683d6e41941_8767_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/159c1860-7656-4ae6-800a-7266adb6028b_8767_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/dc87c92e-d557-411f-b9a4-da15ac802682_8767_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/4d890d8c-0e84-4bff-a65e-b99bd90b115d_8767_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/aeed1334-2df0-4697-9e67-df967a333a6d_8767_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/a8af947b-1ec2-4505-88a2-86f2ee9378cb_8767_6.png"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 92,
+        "unit_level_price": "353.8/100 g",
+        "quantity": "26 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MOG9R3TLW5",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "USA0VYXHRS",
+          "UJNO7IJNVA",
+          "A0TKY2SH5G"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 496282,
+        "name": "Bebe Fennel Jaggery (Saunf Gud)",
+        "brand": "Bebe",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282a.jpg?ts=1688445282",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282b.jpg?ts=1665476901",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282c.jpg?ts=1665476901",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282d.jpg?ts=1665476901",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282e.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282f.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/496282g.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 59,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/496282",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          496282
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZFBGZ9R290",
+        "name": "Harpic Hygienic Toilet Cleaner Rim Block (Jasmine)",
+        "brand": "Harpic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/9acb00f0-7f97-4fc5-83f7-5fb2319bc463_93953_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/8d9017e2-c83b-43bf-b253-e43aa4e99726_93953_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/bdf00183-3fba-47aa-b343-e32abaafe6c3_93953_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/ee1b4c6f-4ca8-4c30-9e00-2fc6e3e7e7c2_93953_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/8ac297a6-12a1-402d-8d11-39e36046167f_93953_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/25/af43e656-3ffb-4743-8731-e251cb430d28_93953_6.png"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "26 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/QR1IEDMKCZ",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZFBGZ9R290"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525551,
+        "name": "Whole Farm Premium Jaggery",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9336fff5-aa4e-4cb7-8587-467572a8f18c.jpg?ts=1736608764",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/afac3159-2e57-41fe-8257-f2f109d0d1a2.jpg?ts=1743764645",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525551c.jpg?ts=1704261583",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525551d.jpg?ts=1704261583"
+        ],
+        "mrp": 90,
+        "offer_price": 39,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525551",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525551
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "32L5XKTS69",
+        "name": "Toyshine First Shape Sorting Blocks Toys With 16 Building Blocks",
+        "brand": "Toyshine",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/898ad4eef1adda586769835fb7f54bdc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/448c357d0fa6399e10854c3f1381f331",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ea787048ac2ac821b65b06147351308a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3e678ede5c50995129d8b20ab6ae9ccc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0be8048d4ad56a1a9cc5835a8d446ce",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ab608bb56d034c390c6c7bfb8f36783f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7cdff5533670e8f49e132aebbf56507c"
+        ],
+        "mrp": 799,
+        "x_available": true,
+        "available": true,
+        "offer_price": 286,
+        "unit_level_price": "",
+        "quantity": "1 pack",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/C1VQTMG78H",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "32L5XKTS69"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "U0NA868KB0",
+        "name": "JIVANA Jaggery Powder",
+        "brand": "JIVANA",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/ef7159d9-0346-448e-8e8a-7f2ff2ca9c95_709130_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/efd0b1aa-b139-45db-b856-e4d58df1109e_709130_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/c59d95a9-c90e-4c31-8100-7105808db63e_709130_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/a7c5d0d5-212a-43fd-ba91-e8aa3bed1d0e_709130_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/7701fcab-bc9c-4b11-bbad-89863ee1c0a8_709130_5.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3H5UXDMRF0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U0NA868KB0"
+        ]
+      },
+      {
+        "id": 525549,
+        "name": "Whole Farm Premium Jaggery Powder",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a9257210-56ae-4410-949d-df0684e477fb.jpg?ts=1705387147",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bb2eaac4-fd3a-497c-aa3a-0bff78793a6c.jpg?ts=1743764643",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d565052e-1e73-43ab-b900-f0640fe52fc4.jpg?ts=1705387147",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6e70a8ad-d1fd-46a1-8701-186cddcbea8e.jpg?ts=1705387147"
+        ],
+        "mrp": 120,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525549",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525549
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "84JM1JSG82",
+        "name": "Two Brothers Organic Farms Jaggery Powder",
+        "brand": "Two Brothers Organic Farms",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/6d2c549b-6195-4fa1-b1f0-d10422696772_jaggery_84JM1JSG82_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/620e4f85-749c-49f7-ac89-60911005060f_jaggery_84JM1JSG82_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/0055f77a-6ca7-487d-ae40-d2035e34d644_jaggery_84JM1JSG82_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/9afb853a-7913-4795-bd7f-0f3079ee984b_jaggery_84JM1JSG82_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/cb0dea84-e2a5-4fd3-bec3-34c9ad20c56d_jaggery_84JM1JSG82_AL4.png"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 135,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/O0QEZRP5GP",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "84JM1JSG82"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VW3D10KBTS",
+        "name": "Safe Harvest Jaggery (Powder)",
+        "brand": "Safe Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e4ddb5858e68ffc5b8916af69addb7b7"
+        ],
+        "mrp": 176,
+        "x_available": true,
+        "available": true,
+        "offer_price": 146,
+        "unit_level_price": "14.6/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5RLI6HX84U",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VW3D10KBTS",
+          "D1NH8CTYXF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "D1NH8CTYXF",
+        "name": "Safe Harvest Jaggery (Powder)",
+        "brand": "Safe Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/23/63165b96-10bf-4f41-9ea3-72cc17e187ef_jaggery_D1NH8CTYXF_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/23/c8c132d2-7354-46e8-b010-6a218d60c660_jaggery_D1NH8CTYXF_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/23/7ee5cbcd-0a77-42da-9904-25d497b21942_jaggery_D1NH8CTYXF_AL2.png"
+        ],
+        "mrp": 88,
+        "x_available": true,
+        "available": true,
+        "offer_price": 74,
+        "unit_level_price": "14.8/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5RLI6HX84U",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VW3D10KBTS",
+          "D1NH8CTYXF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9G7JD72S2I",
+        "name": "Organic India Organic Jaggery Powder",
+        "brand": "Organic India",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/31d74154-0892-4461-a1e9-61e8aadb7b70_96727_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/288a7603-844a-415d-9b63-f1fa79efcb2f_96727_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/9b20c8d7-bff9-495d-80b4-9548fba9b70b_96727_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/84801f7a-ae38-45ee-a88e-de18bb69eb8b_96727_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/e09d324c-5434-49c0-9eb6-446035b75334_96727_5.png"
+        ],
+        "mrp": 110,
+        "x_available": true,
+        "available": true,
+        "offer_price": 106,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/EUAR4GZ0LL",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9G7JD72S2I"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P7UWT9HX52",
+        "name": "Vicks Vaporub Steampods 4S For Steam Inhalation, Quick Relief From Blocked Nose",
+        "brand": "Vicks",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/8fc23a35-29d0-4325-83ed-9771d0cabf1a_90375_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/2cd60526-b295-4be9-b035-78c16c078fb3_90375_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/e9f8b638-575f-46ac-9f95-e347ce59a59a_90375_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/6f06a1d8-516d-48eb-9168-9c35e47450c8_55670_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/f788cdeb-f8c1-49b3-b2db-19740ed81d1d_90375_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/4/c79e678d-7bc0-420d-ac72-63d2a35042f8_90375_6.png"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "4 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DK6GVZ1PFQ",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "P7UWT9HX52"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XHN8BII6HX",
+        "name": "organic tattva Jaggery Powder",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/012b1357ee86717439ad40d9d0a66ba6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5e0d85c9a2e44a5b00837b99aaa22ee2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4449b20cd5947ce3bce70a05dba9f4c9"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": true,
+        "offer_price": 80,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NT9ZPP2M9M",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XHN8BII6HX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "J9DXP0LICH",
+        "name": "PAAWAK Jaggery Cube",
+        "brand": "PAAWAK",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/9ef3c9bd-087e-4319-bdb6-14d53e316826_303257_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/de3f3d15-65f6-41d8-a164-5ca4bcd69c41_303257_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/f78ab3ac-b649-43c3-9964-2abb711c92c4_303257_3.png"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 130,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/PLWZBA59IV",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "J9DXP0LICH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YFH87FJQHD",
+        "name": "JIVANA Jaggery",
+        "brand": "JIVANA",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/873a7654-f4db-44c8-95fd-9f9cdf00cc1a_962906_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/dbab534e-51d9-4f92-b88b-43178e909225_962906_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/300c4e95-0e3c-408f-a5c0-dab9633a6077_962906_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/e2f41205-db0c-4e5f-8b57-a0b4ae0e0e6e_962906_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/5809edc0-ef5e-4312-8501-ad9cfd310268_962906_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/17/e5eed10f-e5d0-496e-9cb2-7c3fa6271630_962906_6.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "950 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1XNZ490FXH",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YFH87FJQHD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6TQ3O6AJH4",
+        "name": "True Story Organic Jaggery Powder",
+        "brand": "TRUE STORY",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/fee522ee-75ce-412e-abb7-18e0a9cc2fd2_341200_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/104d3c74-ac4a-4cdd-8cda-12ed55ef4c35_341200_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/9c4757ad-09b0-4da0-b429-73a6d36afd63_341200_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/87f615b4-457d-42bc-a140-c888e42b89a0_341200_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/9c47e419-21e2-4781-8189-cdf54e92b098_341200_5.png"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": true,
+        "offer_price": 81,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/6BI6P0DCA1",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "6TQ3O6AJH4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CUGON08S18",
+        "name": "Zandu Chyavanprash Avaleha with Jaggery Gur",
+        "brand": "Zandu",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/9abfaced-e4a1-458e-b587-3358c4847af2_11800_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/5acedfc2-198c-4f22-984a-879e2e8c0c70_11800_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/8e7c2431-aede-406c-83f1-214cfe6aaf3a_11800_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/1e45bcbe-6b18-4198-be3e-1a56b9096614_11800_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/a9354de9-e46f-4695-889b-309c420b816e_11800_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/6669a03e-78ef-4481-a640-947b7c0aec9d_11800_6.png"
+        ],
+        "mrp": 215,
+        "x_available": true,
+        "available": true,
+        "offer_price": 172,
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/R5UW22VBW0",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CUGON08S18"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CVZ720NORJ",
+        "name": "D'lecta Natural Feta Cheese Block",
+        "brand": "D'lecta",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a4fed51b37ec45fbe985506e5486ae5e",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/554b035aefedafda07cd5ff238c9515f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9b1ea0a23acb82ab9073fa353475dae6"
+        ],
+        "mrp": 240,
+        "x_available": true,
+        "available": true,
+        "offer_price": 214,
+        "unit_level_price": "107/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YKX6LU5W8J",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CVZ720NORJ",
+          "KSPTUQQCJM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KSPTUQQCJM",
+        "name": "D'lecta Natural Feta Cheese Block",
+        "brand": "D'lecta",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/21/e547737b-518d-4f6e-96cc-3f792ce0c552_cheese_KSPTUQQCJM_MN.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/21/2046f198-5558-471f-bdea-3f19b7ea14cc_cheese_KSPTUQQCJM_AL1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/21/a2e6f446-762f-47cb-8fe9-95b70d45d404_cheese_KSPTUQQCJM_AL2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/21/57cdef23-ba16-46ec-a5c0-5eb73fcb2902_cheese_KSPTUQQCJM_AL3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/21/a4f5471d-1b3a-4836-b868-e26ba22bdf6a_cheese_KSPTUQQCJM_AL6.jpg"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 108,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YKX6LU5W8J",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CVZ720NORJ",
+          "KSPTUQQCJM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "L9NO9F4RXG",
+        "name": "Urban Platter Jaggery Powder",
+        "brand": "Urban Platter",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/11/7cc35896-17fd-4827-99b0-369445e32845_jaggery_L9NO9F4RXG_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/11/5bf58eed-8c49-4b29-99d5-dd190717ebb8_jaggery_L9NO9F4RXG_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/11/9f79cb24-f429-4546-96cb-431e157c42d2_jaggery_L9NO9F4RXG_AL2.png"
+        ],
+        "mrp": 300,
+        "x_available": true,
+        "available": true,
+        "offer_price": 291,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/KW78B3YS12",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "L9NO9F4RXG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4UWFUYCRMN",
+        "name": "Odonil Air Freshner Blocks 4N",
+        "brand": "Odonil",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bf3d9a2034d5ea8ffc3bdf748b8a3337",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d5e5354cb23ce603482f2947c9d5565f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/614369f8cd69faacce056484feaca4bc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/edfnxwjtmhe2kziotsod"
+        ],
+        "mrp": 192,
+        "x_available": true,
+        "available": true,
+        "offer_price": 163,
+        "unit_level_price": "339.6/100 g",
+        "quantity": "48 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8AHYTY929T",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4UWFUYCRMN",
+          "Z0RB88B34N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Z0RB88B34N",
+        "name": "Odonil Air Freshner Blocks 4N",
+        "brand": "Odonil",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c6e776a9fc3187f6ef2ab2a5692be42c"
+        ],
+        "mrp": 384,
+        "x_available": true,
+        "available": false,
+        "offer_price": 303,
+        "unit_level_price": "315.6/100 g",
+        "quantity": "48 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8AHYTY929T",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4UWFUYCRMN",
+          "Z0RB88B34N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H1RCDCO957",
+        "name": "Two Brothers Organic Farms Jaggery Block",
+        "brand": "Two Brothers Organic Farms",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/214e7d60-c474-4700-9e1b-850148e22717_66689_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/b6906f76-a6e3-451b-86f5-5f61dd4f666a_66689_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/bd26351e-4f5f-4e7f-a6d8-1c8d4956ce58_66689_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/bd441462-c94f-47b4-a6c2-1646bc5181e3_66689_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/4cb80bc2-f9d8-4279-a333-6d46ea711b17_66689_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/9/b5dfdb37-fdd0-4327-a011-3c7c33bed016_66689_6.png"
+        ],
+        "mrp": 299,
+        "x_available": true,
+        "available": true,
+        "offer_price": 287,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SGGFHCJJ6A",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H1RCDCO957"
+        ]
+      }
+    ]
+  }
+]

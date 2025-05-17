@@ -1,0 +1,3499 @@
+[
+  {
+    "data": [
+      {
+        "id": "40271166",
+        "name": "Split Pigeon Pea Toor Dal - Rich In Protein & Folic Acid",
+        "brand": "Sri Sri Tattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40271166_2-sri-sri-tattva-split-pigeon-pea-toor-dal-rich-in-protein-folic-acid.jpg"
+        ],
+        "mrp": "310",
+        "offer_price": "310",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40271166",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40271166"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "5b64285e-8d00-4dea-b386-2a771d58edd7",
+        "name": "Dehaat Honest Farms Unpolished Toor Dal | Arhar Dal",
+        "brand": "Dehaat Honest Farms",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/b5bf0605-87bd-41a2-8b7d-6537b36325d9-/tmp/20230425-1314261.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f2c32e6a-f24f-49ac-8d42-6d4800be2958-/tmp/20230425-1314262.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/4b8d1f8e-891a-4b9d-b3e8-3b06c1eb4443-/tmp/20230425-1314263.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/63ead9ab-1491-4681-8309-ddb7ad63c9a8-/tmp/20230425-1314264.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8e682605-e4e1-48d7-8b84-75fb795e36dc-/tmp/20230425-1314265.jpeg"
+        ],
+        "mrp": 330.0,
+        "offer_price": 252.0,
+        "unit_level_price": 252.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/77996009-de73-4aad-a183-cb82a3830882",
+        "id": "77996009-de73-4aad-a183-cb82a3830882",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "77996009-de73-4aad-a183-cb82a3830882"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 403799,
+        "name": "Basic Arhar/ Toor Dal",
+        "brand": "Basic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/97eeeb91-5674-4576-b802-ebb809256d2b.jpg?ts=1712825668",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403799b.jpg?ts=1698770296",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403799c.jpg?ts=1698770296",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403799d.jpg?ts=1698770296",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403799e.jpg?ts=1698770296",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403799f.jpg"
+        ],
+        "mrp": 240,
+        "offer_price": 144,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/403799",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 20,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          403799
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LJKNLNZ8OB",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/28e49fc1a3f77d8886972abed0c4cba4"
+        ],
+        "mrp": 672,
+        "x_available": true,
+        "available": true,
+        "offer_price": 461,
+        "unit_level_price": "153.7/kg",
+        "quantity": "1 kg x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "591298620",
+        "name": "Classic Harvest Yellow Toor/Arhar Dal (Split) 1kg  ( Pack of 2 , 500g each )",
+        "brand": "CLASSIC HARVEST",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv9cgl4iee/classic-harvest-yellow-toor-arhar-dal-split-1kg-pack-of-2-500g-each-product-images-orv9cgl4iee-p591298620-0-202205132337.jpg"
+        ],
+        "mrp": 400,
+        "offer_price": 389,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/classic-harvest-yellow-toor-arhar-dal-split-1kg-pack-of-2-500g-each/591298620",
+        "id": "591298620",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "591298620"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 551910,
+        "name": "Whole Farm Grocery Toor Dal (500 g)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2af00e6b-f3a5-4cba-8061-dc960cf6a671.jpg?ts=1714999692",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cdb3a95b-5d0c-490b-8fad-a231b24b4cba.jpg?ts=1743767005"
+        ],
+        "mrp": 125,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/551910",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 12,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          551910
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602057793",
+        "name": "Momsy Premium 5kg Toor Dal / Arhar Dal / Split Pea Pulses",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvenscdlbq/momsy-premium-5kg-toor-dal-arhar-dal-split-pea-pulses-product-images-orvenscdlbq-p602057793-0-202306012143.jpg"
+        ],
+        "mrp": 1499,
+        "offer_price": 999,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-5kg-toor-dal-arhar-dal-split-pea-pulses/602057793",
+        "id": "602057793",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602057793"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "be041d24-2d7f-438b-8b32-1eaa3e00a2c6",
+        "name": "Tata Sampann Unpolished Urad Dal | Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/26956e47-3e20-44ae-b50c-c48b62d18a79.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eb978041-4091-43c3-a150-4d1af0c69d8a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6846295d-b3f8-401c-9375-705d18ccbdf7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2c58e368-c7b4-4af1-a68e-3d2ff1dbc817.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ebf70dd-f9d3-413f-916d-425da04db242.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cb18b420-6cf3-4837-b5a2-7e17dc5b94a3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c2ef50ee-ee59-47d3-b5ee-0712471c50bf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/48be9ac9-8d0d-4a79-a29d-b393ac3586b1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6f5beda3-af46-4dab-8eb5-7dbe212301aa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/063d4399-5e96-406d-a1d3-9bbe33c90d58.jpeg"
+        ],
+        "mrp": 118.0,
+        "offer_price": 118.0,
+        "unit_level_price": 118.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d86025a7-fbff-439e-9c8b-3ddcd17afe0c",
+        "id": "d86025a7-fbff-439e-9c8b-3ddcd17afe0c",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d86025a7-fbff-439e-9c8b-3ddcd17afe0c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527579,
+        "name": "Whole Farm Grocery Toor Dal",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/63c87dc6-3728-495f-8274-e5f927027a2a.jpg?ts=1712825443",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f9948f6b-63bd-40a4-b697-f5c0c4dab67c.jpg?ts=1743766932",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527579c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527579d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527579e.jpg"
+        ],
+        "mrp": 280,
+        "offer_price": 162,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527579",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527579,
+          603599
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602035596",
+        "name": "Momsy Premium 2kg Toor Dal / Arhar Dal / Split Pea Pulses",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvkckprllk/momsy-premium-2kg-toor-dal-arhar-dal-split-pea-pulses-product-images-orvkckprllk-p602035596-0-202305312024.jpg"
+        ],
+        "mrp": 799,
+        "offer_price": 474,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-2kg-toor-dal-arhar-dal-split-pea-pulses/602035596",
+        "id": "602035596",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602035596"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 603599,
+        "name": "Whole Farm Grocery Toor Dal",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7a6484a7-80e1-40e1-b2b8-d5912ad29995.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/100ada4b-f762-498b-b6a3-c33997380970.jpg?ts=1743767011",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/71a5ebcb-37dc-4776-9428-00c3af8f7a58.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/829c2e02-7648-41a2-b434-d772de200b2a.jpg"
+        ],
+        "mrp": 490,
+        "offer_price": 315,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/603599",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527579,
+          603599
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GGNKMUTGPX",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/8c1c0981-fc72-40f9-a806-254a2ffa4b9c_15593_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h6yoxs1mzjhyn9z84iro",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/saibedutdopuykjkl02k"
+        ],
+        "mrp": 484,
+        "x_available": true,
+        "available": true,
+        "offer_price": 329,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YEDZTK801D",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GGNKMUTGPX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658203",
+        "name": "Momsy Premium 450gm Toor Dal / Arhar Dal / Split Pea Pulses",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvqqicw7tf/momsy-premium-450gm-toor-dal-arhar-dal-split-pea-pulses-product-images-orvqqicw7tf-p609658203-0-202408052012.jpg"
+        ],
+        "mrp": 399,
+        "offer_price": 199,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-450gm-toor-dal-arhar-dal-split-pea-pulses/609658203",
+        "id": "609658203",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658203"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "db0bf585-17ef-4f4d-a7ad-4ee9813476c7",
+        "name": "Daily Good Unpolished Toor / Tur / Arhar Dal",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99bd8004-77aa-4bb1-8c4f-0fa803b66b35.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/89358419-4049-4c44-a522-9230d68dbab1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4474c4f2-a7b3-4f19-9567-d0d8a5b81298.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1954557b-44dc-418f-a738-90facef5259a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5e3f48f7-0bf8-4db3-9041-1e2ad5f1f7ff.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/84a1e599-339b-468b-b55b-9d9fcea12569.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bd8c74e4-223d-4603-af7a-26b69bb8d9df.jpeg"
+        ],
+        "mrp": 315.0,
+        "offer_price": 241.0,
+        "unit_level_price": 241.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d05b8f97-2ccb-49ea-b1a2-9ec699a82871",
+        "id": "d05b8f97-2ccb-49ea-b1a2-9ec699a82871",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d05b8f97-2ccb-49ea-b1a2-9ec699a82871"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9U0SO8X0IJ",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/16/fbdc1bda-a977-4013-891e-7ca1e2873e0e_500427.png"
+        ],
+        "mrp": 448,
+        "x_available": true,
+        "available": true,
+        "offer_price": 312,
+        "unit_level_price": "156/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      },
+      {
+        "id": 402140,
+        "name": "Tata Sampann Unpolished Toor Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2bfc3a9c-e553-4d0c-9c6b-b840e1fc36bb.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7010c4db-1749-4d16-8cae-2e098ca4c2e1.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2938b27d-8c6f-430f-ad12-af43f4f803d7.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/62a2615b-8d13-46eb-b1b8-e21958ab55e5.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/93b01e97-e54a-4e6e-9c49-e48fc99d08e2.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0e2dc9f6-e15d-4728-b3fe-e1229276d491.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/21a3809f-c2d0-40d2-a128-742971557f46.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0895b9e-01da-47ad-8d9a-0eb8f87c7052.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/94dc912f-c657-4fa6-96b0-4b78a2397399.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/72cef39d-2bd9-4066-9bc1-7959e968b2a0.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c1e2d516-4f48-4c2f-b013-529c089a35be.jpg?ts=1736936259",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6cffb941-2d9d-407d-923c-c7c4b9e5a877.jpg?ts=1736936259"
+        ],
+        "mrp": 448,
+        "offer_price": 316,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/402140",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          402140
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "NNPKDR5RZS",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/fa76fdda-70f3-4c4d-a667-a81350107f2e_24712.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 528,
+        "x_available": true,
+        "available": true,
+        "offer_price": 315,
+        "unit_level_price": "157.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/B56Q568P16",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "NNPKDR5RZS",
+          "0WF643CH0N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658173",
+        "name": "Momsy Premium 950gm Toor Dal / Arhar Dal / Split Pea Pulses",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvfhn9htrc/momsy-premium-950gm-toor-dal-arhar-dal-split-pea-pulses-product-images-orvfhn9htrc-p609658173-0-202408052009.jpg"
+        ],
+        "mrp": 499,
+        "offer_price": 372,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-950gm-toor-dal-arhar-dal-split-pea-pulses/609658173",
+        "id": "609658173",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658173"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11e24554-9f92-4a26-bcbe-34eb3a413c44",
+        "name": "Tata Sampann Unpolished Toor Dal-Arhar Dal 1 kg Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1d588c96-5956-4989-a058-b705fe1b93bf.jpg"
+        ],
+        "mrp": 448.0,
+        "offer_price": 360.0,
+        "unit_level_price": 360.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/06b29945-fc2a-4b19-87ad-ea669c533059",
+        "id": "06b29945-fc2a-4b19-87ad-ea669c533059",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 21,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "06b29945-fc2a-4b19-87ad-ea669c533059"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 32385,
+        "name": "24 Mantra Organic Tur / Arhar Dal",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/411f7fe6-88e7-44f5-826b-d95e5674c274.jpg?ts=1742469844",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d2c59b33-e515-4942-9255-6119bf80ba5b.jpg?ts=1742469844",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c7cc8844-5ffd-4d73-b0e0-8c703302d5cb.jpg?ts=1742469845",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6e09a12b-e01c-43be-9783-3838b208936f.jpg?ts=1742469845",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03361f95-d462-4e2d-b6b9-d6e066616127.jpg?ts=1742469846",
+          "http://cdn.grofers.com/app/images/products/sliding_image/32385f.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/32385g.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/32385h.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/32385i.jpg"
+        ],
+        "mrp": 330,
+        "offer_price": 300,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/32385",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32385
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0WF643CH0N",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/44644c69-5e5d-4f41-94b0-7cf0d5961584_15592_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h6yoxs1mzjhyn9z84iro",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/saibedutdopuykjkl02k"
+        ],
+        "mrp": 264,
+        "x_available": true,
+        "available": true,
+        "offer_price": 160,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/B56Q568P16",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "NNPKDR5RZS",
+          "0WF643CH0N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "594369590",
+        "name": "Orgaq Organicky Organic Arhar Dal / Toor Dal (Split) - 5kg",
+        "brand": "OrgaQ Organicky",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv466ie1uh/orgaq-organicky-organic-arhar-dal-toor-dal-split-5kg-product-images-orv466ie1uh-p594369590-0-202210091923.jpg"
+        ],
+        "mrp": 1500,
+        "offer_price": 1140,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/orgaq-organicky-organic-arhar-dal-toor-dal-split-5kg/594369590",
+        "id": "594369590",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "594369590"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7909654e-5319-4074-bfb4-965c16951eb5",
+        "name": "Daily Good Unpolished Toor / Tur / Arhar Dal",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aa63202a-f01f-49ba-80b4-0afed20531ae.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2543c960-b272-4f0c-a421-98d276ca2eb8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d040d439-37c4-4f26-b6e2-cbeeaf3769a8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47a6b07f-91e0-4bf3-9688-29c1c493ed91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b4b1d3e3-6106-4c7a-8ee9-df6d0ea70625.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/81d6be8e-6e20-491f-88e5-edec6fbc47e1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5aa5725a-3b2c-4d71-b717-bc00de0631de.jpeg"
+        ],
+        "mrp": 555.0,
+        "offer_price": 424.0,
+        "unit_level_price": 424.0,
+        "quantity": "2 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/eaf67601-479a-40ef-9c1b-f420af40cce4",
+        "id": "eaf67601-479a-40ef-9c1b-f420af40cce4",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "eaf67601-479a-40ef-9c1b-f420af40cce4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 520626,
+        "name": "True Story Organic Arhar Dal",
+        "brand": "True Story",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f585d1a2-d0cc-4a39-a346-38830845c629.jpg?ts=1723795833",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a64d989f-d3c0-480c-b5e1-81e076d3b782.jpg?ts=1719234213",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/97623083-e4cc-4486-a117-97766f497109.jpg?ts=1719234215",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2bde00ed-d6c5-462c-b0ee-b30e3eb3adc5.jpg?ts=1719234216"
+        ],
+        "mrp": 160,
+        "offer_price": 121,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/520626",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          520626
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "7UXLV345SM",
+        "name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/cf2797c5-7c02-4a7d-837a-7df2c1c38592_778338_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/f4bf851b-461a-46af-bd16-b03793859642_778338_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/c03b9325-8142-4296-ac8f-e099748f6aed_778338_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/ad0b4e3e-52ec-4a62-b9e8-46dd2e646304_778338_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/585673ae-2c31-4f01-9d14-97dd133c0382_778338_6.png"
+        ],
+        "mrp": 448,
+        "x_available": true,
+        "available": true,
+        "offer_price": 316,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1J312R9LEE",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7UXLV345SM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "591533092",
+        "name": "Orgaq Organicky Organic Arhar Dal / Toor Dal (Split) - 1kg",
+        "brand": "OrgaQ Organicky",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvzu4unj83/orgaq-organicky-organic-arhar-dal-toor-dal-split-1kg-product-images-orvzu4unj83-p591533092-0-202205230854.jpg"
+        ],
+        "mrp": 449,
+        "offer_price": 418,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/orgaq-organicky-organic-arhar-dal-toor-dal-split-1kg/591533092",
+        "id": "591533092",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "591533092"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "4995ebf5-97fa-45f2-8212-a55d4b5262f6",
+        "name": "Smart One Arhar Dal-Toor Dal",
+        "brand": "Smart One",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9425c0b3-eba8-4df0-b650-3e8e975906e7.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c551a4d9-f415-49f3-947e-310bc8f35c38.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/60c1f322-e316-4d66-b395-a75ab2653f77.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/43044097-d450-44b2-8e90-31f77bf37c50.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d88d72ef-80d3-4110-bcbe-9aaf74241b3a.jpeg"
+        ],
+        "mrp": 265.0,
+        "offer_price": 203.0,
+        "unit_level_price": 203.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/311e704b-9684-4202-b34a-e2c9be2e3192",
+        "id": "311e704b-9684-4202-b34a-e2c9be2e3192",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "311e704b-9684-4202-b34a-e2c9be2e3192"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 13451,
+        "name": "Organic Tattva Organic Arhar Dal",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/93af084c-5fde-4e99-9db4-b2372a444e2a.jpg?ts=1713776977",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13451b.jpg?ts=1705916477",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13451c.jpg?ts=1705916477",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13451d.jpg?ts=1705916477",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13451e.jpg?ts=1705916477"
+        ],
+        "mrp": 185,
+        "offer_price": 130,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/13451",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13451,
+          114385
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A2DRMW669N",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/f96d257f-8795-46a7-b1a7-6c25f572abc0_15591_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h6yoxs1mzjhyn9z84iro"
+        ],
+        "mrp": 132,
+        "x_available": true,
+        "available": true,
+        "offer_price": 81,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/6465SQ9AMY",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A2DRMW669N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "607231754",
+        "name": "Kush Gold Toor Dal / Tur Dal / Arhar Dal / Pigeon Pea (Split) - 500gm Pack",
+        "brand": "Kush Gold",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvtpb94yv5/kush-gold-toor-dal-tur-dal-arhar-dal-pigeon-pea-split-500gm-pack-product-images-orvtpb94yv5-p607231754-0-202401071645.jpg"
+        ],
+        "mrp": 250,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/kush-gold-toor-dal-tur-dal-arhar-dal-pigeon-pea-split-500gm-pack/607231754",
+        "id": "607231754",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "607231754"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1f35771e-fb53-47ef-9c87-1b87a5095822",
+        "name": "Tata Sampann Unpolished Toor Dal-Arhar Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddae04ed-05ae-4b5a-846e-0f579b5d2fb5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dbabdee9-6e25-4f6c-961b-60bc92e4ba82.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be84568e-4bd4-4373-a342-10a1b3f33d47.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/64efd560-96bf-48a5-8253-f1769ce5931a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ef609ff-b4b6-4c9b-9d5f-914f4fefae0f.jpeg"
+        ],
+        "mrp": 224.0,
+        "offer_price": 180.0,
+        "unit_level_price": 180.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1b3c9c59-924f-436c-91fb-910bcc3dee01",
+        "id": "1b3c9c59-924f-436c-91fb-910bcc3dee01",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 43,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1b3c9c59-924f-436c-91fb-910bcc3dee01"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 114385,
+        "name": "Organic Tattva Organic Arhar Dal",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/69a0f765-2acb-485c-98ae-71a8a1875db1.jpg?ts=1713777046",
+          "http://cdn.grofers.com/app/images/products/sliding_image/114385b.jpg?ts=1705911621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/114385c.jpg?ts=1705911621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/114385d.jpg?ts=1705911621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/114385e.jpg?ts=1705911621"
+        ],
+        "mrp": 365,
+        "offer_price": 257,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/114385",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13451,
+          114385
+        ]
+      },
+      {
+        "id": "W37UC85T6J",
+        "name": "organic tattva Arhar Tur Dal",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cnz0ffchcjyz0ikau3q5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cfdjwnhkbutprvmp6m4r",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hmp00xpzfgbyvooss6p6"
+        ],
+        "mrp": 365,
+        "x_available": true,
+        "available": true,
+        "offer_price": 265,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/UUNC5WR71Q",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "W37UC85T6J"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0XYWB5J0QB",
+        "name": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "brand": "Kitchen gems",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/e33a73fd-a762-4a8f-9e0f-d724e82b5170_27591_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/71b7ce36-b11d-4dab-80ff-ae3f5bd6fc2c_27591_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/1ac0bdc8-074a-40e5-ba50-92cedb8497f2_27541_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/b9856f7f-dda7-4bc3-8641-a52eb58863d7_27541_4.png"
+        ],
+        "mrp": 250,
+        "x_available": true,
+        "available": true,
+        "offer_price": 155,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/S8ZKXXGDYR",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0XYWB5J0QB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "607231755",
+        "name": "Kush Gold Toor Dal / Tur Dal / Arhar Dal / Pigeon Pea (Split) - 1Kg Pack",
+        "brand": "Kush Gold",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvdvkobsix/kush-gold-toor-dal-tur-dal-arhar-dal-pigeon-pea-split-1kg-pack-product-images-orvdvkobsix-p607231755-0-202401071645.jpg"
+        ],
+        "mrp": 500,
+        "offer_price": 385,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/kush-gold-toor-dal-tur-dal-arhar-dal-pigeon-pea-split-1kg-pack/607231755",
+        "id": "607231755",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "607231755"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "44264a1d-4b24-440a-ae86-415d4a2c1dd3",
+        "name": "Dehaat Honest Farms Unpolished Toor Dal | Arhar Dal 500 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/733942ee-eefb-4d27-bf0c-87b052f18bd8.jpg"
+        ],
+        "mrp": 336.0,
+        "offer_price": 284.0,
+        "unit_level_price": 284.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/704468d7-9ec9-496c-bc5f-f2e2b1160b18",
+        "id": "704468d7-9ec9-496c-bc5f-f2e2b1160b18",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "704468d7-9ec9-496c-bc5f-f2e2b1160b18"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 475663,
+        "name": "Natureland Organic Arhar Dal",
+        "brand": "Natureland",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b7d01a10-0e1e-4eac-aed2-b85a78fec11b.jpg?ts=1713777164",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475663b.jpg?ts=1690816195",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475663c.jpg?ts=1690816195"
+        ],
+        "mrp": 185,
+        "offer_price": 144,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/475663",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          475663
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "604302720",
+        "name": "Pure Tree | Certified Organic | Toor Dal | 1900 gm | Arhar Dal | Split Pigeon Peas",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvyl2u24gw/pure-tree-certified-organic-toor-dal-1900-gm-arhar-dal-split-pigeon-peas-product-images-orvyl2u24gw-p604302720-0-202309011101.jpg"
+        ],
+        "mrp": 799,
+        "offer_price": 680,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-toor-dal-1900-gm-arhar-dal-split-pigeon-peas/604302720",
+        "id": "604302720",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "604302720"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12b647be-cc93-4b1c-bad1-5d6363ff3032",
+        "name": "Dehaat Honest Farms Unpolished Toor Dal | Arhar Dal 1 kg Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/33cbd10d-6262-445f-a134-0d6d9055b732.jpg"
+        ],
+        "mrp": 660.0,
+        "offer_price": 504.0,
+        "unit_level_price": 504.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f41dfa25-c15f-419e-b9f0-461c41822e72",
+        "id": "f41dfa25-c15f-419e-b9f0-461c41822e72",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f41dfa25-c15f-419e-b9f0-461c41822e72"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "20ZC326JM5",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/ee7bda94-246d-4314-b6f2-f00c7f3b4793_2628_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/8ef154d6-60c3-41bd-aedb-60ee2760769f_2628_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/f7aea799-1b7d-4f71-99f4-8edfdba009a6_2628_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/8fa6e024-1f20-41e8-b98e-ba23246edca8_2628_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/2f0e5999-d7c6-47da-a368-dc506d7c5f3f_2628_6.png"
+        ],
+        "mrp": 224,
+        "x_available": true,
+        "available": true,
+        "offer_price": 158,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      },
+      {
+        "id": 39493,
+        "name": "Tata Sampann Unpolished Toor Dal/Toor Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64729800-0e10-489b-bced-9f50c775743b.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3d93035-90e7-45b8-bf53-d56928321e13.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ec5e07ec-a144-4052-a502-935e0c4bf1da.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0f9e197d-62dc-41c3-ae2b-046cd471a819.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/686f93cb-fa62-4d05-a9b2-05c23028f3f5.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd296646-9cdf-4c39-8c3e-a3f859db8478.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e4f39e21-5367-43a6-ba42-8946dd50743e.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/21d5e40b-613f-4ae4-b963-92491214f784.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d98ce47-7f93-4007-a897-73c265853a1c.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7b4c64e0-d97a-4506-a3e4-6a85ece766c5.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7ae08428-65b5-4110-89b8-4b25d8ef7d9d.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b28cdb71-6e22-47e3-bcc8-e0379d314410.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b8f85b82-f54a-4c2c-ae45-612ce00c06dd.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d71b04f-f231-4e70-8baf-8905279e98d1.jpg?ts=1733828007"
+        ],
+        "mrp": 224,
+        "offer_price": 171,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/39493",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 28,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          39493,
+          305650
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PTK8USAIHH",
+        "name": "Basic Toor Dal",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/31/61de02ea-3633-499c-a4f7-75b083416e2f_pulsesandothergrains_PTK8USAIHH_MN.png"
+        ],
+        "mrp": 460,
+        "x_available": true,
+        "available": true,
+        "offer_price": 269,
+        "unit_level_price": "134.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7DBAVWDSIQ",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTK8USAIHH",
+          "YT2NIZ1BOF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "611283725",
+        "name": "Health Fields Organic Rozana Toor Split (Arhar Daal) 1Kg",
+        "brand": "Health Fields",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rveujizknm/health-fields-organic-rozana-toor-split-arhar-daal-1kg-product-images-orveujizknm-p611283725-0-202504071201.png"
+        ],
+        "mrp": 490,
+        "offer_price": 490,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/health-fields-organic-rozana-toor-split-arhar-daal-1kg/611283725",
+        "id": "611283725",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "611283725"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d02993fe-5944-49b8-8fa5-077ed832dc36",
+        "name": "Daily Good Unpolished Toor / Tur / Arhar Dal 1 kg Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0077ca10-7f1c-42d8-99f7-216613c07943.jpg"
+        ],
+        "mrp": 630.0,
+        "offer_price": 482.0,
+        "unit_level_price": 482.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5166f945-9dfb-44e9-88f5-a41e4f8d5ac0",
+        "id": "5166f945-9dfb-44e9-88f5-a41e4f8d5ac0",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "5166f945-9dfb-44e9-88f5-a41e4f8d5ac0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 305650,
+        "name": "Tata Sampann Unpolished Toor Dal/Toor Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0aaf38ee-a97d-4f8d-a933-b73538fad7f8.jpg?ts=1734350813",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0a852b01-0285-4a1c-be60-63ee54342ad0.jpg?ts=1734350813",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66b8a3a7-36c0-45ad-b1e9-e1f9b11f35ff.jpg?ts=1734350814",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8870c453-feb3-44c5-aff0-eedf6f89fd6a.jpg?ts=1734350815",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e96c7b5e-926e-4ee3-ba9d-ab68cf4f6159.jpg?ts=1734350815",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4c74eac3-7067-4a37-b011-ef1a423c3e2a.jpg?ts=1734350816",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3d05dbe4-ce5f-4cbc-97fb-32c6efa6dd88.jpg?ts=1734350817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/de1ed603-cfbd-499b-8994-c58e8a18af6f.jpg?ts=1734350817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/42edc51d-4ece-4433-8964-28401d30faf9.jpg?ts=1734350818",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5786540b-f800-47f7-9151-09fb7cf90607.jpg?ts=1734350819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae29b9f2-8985-429a-b383-7f504b979882.jpg?ts=1734350819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/58e56750-dd18-41d4-a819-400c6258b589.jpg?ts=1734350820",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7435eaee-f847-471e-9189-45befb504709.jpg?ts=1734350820"
+        ],
+        "mrp": 113,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/305650",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 8,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          39493,
+          305650
+        ]
+      },
+      {
+        "xid": "60306dba-5f9d-4863-958c-984a60e7c804",
+        "name": "Tata Sampann Unpolished Toor Dal | Arhar Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06e24ca7-b039-42c9-abfc-11eb81cdc3f9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dcacd021-fd8b-4c9c-ac51-4bb69babaf9e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/213ce08b-7002-4c00-a8de-3c33172ab9f4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0feed1cc-dfa4-4023-88f5-6f530853d6a6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/973f2337-5f0e-4cb9-b73d-59354b877ed9.jpeg"
+        ],
+        "mrp": 113.0,
+        "offer_price": 91.0,
+        "unit_level_price": 91.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b112aa30-e6ab-4f7c-9326-16c1733a057a",
+        "id": "b112aa30-e6ab-4f7c-9326-16c1733a057a",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 47,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b112aa30-e6ab-4f7c-9326-16c1733a057a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YT2NIZ1BOF",
+        "name": "Basic Toor Dal",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/7dc690f8-0ee2-48cd-8684-280b1c1512f6_72163_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/c8fdc5d1-e669-4e0c-a5ad-92f6b0a875a0_72163_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/c83fa601-2a65-400c-9583-3ca1e10d2d29_72163_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/5e0651c3-7a12-4ac3-9b64-f11c1c9e140a_72163_4.png"
+        ],
+        "mrp": 230,
+        "x_available": true,
+        "available": true,
+        "offer_price": 137,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7DBAVWDSIQ",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTK8USAIHH",
+          "YT2NIZ1BOF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602972413",
+        "name": "Pure Tree | Certified Organic | Toor Dal | 1800 gm | Arhar Dal | Split Pigeon Peas",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvcd08kt1m/pure-tree-certified-organic-toor-dal-1800-gm-arhar-dal-split-pigeon-peas-product-images-orvcd08kt1m-p602972413-0-202307061336.jpg"
+        ],
+        "mrp": 765,
+        "offer_price": 696,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-toor-dal-1800-gm-arhar-dal-split-pigeon-peas/602972413",
+        "id": "602972413",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602972413"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39d32a5f-24fe-4c22-801f-51e5c719aab5",
+        "name": "Daily Good Unpolished Urad Dal | Split White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/34807953-951d-4387-a6a2-17b611cd90fe.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/570484f5-aff9-4e57-a9eb-c76f36ed6e1f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/abecb0ea-9fc9-4f1f-a0e3-dac79e074f89.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc7e6a80-45a7-4a33-ad27-30507801e355.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1dd10aea-9440-44b0-a801-84962cfee932.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b2568361-84fe-48f2-93ac-36ea03845eef.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/62c2a909-2abd-4927-af91-7073838e04b2.jpeg"
+        ],
+        "mrp": 130.0,
+        "offer_price": 101.0,
+        "unit_level_price": 101.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90",
+        "id": "d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c587e72f-4b3b-49e3-a878-f6085e3388e2",
+        "name": "Satyam Pulses Toor Dal",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9ae0d358-456c-41a0-b1ef-e37fc0e6aeb7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/7a254e3e-8071-4fbb-9217-f91001a4c6b9-1c9f7lETPFSP8A-VWmSRnPXqvXAujXH6t.jpeg"
+        ],
+        "mrp": 136.0,
+        "offer_price": 116.0,
+        "unit_level_price": 116.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7a254e3e-8071-4fbb-9217-f91001a4c6b9",
+        "id": "7a254e3e-8071-4fbb-9217-f91001a4c6b9",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7a254e3e-8071-4fbb-9217-f91001a4c6b9"
+        ]
+      },
+      {
+        "id": 45130,
+        "name": "Satyam Toor Dal/Toor Dal",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/51bd595b-b811-4a6c-8285-cf240bdbe3b8.jpg?ts=1740564367",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/47b2960f-e95b-4db7-8485-9fe4eb35891e.jpg?ts=1740564368",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a4febecd-3f2d-42aa-bdfb-24af12bf9ed5.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/56bb76f8-64e5-460f-8b53-934bd89be422.jpg"
+        ],
+        "mrp": 136,
+        "offer_price": 131,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/45130",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          45130
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VFM9T9AFYZ",
+        "name": "Organeekz Organic Toor Dal",
+        "brand": "Organeekz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/vuj8epw7yxo9cv5zugk8",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qidf3x3ojnzxgtfs8bne",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/leadwet2ycexfubzcfvi"
+        ],
+        "mrp": 422,
+        "x_available": true,
+        "available": true,
+        "offer_price": 281,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/L9P8A2Z63Z",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VFM9T9AFYZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "611148749",
+        "name": "Hanuprad Toor Dal (Chilka), Unpolished Arhar Dal Desi, 1 kg | Handpounded Arhar Dal | Protein Rich | Split Pigeon Peas",
+        "brand": "HANUPRAD",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgdzyep7o/hanuprad-toor-dal-chilka-unpolished-arhar-dal-desi-1-kg-handpounded-arhar-dal-protein-rich-split-pigeon-peas-product-images-orvgdzyep7o-p611148749-0-202503131323.jpg"
+        ],
+        "mrp": 350,
+        "offer_price": 350,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/hanuprad-toor-dal-chilka-unpolished-arhar-dal-desi-1-kg-handpounded-arhar-dal-protein-rich-split-pigeon-peas/611148749",
+        "id": "611148749",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "611148749"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e680db74-044e-4f32-9243-25b91410a88f",
+        "name": "24 Mantra Organic Tur Dal - Split",
+        "brand": "24 Mantra",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b87cdea1-076f-4191-bea8-550b929b8459.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b75abc5f-bd3f-467b-bfd0-e99192164319.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eb718462-dd23-4b2d-b36c-7cc1abd94053.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/023d39a3-e7a1-4f56-b991-be3405cce6b5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/00610840-fed1-458a-9d1b-bb0cf05fbab0-1VSTwy_NQ3Pf0oCyCGTfNv-Za0ed_IoSE.jpeg"
+        ],
+        "mrp": 165.0,
+        "offer_price": 140.0,
+        "unit_level_price": 140.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/00610840-fed1-458a-9d1b-bb0cf05fbab0",
+        "id": "00610840-fed1-458a-9d1b-bb0cf05fbab0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "00610840-fed1-458a-9d1b-bb0cf05fbab0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ec613db8-cada-430d-b5de-3b672e1b4640",
+        "name": "Dehaat Honest Farms Unpolished Toor Dal | Arhar Dal",
+        "brand": "Dehaat Honest Farms",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5eae4ff6-36b3-47a2-a062-b5494bf8b9ab.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/fd65f680-bc83-454c-9468-0d1acb7eafd2-/tmp/20230425-1314362.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/68b916f9-1c90-4293-abc7-204c053a0d78-/tmp/20230425-1314373.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d74a44db-0c46-45d6-9184-f47db6a4b282-/tmp/20230425-1314374.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/fac3be0c-601e-4bf1-bd6e-87b91e4fcbda-/tmp/20230425-1314375.jpeg"
+        ],
+        "mrp": 168.0,
+        "offer_price": 142.0,
+        "unit_level_price": 142.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/97339c20-e09d-426d-9390-a129c01b1abd",
+        "id": "97339c20-e09d-426d-9390-a129c01b1abd",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "97339c20-e09d-426d-9390-a129c01b1abd"
+        ]
+      },
+      {
+        "id": 519445,
+        "name": "Dehaat Honest Farms Pesticide-Free Toor Dal Unpolished",
+        "brand": "Dehaat Honest Farms",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/160dfd7b-fb98-42bc-b072-7cc8db885680.jpg?ts=1727265181",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/858ae7d6-6515-44e7-9955-d4c0d664b59d.jpg?ts=1727265183",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/414bf180-f918-4457-916d-4ead8cc0605f.jpg?ts=1727265184",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a948e135-f95e-48d8-bda5-05453a76e2cb.jpg?ts=1727265186",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b23dc16e-d091-42fb-9da1-fc9d02109f49.jpg?ts=1727265187",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3cfb5b6c-a429-421f-a691-4da270067f6e.jpg?ts=1727265189",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eb577429-3fb3-47ad-bc30-6f70bbd1d75f.jpg?ts=1727265190",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9ea93861-57aa-4a0d-979f-1ad179e34f4f.jpg?ts=1727265191"
+        ],
+        "mrp": 168,
+        "offer_price": 160,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/519445",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          519445
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XPX3OOZX2U",
+        "name": "Supreme Harvest Masoor Dal (Split)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/7694f8c0-17fc-4400-bc6f-c9c692c56e1f_15583.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7a5df1b42e75ab8f7400a2aa57d46a03",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9f98e71a1c5ec9dd2db30ea2c65bf07"
+        ],
+        "mrp": 187,
+        "x_available": true,
+        "available": true,
+        "offer_price": 123,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/G8WPWQF7F0",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XPX3OOZX2U"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "89bc4b07-ac5c-41d9-b4f6-d2aacd41bedd",
+        "name": "Popular Organic Toor Dal / Pigeon Peas | Ahar Dal",
+        "brand": "Popular Organics",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/28ff2fcc-0332-4dab-97ef-ecb31c0aa168.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/21d84977-a1df-4812-ad30-b51160043743.jpg"
+        ],
+        "mrp": 380.0,
+        "offer_price": 255.0,
+        "unit_level_price": 255.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/56f117ea-1e24-4a75-992d-c3f15b9ae246",
+        "id": "56f117ea-1e24-4a75-992d-c3f15b9ae246",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "56f117ea-1e24-4a75-992d-c3f15b9ae246"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 13461,
+        "name": "Organic Tattva Organic Mix Dal",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/553826c0-c30b-4983-ab41-e47096b26d63.jpg?ts=1713776984",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461b.jpg?ts=1697783872",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461c.jpg?ts=1697783872",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461d.jpg?ts=1697783872",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461e.jpg?ts=1697783872",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461f.jpg?ts=1697783872",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13461g.jpg"
+        ],
+        "mrp": 175,
+        "offer_price": 141,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/13461",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13461
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XD7GK2PNHW",
+        "name": "Popular Essentials Toor Dal (Split)",
+        "brand": "Popular Essentials",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0147a0553c936dd733782006445adcf0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1712bcab9c9d2caced8413d2d10d2c38",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b53b10918732c56ffb382c066a7687dc"
+        ],
+        "mrp": 239,
+        "x_available": true,
+        "available": true,
+        "offer_price": 209,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XBEAT7OEEM",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XD7GK2PNHW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8064313f-a24f-4d57-b0c7-a82587ecf747",
+        "name": "Daily Good Unpolished Urad Dal | Split White 500 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0e645bd5-2015-4b5b-abd6-d513fe9df78d.jpg"
+        ],
+        "mrp": 260.0,
+        "offer_price": 202.0,
+        "unit_level_price": 202.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ac74e932-55d3-42a5-bcf7-8c3a04fa5c88",
+        "id": "ac74e932-55d3-42a5-bcf7-8c3a04fa5c88",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ac74e932-55d3-42a5-bcf7-8c3a04fa5c88"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 544084,
+        "name": "Basic Arhar Dal +  Moong Dal (Dhuli) Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/large_images/jpeg/305a661a-a48a-457f-b105-1f7b4983d845.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/758b776e-0a7b-4111-b56e-f28aa43b4ab7.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9343824c-d32e-42a9-a847-f9f28aad1324.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8867792f-5588-43b2-9630-bd872cc20eab.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/00ed4184-2f63-4b87-afcb-d500f4f60974.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4a752b95-15a9-4fbf-944e-6a401f44f425.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/96708dd2-0f90-4428-a9de-344039a62194.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9a5208f8-a72c-4984-8edd-8c6316b9c717.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a80edaa5-2b1a-4d10-ac21-c1683feb317c.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/60ad54ed-58bc-4c88-bc27-e72e258f335b.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9362f8b0-f05b-4438-8b6d-28e6c7123f57.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a93a6ac2-9141-4f8a-b781-fb6a098dfce5.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6ee153bd-835a-465d-96f6-e9738f1ba5af.jpg?ts=1710350833"
+        ],
+        "mrp": 420,
+        "offer_price": 267,
+        "unit_level_price": "",
+        "quantity": "1 kg + 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/544084",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 15,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          544084
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2F0134OZQF",
+        "name": "Natureland Organics Arhar Dal",
+        "brand": "Natureland Organics",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9fbcd59ea659d54e24b5c71fc2ff8921",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/951ac18c24ef536bd2aec517dd237606",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ce00c57c67f96e823ab6004f114e1b87"
+        ],
+        "mrp": 355,
+        "x_available": true,
+        "available": true,
+        "offer_price": 302,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/23HU8HL59N",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "2F0134OZQF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39e7a335-9dc6-45bb-ae65-a2c9cbef2743",
+        "name": "Fortune Unpolished Arhar Dal",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/08f10063-e037-4983-8f62-b3331e6aa3bc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a4f46bce-9b15-4995-a58e-a047b3b36487.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e25117d3-64f7-4225-a58b-3f5e8c6c4afa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f004ab29-4a0f-41c2-b6eb-e0298e875caf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/01de03e8-26cf-4a22-aac4-f27e977cc65b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e1d63278-a914-49b1-be5c-3307e7421444.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a6174a78-fd31-4526-8f24-cab2815ce20b.jpeg"
+        ],
+        "mrp": 155.0,
+        "offer_price": 118.0,
+        "unit_level_price": 118.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ad55222c-5d4e-4a69-965c-373894458cf0",
+        "id": "ad55222c-5d4e-4a69-965c-373894458cf0",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ad55222c-5d4e-4a69-965c-373894458cf0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 71818,
+        "name": "Fortune Unpolished Arhar Dal/ Toor Dal",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ce29eb90-b707-4783-9021-aeb0c1e3d2f0.jpg?ts=1741079691",
+          "http://cdn.grofers.com/app/images/products/sliding_image/71818b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/71818c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/71818d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/71818e.jpg"
+        ],
+        "mrp": 155,
+        "offer_price": 102,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/71818",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          71818
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "7K20GBNVBX",
+        "name": "Organic India Organic Arhar Dal",
+        "brand": "Organic India",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b8ed8f49a68ecccfd8582f0ccc36b930",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4a3937c5d94a634654d0e46d97508f87",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d32798b2a62374a1270055ee22fd2bb0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7ea9502035077a1bdb80086595d313c7"
+        ],
+        "mrp": 375,
+        "x_available": true,
+        "available": true,
+        "offer_price": 356,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VPBUXTLLZE",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7K20GBNVBX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bbb95104-14f5-4092-b7b9-ac9d7fd03114",
+        "name": "Daily Good Unpolished Urad Dal | Split White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b89ea0ae-e9c6-4c29-b801-2e4fd0bbcbd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9938186d-23e7-46ab-9c9f-f97a738e9efa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d852f3c0-cba5-444e-a8a9-5fc68fe59eca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0f24b9df-acba-410b-8413-c2da2ba3581a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/44a6c8a7-b776-461c-91cc-a446652adab3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/586ffbff-9d27-4c76-983b-e93b80b8b2db.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3be49f60-f301-46d4-9201-3c1c8546d055.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 100.0,
+        "unit_level_price": 100.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e0c65e93-3f0e-4a79-8d2b-e09d0348f90a",
+        "id": "e0c65e93-3f0e-4a79-8d2b-e09d0348f90a",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e0c65e93-3f0e-4a79-8d2b-e09d0348f90a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 519444,
+        "name": "Dehaat Honest Farms Pesticide-Free Toor Dal/Toor Dal Unpolished",
+        "brand": "Dehaat Honest Farms",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/90973a48-e839-4af4-8027-c653dd6d052d.jpg?ts=1727265814",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9793f88d-90e8-4ddb-b8af-56e80b1cb469.jpg?ts=1727265816",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0a23f93e-ce39-4761-9fd8-e88d2e9c9cfe.jpg?ts=1727265817",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ee65df47-21ce-4ddb-bca5-0ff530c66858.jpg?ts=1727265819",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/884fe393-22fc-4394-90d3-a868af0cd421.jpg?ts=1727265820",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/43485671-4adb-4d2f-9d5e-77b25202950e.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4bc58d8d-c0b0-49f8-aeca-d989e111d422.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/501c2351-03d0-4195-b216-850ec48d031b.jpg"
+        ],
+        "mrp": 330,
+        "offer_price": 297,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/519444",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          519444
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "K71D7X8L8P",
+        "name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/15569b11-71e5-4f10-8f42-f892cb9c4c0e_1840_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/fc7379ac-e66e-4bb3-95a6-d6ac10870e81_1840_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/c393b178-9e67-435e-934e-0929845eb094_1840_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/df90a45b-815e-4b4f-ad49-d5037f78382a_1840_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f43e42f0a1fd77d97c93cfaa7eaab862"
+        ],
+        "mrp": 113,
+        "x_available": true,
+        "available": true,
+        "offer_price": 80,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/CZN16LX6D0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "K71D7X8L8P"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "55f04cad-9bb7-4353-80fe-82cd10d57316",
+        "name": "Daily Good Toor Dal Regular",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dfd5950d-c933-41b4-9a76-7843f90475fe.png",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dfd5950d-c933-41b4-9a76-7843f90475fe.png",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/53a83a67-3a2d-4b01-8f9f-38e389428914.png",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a6a14edd-a947-44dc-b9ef-9a220767bcab.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9989fa53-2aee-4f9d-9a35-df28739a3572.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2cf2deb1-d5cd-4edb-9475-5e0d1208d8ef.jpeg"
+        ],
+        "mrp": 270.0,
+        "offer_price": 262.0,
+        "unit_level_price": 262.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/4a7d4796-0d8a-4627-907f-e6df14abf923",
+        "id": "4a7d4796-0d8a-4627-907f-e6df14abf923",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "4a7d4796-0d8a-4627-907f-e6df14abf923"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527993,
+        "name": "Whole Farm Grocery Moong Dal (Dhuli)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f186a3bf-3792-458f-aacb-70aa2d49bfee.jpg?ts=1712825463",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8ca5d205-d0fa-4847-b925-7c4d682f25ec.jpg?ts=1743766965",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527993c.jpg?ts=1692362967",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527993d.jpg?ts=1692362967",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527993e.jpg"
+        ],
+        "mrp": 200,
+        "offer_price": 141,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527993",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527993,
+          603644
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "D4STXGOLIW",
+        "name": "Pro Nature Organic Toor Dal - Split",
+        "brand": "Pro Nature Organic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/y1cgiiihs9unakrsgljl",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ku95na7bemcvnukgjqpd",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fsj7rndtytoioa3r2kmp"
+        ],
+        "mrp": 346,
+        "x_available": true,
+        "available": true,
+        "offer_price": 326,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/C22JZZ9169",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "D4STXGOLIW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e05c4373-6438-49ff-910d-4db3b4e6bf35",
+        "name": "Jairaj Tur Dal / Arhar Dal",
+        "brand": "Jairaj",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f6d28416-1918-4fed-9c52-937593369e6e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e9bbd0d9-62dc-4596-9489-0a0cfcad9806.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c183f4b9-b4c0-4fee-b0eb-5b0d2ec62391.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5eab67c2-fda3-475e-8354-75a324359a6b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/836558d9-1bfc-4323-83a6-b75cda5ea954.jpg"
+        ],
+        "mrp": 135.0,
+        "offer_price": 118.0,
+        "unit_level_price": 118.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c24c9e2b-0b9f-4340-9801-1c62d8dbd89a",
+        "id": "c24c9e2b-0b9f-4340-9801-1c62d8dbd89a",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c24c9e2b-0b9f-4340-9801-1c62d8dbd89a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 603644,
+        "name": "Whole Farm Grocery Moong Dal (Dhuli)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cb2db7c8-7173-4fe4-ab5a-d99d6b916e80.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9a1d0727-48de-4859-bd7e-914259af5a45.jpg?ts=1743767012",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b2d291c-2ef6-4bac-a5e1-6c86d27a31dd.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5a18f0b7-7f62-4742-bb5a-eab8c77cc88d.jpg"
+        ],
+        "mrp": 399,
+        "offer_price": 273,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/603644",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527993,
+          603644
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3W7CK59AAA",
+        "name": "Pro Nature Organic Tur Dal (Arhar)",
+        "brand": "Pro Nature Organic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8562428ebccf556cb3312d5f76494419",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/29e6031cf37899622a8003a024d662be",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4507090ab5c566eed402182aca4b6e70"
+        ],
+        "mrp": 176,
+        "x_available": true,
+        "available": true,
+        "offer_price": 163,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HWL4CINXUV",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3W7CK59AAA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 403676,
+        "name": "Tata Sampann Organic Arhar Dal Unpolished",
+        "brand": "Tata Sampann",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d8fbfcab-3228-482f-b185-cbde28035bb2.jpg?ts=1713777098",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676b.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676c.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676d.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676e.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676f.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676g.jpg?ts=1687522539",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676h.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403676i.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 108,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/403676",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          403676
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "F98RKXM60A",
+        "name": "Supreme Harvest Masoor Dal (Split)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/40a269ec-edd3-4e87-a5ab-e0e382c02d88_15582.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7a5df1b42e75ab8f7400a2aa57d46a03",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9f98e71a1c5ec9dd2db30ea2c65bf07"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 63,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MIXKAJZ8E3",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F98RKXM60A"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "350e6193-1c11-4453-bd5c-209668c29c5a",
+        "name": "Popular Essentials Masoor Dal Split | Un-Polished",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6decac70-165a-4dd7-a996-ff12c5cf2ce2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1L1BmeeA4gCd9cD3wgecVO5vzhvzQjtNT.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 69.0,
+        "unit_level_price": 69.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c7e079f6-2488-4e55-a154-8e989d4f1633",
+        "id": "c7e079f6-2488-4e55-a154-8e989d4f1633",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c7e079f6-2488-4e55-a154-8e989d4f1633"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 498762,
+        "name": "Amul Organic Arhar Dal / Toor Dal",
+        "brand": "Amul",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e2049afa-f588-467a-9ec3-3540a4c591a5.jpg?ts=1726894375",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/707106e5-5366-4dc4-9fe8-3ee49f277716.jpg?ts=1726894376",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/50c0c205-9bd3-46cd-8188-15d42a4b5372.jpg?ts=1726894377",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/09dd592c-df3a-43c3-885e-7b30b5e0b7b7.jpg?ts=1726894378",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f4c1f242-090a-49b0-b2dc-79a06ee50267.jpg?ts=1726894379",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/80c1af54-f60a-484c-bc44-bb8391b9eec8.jpg?ts=1726894380",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/57602f69-f8fe-4a4d-abc6-110e86b9ea34.jpg?ts=1726894381",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a2be8767-bc14-47c3-9a5c-4c39ce8034c9.jpg"
+        ],
+        "mrp": 130,
+        "offer_price": 117,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/498762",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          498762
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "M0XCDD246W",
+        "name": "Natureland Organics Arhar Dal",
+        "brand": "Natureland Organics",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/3/127013af-78ff-4aa4-ac13-16a6e0b944cc_M0XCDD246W_mn.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/3/20e221be-1276-42dd-8221-e82ecb042726_M0XCDD246W_al1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/76214121a8a457c64fb37bd6033e2925"
+        ],
+        "mrp": 185,
+        "x_available": true,
+        "available": true,
+        "offer_price": 147,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/28FBC97DY6",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "M0XCDD246W"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b5c5de6a-3f6d-4af8-b497-f4e474ebaf9c",
+        "name": "Popular Essentials Toor Dal | Un-Polished",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3ea06683-4d02-4ea4-8104-62e9b1d7f7b0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/57ba0747-6022-4f01-a689-bd205a8f248e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8754d46e-bbf5-4a16-a15c-eb604b34f785.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/15096959-f5f6-46a4-b242-e1ecb103bb43.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c8a8848c-e864-4009-abcc-e9204f1f7a1f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9e1e26f5-a30f-4a26-bf35-061e995d7d1f.jpeg"
+        ],
+        "mrp": 120.0,
+        "offer_price": 120.0,
+        "unit_level_price": 120.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0d1c3cbe-9f51-413f-ad7f-73218b4d9969",
+        "id": "0d1c3cbe-9f51-413f-ad7f-73218b4d9969",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0d1c3cbe-9f51-413f-ad7f-73218b4d9969"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 492966,
+        "name": "Whole Farm Premium Toor Dal/Toor Dal",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c455e02f-d814-4da9-82a4-cd7afb53b61b.jpg?ts=1712825858",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3200683-4ddb-4b9b-935c-1bf0c5c10a2f.jpg?ts=1743764616",
+          "http://cdn.grofers.com/app/images/products/sliding_image/492966c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/492966d.jpg"
+        ],
+        "mrp": 290,
+        "offer_price": 191,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/492966",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          492966,
+          492965
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "1J2K4OZBRK",
+        "name": "Maya Premium Toor Dal",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b0e0a48eedf9f4e4471fcc0da4c20e48"
+        ],
+        "mrp": 235,
+        "x_available": true,
+        "available": true,
+        "offer_price": 235,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/T8MCGLOF5M",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "1J2K4OZBRK"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "81f58cd3-d907-4078-ad7b-b8051a6a6da4",
+        "name": "Popular Organics Toor Dal / Pigeon Peas | Ahar Dal",
+        "brand": "Popular Organics",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/03a14ce1-973a-42ae-bec2-db9ca68f14be.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c24382e9-15a1-4090-9e2e-20f4ff69be29.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99701c98-a18a-4140-881a-000591376af1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7333bb52-ea44-45f3-9ffa-b9977fcfe18e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/52ae6978-4e2f-4762-8cc9-d7618acaba36.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8a274508-128b-4410-aa05-7257d72008cb.jpeg"
+        ],
+        "mrp": 190.0,
+        "offer_price": 161.0,
+        "unit_level_price": 161.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7b0d9172-c120-462b-ae20-5903faffe48e",
+        "id": "7b0d9172-c120-462b-ae20-5903faffe48e",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7b0d9172-c120-462b-ae20-5903faffe48e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 492965,
+        "name": "Whole Farm Premium Toor Dal/Toor Dal",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4cfbfe25-56c4-46a3-b506-44f8e7e642d2.jpg?ts=1712825857",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/52ffdf50-9cdc-4223-87d1-7864e0c6471c.jpg?ts=1743764615",
+          "http://cdn.grofers.com/app/images/products/sliding_image/492965c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/492965d.jpg"
+        ],
+        "mrp": 145,
+        "offer_price": 88,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/492965",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          492966,
+          492965
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VZFMWXM493",
+        "name": "24 Mantra Organic Tur Dal",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/972806e4-af76-4cb3-b0af-fa4cc26c458b_248_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/83057715-4eb3-44b8-8239-7bb6b4f8d14d_248_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/6e0a698a-5835-41a9-8f52-654327f9e53c_248_3.png"
+        ],
+        "mrp": 180,
+        "x_available": true,
+        "available": true,
+        "offer_price": 133,
+        "unit_level_price": "26.6/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/OEW7NGMH5V",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VZFMWXM493",
+          "75UVW9YJ9A"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0426ee98-a833-48b1-afd1-4d9054e8bed6",
+        "name": "Satyam Pulses Toor Dal",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d0724f35-83ea-4a45-aa8b-3ac04528b808-13e-m0JJI4AyRCeVNNl2hS-UiJPTSOxxl.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d0724f35-83ea-4a45-aa8b-3ac04528b808-1_M9ys_QjfD96Dk7UDO2nsRybqwo3z41y.jpeg"
+        ],
+        "mrp": 302.0,
+        "offer_price": 262.0,
+        "unit_level_price": 262.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d0724f35-83ea-4a45-aa8b-3ac04528b808",
+        "id": "d0724f35-83ea-4a45-aa8b-3ac04528b808",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d0724f35-83ea-4a45-aa8b-3ac04528b808"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "75UVW9YJ9A",
+        "name": "24 Mantra Organic Tur Dal",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ab1cedbf2b8d4e3c2f9081bd33e44648"
+        ],
+        "mrp": 360,
+        "x_available": true,
+        "available": false,
+        "offer_price": 248,
+        "unit_level_price": "24.8/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/OEW7NGMH5V",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 19,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VZFMWXM493",
+          "75UVW9YJ9A"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "dfc6eaf5-eeda-4712-ae7a-5c09dcf90470",
+        "name": "Popular Essentials Toor Dal | Un-Polished 1 kg Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31c28247-27d8-48fd-a723-1720212562dc.jpg"
+        ],
+        "mrp": 478.0,
+        "offer_price": 400.0,
+        "unit_level_price": 400.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9a6ad281-1eae-4b3c-80ce-8d5cb968e879",
+        "id": "9a6ad281-1eae-4b3c-80ce-8d5cb968e879",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9a6ad281-1eae-4b3c-80ce-8d5cb968e879"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d349a5b4-1b88-4440-ba59-85db9f90c0e8",
+        "name": "Popular Essentials Toor Dal | Un-Polished",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dde3972b-029b-4771-8858-f9b271e29c79.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/899ecab5-8bca-4c00-b13e-6aafc0889fe9-1BSvcJ6x8U8sVsrvVEqMwcQXJsfdbIN7E.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/899ecab5-8bca-4c00-b13e-6aafc0889fe9-1dy2DqRZBOmJQvs-W2t0U10GE4BtklLwa.jpeg"
+        ],
+        "mrp": 239.0,
+        "offer_price": 200.0,
+        "unit_level_price": 200.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/899ecab5-8bca-4c00-b13e-6aafc0889fe9",
+        "id": "899ecab5-8bca-4c00-b13e-6aafc0889fe9",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "899ecab5-8bca-4c00-b13e-6aafc0889fe9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "25e7ea64-44ee-4372-8e9a-5fd3288ac0be",
+        "name": "Daily Good Unpolished Urad Dal | Split White 1 kg Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f34b5d0d-08a5-4e04-97fc-e4a83db22c00.jpg"
+        ],
+        "mrp": 750.0,
+        "offer_price": 276.0,
+        "unit_level_price": 276.0,
+        "quantity": "1 kg X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a941c6bc-cd2c-4662-ae21-f850a6adf048",
+        "id": "a941c6bc-cd2c-4662-ae21-f850a6adf048",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a941c6bc-cd2c-4662-ae21-f850a6adf048"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "130faa82-3d7b-43f4-aa16-d5ce28a86721",
+        "name": "Jairaj Tur Dal / Arhar Dal",
+        "brand": "Jairaj",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d986f8ae-9dc5-4713-b694-5b59e7f4f76f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2bfc90ae-f052-42aa-a315-f97ed19a980f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/65f4d8b8-af45-4d3c-afb9-d413e67af46e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddef10d3-0586-4a47-8d7c-7f1c472adc4f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/74d8b894-eee2-485a-88f6-b33835ff5a67.jpg"
+        ],
+        "mrp": 265.0,
+        "offer_price": 232.0,
+        "unit_level_price": 232.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b98393da-7f5c-4fc5-8b1a-cfce62b6ddec",
+        "id": "b98393da-7f5c-4fc5-8b1a-cfce62b6ddec",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b98393da-7f5c-4fc5-8b1a-cfce62b6ddec"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "721396c8-4e9e-4d5a-a5a8-e5086aa29c54",
+        "name": "Daily Good Unpolished Urad Dal | Split White 1 kg Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f82201a-45a8-496b-9850-fbf4a61103b0.jpg"
+        ],
+        "mrp": 500.0,
+        "offer_price": 184.0,
+        "unit_level_price": 184.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a7115475-c60f-4092-ae99-021a08d96b72",
+        "id": "a7115475-c60f-4092-ae99-021a08d96b72",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a7115475-c60f-4092-ae99-021a08d96b72"
+        ]
+      }
+    ]
+  }
+]

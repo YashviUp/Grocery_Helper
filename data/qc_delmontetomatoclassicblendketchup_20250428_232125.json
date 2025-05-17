@@ -1,0 +1,1807 @@
+[
+  {
+    "data": [
+      {
+        "id": "40015687",
+        "name": "Classic Blend Tomato Ketchup",
+        "brand": "Del Monte ",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40015687_4-del-monte-tomato-ketchup-classic-blend-rich-thick-condiment.jpg"
+        ],
+        "mrp": "95",
+        "offer_price": "64.6",
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40015687",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40015687"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "79eb44b7-9951-4684-825e-f0d59a192486",
+        "name": "Del Monte Classic Blend Tomato Ketchup",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/24c1b1a0-55d8-4b07-ac60-7f1ea645b3a5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/91bdd2f2-bd4b-4a02-8be4-7a6fa421f164.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/610ad111-f771-46b2-9356-7b152ab06e96.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9ca28133-f8de-4a9c-b49b-8911c09841c0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b90c39b4-df2b-4346-bf48-08941d3f9943.jpeg"
+        ],
+        "mrp": 130.0,
+        "offer_price": 100.0,
+        "unit_level_price": 100.0,
+        "quantity": "900 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/fddeda02-caff-4a4c-96e6-580d46e5c31b",
+        "id": "fddeda02-caff-4a4c-96e6-580d46e5c31b",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "fddeda02-caff-4a4c-96e6-580d46e5c31b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "491167769",
+        "name": "Del Monte Tomato Ketchup, Classic Blend - 450 g",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/491167769/del-monte-tomato-ketchup-classic-blend-450-g-product-images-o491167769-p491167769-0-202501152011.jpg"
+        ],
+        "mrp": 95,
+        "offer_price": 47,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/del-monte-tomato-ketchup-500-g/491167769",
+        "id": "491167769",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "491167769"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 21560,
+        "name": "Del Monte Tomato Ketchup",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/69683ebb-b73e-41cd-bd59-08254d6c4359.jpg?ts=1743684322",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ba7f8e97-4549-440b-8e28-d81fab1b2b4e.jpg?ts=1743768067",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0ffe16e6-39fc-4da3-8da7-1b035ab0ca56.jpg?ts=1743768068",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b1c5e907-2efa-4bcc-b8c4-3a47fa459728.jpg?ts=1743768068",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/35fb5fd4-b327-4529-a272-99ea59e3dd86.jpg?ts=1743684322",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2bb49655-8799-4908-9c62-4ef253fa98c8.jpg?ts=1743684322",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8577da83-6828-402e-888a-dad1c253b55e.jpg?ts=1743684322"
+        ],
+        "mrp": 80,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "300 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/21560",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21560
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1098001",
+        "name": "Home Chef Tomato Ketchup ",
+        "brand": "Home Chef",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120005578xx24JUN22_5_P.jpg"
+        ],
+        "mrp": 145,
+        "offer_price": 73,
+        "unit_level_price": "(\u20b9 60.83 / 1 kg)",
+        "quantity": "1.2 kg",
+        "deeplink": "https://www.dmart.in/product/home-chef-tomato-ketchup-pcokpaste0home1xx021019?selectedProd=1098001",
+        "id": "583178",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "583178"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "40a5d1f7-1eb9-4577-88d1-af12e951e1df",
+        "name": "Del Monte Classic Blend Tomato Ketchup",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c26b25d7-b9f2-4a21-8b04-27cd143664b3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83ca1325-6366-4134-bcf5-9132077b0606.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7d0ac71f-4437-481b-a6ba-00603200f662.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3542f108-ab37-4123-88ff-edf92e2c2b74.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47795d2f-f492-4fbc-85d8-2e21ff563ca6.jpeg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 69.0,
+        "unit_level_price": 69.0,
+        "quantity": "450 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/39134d42-8e23-4783-ac3a-fe36d997df29",
+        "id": "39134d42-8e23-4783-ac3a-fe36d997df29",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "39134d42-8e23-4783-ac3a-fe36d997df29"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11743",
+        "name": "Del Monte Tomato Ketchup ",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120000390xx5FEB25_5_P.jpg"
+        ],
+        "mrp": 130,
+        "offer_price": 70,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "900 g",
+        "deeplink": "https://www.dmart.in/product/del-monte-tomato-ketchup?selectedProd=11743",
+        "id": "13672",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13672"
+        ]
+      },
+      {
+        "id": "U2UWVOBV1J",
+        "name": "DEL MONTE CLASSIC BLEND TOMATO KETCHUP",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/274be225-63f6-4637-86b9-98ca79404f97_2908_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/9030c8dd-355e-4437-9ee3-68e1407eb4d0_2908_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/18/16fe2a8d-1dc4-4abb-bc0c-214ef6baae62_2908_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/c9696bf0-e017-4bef-abe5-287351c6fb50_2908_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/eb39e2c3-a546-4904-a717-0782b3d0aa4e_2908_5.png"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 77,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NE8UV9NGYD",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U2UWVOBV1J"
+        ]
+      },
+      {
+        "id": 113977,
+        "name": "Del Monte Tomato Ketchup",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977a.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977b.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977c.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977f.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977d.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977e.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977g.jpg?ts=1718274621",
+          "http://cdn.grofers.com/app/images/products/sliding_image/113977h.jpg?ts=1718274621"
+        ],
+        "mrp": 130,
+        "offer_price": 77,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/113977",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          113977
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AIHM55GD6Q",
+        "name": "Del Monte Original Blend Tomato Ketchup",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/5accb328-91b4-4ccf-a1fe-ea36b2cf5104_2907_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/4aac287f-cc49-441b-b787-ef346fe062dd_2907_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/08e9b76b-3a80-4f63-b39c-d30ae5a23df0_2907_3.png"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 69,
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/X0PAH43QY4",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AIHM55GD6Q"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GPJBNWK0UX",
+        "name": "DEL MONTE TOMATO KETCHUP SWEET AND SPICY",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/11/00824c19-d73d-4b9c-b81a-5c93bb24cda6_125_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/11/e6175c04-7130-4bb3-8918-ed31e60bc58b_125_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/11/a7ad1555-60fd-4f7f-9a27-593994a95ede_125_3.png"
+        ],
+        "mrp": 135,
+        "x_available": true,
+        "available": true,
+        "offer_price": 109,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H2W8VXFK82",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GPJBNWK0UX"
+        ]
+      },
+      {
+        "id": 349773,
+        "name": "Del Monte Sweet & Spicy Tomato Ketchup",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773a.jpg?ts=1687326262",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773b.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773c.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773d.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773e.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773f.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773g.jpg?ts=1650957161",
+          "https://cdn.grofers.com/app/images/products/sliding_image/349773h.jpg"
+        ],
+        "mrp": 135,
+        "offer_price": 110,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/349773",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          349773
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WCWC517KB6",
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gyhnhupu6h6mc6ixmplv",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/smnox9ngcpcm8dgmkwdn",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hnmz8dszhzltijt3r2xr",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dsaeosmwki1xmd2xwtw4",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/afklsuxn4zwvvz2bmwsj"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/LI58UJNHPU",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WCWC517KB6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40102147",
+        "name": "Tomato Ketchup, Classic Blend - Squeezy",
+        "brand": "Del Monte ",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40102147_4-del-monte-tomato-ketchup-squeezy.jpg"
+        ],
+        "mrp": "115",
+        "offer_price": "115",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40102147",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40102147"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "32503",
+        "name": "Del Monte Light Olive Oil (2 L) ",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110000586xx16JAN24_5_P.jpg"
+        ],
+        "mrp": 3999,
+        "offer_price": 2249,
+        "unit_level_price": "(\u20b9 1227.62 / 1 L)",
+        "quantity": "1.832 kg",
+        "deeplink": "https://www.dmart.in/product/del-monte-extra-light-olive-oil?selectedProd=32503",
+        "id": "45567",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45567"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2GNIPJS7D8",
+        "name": "Kissan Fresh Tomato Ketchup Doy",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/eae7e17c9e0e44fe9c0c122b896b4fac",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/28feb8217a90d53f7a3b63868927ce23",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f24d95976eeb90441f491db7fcd10019"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 100,
+        "unit_level_price": "",
+        "quantity": "850 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/K6LOR1QJ22",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "2GNIPJS7D8"
+        ]
+      },
+      {
+        "id": 368445,
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445a.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445b.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445c.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445d.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445e.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445f.jpg?ts=1671599499",
+          "http://cdn.grofers.com/app/images/products/sliding_image/368445g.jpg?ts=1671599499"
+        ],
+        "mrp": 100,
+        "offer_price": 100,
+        "unit_level_price": "",
+        "quantity": "850 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/368445",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 29,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          368445
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BZ3QRVMJU2",
+        "name": "Heinz Tomato Ketchup",
+        "brand": "Heinz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/inpvcbbzs4uwhdiohpbm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/s2q4evhpnhaa545iwbns",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zkpk5n4cs2rttqg8wamb"
+        ],
+        "mrp": 285,
+        "x_available": true,
+        "available": true,
+        "offer_price": 243,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5PYYZGA9E5",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BZ3QRVMJU2"
+        ]
+      },
+      {
+        "id": 56309,
+        "name": "Heinz Tomato Ketchup",
+        "brand": "Heinz",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/56309a.jpg?ts=1690814345",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56309b.jpg?ts=1690814345",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56309c.jpg?ts=1690814345",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56309d.jpg?ts=1690814345",
+          "https://cdn.grofers.com/app/images/products/sliding_image/56309e.jpg?ts=1690814345"
+        ],
+        "mrp": 285,
+        "offer_price": 257,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/56309",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          56309
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YCN8XMOJ4F",
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8e48125e3256ae72c3c2d44f07c510df"
+        ],
+        "mrp": 140,
+        "x_available": true,
+        "available": true,
+        "offer_price": 139,
+        "unit_level_price": "34.8/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/G6G2H9YGJX",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YCN8XMOJ4F",
+          "1OTMDGZA46"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 439881,
+        "name": "Del Monte Sandwich Spread",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1a001950-3243-4b3d-8f13-3124dc8bad88.jpg?ts=1723485228",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/afb4e1bf-c8c3-4916-83bc-db1a403c5f82.jpg?ts=1718360727",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8870957f-844d-4ab4-a956-8d7c67a3a366.jpg?ts=1718360728",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/92b17ae6-1d66-440a-b8b0-2a85ec097e03.jpg?ts=1718360729",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ae9c3b0f-1386-4539-82b8-367077ab51ad.jpg?ts=1718360731",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bec3c019-e447-403f-bad2-fc413a2f47bf.jpg?ts=1718360731",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439881g.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 90,
+        "unit_level_price": "",
+        "quantity": "280 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/439881",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          439881,
+          483704
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "1OTMDGZA46",
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c3d31dd9348ff2819b6eff7101470a7f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4aff993730deb517d0aab6e3449fd141"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 70,
+        "unit_level_price": "35/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/G6G2H9YGJX",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "YCN8XMOJ4F",
+          "1OTMDGZA46"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 483704,
+        "name": "Del Monte Sandwich Spread - Pack of 2",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b458651d-8bc8-42fe-acbc-55b7151ddd32.jpg?ts=1742968996",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704a.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704b.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704c.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704d.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704e.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704f.jpg?ts=1710347331",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483704g.jpg?ts=1710347331"
+        ],
+        "mrp": 198,
+        "offer_price": 179,
+        "unit_level_price": "",
+        "quantity": "2 x 280 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/483704",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          439881,
+          483704
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 479704,
+        "name": "Veeba Chef's Special Tomato Ketchup",
+        "brand": "Veeba",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704a.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704b.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704c.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704d.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704e.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704f.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704g.jpg?ts=1684920785",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704h.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/479704i.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 81,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/479704",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 11,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          479704
+        ]
+      },
+      {
+        "id": "U1JHFF0Y01",
+        "name": "Veeba Tomato Ketchup Chef's Special",
+        "brand": "Veeba",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a117aeef949e6e706043c4e3fc841c47",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5e67e30285f48cbdf86ba5d31aab1cab",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e568c123253e4eaefcf72a2ffb314eef",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/028f5c7678324193280b69733d40875c",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c1de4f5cd13018d0fabc6cb10db1f576"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DNOFYR448L",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U1JHFF0Y01"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 18669,
+        "name": "Kissan Sweet & Spicy Tomato Ketchup",
+        "brand": "Kissan",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669a.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669c.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669d.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669e.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669f.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669g.jpg?ts=1707480361",
+          "https://cdn.grofers.com/app/images/products/sliding_image/18669h.jpg?ts=1707480361"
+        ],
+        "mrp": 80,
+        "offer_price": 80,
+        "unit_level_price": "",
+        "quantity": "415 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/18669",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          18669
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 603825,
+        "name": "Del Monte White Pasta Sauce",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d6373f3-0a55-4485-b5a0-c677fd0d8404.jpg?ts=1736428271",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90544697-86c5-4e6b-8191-6efcbb461aa8.jpg?ts=1736428271",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5056feec-2195-4a42-a244-2156107375b5.jpg?ts=1736428272",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03a1fa59-9b60-4255-b064-4ea83f4b91f3.jpg?ts=1736428272",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c1fc1c10-d79e-435e-9cd2-9d5bf2382f4a.jpg?ts=1736428273",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/db6f1d24-f418-4080-9654-d594f2ff9538.jpg?ts=1736428273",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fbf5f965-eaf9-47a2-a4aa-8efd7e45a266.jpg?ts=1736428273",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/285a0d01-7538-4007-a354-5cace59a4bdd.jpg?ts=1736428274"
+        ],
+        "mrp": 149,
+        "offer_price": 135,
+        "unit_level_price": "",
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/603825",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          603825
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "57GCK4R3WU",
+        "name": "Maggi Rich Tomato Ketchup",
+        "brand": "Maggi",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/f662b75b-d84a-4c40-a8f1-ecaead1cd470_37236_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/cc4a72ac-fcb2-4544-930a-ed9e49f73d19_37236_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/299da95e-7aa5-464e-8130-d5b41ac2dc4a_37236_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/f8a0b2b3-a3f3-48ee-a5d6-94cff7015e9a_37236_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1cd3956de41769438c25f5bd066659a4"
+        ],
+        "mrp": 165,
+        "x_available": true,
+        "available": true,
+        "offer_price": 148,
+        "unit_level_price": "",
+        "quantity": "960 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IOT7JZEO0X",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "57GCK4R3WU"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 700,
+        "name": "Heinz Tomato Ketchup (450 g)",
+        "brand": "Heinz",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/58433add-c745-46f3-a470-8601469495b2.jpg?ts=1707313061",
+          "https://cdn.grofers.com/app/images/products/sliding_image/700b.jpg?ts=1690813207",
+          "https://cdn.grofers.com/app/images/products/sliding_image/700c.jpg?ts=1690813207",
+          "https://cdn.grofers.com/app/images/products/sliding_image/700d.jpg?ts=1690813207",
+          "https://cdn.grofers.com/app/images/products/sliding_image/700e.jpg?ts=1690813207"
+        ],
+        "mrp": 165,
+        "offer_price": 157,
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/700",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          700
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 66340,
+        "name": "Maggi Rich Tomato Ketchup",
+        "brand": "Maggi",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/254de434-f86d-486e-a650-edb362b00906.jpg?ts=1743141580",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/732759e3-71d6-49f9-b51b-5251665dbc60.jpg?ts=1743141580",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/463c2d38-c1c2-4b3a-9571-7259289e893f.jpg?ts=1743141581",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/282d5dd1-1576-47d1-a092-ff9ca5a39c59.jpg?ts=1743141581",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e5b87201-2735-4caa-b198-3492b1743c2d.jpg?ts=1743141582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a72a1a80-068b-4c9f-9cd0-096105192563.jpg?ts=1743141582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/72afe74b-c6c5-413e-a1d9-c0c3f7960b37.jpg?ts=1743141582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6be4f59d-7e76-468b-bbe8-3399fda52374.jpg?ts=1743141583",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/216da73b-7d8a-4ff7-945b-7edda4eb7386.jpg"
+        ],
+        "mrp": 72,
+        "offer_price": 72,
+        "unit_level_price": "",
+        "quantity": "190 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/66340",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          66340
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CO9KXUB9BJ",
+        "name": "Maggi Pichkoo Tomato Ketchup",
+        "brand": "Maggi",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f37193c3db22930ff4860030a52be244"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 30,
+        "unit_level_price": "",
+        "quantity": "75 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HKB8QFXIZ7",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CO9KXUB9BJ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 21850,
+        "name": "Del Monte Pizza & Pasta Sauce",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f62e1409-b6eb-486d-bdbd-9002f18362d9.jpg?ts=1721559323",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/133c8cfb-cb2b-452a-862a-a5d3dc148313.jpg?ts=1721559323",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c089b57f-31b0-423e-922c-a1d5698859d3.jpg?ts=1721559323",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2ea7dfc7-af20-4b55-be54-431f14c52aea.jpg?ts=1721559323",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6b379b46-e85e-4131-9ade-96ae660f543f.jpg?ts=1721559323",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d3443569-9bc5-46e7-ba62-2f41a66d6c19.jpg?ts=1721559323"
+        ],
+        "mrp": 130,
+        "offer_price": 119,
+        "unit_level_price": "",
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/21850",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21850
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2YX158B1MF",
+        "name": "Maggi Pichkoo Tomato Ketchup",
+        "brand": "Maggi",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/cac5c8cd-eed9-49ec-bc47-05311749e956_6038_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/b9d30f7c-409a-4237-8dc6-83c4164d2b96_6038_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/92dc66b7-3f41-402d-b0cd-fd03d950f584_6038_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/9162644a-33e9-4469-8133-178b46b687a0_6038_4.png"
+        ],
+        "mrp": 15,
+        "x_available": true,
+        "available": true,
+        "offer_price": 15,
+        "unit_level_price": "",
+        "quantity": "75 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/R3P7AR1K9I",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "2YX158B1MF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 91039,
+        "name": "Maggi Rich Tomato Ketchup 960 g",
+        "brand": "Maggi",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/074c1a10-3d0a-4896-831b-9035e9d16940.jpg?ts=1741078644",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4a8e0f01-96c1-4ecc-962e-37de0183d456.jpg?ts=1741078645",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2de0a4da-f77c-470f-83f5-b6e929b67a47.jpg?ts=1741078645",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48a9b432-c8c7-4bab-bb89-74dea700f83d.jpg?ts=1741078646",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/20deae40-9de9-40bb-a300-b1d0e8c86d3c.jpg?ts=1741078646",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5071eb8f-1d49-4b48-a8eb-db6120ea3786.jpg?ts=1741078647",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e88b5df3-7daf-41ef-8437-c83c47543ef5.jpg?ts=1741078648",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/da983de9-49f2-4029-920a-3ef059832d0c.jpg?ts=1741078648",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2034bd0b-e279-47fa-bcc6-68b87bbd2203.jpg?ts=1741078648",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/16649ca9-594b-4b8c-8ac4-4b9e92d40fdd.jpg?ts=1741078649"
+        ],
+        "mrp": 165,
+        "offer_price": 149,
+        "unit_level_price": "",
+        "quantity": "960 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/91039",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          91039
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CIUUJTH9A9",
+        "name": "Del Monte Tomato Ketchup Spout Pack & Mccain Smiles Combo",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a59f32e4abcd740b5cec2b6e067d1dcc"
+        ],
+        "mrp": 530,
+        "x_available": true,
+        "available": true,
+        "offer_price": 477,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NH8OTF372D",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CIUUJTH9A9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 21874,
+        "name": "Del Monte Eggless Mayonnaise",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874a.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874c.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874d.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874e.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874b.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874f.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874g.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874h.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874i.jpg?ts=1718274644",
+          "https://cdn.grofers.com/app/images/products/sliding_image/21874j.jpg?ts=1718274644"
+        ],
+        "mrp": 199,
+        "offer_price": 149,
+        "unit_level_price": "",
+        "quantity": "850 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/21874",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          21874
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "SO392FNPJX",
+        "name": "Del Monte Tomato Ketchup Spout Pack & Mccain Aloo Tikki Combo",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/91ac4657239563cb4e2b5ac76e9682a9"
+        ],
+        "mrp": 380,
+        "x_available": true,
+        "available": true,
+        "offer_price": 325,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/KEH86DEIE8",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "SO392FNPJX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 439880,
+        "name": "Del Monte Eggless Mayonnaise",
+        "brand": "Del Monte",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c3634b12-a12e-4a3f-a4fa-214ea35d9ed7.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cb68931f-c511-4cdc-b9d1-db0b83c72a6e.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/337d585b-32fe-4519-be70-75bb5e6aa908.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b18d1d00-5a34-4eee-b64d-07176de48fbf.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/adf9f0a4-7d1a-491c-93cc-f0e44f81d0bb.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/281c88e7-f072-41a1-827b-192cfe8eccdb.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cbcde3ff-5f04-4483-b95f-cb99c5127f48.jpg?ts=1718274702",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b19198bb-a8f5-45ec-8b65-3367c992829f.jpg?ts=1718274702"
+        ],
+        "mrp": 99,
+        "offer_price": 90,
+        "unit_level_price": "",
+        "quantity": "270 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/439880",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          439880
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0YJWRJM6CF",
+        "name": "Wingreens Farms Tomato Ketchup",
+        "brand": "Wingreens",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2ef3ac36445502945ec77f36310f23c8",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/385c406a368433a203cc0710ccffc6a5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2a8cd6b321629ca11ed3a6b6d47ab56b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d6e95a83866f24a35cc713e73d0a9ff6"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 100,
+        "unit_level_price": "",
+        "quantity": "800 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YUXORY91NE",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0YJWRJM6CF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9FH08L1CZI",
+        "name": "Kissan No Onion No Garlic Tomato Sauce",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2ec0297621c14d053e186bc266a243f4",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/6794b988d0968724747ff8b461076865",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/75159e46e7ed1810ac971a393968b4a9"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 130,
+        "unit_level_price": "",
+        "quantity": "900 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IY4OO3RCWC",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9FH08L1CZI"
+        ]
+      },
+      {
+        "id": 13995,
+        "name": "Kissan Tomato Ketchup (No Onion & Garlic) - Doy Pack",
+        "brand": "Kissan",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995a.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995b.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995c.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995d.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995e.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995f.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995g.jpg?ts=1702791127",
+          "http://cdn.grofers.com/app/images/products/sliding_image/13995h.jpg?ts=1702791127"
+        ],
+        "mrp": 130,
+        "offer_price": 130,
+        "unit_level_price": "",
+        "quantity": "850 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/13995",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13995
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "7RW5ANB1Z5",
+        "name": "Kissan Chilli Tomato Sauce",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bdc6ioggx1gqltdfrtw7",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/k96wvt1qrqlpoaiwkd7x",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/kvhru3nu7wakiyhbrp4k"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DFD6Z87GDM",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7RW5ANB1Z5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "HKRJNA57W2",
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/ac55aa96-5099-4e8d-a9e2-642aafa1e6eb_21458_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/e1bc8031-f1a9-47eb-ae0d-c28ce4e13c27_21458_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/e388d522-91fa-46eb-b40d-60508b07e4b3_21458_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/334d9948-e226-4ca1-a6be-7a67c8f2a680_21458_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/14/c2b2cdb6-bb0c-46ae-a6dd-8f1ce9eac9ab_21458_5.png"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "1.1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/OFKAFZIMQN",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "HKRJNA57W2"
+        ]
+      },
+      {
+        "id": 476046,
+        "name": "Kissan Fresh Tomato Ketchup",
+        "brand": "Kissan",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/87be9692-0b47-40f5-8127-670c54a64663.jpg?ts=1715668109",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ec858af1-dc18-46d2-bfcd-0a8cacea2897.jpg?ts=1715668109",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/904c99f0-cc4d-4cf5-99f5-49922cf05d05.jpg?ts=1715668110",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b591efb9-6888-4806-9170-fbef94c8f220.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/31d8ecae-02ad-4b55-84c5-8505f9cf4db3.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 138,
+        "unit_level_price": "",
+        "quantity": "1.1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/476046",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          476046
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "OOPBPSKOX9",
+        "name": "Del Monte Tomato Ketchup Spout Pack & Mccain French Fries Combo",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/93d692cf806e9d2905b66bbaba93395a"
+        ],
+        "mrp": 255,
+        "x_available": true,
+        "available": true,
+        "offer_price": 174,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/1BPXGE3IWU",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OOPBPSKOX9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GAQ6LMHBCZ",
+        "name": "Veeba Chef'S Special - Tomato Ketchup Mccain Smiles",
+        "brand": "Veeba",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a8df6d289230006659b6961e8851e884"
+        ],
+        "mrp": 385,
+        "x_available": true,
+        "available": true,
+        "offer_price": 350,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/FDIUD0FH7W",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GAQ6LMHBCZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "36CRGRH3X6",
+        "name": "Del Monte Tomato Ketchup Spout Pack & Sumeru Chicken Burger Patty Grilled Combo",
+        "brand": "Del Monte",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/947f0db879954654238546b2ff88ab06"
+        ],
+        "mrp": 355,
+        "x_available": true,
+        "available": true,
+        "offer_price": 302,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/FR7HPG8PIY",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "36CRGRH3X6"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2805 @@
+[
+  {
+    "data": [
+      {
+        "xid": "11407",
+        "name": "Parle Monaco Classic Regular Biscuit ",
+        "brand": "Parle Monaco",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/Isaltybiscuit125gPRLE2065xx120521_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 37,
+        "unit_level_price": "(\u20b9 0.20 / 1 gm)",
+        "quantity": "185.6 g",
+        "deeplink": "https://www.dmart.in/product/parle-monaco-classic-regular-biscuit?selectedProd=11407",
+        "id": "13916",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13916"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072481",
+        "name": "Organic - Mustard/Mohari/Rai, Small",
+        "brand": "bb Royal",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072481_15-bb-royal-organic-mustardrai-small.jpg"
+        ],
+        "mrp": "59",
+        "offer_price": "50",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072481",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072481"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 32783,
+        "name": "Satyam Black Big Mustard Seeds",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/53210da9-0b3c-479b-98f7-d81798197bdc.jpg?ts=1708591110"
+        ],
+        "mrp": 25,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32783",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32783
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "73c66526-f9af-4758-b77f-6ed7181969d8",
+        "name": "Daily Good Mustard / Rai / Sarso Big",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/256d2630-9ae5-49ba-9769-ef001b91e965.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/68521d34-7bac-4e80-830d-3c59dba98359.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2b46c439-65c9-4ced-86fa-07220d4b5ec0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/222146d4-3816-440b-969a-e04d821d0ce0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae5d8c4c-5230-4888-9bce-cc3981804caf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/30a9ea21-0f32-444a-b7f9-0eb4f80474d4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fa8875c5-b8fa-41a1-ad67-a5f400de822f.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 33.0,
+        "unit_level_price": 33.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/864b5802-e062-4eda-9824-eca415ecf704",
+        "id": "864b5802-e062-4eda-9824-eca415ecf704",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "864b5802-e062-4eda-9824-eca415ecf704"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "605379345",
+        "name": "JIGSHTIAL Flipkart SmartBuy Clear Glass Water Jug with Lid 1.1 L",
+        "brand": "JIGSHTIAL",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgkqxwcvx/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l-product-images-orvgkqxwcvx-p605379345-0-202310020527.jpg"
+        ],
+        "mrp": 999,
+        "offer_price": 459,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l/605379345",
+        "id": "605379345",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "605379345"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "O99U25GR1N",
+        "name": "Supreme Harvest Mustard Big Whole",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/16f419fc-acf1-4b3c-89a5-fcb65b7e7ed0_31254_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/423856fc745aef8b19c05109e47e17a4"
+        ],
+        "mrp": 46,
+        "x_available": true,
+        "available": true,
+        "offer_price": 23,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SX0LC8DBZN",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "O99U25GR1N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528015,
+        "name": "Whole Farm Premium Black Small Mustard Seeds/Rai",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b8875e04-c4d5-459f-b764-502ef6f75d34.jpg?ts=1743764662",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 33,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528015",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 12,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528015
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0e9c80ad-b98e-4ae5-888b-cfa175599df7",
+        "name": "Rage Coffee Classic Medium Roast Organic Instant Coffee",
+        "brand": "Rage Coffee",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7cf49982-ed64-4bc0-847e-b134c3f11f9f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae189780-cd06-49be-8544-0a65a106eeef.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/edbe6c65-f3ec-4153-9495-5c8bec48e92c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/277f73ac-3405-4376-a281-f7ebfb8e945f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/feda80d4-c8a0-4c4f-a75d-87291f296bec.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b7af73af-0b44-43a2-8306-5f9c5e3daaed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/387f0b4d-cd13-462d-9a44-4b5a27259e0b.jpeg"
+        ],
+        "mrp": 299.0,
+        "offer_price": 276.0,
+        "unit_level_price": 276.0,
+        "quantity": "50 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f2c90bda-723e-4346-a150-d7bb83147381",
+        "id": "f2c90bda-723e-4346-a150-d7bb83147381",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f2c90bda-723e-4346-a150-d7bb83147381"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4WCMHRUL20",
+        "name": "Supreme Harvest Sabudana Big (Sago)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/531d21e5-2046-4c17-b88c-56a070e0aad6_15634.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/05cc9c37d307d29180e418487e7849d5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a687e720cc8920f7a7e8afef7e2cff82"
+        ],
+        "mrp": 75,
+        "x_available": true,
+        "available": true,
+        "offer_price": 59,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/Y3TMXRDGHJ",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4WCMHRUL20"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528016,
+        "name": "Whole Farm Premium Yellow Small Mustard Seeds/Rai",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a6bb8430-9947-448f-b149-e80e466aac8d.jpg?ts=1743764663",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016d.jpg"
+        ],
+        "mrp": 25,
+        "offer_price": 23,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528016",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528016
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "444e39e4-6fc1-46dc-a5f7-4a23e09c8fd9",
+        "name": "Rage Coffee Classic Instant Coffee",
+        "brand": "Rage Coffee",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7ec1633d-369b-4d35-8bcb-7655cf125c6c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3ef8e294-b602-4c3c-8a50-e0a696b67d10.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/161cebbf-437a-4221-a763-21e14a3e19cf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/63421df3-fbb8-422b-a44b-1a05c91b927b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/307e3497-2e0c-4dad-b45f-c335634d6879.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/835bfafc-23c2-4874-9ca2-f38fc5240d2f.jpeg"
+        ],
+        "mrp": 249.0,
+        "offer_price": 230.0,
+        "unit_level_price": 230.0,
+        "quantity": "60 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a9d146fa-eab5-44ff-8704-99e92e5dd046",
+        "id": "a9d146fa-eab5-44ff-8704-99e92e5dd046",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a9d146fa-eab5-44ff-8704-99e92e5dd046"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "J4O3G81F4Y",
+        "name": "Supreme Harvest Mustard Small",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/0de64f54-58af-4155-8ed0-080022b037b7_masalaandspice_J4O3G81F4Y_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 156,
+        "x_available": true,
+        "available": true,
+        "offer_price": 66,
+        "unit_level_price": "16.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BY6X1L97IF",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "J4O3G81F4Y",
+          "RRAWZCVMGP"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11308",
+        "name": "India Gate Basmati Rice - Classic ",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000338xx14JUN24_5_P.jpg"
+        ],
+        "mrp": 1255,
+        "offer_price": 1039,
+        "unit_level_price": "(\u20b9 207.80 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/india-gate-basmati-rice-classic?selectedProd=11308",
+        "id": "14069",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14069"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525532,
+        "name": "Whole Farm Premium Black Big Mustard Seeds",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525532a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/323d584f-4059-45b4-a282-397338c62acd.jpg?ts=1743764630",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525532c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525532d.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 31,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525532",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525532
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f386e39f-c49e-4c99-8828-fe89172795b5",
+        "name": "Raw Classic Connoisseur Rolling Paper with Tips King Size Slim - 32+32 Leaves/Pack",
+        "brand": "Raw",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1d19d642-16ff-4cfd-88f3-133934c1c309.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9bdb6d88-daa2-43d7-8cec-bb1d34328cfa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/920ead89-d5d4-499d-860e-13c77a13a121.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1353e916-701c-438a-9382-54b59aa4d595.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9022f01b-0f3e-47c0-81e9-52a815a3592a.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 150.0,
+        "unit_level_price": 150.0,
+        "quantity": "1 pack (32 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/60497456-e568-4f32-b1c3-e57e83c117ef",
+        "id": "60497456-e568-4f32-b1c3-e57e83c117ef",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "60497456-e568-4f32-b1c3-e57e83c117ef"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "RRAWZCVMGP",
+        "name": "Supreme Harvest Mustard Small",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/e889ff62-ff0b-4d14-9394-322c24569862_15716_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 78,
+        "x_available": true,
+        "available": true,
+        "offer_price": 34,
+        "unit_level_price": "17/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BY6X1L97IF",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "J4O3G81F4Y",
+          "RRAWZCVMGP"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19012",
+        "name": "DMart Premia Rai Small ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000464xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 69,
+        "offer_price": 51,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-rai-small?selectedProd=19012",
+        "id": "15162",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15162"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 545720,
+        "name": "Zoff Premium Black Mustard",
+        "brand": "Zoff",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/15cd24a1-11e0-4b25-8edd-6dd39c04a496.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f4dfd740-0881-4c83-b1f0-8176f2f1f20f.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bec84a13-ea3e-4d3c-a5ef-11940eb31dd3.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7c7c6a83-e06b-4c26-99e3-c23e90a79e0d.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 33,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/545720",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          545720
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12d48fe0-78f0-4942-8515-d04b773ffae6",
+        "name": "Daily Good Mustard / Rai / Sarso Yellow",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/44c7ca5d-278f-498b-8544-b60befa4c201.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/90b3c58e-894d-4389-b6e9-c12651133c26.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1b01f566-2f72-4568-9b9e-e1fde1d57ba5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b71b5dbd-1975-4819-a6c1-97e97ee90dca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06b3de88-93d1-4d1e-bc43-a436d5fc1b68.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/086914c6-1d0b-4a31-b9b8-1328e10ce725.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/745dedcf-0cff-4aa6-948f-6ba3f7f6c6e2.jpeg"
+        ],
+        "mrp": 25.0,
+        "offer_price": 25.0,
+        "unit_level_price": 25.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c0600aa2-5c3d-4efd-aaae-d142b058bf65",
+        "id": "c0600aa2-5c3d-4efd-aaae-d142b058bf65",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 19,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c0600aa2-5c3d-4efd-aaae-d142b058bf65"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CCMUVXXMXO",
+        "name": "Supreme Harvest Mustard Small Whole Spice Pouch",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/31/5d4cabef-c922-469f-8b01-6c8e8900cf46_masalaandspice_CCMUVXXMXO_MN.png"
+        ],
+        "mrp": 92,
+        "x_available": true,
+        "available": true,
+        "offer_price": 33,
+        "unit_level_price": "16.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BV1HUV9MZR",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CCMUVXXMXO",
+          "KPS792MJYI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40026602",
+        "name": "Mustard/Mohari/Rai - Small",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40026602_10-bb-royal-mustardrai-small.jpg"
+        ],
+        "mrp": "230",
+        "offer_price": "121",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40026602",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40026602"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 108382,
+        "name": "24 Mantra Organic Black (Small) Mustard Seeds / Rai Seeds",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9cd87fc0-a6b3-4af9-ad79-3e664d23b07e.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/afb97555-3d12-4c8b-80ff-f3fb5e67e89e.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a11e68e4-9b03-4763-996c-8183b08a3861.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a61c5826-a480-41a8-8f48-ec09f90a8ea8.jpg?ts=1742469908",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7611238e-188e-43c8-8250-14186e30fdab.jpg?ts=1742469908",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d77152d-98dc-4ab1-95b5-be08611cdc20.jpg"
+        ],
+        "mrp": 38,
+        "offer_price": 38,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/108382",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108382,
+          495104
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "966f7ed4-b692-48ce-bdbb-3f1e5aeb4c5f",
+        "name": "Daily Good Mustard / Rai / Sarso Small",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bdca4712-a427-42a8-a735-4a3de1eb08cf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/08271f4f-60bb-4290-b911-521ebbd029dd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f8d7257f-a7d2-48a6-a53d-e8ab0f122573.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aae08135-79dd-42f1-87dc-40c01491771e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4de1a21d-7548-4cd2-b1ea-89d7de0148f9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5a2cdd3-4e34-4088-8050-9ee192d3b088.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9aedc681-f478-4a1e-aa5c-14d98a756cef.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 43.0,
+        "unit_level_price": 43.0,
+        "quantity": "200 G",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ec1174dd-d7e6-438a-beb5-38e1cdba3e4e",
+        "id": "ec1174dd-d7e6-438a-beb5-38e1cdba3e4e",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 38,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ec1174dd-d7e6-438a-beb5-38e1cdba3e4e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KPS792MJYI",
+        "name": "Supreme Harvest Mustard Small Whole Spice Pouch",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/2778826b-2401-477c-8073-f317905677a4_31255_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/423856fc745aef8b19c05109e47e17a4"
+        ],
+        "mrp": 46,
+        "x_available": true,
+        "available": true,
+        "offer_price": 17,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BV1HUV9MZR",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CCMUVXXMXO",
+          "KPS792MJYI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 495104,
+        "name": "24 Mantra Organic Black (Small) Mustard Seeds / Rai Seeds - Pack of 2",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66ee04db-df2d-4783-b573-afe58e6c637d.jpg?ts=1742470269",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/39da5a7a-0cba-474f-a9d9-5f81fcd5483a.jpg?ts=1742470269",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/15abc068-6952-431b-901f-2adb3e6074f7.jpg?ts=1742470270",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/227ddef2-098d-45ee-b60f-164b37456f3c.jpg?ts=1742470270",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1c250e82-47e2-4ddc-854d-6cec3a7bb972.jpg?ts=1742470271",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90bf9a2f-f60c-4323-9afc-7d11a65c58ec.jpg?ts=1742470271"
+        ],
+        "mrp": 76,
+        "offer_price": 69,
+        "unit_level_price": "",
+        "quantity": "2 x 100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/495104",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108382,
+          495104
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d7076e1c-cbc6-5f4f-be7b-07916e76f9bc",
+        "name": "Gillette Shave Foam - Classic Regular Skin (418g) & Gillette Mach3 Men\u00e2\u20ac\u2122S Razor With 2 Cartridges (1pc) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c94d47a-9ed2-4ab7-b6d0-15dcff703cd6.jpg"
+        ],
+        "mrp": 686.0,
+        "offer_price": 596.0,
+        "unit_level_price": 596.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1fb14dd3-1769-4bfe-aa0d-efa7a2f7f194",
+        "id": "1fb14dd3-1769-4bfe-aa0d-efa7a2f7f194",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1fb14dd3-1769-4bfe-aa0d-efa7a2f7f194"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QB5XIRYNI5",
+        "name": "Fortune Kachi Ghani Mustard Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b4cf61646ffa02ffc4d6a0af18c8f1ba"
+        ],
+        "mrp": 430,
+        "x_available": true,
+        "available": true,
+        "offer_price": 338,
+        "unit_level_price": "169/L",
+        "quantity": "1 L x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZWWM8ANDU0",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QB5XIRYNI5",
+          "KKWTRNHHBO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19010",
+        "name": "DMart Premia Rai ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000450xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 61,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-rai?selectedProd=19010",
+        "id": "15153",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15153"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 388680,
+        "name": "Catch Black Big Mustard Seeds",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/388680a.jpg?ts=1687950718",
+          "https://cdn.grofers.com/app/images/products/sliding_image/388680b.jpg?ts=1661761302",
+          "https://cdn.grofers.com/app/images/products/sliding_image/388680c.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 26,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/388680",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          388680
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0cbdc2a2-fa3a-596c-ac0b-0882fbb8061d",
+        "name": "Gillette Classic Menthol Shave Foam (196g) & Gillette Mach3 Men\u00e2\u20ac\u2122S Razor With 2 Cartridges (1pc) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2abf25f6-d7b9-43d1-af69-a521c1f2578d.jpg"
+        ],
+        "mrp": 686.0,
+        "offer_price": 596.0,
+        "unit_level_price": 596.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a370860e-fe6d-4e5d-b44a-05f655516dc3",
+        "id": "a370860e-fe6d-4e5d-b44a-05f655516dc3",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a370860e-fe6d-4e5d-b44a-05f655516dc3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KKWTRNHHBO",
+        "name": "Fortune Kachi Ghani Mustard Oil",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/5bc4f948-1ccb-4f30-9dc7-633d3e3ebb03_267_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/c8c37e6c-e98c-42d6-97f3-14518ed3efe0_267_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/c9d49440-2638-4cc6-bb8a-4980133f16be_267_3.png"
+        ],
+        "mrp": 215,
+        "x_available": true,
+        "available": true,
+        "offer_price": 171,
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZWWM8ANDU0",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QB5XIRYNI5",
+          "KKWTRNHHBO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528751,
+        "name": "Whole Farm Grocery Nakul Dana / Elaichi Dana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/26fc15eb-41b1-422e-b7bb-a6a690493bf6.jpg?ts=1725341822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7909305-ccdb-42f7-8349-f0a32fcb9698.jpg?ts=1743766979",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/288f89c5-cef9-47be-989d-7f83978b8b34.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f640691b-9e73-401f-8e71-8e723d2e4087.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/647a3daf-912d-4294-89d3-dcf1efc563a0.jpg?ts=1725341822"
+        ],
+        "mrp": 39,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528751",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528751
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "3509ab00-67db-46b0-a99c-3f059f11e307",
+        "name": "Bitter Powerful Protection From Rats Spray - Protect Wires In Car, Bike Camphor Fragrance Non Toxic No Kill Only Repels 60 Days Protection",
+        "brand": "Bitter",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7e5c2391-c220-4b26-b443-a90e9f1b51a6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/de80100f-e6f2-4814-bc33-c343e8b07fdb-1ghpR02DLuM8dSyOEaFR6cqMgKTmqcZ7h.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/de80100f-e6f2-4814-bc33-c343e8b07fdb-13OP5qRDLjbCGhpVW9n3X5Ppvn1Wwcq5M.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/de80100f-e6f2-4814-bc33-c343e8b07fdb-17i2Cp2kQK3JO6aYORbWp6a3oaWEvhpho.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/de80100f-e6f2-4814-bc33-c343e8b07fdb-1lrbAx3YLpqACTLcTh1davGngy6uQjR8U.jpeg"
+        ],
+        "mrp": 299.0,
+        "offer_price": 210.0,
+        "unit_level_price": 210.0,
+        "quantity": "100 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/de80100f-e6f2-4814-bc33-c343e8b07fdb",
+        "id": "de80100f-e6f2-4814-bc33-c343e8b07fdb",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "de80100f-e6f2-4814-bc33-c343e8b07fdb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JWG9XQOXAK",
+        "name": "Supreme Harvest Saunf Big (Fennel Big)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/bdcd5c8c-0a6d-4cfe-b035-61e4873108bf_27390.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 380,
+        "x_available": true,
+        "available": true,
+        "offer_price": 152,
+        "unit_level_price": "38/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/27DMD0CUER",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "JWG9XQOXAK",
+          "GN3A1WSWQ0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527971,
+        "name": "Whole Farm Grocery Raisins",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3a474f33-1b7e-4703-8dbc-37fa7cab0322.jpg?ts=1713777273",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cbd2e0f3-0612-43f7-9df5-6ad9144530f6.jpg?ts=1743766960",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527971c.jpg?ts=1692432210",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527971d.jpg?ts=1692432210",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527971e.jpg"
+        ],
+        "mrp": 200,
+        "offer_price": 76,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527971",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 25,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527971
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cbcc211a-6c9d-49c5-b2e5-71c99546993f",
+        "name": "Big Sam's Silver Salmon Portion",
+        "brand": "Big Sam's",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf3907aa-088d-4856-882d-28b3697883f2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/681404c6-415e-4027-83d5-c2ec9e65254a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d8aa5f6e-457b-46dc-9fc9-9a73a1521ab4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a9512f22-0a63-4c33-984d-852e025f81e0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6d17d75a-2837-4b26-822f-d704b5be8081.jpeg"
+        ],
+        "mrp": 895.0,
+        "offer_price": 851.0,
+        "unit_level_price": 851.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/63fea153-bad2-4ae5-bb17-6f8804ddafcc",
+        "id": "63fea153-bad2-4ae5-bb17-6f8804ddafcc",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "63fea153-bad2-4ae5-bb17-6f8804ddafcc"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GN3A1WSWQ0",
+        "name": "Supreme Harvest Saunf Big (Fennel Big)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/25/4a4c022c-7761-4153-8d93-c1aff44fd7d0_15711_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/193c7726140d050dbed4a6474084fa12",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/060068cfed2bb138ad6e90445ecde437"
+        ],
+        "mrp": 190,
+        "x_available": true,
+        "available": true,
+        "offer_price": 78,
+        "unit_level_price": "39/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/27DMD0CUER",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "JWG9XQOXAK",
+          "GN3A1WSWQ0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "614501",
+        "name": "DMart Premia Rai Red ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001318xx19JUN2022_5_P.jpg"
+        ],
+        "mrp": 15,
+        "offer_price": 12,
+        "unit_level_price": "(\u20b9 0.12 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-rai-red-pwholespice0prem3xx260320?selectedProd=614501",
+        "id": "690160",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "690160"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40089604",
+        "name": "Organic - Mustard/Mohari/Rai Yellow",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40089604_13-bb-royal-organic-mustardrai-yellow.jpg"
+        ],
+        "mrp": "29",
+        "offer_price": "29",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40089604",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40089604"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2e88fa5c-ec9c-49bd-a205-32ba7e2a667f",
+        "name": "Big Sam's Basa Fillets",
+        "brand": "Big Sam's",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c68a8cff-8439-42ee-9c8a-b7cf5b1a8996-32e34811-7d56-422d-ac7e-61580783f724.jpeg"
+        ],
+        "mrp": 445.0,
+        "offer_price": 420.0,
+        "unit_level_price": 420.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/83fa81bf-570f-4b8b-b47c-fd585dd86917",
+        "id": "83fa81bf-570f-4b8b-b47c-fd585dd86917",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "83fa81bf-570f-4b8b-b47c-fd585dd86917"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11293",
+        "name": "Satyam Rai ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IWholeSpices200gmSTYM3979xx205021_5_P.jpg"
+        ],
+        "mrp": 48,
+        "offer_price": 36,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/satyam-rai?selectedProd=11293",
+        "id": "14098",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14098"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d1eefaa7-5f46-4607-b6f0-ffbd0349c2f6",
+        "name": "boAt Stone 1800 BT Speaker w/ 90W RMS Sound, 5H Platime, EQ Modes, BT v5.3 & IPX6 Rating (Camo Black)",
+        "brand": "boAt",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/291301cb-6874-4413-9777-b9f18d4999ec.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/80194ba0-f120-4fba-983d-79b996ba1045.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6182507a-521d-4bf9-9c32-a1f545816c57.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7d46f9ac-c31a-420f-bbfc-3656c898e376.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8a615dbd-49a1-4299-b09e-a03725519681.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b8ae4ba5-f2e0-411a-97a9-97dbd1a642d4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bc0edd8a-0d39-4c94-b119-aa1e6b8515fe.jpeg"
+        ],
+        "mrp": 21990.0,
+        "offer_price": 9099.0,
+        "unit_level_price": 9099.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e3425097-8a7d-4f03-9b9c-94d7c73a74d3",
+        "id": "e3425097-8a7d-4f03-9b9c-94d7c73a74d3",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e3425097-8a7d-4f03-9b9c-94d7c73a74d3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11482",
+        "name": "Kellogg's Corn Flakes Original ",
+        "brand": "Kellogg's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ICornFlakes875gKMST1256xx310521_5_P.jpg"
+        ],
+        "mrp": 399,
+        "offer_price": 339,
+        "unit_level_price": "(\u20b9 0.39 / 1 gm)",
+        "quantity": "875 g",
+        "deeplink": "https://www.dmart.in/product/kelloggs-corn-flakes-original-1?selectedProd=11482",
+        "id": "13930",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13930"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40135854",
+        "name": "Organic - Mustard/Mohari/Rai Big",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40135854_11-bb-royal-organic-mustardrai-big.jpg"
+        ],
+        "mrp": "58",
+        "offer_price": "43",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40135854",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40135854"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cad26971-e533-45dc-9963-e61345da3879",
+        "name": "Daily Good Lachkari Kolam Raw Rice",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/41254cf3-ca86-4a4f-85b8-259baae5c50d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6abead60-0008-4995-bc2d-70524f053a8c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0371c471-54fc-4e3a-84e2-48f5d369e07a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3652797a-810f-4f1b-b740-621ef8faf032.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3069f12a-2a56-4b35-a0fd-75f89f7ae562.jpeg"
+        ],
+        "mrp": 1155.0,
+        "offer_price": 820.0,
+        "unit_level_price": 820.0,
+        "quantity": "10 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2763ab76-39d6-4bf8-8217-a6f6d41d0c1a",
+        "id": "2763ab76-39d6-4bf8-8217-a6f6d41d0c1a",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2763ab76-39d6-4bf8-8217-a6f6d41d0c1a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "872d67b1-1291-4544-ad55-a41c0a2b1a33",
+        "name": "Colorbar Pro Range Spotlight Illuminating Lotion",
+        "brand": "Colorbar",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be3ec41e-81bb-49eb-9b38-34c8e5515be0.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2c7070e3-a4bb-4f1d-aa70-2aa7debefd00.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c10f878-2e1e-4206-80a6-a96e25bb0267.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5eac2a7-3327-47b9-80ef-e9ef46c1f582.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/40c417a1-0db9-4534-9df9-2ed6fac950db.jpg"
+        ],
+        "mrp": 995.0,
+        "offer_price": 796.0,
+        "unit_level_price": 796.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d2c82e63-eb77-494d-aa81-73673ea82ab5",
+        "id": "d2c82e63-eb77-494d-aa81-73673ea82ab5",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d2c82e63-eb77-494d-aa81-73673ea82ab5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "279819",
+        "name": "Organic Mustard/Mohari Seeds - Whole, Big",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/279819_10-24-mantra-organic-mustard-seeds-whole-big.jpg"
+        ],
+        "mrp": "28",
+        "offer_price": "28",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/279819",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "279819"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "5baaa333-3553-4568-a21b-963a6df62e49",
+        "name": "Pilgrim Retinol Anti Aging Night Cream With Hyaluronic Acid & Vitamin C For Radiant Skin",
+        "brand": "Pilgrim",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b5247516-0842-4ec2-8fb4-b5af1458da6a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4aa29720-5d62-46ea-95dd-b2ce04fe2610.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/948b8665-3a59-418c-a939-c21d69c21e23.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/02b97aab-2f11-4cf6-852a-fd29032daa5b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/acd6d99e-41ce-4a1b-b12d-cf9ef9d0cf62.jpeg"
+        ],
+        "mrp": 650.0,
+        "offer_price": 585.0,
+        "unit_level_price": 585.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/be0aa249-2d42-4ed6-a479-4d43a55fc430",
+        "id": "be0aa249-2d42-4ed6-a479-4d43a55fc430",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "be0aa249-2d42-4ed6-a479-4d43a55fc430"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d238ed25-3b4c-4ace-b1e1-a1e1298b6f34",
+        "name": "Nongshim Korean Shin Ramyun Noodle Soup With Spicy Chicken Flavour | Non Veg",
+        "brand": "Nongshim",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c4b674b3-e588-4172-ab54-6d046d8bac3dbcb17afe-7182-439b-bd63-2a245c3ec7c62023-11-27 08:42:48.415226688 +0000 UTC m=+1555.257839304.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a85dedc-374a-4c31-a157-b8fcfa60de04bcb17afe-7182-439b-bd63-2a245c3ec7c62023-11-27 08:42:48.415226688 +0000 UTC m=+1555.257839304.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/64500d8e-8c2e-49e8-9723-8155aed2ab31bcb17afe-7182-439b-bd63-2a245c3ec7c62023-11-27 08:42:48.415226688 +0000 UTC m=+1555.257839304.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8313c784-ffb4-45a9-ab79-2bfa374471b8bcb17afe-7182-439b-bd63-2a245c3ec7c62023-11-27 08:42:48.415226688 +0000 UTC m=+1555.257839304.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c025b3c-b10c-4d21-97ab-632ec586ccedbcb17afe-7182-439b-bd63-2a245c3ec7c62023-11-27 08:42:48.415226688 +0000 UTC m=+1555.257839304.jpg"
+        ],
+        "mrp": 729.0,
+        "offer_price": 627.0,
+        "unit_level_price": 627.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bcb17afe-7182-439b-bd63-2a245c3ec7c6",
+        "id": "bcb17afe-7182-439b-bd63-2a245c3ec7c6",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "bcb17afe-7182-439b-bd63-2a245c3ec7c6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "4f842af8-4d5f-4d01-bb79-6213e2f2b81a",
+        "name": "Studds Ray Isi Certified Open Face Motorcycle Helmet For Men And Women With Visor (Black - M)",
+        "brand": "Studds",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83b8a024-4d20-40b4-b47f-3d5896e01eb2.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8e766c38-356a-41fb-9073-756133ac6429.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/731ad88b-62e2-4553-a4e2-f31db2aa255b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8f4bb20b-b1cf-4464-a953-7d331bbf1295.jpg"
+        ],
+        "mrp": 1020.0,
+        "offer_price": 899.0,
+        "unit_level_price": 899.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d9460719-c960-4580-b8f8-0fff6acc6271",
+        "id": "d9460719-c960-4580-b8f8-0fff6acc6271",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d9460719-c960-4580-b8f8-0fff6acc6271"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40001278",
+        "name": "Mustard/Mohari/Rai - Yellow",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40001278_6-bb-royal-mustardrai-yellow.jpg"
+        ],
+        "mrp": "64",
+        "offer_price": "29",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40001278",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40001278"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7b7637bf-0e78-4721-a7e2-ed6bc13c2225",
+        "name": "The Wellness Shop Saffron Radiance Day Cream",
+        "brand": "The Wellness Shop",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/92dad8ad-bcb7-491d-a8ca-0dc73c4b1ac6.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a2ed331f-c9df-4d0c-b77d-8fe06d94574c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d5291ac3-0e3e-4121-b2a8-cc014f93c33d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a348d763-1c80-444e-a9ce-9b422202910d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8cf8ae64-2d79-410a-bf12-526f89781251.jpg"
+        ],
+        "mrp": 1699.0,
+        "offer_price": 892.0,
+        "unit_level_price": 892.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/831fcb31-99f7-4b15-bbcc-602226e381d0",
+        "id": "831fcb31-99f7-4b15-bbcc-602226e381d0",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "831fcb31-99f7-4b15-bbcc-602226e381d0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0e0d2789-94e3-424b-98ec-91116fe8e3b1",
+        "name": "Lakme Absolute Perfect Radiance Skin Brightening Night Creme",
+        "brand": "Lakme",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1334a96a-e150-4f9d-9a9a-cfc4b1f47c95.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/43278ada-8ccc-4c5a-b3b1-5fb8dc2015d0.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/55cb6e37-4b7e-4664-9d82-99b37ab3f26a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec41d8e2-c273-472f-accb-604256a73a80.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fa149ce8-0dac-4ec8-9708-d39f93a67592.jpg"
+        ],
+        "mrp": 575.0,
+        "offer_price": 482.0,
+        "unit_level_price": 482.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2d773b23-4c51-4536-80a3-b7b2c88de891",
+        "id": "2d773b23-4c51-4536-80a3-b7b2c88de891",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2d773b23-4c51-4536-80a3-b7b2c88de891"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a137369a-5310-4142-a989-3365e6882f01",
+        "name": "LetsShave Pro 6 Plus Razor for Men with Back Blade | World's First 6 Blade System Shaving Razor",
+        "brand": "LetsShave",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c8490ab-f810-4720-bcbd-046f5a93d849.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/388a485b-1d1f-4eca-80b8-31d10934b41b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25b96e4e-16b9-46e3-9d2d-b287fa00cf3f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9f129ea8-a831-47ba-b943-083872554b41.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2e49561f-33c8-429a-b8f5-ad687c32dc17.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5d82d9ce-12d1-4346-a6d8-a20f22f089a6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fcb983b8-5142-44ed-88ea-83345bccf971.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/10e15411-9dc4-43a7-b1ba-bf2c2b9dce1c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/18e7a2af-458e-4dcb-98b5-4eebac5a27f2.jpeg"
+        ],
+        "mrp": 399.0,
+        "offer_price": 356.0,
+        "unit_level_price": 356.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/56bcb8b2-24d2-4668-86f1-b96c45533df5",
+        "id": "56bcb8b2-24d2-4668-86f1-b96c45533df5",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "56bcb8b2-24d2-4668-86f1-b96c45533df5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40000624",
+        "name": "Mustard/Mohari/Rai - Big",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40000624_10-bb-royal-mustardrai-big.jpg"
+        ],
+        "mrp": "85",
+        "offer_price": "43",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40000624",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40000624"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e54e8cac-9359-4c71-977e-50b93dc5ab7e",
+        "name": "Sugar Pop Matte Lipcolour - 04 Raspberry(1.6ml) & Sugar Pop Nourishing Lip Balm 06 Strawberry(4.5gms) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3eed551b-5122-472a-8a8c-e6c318924e6e.jpg"
+        ],
+        "mrp": 428.0,
+        "offer_price": 399.0,
+        "unit_level_price": 399.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1fdbde0b-848e-4dee-bb14-3b51ffd14a6b",
+        "id": "1fdbde0b-848e-4dee-bb14-3b51ffd14a6b",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1fdbde0b-848e-4dee-bb14-3b51ffd14a6b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "888e24e4-1047-4910-9bf7-08eb24ceca62",
+        "name": "Daily Good Raisin Golden (Kismish) 500 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/30504e35-ea32-48f9-a477-bd58c05f73ce.jpg"
+        ],
+        "mrp": 440.0,
+        "offer_price": 370.0,
+        "unit_level_price": 370.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0a4086a4-0413-4db0-9e30-6d6740b39d5c",
+        "id": "0a4086a4-0413-4db0-9e30-6d6740b39d5c",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0a4086a4-0413-4db0-9e30-6d6740b39d5c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "25b54bd1-8090-46d6-a79b-0627a7214af1",
+        "name": "Korean Samyang Hot Chicken Flavour Ramen Carbonara Non Veg",
+        "brand": "Samyang",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d3914337-48dc-410c-aad7-995a68892637.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bf27e686-0759-4d6b-97e1-1727381a5096.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ceff03b0-a81b-4331-9a5c-265f320767df.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e997612-f6e3-49cc-93b2-ee09a5413b14.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/65515fd2-69de-432e-a57e-f0b36307fb75.jpeg"
+        ],
+        "mrp": 750.0,
+        "offer_price": 743.0,
+        "unit_level_price": 743.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/127950e6-2a94-44a9-ba33-72765d33ef56",
+        "id": "127950e6-2a94-44a9-ba33-72765d33ef56",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "127950e6-2a94-44a9-ba33-72765d33ef56"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6a1872f2-a414-4bc9-b3be-e3953b28da4c",
+        "name": "TP-Link TL-WA850RE 300Mbps Wi-Fi Wireless Range Extender, Wi-Fi Booster - White",
+        "brand": "TP-Link",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0a1788a1-d5a5-4339-8103-b83523038600.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e90833c0-b4cd-4e87-8649-d2ef0d4ed4f0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/da693277-85e3-4431-9bdd-3779bb342908.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f676406-4cfc-4d23-8c0b-b8e71a21c815.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/635f9526-d1dc-44b9-bfb3-66540228723d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/22c64ddb-2ae1-420a-9309-cf9b3607c52f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b7fc02b-961d-4e3b-8028-ac71ac06fb81.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7053ef90-640a-47b4-b770-00e693e7895e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/789c2c14-ba32-46cf-bfef-1bceee362281.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/030a6ea6-64c6-4a74-ad8a-6eaa31365970.jpeg"
+        ],
+        "mrp": 2499.0,
+        "offer_price": 1374.0,
+        "unit_level_price": 1374.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b501e0a4-aee1-4063-a16a-2ffb87862f35",
+        "id": "b501e0a4-aee1-4063-a16a-2ffb87862f35",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b501e0a4-aee1-4063-a16a-2ffb87862f35"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40005958",
+        "name": "Paneer - Classic Block",
+        "brand": "Gowardhan",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40005958_2-gowardhan-fresh-paneer-classic-block.jpg"
+        ],
+        "mrp": "105",
+        "offer_price": "89",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40005958",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40005958"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d507e6e5-f9af-4e3c-b880-7878a7a9fbaa",
+        "name": "Smart One Kolam Raw Rice",
+        "brand": "Smart One",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9b2bf86c-5bcb-4b3a-816f-4a237bc7ed4a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9fb4f704-1815-410c-8cdb-a25d53194599.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e1c6020-136f-4eea-96f0-9ebaff218f16.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bbccd14c-0275-494c-8be8-a5962c12b14e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dd98d12c-9589-4520-b24b-ae84b015a09f.jpeg"
+        ],
+        "mrp": 575.0,
+        "offer_price": 409.0,
+        "unit_level_price": 409.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f96cfee6-22ae-4cbc-bf49-6055cdc5e548",
+        "id": "f96cfee6-22ae-4cbc-bf49-6055cdc5e548",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f96cfee6-22ae-4cbc-bf49-6055cdc5e548"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8dfe0efa-948a-482e-81b4-9c5d35f203da",
+        "name": "VI-JOHN Master Stroke Ultra Pro 5 Blade Shaving Razor for men (1 Handle + 2 Cartridges)",
+        "brand": "VI-John",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4252c9c9-68ef-40d6-a9f6-4f8f0ae2616b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2011c096-994d-4a29-9a35-b9468cd9b1ee.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4d77ea44-73de-4138-81e8-f06095de893e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/88a09240-ca80-42ff-8c96-2121ffe4618f.jpg"
+        ],
+        "mrp": 499.0,
+        "offer_price": 325.0,
+        "unit_level_price": 325.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a0b2c795-fffb-4b85-89cb-8d18fdbe4330",
+        "id": "a0b2c795-fffb-4b85-89cb-8d18fdbe4330",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a0b2c795-fffb-4b85-89cb-8d18fdbe4330"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f3496b96-3a82-4ad9-a53a-735f8c996ff6",
+        "name": "Letsshave Evior Flyyy System Compact Razor For Women | Full Body Hair Removal + 1 Extra Blade",
+        "brand": "LetsShave",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/91a9d1ac-a81f-41e7-9025-8197eb8e936e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8928e039-aa24-47ff-8956-7dbee64c2bc5.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f86ac0fc-52f3-4576-80a1-126951ca3a9b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2971b630-48cb-47e3-a0fc-3146f4ac0d0a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/615d8c4d-861b-48cb-96da-756ebb83555a.jpg"
+        ],
+        "mrp": 599.0,
+        "offer_price": 540.0,
+        "unit_level_price": 540.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/98cff072-a5c3-40f8-b00d-0609ffe006b0",
+        "id": "98cff072-a5c3-40f8-b00d-0609ffe006b0",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "98cff072-a5c3-40f8-b00d-0609ffe006b0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40030808",
+        "name": "Cumin/Jeera Whole/Jeera Purna",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40030808_10-bb-royal-cuminjeera-whole.jpg"
+        ],
+        "mrp": "760",
+        "offer_price": "355",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40030808",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40030808"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "4cb24655-1a7a-45bd-a37a-c949a97257fe",
+        "name": "Gillette Fusion Manual Shaving Razor Blades For Men (2 Cartridges)",
+        "brand": "Gillette",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4e14635e-6d16-4c54-8e07-1a5e41c78964.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/19f38360-929f-41ce-a963-6d4e249dd7ae.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cba06195-e4ba-4717-b9a9-5bb4ec8c81ac.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aca9967a-a3d3-43a2-a1b2-b5a75605bf91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25057eb2-f2a2-4c82-9ffb-229e8fe8690d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/64151474-d318-4c9f-8ecb-c3da2fcb9ccb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06c9a484-1220-4db5-971e-a9cfe7ae972b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8342dca6-21db-4ca1-b154-da152c7ee994.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/403b1292-a58a-4cd0-9438-38c93d06ea41.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1d0d72b7-b24c-4f38-ae2b-986732a0ff6e.jpeg"
+        ],
+        "mrp": 625.0,
+        "offer_price": 625.0,
+        "unit_level_price": 625.0,
+        "quantity": "2 pcs",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1930d9dc-fdbd-4e57-975a-77014e6f613f",
+        "id": "1930d9dc-fdbd-4e57-975a-77014e6f613f",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1930d9dc-fdbd-4e57-975a-77014e6f613f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a911f6cf-ed48-425f-81cb-4cc9f6568769",
+        "name": "Maybelline New York Pencil Radiant Concealer Age Dark Circles And Blemish Eraser - Caramel",
+        "brand": "Maybelline",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5f89db46-f9ca-4210-b3f6-46f4c2bd5e26.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e4a19a0f-0a2b-4e31-bc69-fc6425625d69.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2b2b9df7-54d0-497c-b739-30c08c9c0174.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/03941304-bc41-40a1-966b-27398f169b3b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/14b8df78-b101-405e-ba2e-cc6e95eb3b4d.jpg"
+        ],
+        "mrp": 729.0,
+        "offer_price": 587.0,
+        "unit_level_price": 587.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0816ac63-5f63-4710-b4c7-aa07e7e3998a",
+        "id": "0816ac63-5f63-4710-b4c7-aa07e7e3998a",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0816ac63-5f63-4710-b4c7-aa07e7e3998a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "792d7498-912e-4661-9faf-587d8556beca",
+        "name": "Nissin Geki - Hot and Spicy Korean Veg Flavoured Ramen Instant Noodles 80 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cd489172-2186-4923-ac40-d6b4763765b8.jpg"
+        ],
+        "mrp": 330.0,
+        "offer_price": 240.0,
+        "unit_level_price": 240.0,
+        "quantity": "80 g X 6",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d0d33ae1-f5c6-4718-ae39-11692409375b",
+        "id": "d0d33ae1-f5c6-4718-ae39-11692409375b",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d0d33ae1-f5c6-4718-ae39-11692409375b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40174323",
+        "name": "Little Hearts Classic Crunch Biscuits",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40174323_17-britannia-little-hearts-biscuits.jpg"
+        ],
+        "mrp": "30",
+        "offer_price": "28.5",
+        "unit_level_price": "",
+        "quantity": "70 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40174323",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 38,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40174323"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40204986",
+        "name": "Monaco Classic Regular Salted Biscuits",
+        "brand": "Parle",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40204986_5-parle-monaco-classic.jpg"
+        ],
+        "mrp": "80",
+        "offer_price": "72",
+        "unit_level_price": "",
+        "quantity": "371.2 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40204986",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 44,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40204986"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40311588",
+        "name": "Pure & Unrefined Cold Pressed Mustard Oil",
+        "brand": "Tata Simply Better",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40311588_4-tata-simply-better-100-pure-unrefined-cold-pressed-mustard-oil.jpg"
+        ],
+        "mrp": "350",
+        "offer_price": "308",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40311588",
+        "rank": 12,
+        "is_ad": false,
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40311588"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "243336",
+        "name": "Basmati Rice/Basmati Tandul - Classic",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/243336_5-india-gate-basmati-rice-classic.jpg"
+        ],
+        "mrp": "252",
+        "offer_price": "231.25",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/243336",
+        "rank": 13,
+        "is_ad": false,
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "243336"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40133692",
+        "name": "Black Mustard/Mohari/Rai - Big",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40133692_8-bb-popular-mustardrai-big.jpg"
+        ],
+        "mrp": "44",
+        "offer_price": "16.81",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40133692",
+        "rank": 14,
+        "is_ad": false,
+        "parentIndex": 53,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40133692"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40247228",
+        "name": "Instant Coffee",
+        "brand": "BRU",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40247228_2-bru-instant-coffee-chicory-mix-fresh-aromatic-no-preservatives.jpg"
+        ],
+        "mrp": "920",
+        "offer_price": "874",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40247228",
+        "rank": 15,
+        "is_ad": false,
+        "parentIndex": 58,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40247228"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40077089",
+        "name": "Dark Fantasy Bourbon, Classic Biscuit Made With Real Chocolate",
+        "brand": "Sunfeast",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40077089_16-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
+        ],
+        "mrp": "35",
+        "offer_price": "17.5",
+        "unit_level_price": "",
+        "quantity": "111 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40077089",
+        "rank": 16,
+        "is_ad": false,
+        "parentIndex": 60,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40077089"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "266151",
+        "name": "Masala Cuppa Noodles",
+        "brand": "Maggi",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/266151_18-maggi-cuppa-noodles-masala.jpg"
+        ],
+        "mrp": "50",
+        "offer_price": "45",
+        "unit_level_price": "",
+        "quantity": "70.5g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/266151",
+        "rank": 17,
+        "is_ad": false,
+        "parentIndex": 62,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "266151"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40181475",
+        "name": "Cold Pressed Kachi Ghani Mustard Cooking Oil",
+        "brand": "bb Royal Organic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40181475_14-bb-royal-organic-cold-pressed-kachi-ghani-mustard-cooking-oil.jpg"
+        ],
+        "mrp": "550",
+        "offer_price": "271",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40181475",
+        "rank": 18,
+        "is_ad": false,
+        "parentIndex": 64,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40181475"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "267400",
+        "name": "Instant Coffee Powder",
+        "brand": "Nescafe Classic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/267400_12-nescafe-classic-100-pure-instant-coffee.jpg"
+        ],
+        "mrp": "200",
+        "offer_price": "180",
+        "unit_level_price": "",
+        "quantity": "45 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/267400",
+        "rank": 19,
+        "is_ad": false,
+        "parentIndex": 66,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "267400"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40161604",
+        "name": "Xtra Instant Coffee",
+        "brand": "Continental",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40161604_6-continental-xtra-coffee.jpg"
+        ],
+        "mrp": "570",
+        "offer_price": "519",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40161604",
+        "rank": 20,
+        "is_ad": false,
+        "parentIndex": 69,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40161604"
+        ]
+      }
+    ]
+  }
+]

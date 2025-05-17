@@ -1,0 +1,5172 @@
+[
+  {
+    "data": [
+      {
+        "id": "40012957",
+        "name": "Roasted Peanuts - Classic Salted",
+        "brand": "JABSONS",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40012957_2-jabsons-roasted-peanuts-classic-salted.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "64.4",
+        "unit_level_price": "",
+        "quantity": "160 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40012957",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40012957"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "772519",
+        "name": "Panjwani's Skinwala Sing Peanuts ",
+        "brand": "Panjwani",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120003932xx26FEB23_5_P.jpg"
+        ],
+        "mrp": 195,
+        "offer_price": 149,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/panjwanis-skinwala-sing?selectedProd=772519",
+        "id": "13816",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13816"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 531212,
+        "name": "Whole Farm Grocery Raw Peanuts",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/60ad9942-1bee-4fd1-9cda-d1628479d272.jpg?ts=1713777286",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9fe903f2-45e5-4e18-b631-c5301c3dcdb6.jpg?ts=1743766999",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531212c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531212d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531212e.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 73,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/531212",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 17,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          531212
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9b145591-c371-4eda-bd24-554ee4c58957",
+        "name": "The Whole Truth Creamy Dark Chocolate Peanut Spread",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f7df207b-4aa8-4d77-93c5-97782301312c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1af680db-cbde-4799-92e7-69788589742b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a43d96dc-d07d-4dcb-ae20-816fde00f88f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0ae05c73-32a4-4709-b897-4c4bb860e313.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47a7a03f-dc89-4b7c-af15-c77e3f3d291a.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 332.0,
+        "unit_level_price": 332.0,
+        "quantity": "325 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0fd94678-5fe9-4b99-987c-99af1a310034",
+        "id": "0fd94678-5fe9-4b99-987c-99af1a310034",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0fd94678-5fe9-4b99-987c-99af1a310034"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "605379345",
+        "name": "JIGSHTIAL Flipkart SmartBuy Clear Glass Water Jug with Lid 1.1 L",
+        "brand": "JIGSHTIAL",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgkqxwcvx/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l-product-images-orvgkqxwcvx-p605379345-0-202310020527.jpg"
+        ],
+        "mrp": 999,
+        "offer_price": 459,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l/605379345",
+        "id": "605379345",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "605379345"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LGK60SGRU2",
+        "name": "Supreme Harvest Jeera",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/be20d304-01b6-43bb-95f2-795c7adcc1e6_masalaandspice_LGK60SGRU2_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 620,
+        "x_available": true,
+        "available": true,
+        "offer_price": 194,
+        "unit_level_price": "48.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VJH3TZAS8K",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LGK60SGRU2",
+          "PX2WP9C6YD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 536546,
+        "name": "Whole Farm Premium Raw Peanuts",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/536546a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/329431f6-8add-43f5-a676-e6aa8e2bf19f.jpg?ts=1743764741",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536546c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536546d.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 44,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/536546",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 42,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          536546
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b50bffe3-78e7-41a4-a2f7-9b5c15fb1ecc",
+        "name": "The Whole Truth Crunchy Dark Chocolate Peanut Spread",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f050e68-147c-48bc-9cd5-67e6e19d0c87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b5a2cd28-5d39-49a5-962d-7e121323ba6b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c504e7b-a22a-49f2-81d3-5f968906216a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ef7d5c34-6110-4148-9437-c739f6909fa2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/307b5a7e-2784-4f97-a6a3-91d74fcf7d82.jpeg"
+        ],
+        "mrp": 299.0,
+        "offer_price": 285.0,
+        "unit_level_price": 285.0,
+        "quantity": "325 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d1e65392-14d3-4214-b6fa-9891465d70fe",
+        "id": "d1e65392-14d3-4214-b6fa-9891465d70fe",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d1e65392-14d3-4214-b6fa-9891465d70fe"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PX2WP9C6YD",
+        "name": "Supreme Harvest Jeera",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/13/3e4245c2-2af4-40a3-80c8-9799ca505cee_masalaandspice_PX2WP9C6YD_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 310,
+        "x_available": true,
+        "available": true,
+        "offer_price": 100,
+        "unit_level_price": "50/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VJH3TZAS8K",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LGK60SGRU2",
+          "PX2WP9C6YD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072484",
+        "name": "Organic - Raw Peanuts/Shengdane",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072484_11-bb-royal-organic-raw-peanuts.jpg"
+        ],
+        "mrp": "136",
+        "offer_price": "107.51",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072484",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072484"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "631503",
+        "name": "Organic Tattva Groundnuts (Peanuts) ",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110001343xx24MAY22_5_P.jpg"
+        ],
+        "mrp": 185,
+        "offer_price": 139,
+        "unit_level_price": "(\u20b9 0.28 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/organic-tattva-groundnuts-(peanuts)-pgroundnut0orga9xx301219?selectedProd=631503",
+        "id": "627679",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627679"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527610,
+        "name": "Whole Farm Premium Raw Peanuts",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527610a.jpg?ts=1698769628",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c3c8ec86-4ac0-46be-87a7-9b17a683dbfc.jpg?ts=1743764713",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527610c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527610d.jpg"
+        ],
+        "mrp": 135,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527610",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 29,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527610,
+          527612
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "712965d5-41e6-4989-8158-7d9213eeb0fd",
+        "name": "The Whole Truth Peanut Cocoa Millet Bar",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/04659e77-0b47-4b76-bb46-178a2084396d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/693f660d-6b13-488b-8fba-8c9592ba7a8c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8bf161c4-e5cd-4c91-8049-a25fd757909d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8f79bfb7-8b11-4bbd-bd02-a4eac47eba6b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1161da15-df62-469f-a801-144464c9e00c.jpeg"
+        ],
+        "mrp": 125.0,
+        "offer_price": 119.0,
+        "unit_level_price": 119.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9295e52d-2034-4fcf-a2f3-5fd1c3d502f5",
+        "id": "9295e52d-2034-4fcf-a2f3-5fd1c3d502f5",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9295e52d-2034-4fcf-a2f3-5fd1c3d502f5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0QVL5Q7WOS",
+        "name": "Tata Sampann Unpolished Masoor Dal (Whole)",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/4e7e2486-3dad-4523-928a-e5879a9bb5fe_2260_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/017fce0b-3e07-4761-8142-700d2632e6cf_2260_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/0eed2c69-f5b8-4fb6-b282-92777ed9fa1f_2260_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/97ee7b8f-02ff-448e-afd2-68d63727edfc_2260_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/2d4e0caa-1c32-4256-b3d0-17476a805031_2260_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/f30b5152-ff1a-41f7-a27b-68c2a180a485_2260_6.png"
+        ],
+        "mrp": 78,
+        "x_available": true,
+        "available": true,
+        "offer_price": 60,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/660R3GMTYF",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0QVL5Q7WOS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39004",
+        "name": "Satyam Singdana (Groundnut) ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JWholeSpices500gmSTYM554xx205021_5_P.jpg"
+        ],
+        "mrp": 117,
+        "offer_price": 97,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/satyam-singdana?selectedProd=39004",
+        "id": "45595",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45595"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527612,
+        "name": "Whole Farm Premium Raw Peanuts",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527612a.jpg?ts=1692792573",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/70b4abeb-433a-4f24-8f1a-96a5ac3f7072.jpg?ts=1743764714",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527612c.jpg?ts=1692792573",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527612d.jpg?ts=1692792573"
+        ],
+        "mrp": 265,
+        "offer_price": 167,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527612",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527610,
+          527612
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "62cb17b4-22fe-480d-a45b-90b5ef505fea",
+        "name": "The Whole Truth Crunchy Unsweetened Peanut Butter",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1fce21d1-da1a-4cd9-8561-c56bb5507f7b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/07d30221-6556-4626-b61d-18e0661bf237.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/359f8f86-3992-4524-b657-93c5173bd4c5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e207b2b6-44b5-4d43-9249-01b622c725c1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3e4b05a-e8a0-43e9-a13c-6687401ce878.jpeg"
+        ],
+        "mrp": 225.0,
+        "offer_price": 212.0,
+        "unit_level_price": 212.0,
+        "quantity": "325 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c9e95e5f-307f-4ff0-8353-2b8e8357f425",
+        "id": "c9e95e5f-307f-4ff0-8353-2b8e8357f425",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c9e95e5f-307f-4ff0-8353-2b8e8357f425"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XUVLH4CWJP",
+        "name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/13/6ffdcbd3-e470-482a-b3f7-3b76b11ffc7d_masalaandspice_XUVLH4CWJP_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/curypk4dtsamvwfl6rbn",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/egulctf05vgufrlffrpg"
+        ],
+        "mrp": 720,
+        "x_available": true,
+        "available": true,
+        "offer_price": 251,
+        "unit_level_price": "50.2/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/Z4DVJL7KJS",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XUVLH4CWJP",
+          "DL976FDUNX",
+          "4M4AF51ML2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1604022",
+        "name": "Desi Memories Salted Peanut With Skin ",
+        "brand": "Desi Memories",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004501xx12JUL24_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/desi-memories-salted-peanut-with-skin-pgroundnut0desi17xx120724?selectedProd=1604022",
+        "id": "1603633",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1603633"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 159879,
+        "name": "Jabsons Roasted Peanuts, Classic Salted",
+        "brand": "Jabsons",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/159879a.jpg?ts=1688973209",
+          "http://cdn.grofers.com/app/images/products/sliding_image/159879b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/159879c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/159879d.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 66,
+        "unit_level_price": "",
+        "quantity": "160 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/159879",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          159879
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "3ff65f60-e09b-4e3c-9e4e-aeba0d8de7e3",
+        "name": "The Whole Truth Peanut Cocoa Protein Bar",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0514f2d4-e792-418d-becc-8517ad996c5d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa-14WItF-iiY57VTxMEFlcT63sWsQJ9gnq3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa-16u39AGzraUtTsPTxc6_lQkXUdzZvmIiy.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa-1O46FqExFlTnZ9XhTos_0sBlEYPo49n5a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa-10e4kCt9Fi1xwQWI0cAiayLe8o2Gyf9As.jpeg"
+        ],
+        "mrp": 100.0,
+        "offer_price": 95.0,
+        "unit_level_price": 95.0,
+        "quantity": "52 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa",
+        "id": "36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "36a3c8d6-1b87-49bc-97d7-a77d2d1d83aa"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "DL976FDUNX",
+        "name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/c4b1c5f9-c39e-48e6-8703-69e5d1bb4aab_masalaandspice_DL976FDUNX_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 360,
+        "x_available": true,
+        "available": true,
+        "offer_price": 106,
+        "unit_level_price": "53/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/Z4DVJL7KJS",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XUVLH4CWJP",
+          "DL976FDUNX",
+          "4M4AF51ML2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000442",
+        "name": "Peanuts/Shengdane - Raw",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000442_18-bb-royal-peanuts-mungaphalishengdana-raw.jpg"
+        ],
+        "mrp": "115",
+        "offer_price": "107.51",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000442",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000442"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1604023",
+        "name": "Desi Memories Salted Peanut ",
+        "brand": "Desi Memories",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004502xx12JUL24_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/desi-memories-salted-peanut-pgroundnut0desi19xx120724?selectedProd=1604023",
+        "id": "1603634",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1603634"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 526243,
+        "name": "Whole Farm Premium Plain Makhana/Foxnuts",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/526243a.jpg?ts=1698769628",
+          "http://cdn.grofers.com/app/images/products/sliding_image/526243b.jpg?ts=1697344441",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/db39454c-9cc1-4020-8f93-6de35b0eb13a.jpg?ts=1743764688",
+          "http://cdn.grofers.com/app/images/products/sliding_image/526243d.jpg?ts=1697344441",
+          "http://cdn.grofers.com/app/images/products/sliding_image/526243e.jpg"
+        ],
+        "mrp": 240,
+        "offer_price": 203,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/526243",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 17,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          526243
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "aca817f6-6888-4535-9f79-9980f86a5aef",
+        "name": "The Whole Truth Peanut Butter Protein Bar",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/aa284461-d10b-4e14-8dc4-f7eba330af6b-68c4a248-3144-4298-8f3b-77afc3b3b0b1.jpeg"
+        ],
+        "mrp": 100.0,
+        "offer_price": 92.0,
+        "unit_level_price": 92.0,
+        "quantity": "52 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0b313bc4-9c87-49e0-9403-fca8ea70bc25",
+        "id": "0b313bc4-9c87-49e0-9403-fca8ea70bc25",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0b313bc4-9c87-49e0-9403-fca8ea70bc25"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4M4AF51ML2",
+        "name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/f378ea93-3bbe-4ab1-b1a8-fe559139babe_masalaandspice_4M4AF51ML2_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 180,
+        "x_available": true,
+        "available": true,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/Z4DVJL7KJS",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XUVLH4CWJP",
+          "DL976FDUNX",
+          "4M4AF51ML2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1581024",
+        "name": "Swadeshi Peanut ",
+        "brand": "Swadeshi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110004459xx27MAY24_5_P.jpg"
+        ],
+        "mrp": 195,
+        "offer_price": 135,
+        "unit_level_price": "(\u20b9 0.14 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/swadeshi-peanut-pgroundnut0swad7xx270524?selectedProd=1581024",
+        "id": "1579611",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1579611"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528032,
+        "name": "Whole Farm Grocery Makhana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528032a.jpg?ts=1698769629",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9db33251-8d59-45c4-a93a-5c1315469b04.jpg?ts=1743766976",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528032c.jpg?ts=1692172611",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528032d.jpg?ts=1692172611",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528032e.jpg"
+        ],
+        "mrp": 210,
+        "offer_price": 185,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528032",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 26,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528032
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7859ad72-4d3b-4c91-b39f-f0f179689364",
+        "name": "The Whole Truth 20g Protein Peanut Cocoa Protein Bar",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fefd3841-c9bd-42e7-a3f8-386748565038.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/cf66e117-f8ca-4ee7-9e41-4ece748d1ca5-/tmp/20230214-1406332.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c9cb8c45-4c80-47d3-b9c0-0d402d1cfe5c-/tmp/20230214-1406353.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e48f0573-2214-48a2-9e37-a177483c859c-/tmp/20230214-1406364.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/82fc053e-867a-4492-a62f-9f4d4ed29ced-/tmp/20230214-1406375.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 143.0,
+        "unit_level_price": 143.0,
+        "quantity": "67 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3f28608e-5634-4687-97f3-5568d303707c",
+        "id": "3f28608e-5634-4687-97f3-5568d303707c",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3f28608e-5634-4687-97f3-5568d303707c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "U0JZJT5U2R",
+        "name": "Organeekz Organic Black Cardamom Ealachi (Whole)",
+        "brand": "Organeekz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9kfmbgl0hmgvpoc2zzz",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ze7e3huly0iqvdlf83qh",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/lffoofp8mjmxqmqzg0yc"
+        ],
+        "mrp": 77,
+        "x_available": true,
+        "available": true,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "20 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/Z9OPVPFC14",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U0JZJT5U2R"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "242003",
+        "name": "24 Mantra Organic Peanut ",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110000997xx11FEB23_5_P.jpg"
+        ],
+        "mrp": 170,
+        "offer_price": 141,
+        "unit_level_price": "(\u20b9 0.28 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/24-mantra-organic-peanut-pdalsnpulsesmntr2xx270218?selectedProd=242003",
+        "id": "237581",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "237581"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 127022,
+        "name": "Bikano Classic Salted Peanuts",
+        "brand": "Bikano",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/61bc5249-f020-4e95-a1d6-10d26c722b5c.jpg?ts=1738757803",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8168e0c7-6f02-42a1-9a6c-c93723047c35.jpg?ts=1738757803",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/769fc23a-7981-4d75-b95d-835be32e0714.jpg?ts=1738757804",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bb624adf-fac5-4f1a-ae69-26d97cd5bf30.jpg?ts=1738757804",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/897c7c25-ee86-42b5-90da-fcd84a4d5c90.jpg?ts=1738757805",
+          "http://cdn.grofers.com/app/images/products/sliding_image/127022f.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/127022",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          127022,
+          481927
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "04bbe7c9-6097-4393-a76e-d29a1db7908c",
+        "name": "CRISTA Classic Italian Seasoning",
+        "brand": "Crista",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f35816c5-1017-4506-a828-7120d63c5e48.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/59519052-70f0-47c6-885a-1ad2e53e78d0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/324d1d55-02fe-4afd-843f-b67a8f9c6f18.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b689d331-728e-4079-ad7a-eb75419c61b5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f6e93da-f9b7-48a8-94c9-c5996c229ba5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aa77aa92-a663-4c29-b636-6097ad69db35.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ce28666c-45b3-429b-a5be-27a8d08097cf.jpeg"
+        ],
+        "mrp": 140.0,
+        "offer_price": 117.0,
+        "unit_level_price": 117.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cb650d00-9f36-4a4b-a236-e10161314d86",
+        "id": "cb650d00-9f36-4a4b-a236-e10161314d86",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cb650d00-9f36-4a4b-a236-e10161314d86"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WF9Z8H33S9",
+        "name": "Tata Sampann Unpolished Green Moong (Whole)",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/2ff40c42-4487-4694-8084-737fcea07ff6_2621_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/ceb31974-9d48-4d04-8fa4-0539c6db136c_2621_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/87601003-c0d1-41fe-8308-a5686078a1d5_2621_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/2c119a03-7106-423b-8091-c6236de50fe5_2621_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/2c513691-fa87-46b8-b892-c65db774e509_2621_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/3/1e91bec6-a77e-4618-9e8e-546a033b60bc_2621_6.png"
+        ],
+        "mrp": 93,
+        "x_available": true,
+        "available": true,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NFS8XH7WCH",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WF9Z8H33S9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "279812",
+        "name": "Organic Raw Peanut/Shengdane",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/279812_9-24-mantra-organic-raw-peanut.jpg"
+        ],
+        "mrp": "170",
+        "offer_price": "170",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/279812",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "279812"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1595272",
+        "name": "The Monk Who Sold His Ferrari By Robin Sharma ",
+        "brand": "Jaico",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN270000074xx26JUN24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 194,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/the-monk-who-sold-his-ferrari-by-robin-sharma-pbooks0giip49xx260624?selectedProd=1595272",
+        "id": "1595271",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595271"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 481927,
+        "name": "Bikano Classic Salted Peanuts - Pack of 2",
+        "brand": "Bikano",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/full_screen/pro_481927.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927a.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927b.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927c.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927d.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927e.jpg?ts=1710347278",
+          "http://cdn.grofers.com/app/images/products/sliding_image/481927f.jpg?ts=1710347278"
+        ],
+        "mrp": 120,
+        "offer_price": 119,
+        "unit_level_price": "",
+        "quantity": "2 x 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/481927",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          127022,
+          481927
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c2c1d7a6-7674-406d-9a7e-b34b6d90dd80",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e07f6168-3ee8-4969-9c3b-641727078f3b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/106f4f7a-3835-4ead-94c6-39d9a094ba01.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e6d19ca3-176c-4ca8-a677-99d8d534e904.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d71312d-838c-4ae7-97ab-e2187cb88c57.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1334b077-ac58-4797-84fe-ec44bbec1616.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83a03e84-01ed-4cd6-af3d-f84198633f83.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3d74efdd-6bff-449a-b393-bdd3aa4d8152.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a17a5d76-0007-4a89-90a7-fccac14a4bd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c6c3e560-90b7-43d7-b265-e524663c2ac5.jpeg"
+        ],
+        "mrp": 829.0,
+        "offer_price": 651.0,
+        "unit_level_price": 651.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "id": "0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0e8c47cb-65ab-40aa-a197-300ab42f3b7d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Q952SOMLTL",
+        "name": "Supreme Harvest Walnut Inshell (Whole)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/7513e7c8-eb8f-4bf9-a1e3-605b40f7cdb4_15753_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/29/1f6d53d7-12ab-4b76-98d0-488cf4e0ba26_driedfruitsnutsandseeds_Q952SOMLTL_AL1.png"
+        ],
+        "mrp": 625,
+        "x_available": true,
+        "available": true,
+        "offer_price": 309,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/6RV506J9HB",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Q952SOMLTL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "17504",
+        "name": "DMart Premia Groundnut ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000405xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 224,
+        "offer_price": 166,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/premia-groundnut?selectedProd=17504",
+        "id": "15089",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15089"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 455465,
+        "name": "Natureland Organic Peanuts",
+        "brand": "Natureland",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f46ae26b-52e7-41c5-847b-3f01777b31bc.jpg?ts=1713633849",
+          "http://cdn.grofers.com/app/images/products/sliding_image/455465b.jpg?ts=1632987301",
+          "http://cdn.grofers.com/app/images/products/sliding_image/455465c.jpg?ts=1632987301",
+          "http://cdn.grofers.com/app/images/products/sliding_image/455465d.jpg?ts=1632987301",
+          "http://cdn.grofers.com/app/images/products/sliding_image/455465e.jpg"
+        ],
+        "mrp": 170,
+        "offer_price": 135,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/455465",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          455465
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1fc8eb2f-5e6c-473a-9574-c5d1ff940140",
+        "name": "Rs By True Elements Muesli Berry Crunch, 93% Berries, Nuts And Whole Grain",
+        "brand": "True Elements",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a660bafc-f01d-4371-a97f-7086f872aaae.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/05961d20-8872-4011-8aa0-5168ea3039d8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e4f89aff-b17a-4d1f-8d99-deca65654685.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/41e3c04b-ddf1-4a18-9cda-e841a66fb7c4.jpg"
+        ],
+        "mrp": 695.0,
+        "offer_price": 404.0,
+        "unit_level_price": 404.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8b098dd0-4efd-453a-ab50-5f4fb79ebb32",
+        "id": "8b098dd0-4efd-453a-ab50-5f4fb79ebb32",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8b098dd0-4efd-453a-ab50-5f4fb79ebb32"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528751,
+        "name": "Whole Farm Grocery Nakul Dana / Elaichi Dana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/26fc15eb-41b1-422e-b7bb-a6a690493bf6.jpg?ts=1725341822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7909305-ccdb-42f7-8349-f0a32fcb9698.jpg?ts=1743766979",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/288f89c5-cef9-47be-989d-7f83978b8b34.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f640691b-9e73-401f-8e71-8e723d2e4087.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/647a3daf-912d-4294-89d3-dcf1efc563a0.jpg?ts=1725341822"
+        ],
+        "mrp": 39,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528751",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528751
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bee482ea-07ab-452e-aad3-7be7cc27c975",
+        "name": "Kwality Choco Flakes - Made With Whole Wheat Zero% Maida",
+        "brand": "Kwality",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ac948e8b-3948-47d8-a3ad-d1fb9ff30dfc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bf239384-7b5b-4014-93a7-b2e0bdd2a3f4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/89aa92bb-fdba-4dfb-a756-815b240ca98e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3e2dc510-5cc7-4d74-b6fc-a6b383110e30.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bde246bc-e358-47b2-b6fc-2b6fae543b08.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/08c0d0b8-251b-444c-8e85-5b1e68d8f776.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c91dad5c-5e72-4fda-97bb-5a9053c44bac.jpeg"
+        ],
+        "mrp": 650.0,
+        "offer_price": 400.0,
+        "unit_level_price": 400.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/194511c6-20d3-48ac-b717-32f90440bd4a",
+        "id": "194511c6-20d3-48ac-b717-32f90440bd4a",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "194511c6-20d3-48ac-b717-32f90440bd4a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40002008",
+        "name": "Organic - Raw Peanuts/Shengdane",
+        "brand": "Pro Nature",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40002008_6-pro-nature-organic-raw-peanut.jpg"
+        ],
+        "mrp": "174",
+        "offer_price": "160.08",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40002008",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40002008"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19009",
+        "name": "DMart Premia Methi ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000449xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 48,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-methi?selectedProd=19009",
+        "id": "15091",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15091"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 586980,
+        "name": "Crunchy Peanut Chikki by GO DESI",
+        "brand": "GO DESI",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cd27d42c-9d8b-45c7-85fa-bbffce36f6e9.jpg?ts=1732180058",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/30f65339-da1e-4c30-8dcc-f8004feb6afb.jpg?ts=1732180059",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c0e61a04-e149-4dc7-98ba-10dc75f376df.jpg?ts=1732180060",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8525ef10-afd3-44bb-a1bf-a4405187c0d3.jpg?ts=1732180060",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f4ad9c09-3a5f-446e-a1ae-e1045528ce60.jpg?ts=1732180060",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3e0a1059-b2b1-43d1-ab1e-d536269b23be.jpg?ts=1732180060",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/abe9ac1e-94c5-4cdc-a432-654937b31ba0.jpg?ts=1732180060"
+        ],
+        "mrp": 60,
+        "offer_price": 46,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/586980",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          586980
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "55f4d3d2-448c-4dc2-8324-739edb93d2f7",
+        "name": "Open Secret Premium Whole Cashews-Kaju | Fasting Special | Vrat",
+        "brand": "Open Secret",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc21a9ab-2bf0-47c0-a2b7-a56ea640f416.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec078e62-2a4b-4614-8a81-b7d9b8a9c323.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e036f5a2-62e8-4cbb-9e5e-5114bd35073d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37377d47-0bbf-4395-bff2-49b1dae3e00d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c0a97e3-fe50-4e5e-ac6e-0d6402b51620.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/48dafa39-48a8-4d8e-983d-f922bdeb7537.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c281ac2e-e688-44f0-9b2b-b34ed349873f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af24ef02-6aaf-4b9c-a33b-66535a433f36.jpeg"
+        ],
+        "mrp": 1798.0,
+        "offer_price": 1035.0,
+        "unit_level_price": 1035.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7b55c691-603d-4739-9ba8-a72832e4bb87",
+        "id": "7b55c691-603d-4739-9ba8-a72832e4bb87",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7b55c691-603d-4739-9ba8-a72832e4bb87"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 68630,
+        "name": "Haldiram's Nagpur Salted Fried Peanuts",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0ae89142-e398-44cf-a459-f83c07b769ca.jpg?ts=1710137408",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6f305767-b4c6-4f5c-a863-9c3edb79d16c.jpg?ts=1710137408",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/29d2e871-bd47-4b5b-8a0a-258adff06cad.jpg?ts=1710137408",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/46b93728-5feb-4273-a2f7-3f2bf2b3da31.jpg?ts=1710137408",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fe7da653-0866-4ae8-a7ff-d3c023a13bea.jpg?ts=1710137408",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3689d609-1220-4813-a815-ab894a48b924.jpg?ts=1710137408"
+        ],
+        "mrp": 55,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/68630",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 19,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          68630,
+          481999
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d7b9b212-2aa2-4efb-b3ad-5fcbfccba81a",
+        "name": "BORGES Whole Durum Wheat Pasta Fusilli",
+        "brand": "BORGES",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/827c1805-c53b-4ee8-a8d3-e8beff80d369.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6-1n-u-Vcs4RB71CM5ggaxsM2_rBW-5Y-Eu.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6-1e7VSXm45dUeNHkEBHPO0lauWgwQlZYIs.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6-1zFXz6YW3AkNfXIQKACtABgaTuPOSY6gl.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6-1tNhWlKGMVIlktwneriKT7aOGmt8-oTDN.jpeg"
+        ],
+        "mrp": 400.0,
+        "offer_price": 220.0,
+        "unit_level_price": 220.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6",
+        "id": "3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3e8834b4-f0b3-4b0d-95b3-a2b6e79a5bb6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1362503",
+        "name": "Makino Roasted Peanuts Salted ",
+        "brand": "Makino",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120006588xx26FEB25_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 50,
+        "unit_level_price": "(\u20b9 0.33 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/makino-roasted-himalayan-salt-peanuts-pmsalanut0maki1xx40823?selectedProd=1362503",
+        "id": "1370558",
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1370558"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 481999,
+        "name": "Haldiram's Nagpur Salted Fried Peanuts - Pack of 2",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ef3cf37a-bf4d-421a-86e1-bb8e954c9699.jpg?ts=1718173199",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9f7b8b15-3c5d-48d6-abf1-ab9127fc4a9d.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d62dfca3-7760-4a9b-8c24-5b38e94a9d9f.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5899b390-90ab-4daf-8056-0148bfe02f4e.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8d8c6f72-c9de-4c10-aabc-0f7cde289bdd.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a1d4bb84-a7ee-4020-914b-09440d3e07a8.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4cf70bd4-6f66-49f4-b13b-6cfa0c357afb.jpg?ts=1710347281"
+        ],
+        "mrp": 110,
+        "offer_price": 109,
+        "unit_level_price": "",
+        "quantity": "2 x 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/481999",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 9,
+        "parentIndex": 10,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          68630,
+          481999
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "59c9ac1a-eda6-4f15-87a3-9c8f1a4d6101",
+        "name": "The Whole Truth Unflavoured Whey Protein Isolate (30g Protein Per Scoop)",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3535e48-ba78-4342-967b-87be093f3d60.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/810e55c2-6407-46a4-8e8b-7c186993c4de.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/26e40f75-393c-4113-aef9-7b821afccd21.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6fe9d2cf-d7a2-474c-90dc-cd3ddf330da6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b76f65ea-2f0e-4c47-9078-c8432e1d43c1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7af1c899-2485-41de-b396-084ce04f1bad.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6d5c208e-2c29-46d6-b8bc-baacf6d196ea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a68acff6-8edb-4335-970f-ed992cc4749a.jpeg"
+        ],
+        "mrp": 4499.0,
+        "offer_price": 2986.0,
+        "unit_level_price": 2986.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3ea7b177-9963-42be-8264-a369ac29b13d",
+        "id": "3ea7b177-9963-42be-8264-a369ac29b13d",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3ea7b177-9963-42be-8264-a369ac29b13d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1362504",
+        "name": "Makino Roasted Nimboo Pudina Peanuts ",
+        "brand": "Makino",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120006589xx26FEB25_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 50,
+        "unit_level_price": "(\u20b9 0.33 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/makino-roasted-nimboo-pudina-peanuts-pmsalanut0maki3xx40823?selectedProd=1362504",
+        "id": "1370559",
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1370559"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 36019,
+        "name": "Haldiram's Nagpur Tasty Peanuts",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e668ad7b-d841-424a-8e7b-52027e151500.jpg?ts=1708591576",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36019b.jpg?ts=1690808607",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36019c.jpg?ts=1690808607",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36019d.jpg?ts=1690808607",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36019e.jpg?ts=1690808607"
+        ],
+        "mrp": 55,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/36019",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 16,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          36019,
+          36020,
+          482000,
+          481794
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d11ae95d-1fa8-4242-bff8-204f1a1f46cf",
+        "name": "The Whole Truth Cranberry Protein Bar 52 g Combo",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/77d95465-4422-4c28-ac46-87f3640f8e73-1858_S_SKU_F.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/eabbd091-15bf-484e-b24f-c2fc559a9f1a-19sGKJ-GOw3wc0Bxufmcq0RhsjTGDEYhU.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/eabbd091-15bf-484e-b24f-c2fc559a9f1a-1v1sq6oJ7xmmE1qSxih8Iv669SnRyeLpn.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/eabbd091-15bf-484e-b24f-c2fc559a9f1a-1tGi7ZJwqaiOaQGs-Cv_7XE7sSSJLXkVD.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/eabbd091-15bf-484e-b24f-c2fc559a9f1a-19TImD1xqUN3ZSGPUYH3Mgw1aYnH-aCPG.jpeg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 174.0,
+        "unit_level_price": 174.0,
+        "quantity": "52 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/eabbd091-15bf-484e-b24f-c2fc559a9f1a",
+        "id": "eabbd091-15bf-484e-b24f-c2fc559a9f1a",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "eabbd091-15bf-484e-b24f-c2fc559a9f1a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1362505",
+        "name": "Makino Roasted Hing Jeera Peanuts ",
+        "brand": "Makino",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120006590xx26FEB25_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 50,
+        "unit_level_price": "(\u20b9 0.33 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/makino-roasted-hing-jeera-peanuts-pmsalanut0maki5xx40823?selectedProd=1362505",
+        "id": "1370560",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1370560"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 36020,
+        "name": "Haldiram's Nagpur Tasty Peanuts",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a86e780-052f-45d0-b0f6-bac43567a635.jpg?ts=1708591576",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36020b.jpg?ts=1690813392",
+          "https://cdn.grofers.com/app/images/products/sliding_image/36020c.jpg?ts=1690813392"
+        ],
+        "mrp": 105,
+        "offer_price": 105,
+        "unit_level_price": "",
+        "quantity": "350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/36020",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 11,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          36019,
+          36020,
+          482000,
+          481794
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8c043a80-ecb4-4ada-80f8-a3f33570d07c",
+        "name": "The Whole Truth Sea Salt Dark Chocolate",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d3557f1-3b06-4aef-9479-7db746e43295.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6a72d1e0-d7dc-43e9-8e1d-e98adf625083-/tmp/20230324-0627202.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d14c5e20-19f5-4ff4-baf0-a163e0f2ce7b-/tmp/20230324-0627223.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5df9952a-421c-4abd-90d9-4975db0bcf7c-/tmp/20230324-0627234.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/ea75f9ad-2d1c-474c-b7db-419938b456eb-/tmp/20230324-0627245.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 320.0,
+        "unit_level_price": 320.0,
+        "quantity": "80 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c93be03a-efca-4be9-b342-766b48e248ba",
+        "id": "c93be03a-efca-4be9-b342-766b48e248ba",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c93be03a-efca-4be9-b342-766b48e248ba"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11255",
+        "name": "DMart Premia Masala Elaichi ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000282xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 509,
+        "offer_price": 375,
+        "unit_level_price": "(\u20b9 3.75 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-masala-elaichi?selectedProd=11255",
+        "id": "15200",
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15200"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 482000,
+        "name": "Haldiram's Nagpur Tasty Peanuts - Pack of 2",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/74e3ae4e-4a7c-4d7e-b77f-72f2b7eb1817.jpg?ts=1742969632",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482000a.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482000b.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482000c.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482000d.jpg?ts=1710347281",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482000e.jpg?ts=1710347281"
+        ],
+        "mrp": 110,
+        "offer_price": 109,
+        "unit_level_price": "",
+        "quantity": "2 x 150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/482000",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 11,
+        "childIndex": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          36019,
+          36020,
+          482000,
+          481794
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "fb675f81-3c7e-4ec9-af5a-4588f2c5debe",
+        "name": "The Whole Truth Almond Choco Fudge Energy Bar 40 g Combo",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/28f5eea2-dd8d-41d0-844d-1900b00ddb10-1078.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c331ef8b-b517-4c1c-af5d-7c00fd75111b-1yLLxqgPrCOyPkOycDSZhSOtAvbwSqhDC.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c331ef8b-b517-4c1c-af5d-7c00fd75111b-1SgkawWR5cSO7vBOPmCilHPidJzOZmEf2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c331ef8b-b517-4c1c-af5d-7c00fd75111b-1dUmRHx6jM2NUzryL5zv7oONT4LpYpA5q.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c331ef8b-b517-4c1c-af5d-7c00fd75111b-1hLKzm8IJ243zZela1HwPFF-0QUZHGApU.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 140.0,
+        "unit_level_price": 140.0,
+        "quantity": "40 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c331ef8b-b517-4c1c-af5d-7c00fd75111b",
+        "id": "c331ef8b-b517-4c1c-af5d-7c00fd75111b",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c331ef8b-b517-4c1c-af5d-7c00fd75111b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 481794,
+        "name": "Haldiram's Nagpur Tasty Peanuts - Pack of 2",
+        "brand": "Haldiram's Nagpur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/74d43264-9f65-4fda-bd0c-fcd8ee7252a4.jpg?ts=1742469422",
+          "https://cdn.grofers.com/app/images/products/sliding_image/481794a.jpg?ts=1710347271",
+          "https://cdn.grofers.com/app/images/products/sliding_image/481794b.jpg?ts=1710347271",
+          "https://cdn.grofers.com/app/images/products/sliding_image/481794c.jpg?ts=1710347271"
+        ],
+        "mrp": 210,
+        "offer_price": 208,
+        "unit_level_price": "",
+        "quantity": "2 x 350 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/481794",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 3,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          36019,
+          36020,
+          482000,
+          481794
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11778505-c106-489a-84c9-0d86e9fb3275",
+        "name": "Daily Good Brown Chana(500gms) & Daily Good Unpolished Green Moong Whole(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/020515ab-8436-412a-a08a-188c00aa22ee.jpg"
+        ],
+        "mrp": 205.0,
+        "offer_price": 143.0,
+        "unit_level_price": 143.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f2ade617-1f7f-43d3-ac9f-adb1d095663d",
+        "id": "f2ade617-1f7f-43d3-ac9f-adb1d095663d",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f2ade617-1f7f-43d3-ac9f-adb1d095663d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11264",
+        "name": "DMart Premia Dhaniya Dal ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000292xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 47,
+        "offer_price": 35,
+        "unit_level_price": "(\u20b9 0.35 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-dhaniya-dal?selectedProd=11264",
+        "id": "15144",
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15144"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527973,
+        "name": "Whole Farm Grocery Raw Peanuts",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527973a.jpg?ts=1692792337",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/36eef645-37d3-46bf-933d-82c6a5cfa573.jpg?ts=1743766962",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527973c.jpg?ts=1692792337",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527973d.jpg?ts=1692792337",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527973e.jpg?ts=1692792337"
+        ],
+        "mrp": 255,
+        "offer_price": 142,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527973",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527973
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ddcd5e20-ab53-4895-95c2-9db940f0ffec",
+        "name": "Delight Nuts Natural Whole Cashews",
+        "brand": "Delight Nuts",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e36ac25e-592c-4511-baa9-88c8735c1203.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/dfebdcdf-9eff-4c49-8a9d-08a2ee97358d-/tmp/20230621-1147372.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5e5dfdee-1904-441d-aaa6-014921e15e4f-/tmp/20230621-1147383.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0aae9b7a-fc8b-4b97-ad70-e1e3b346dd9e-/tmp/20230621-1147394.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/626cd433-3391-49f4-a548-ec0bc3bd240a-/tmp/20230621-1147405.jpeg"
+        ],
+        "mrp": 499.0,
+        "offer_price": 325.0,
+        "unit_level_price": 325.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/aa42543e-39f6-4688-b277-763ee35115b3",
+        "id": "aa42543e-39f6-4688-b277-763ee35115b3",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "aa42543e-39f6-4688-b277-763ee35115b3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "17525",
+        "name": "DMart Premia Nimbu Phool (Citric Acid) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000482xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 19,
+        "offer_price": 14,
+        "unit_level_price": "(\u20b9 0.28 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-nimbu-phool?selectedProd=17525",
+        "id": "18630",
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18630"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 91100,
+        "name": "Bikaji Nut Cracker Coated Peanuts",
+        "brand": "Bikaji",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100a.jpg?ts=1688628109",
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100b.jpg?ts=1657177525",
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100c.jpg?ts=1657177526",
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100d.jpg?ts=1657177526",
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100e.jpg?ts=1657177526",
+          "https://cdn.grofers.com/app/images/products/sliding_image/91100f.jpg?ts=1657177526"
+        ],
+        "mrp": 70,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/91100",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 11,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          91100
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6f3a2533-9b9a-4597-868b-20b6e0cb1192",
+        "name": "Happilo 100% Natural Premium Whole Cashews",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5ca3e5e2-0873-495d-96ee-da7155150135.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ca7c8de2-d55f-4cb3-9745-a2595e681dba.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/55c2d8f8-257a-485e-9c9a-2a865f3cab5d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/254d8b0a-3018-481f-a7ab-dfa6b4f620e3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f4a646dd-ab8a-4467-a3e7-a1e8e88e3ba3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b36663b8-b64e-463f-921e-d2ef32221df8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5a3040e5-3b7b-41b4-8d87-a09583044258.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8967296a-a763-482f-9d61-0358210bf06d.jpeg"
+        ],
+        "mrp": 995.0,
+        "offer_price": 732.0,
+        "unit_level_price": 732.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/acb799d8-6207-4c87-bb10-16424cd9bf12",
+        "id": "acb799d8-6207-4c87-bb10-16424cd9bf12",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "acb799d8-6207-4c87-bb10-16424cd9bf12"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18593",
+        "name": "DMart Premia Jaifal ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000441xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 52,
+        "unit_level_price": "(\u20b9 13.00 / 1 U)",
+        "quantity": "4 U",
+        "deeplink": "https://www.dmart.in/product/premia-jaifal?selectedProd=18593",
+        "id": "18592",
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18592"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 56732,
+        "name": "Charlie's Salted Peanuts",
+        "brand": "Charlie's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7af4178f-644d-4519-b8d9-1b4e223c7380.jpg?ts=1724923597",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/74cd1ee2-e5c2-4a95-b1bb-a45d8ed3e671.jpg?ts=1724923598",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c0c20c46-106a-4876-8ba5-6ad61302982a.jpg?ts=1724923599",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/006bb698-fea5-42c7-aa4c-354f68113020.jpg?ts=1724923600",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4359e34c-e497-4944-ba7b-b391b28407e0.jpg?ts=1724923601",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a893f6d6-76a4-4736-8d7a-f500fe919272.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 69,
+        "unit_level_price": "",
+        "quantity": "185 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/56732",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          56732
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9af4b59f-c120-44e7-95d4-316b2727659a",
+        "name": "The Whole Truth Double Cocoa Protein Bar No Sugar Combo",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5e9d57af-9bdb-4f7e-82b8-9fb69759e670-701.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/52c6a33d-eae7-4b56-8d87-c93ce544a07c-169kqpZj3tCi27iJjoC6yZqF0cur3_L__.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/52c6a33d-eae7-4b56-8d87-c93ce544a07c-1HCOkZjsIwym91CDedVq5xe1YAsn1ByNI.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/52c6a33d-eae7-4b56-8d87-c93ce544a07c-1QHXq8wL4eSc8lePrJUsT719aOTVyNEyk.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/52c6a33d-eae7-4b56-8d87-c93ce544a07c-1CuEzug5CtnXwBqKE0TAj_zdJJdQfBFix.jpeg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 178.0,
+        "unit_level_price": 178.0,
+        "quantity": "52 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/52c6a33d-eae7-4b56-8d87-c93ce544a07c",
+        "id": "52c6a33d-eae7-4b56-8d87-c93ce544a07c",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "52c6a33d-eae7-4b56-8d87-c93ce544a07c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18600",
+        "name": "DMart Premia Dry Ginger (Sunth) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000455xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 84,
+        "offer_price": 62,
+        "unit_level_price": "(\u20b9 0.62 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-dry-ginger?selectedProd=18600",
+        "id": "18599",
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18599"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 103916,
+        "name": "Jabsons Roasted Peanuts, Nimboo Pudina",
+        "brand": "Jabsons",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/103916a.jpg?ts=1688443500",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103916b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103916c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103916d.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 67,
+        "unit_level_price": "",
+        "quantity": "140 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/103916",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          103916
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "56eb8a8b-cc00-4b29-9926-933f109b7022",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47317afa-09c2-4c6c-a5bb-6b54cf3a3bd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b92c145c-079d-4bb8-b71f-c154df0543e0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/11305eec-936d-4b9c-afb3-1bce33a4b62e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1196fb5a-5fdd-44cd-ae6d-faba492f412e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d4383b6-2066-4f82-bd56-1e2b076b9333.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8c24eafd-a6e6-49be-8f24-f0606bd1172a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4091e61-8945-4b0a-8f3c-32f602c0d040.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af7b001d-b5b5-4b65-8e3c-1dbe9c3021c1.jpeg"
+        ],
+        "mrp": 1695.0,
+        "offer_price": 1242.0,
+        "unit_level_price": 1242.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ae033b29-2305-4dd1-8289-bc008d9555dc",
+        "id": "ae033b29-2305-4dd1-8289-bc008d9555dc",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ae033b29-2305-4dd1-8289-bc008d9555dc"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18602",
+        "name": "DMart Premia Star Anise (Badiyan) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000456xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 112,
+        "offer_price": 106,
+        "unit_level_price": "(\u20b9 1.06 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-star-anise?selectedProd=18602",
+        "id": "18601",
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18601"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 318776,
+        "name": "Chheda's Tasty Peanuts",
+        "brand": "Chheda's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776a.jpg?ts=1687243863",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776b.jpg?ts=1687243863",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776c.jpg?ts=1687243863",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776d.jpg?ts=1687243863",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776e.jpg?ts=1687243863",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776f.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/318776g.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 60,
+        "unit_level_price": "",
+        "quantity": "170 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/318776",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 15,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          318776
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "961ea491-b002-4b2c-8a59-604edbb24ceb",
+        "name": "The Whole Truth Mini Protein Bars - Assorted - Pack Of 8",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bb12001f-6ae0-46b0-bfda-1dee475c2b1c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fbbb06bd-9455-494f-81fc-df5d5399e6c3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/70935abf-d61b-4867-801f-437f2b932e1f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fdb89925-603f-4300-bc9a-93f9c309c3b0.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/756c74e7-61e9-4d84-905b-e51bab9bd521.jpg"
+        ],
+        "mrp": 480.0,
+        "offer_price": 437.0,
+        "unit_level_price": 437.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8906bd4b-ca78-4cb4-9f33-072d03ab6797",
+        "id": "8906bd4b-ca78-4cb4-9f33-072d03ab6797",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8906bd4b-ca78-4cb4-9f33-072d03ab6797"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18624",
+        "name": "DMart Premia Dagad Phool (Black Stone Flower) ",
+        "brand": "DMart Premia",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000476xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 72,
+        "offer_price": 52,
+        "unit_level_price": "(\u20b9 1.04 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-dagad-phool?selectedProd=18624",
+        "id": "18623",
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18623"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 495323,
+        "name": "Let's Try Party Mix Peanuts",
+        "brand": "Let's Try",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eba31c0b-fa3b-424e-9b80-661673157c31.jpg?ts=1738757965",
+          "http://cdn.grofers.com/app/images/products/sliding_image/495323b.jpg?ts=1680856015",
+          "http://cdn.grofers.com/app/images/products/sliding_image/495323c.jpg?ts=1680856015",
+          "http://cdn.grofers.com/app/images/products/sliding_image/495323d.jpg?ts=1680856015"
+        ],
+        "mrp": 150,
+        "offer_price": 115,
+        "unit_level_price": "",
+        "quantity": "225 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/495323",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          495323,
+          499237
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "210d0835-1a33-4bf8-9207-88f878ddfe87",
+        "name": "Bolas Whole Walnut",
+        "brand": "Bolas",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/200f446a-092c-407b-9d26-41d58f09d790.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f4ec500e-02b0-4bd7-a88a-3068e747524c.jpg"
+        ],
+        "mrp": 425.0,
+        "offer_price": 340.0,
+        "unit_level_price": 340.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/88976c04-e46d-42e0-b1c7-df6030076b3a",
+        "id": "88976c04-e46d-42e0-b1c7-df6030076b3a",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "88976c04-e46d-42e0-b1c7-df6030076b3a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18632",
+        "name": "DMart Premia Halim ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000484xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 43,
+        "offer_price": 32,
+        "unit_level_price": "(\u20b9 0.32 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-halim?selectedProd=18632",
+        "id": "18631",
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18631"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 499237,
+        "name": "Let's Try Party Mix Peanuts - Pack of 2",
+        "brand": "Let's Try",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2ab71c8-0120-425f-9a81-740c89833315.jpg?ts=1716876722",
+          "http://cdn.grofers.com/app/images/products/sliding_image/499237a.jpg?ts=1710347969",
+          "http://cdn.grofers.com/app/images/products/sliding_image/499237b.jpg?ts=1710347969",
+          "http://cdn.grofers.com/app/images/products/sliding_image/499237c.jpg?ts=1710347969",
+          "http://cdn.grofers.com/app/images/products/sliding_image/499237d.jpg?ts=1710347969"
+        ],
+        "mrp": 300,
+        "offer_price": 225,
+        "unit_level_price": "",
+        "quantity": "2 x 225 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/499237",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          495323,
+          499237
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ae4bac7f-b549-42f2-9b89-e2fd57b2792e",
+        "name": "Daily Good Unpolished Urad White Whole - Gota",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/84786dda-23c9-47fa-892c-26b955e3e5a9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/63f9fe11-e41f-48c9-943b-6e399c206145.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/821dfdce-0ccd-467b-b331-16ce957c0776.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c0aad191-73f6-4b4a-9c8e-8ca95389787b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/12f406a0-a7da-4f83-8885-c20a8b3a85c6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/13589891-175a-4814-b083-2fbc02abf74a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bc5c8ca3-0043-4759-ae8f-3280d922c043.jpeg"
+        ],
+        "mrp": 240.0,
+        "offer_price": 198.0,
+        "unit_level_price": 198.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/632519f7-c5b2-4da3-97df-809c46d3484e",
+        "id": "632519f7-c5b2-4da3-97df-809c46d3484e",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "632519f7-c5b2-4da3-97df-809c46d3484e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11256",
+        "name": "DMart Premia Guntur Chilli ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000283xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 30,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-guntur-chilli?selectedProd=11256",
+        "id": "15148",
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15148"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 427840,
+        "name": "Cornitos Pop n Crunch Party Nut Mix",
+        "brand": "Cornitos Pop n Crunch",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/67ca0cf1-1e18-48f9-b870-89ccc3ceac62.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4fd09575-2a11-4909-8658-0ef723872a9e.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bbe2bc0d-b8f5-4394-8bb2-a444eae9b50d.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cc9f7ed0-98d0-4223-908a-7d36d5bbfa74.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/44f2b723-7386-409a-a72a-cb8a01fbe7af.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4a69f35a-0f14-4302-ad78-8146e0032eb3.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f5d65c99-d577-4f98-82cc-ac9900532d23.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/18eb318e-200c-4d4a-b421-0f6dd71cf21d.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e1a2440d-1f2d-4eb2-880b-f3ebc60fde74.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bc7efecd-f802-4482-8342-c9df05818863.jpg?ts=1734427986",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/db84ef4d-62db-4b64-8d45-3f4196ff1ac6.jpg?ts=1734427986"
+        ],
+        "mrp": 150,
+        "offer_price": 149,
+        "unit_level_price": "",
+        "quantity": "180 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/427840",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          427840,
+          438379,
+          527255
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d48a8cd8-c834-4346-a236-216f1a751847",
+        "name": "Daily Good Unpolished Urad Black Whole 500 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a91a100a-2c41-4fcb-99ae-a4edd23b4c19.jpg"
+        ],
+        "mrp": 220.0,
+        "offer_price": 190.0,
+        "unit_level_price": 190.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/aaac81de-6698-4ec7-9e5d-8a2cff859464",
+        "id": "aaac81de-6698-4ec7-9e5d-8a2cff859464",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "aaac81de-6698-4ec7-9e5d-8a2cff859464"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11252",
+        "name": "DMart Premia Roasted Badishep ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000279xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 23,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-roasted-badishep?selectedProd=11252",
+        "id": "15138",
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15138"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 438379,
+        "name": "Cornitos Pop n Crunch Party Nut Mix - Salted Peanuts, Corn Nut & Coated Green Peas - Pack of 2",
+        "brand": "Cornitos Pop n Crunch",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0f22b3ab-1346-4585-b434-71ce96a57890.jpg?ts=1722250114",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/191cd266-0ee6-45e0-ab0a-00d76d68dd2d.jpg?ts=1722250115",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4a9c9750-9826-4c8f-bb7a-ccaa037413c3.jpg?ts=1722250117",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0d0c4413-deff-473b-ae6c-1fe4064c2698.jpg?ts=1722250118",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/84397504-2ee2-4397-8e28-82d7e29f6638.jpg?ts=1722250120",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/621698ba-fe2c-4edf-a8d4-d1645ea22b80.jpg?ts=1722250121",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/30a6ed68-5498-4f15-a976-e992d7dde1d6.jpg?ts=1722250122",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/92d32536-bae8-438e-83b1-350686981149.jpg?ts=1722250124",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/df392575-8891-43e0-82f0-97b90d229352.jpg?ts=1722250125",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/185eba84-b2d7-4ea7-9753-80dc53cf8303.jpg?ts=1722250127",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e7479471-06dd-4f43-9ea2-43c46490380e.jpg?ts=1722250128",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ad7e3380-8ebe-4972-87a6-69a53446c6a3.jpg?ts=1717752516"
+        ],
+        "mrp": 300,
+        "offer_price": 294,
+        "unit_level_price": "",
+        "quantity": "2 x 180 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/438379",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          427840,
+          438379,
+          527255
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "787341af-23e4-4d5f-880a-f92ae4a95358",
+        "name": "Colgate Total Advanced Health Antibacterial Toothpaste, Whole Mouth Health (Combo Pack)",
+        "brand": "Colgate",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2e306e43-75b6-476c-bac8-83a0fb43173d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5cb735f-00f8-41e0-9584-07b1c5179b2c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b1497b9e-c2c1-4dc6-aad3-eeff9a4fe8ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a1b1aa7d-309d-4ec3-bf1a-603bc9d3083a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0f025443-eeed-402a-842f-856ea3298168.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c7eba81c-ff93-42f7-9f7c-8d7fc83bb532.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af1717d2-862f-4741-ab05-2ca2ae42f930.jpeg"
+        ],
+        "mrp": 370.0,
+        "offer_price": 282.0,
+        "unit_level_price": 282.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/27874667-1ae6-4a3e-8ee0-b3a610bf15eb",
+        "id": "27874667-1ae6-4a3e-8ee0-b3a610bf15eb",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "27874667-1ae6-4a3e-8ee0-b3a610bf15eb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11268",
+        "name": "DMart Premia Cassia Taj ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000296xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 94,
+        "offer_price": 69,
+        "unit_level_price": "(\u20b9 0.69 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-cassia-taj?selectedProd=11268",
+        "id": "15142",
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15142"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527255,
+        "name": "Cornitos Pop n Crunch Party Nut Mix - Salted Peanuts, Corn Nut & Coated Green Peas - Pack of 3",
+        "brand": "Cornitos Pop n Crunch",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6dd3ab2d-30f1-4903-ba62-71859cb2ab38.jpg?ts=1722250142",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/27d05876-3c7e-4f52-a90e-ba987ba39973.jpg?ts=1722250144",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9ca634cd-7add-45fa-bf14-9e59ad35d7ca.jpg?ts=1722250145",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f44809b9-c474-46c2-992b-22bc9a00aba2.jpg?ts=1722250147",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bd646e74-5e08-451e-a5e0-e7fd79f19d0f.jpg?ts=1722250148",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/877a26cb-5fd0-4704-bb13-8fb697f114a0.jpg?ts=1722250149",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/27204195-aec8-49fb-a32e-98e7b3570019.jpg?ts=1722250151",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/36e45062-b444-4264-b450-d6114a706996.jpg?ts=1722250152",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5e1d7a38-269d-4980-aad2-10b766e20687.jpg?ts=1722250154",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6da8dbd8-4289-47af-98e4-fbf867cf13c5.jpg?ts=1722250155",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/076d64d5-1863-4688-ba0c-9cab8e1b9dae.jpg?ts=1722250156",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f3d40672-1afd-4be7-a86d-d5ed6f1928c1.jpg?ts=1718195836"
+        ],
+        "mrp": 450,
+        "offer_price": 437,
+        "unit_level_price": "",
+        "quantity": "3 x 180 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527255",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 18,
+        "childIndex": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          427840,
+          438379,
+          527255
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bb111233-8908-4bc9-aaac-5150d80c07ef",
+        "name": "Daily Good Ajwain Whole 100 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7a8b43ab-28d1-4bd6-b67f-b2ddc6b433e7.jpg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 132.0,
+        "unit_level_price": 132.0,
+        "quantity": "100 g X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/588b1f95-eb13-4e9e-aaf7-4d8a6e8091fc",
+        "id": "588b1f95-eb13-4e9e-aaf7-4d8a6e8091fc",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "588b1f95-eb13-4e9e-aaf7-4d8a6e8091fc"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19004",
+        "name": "DMart Premia Til White ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000430xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 127,
+        "offer_price": 93,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-till-white?selectedProd=19004",
+        "id": "15157",
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15157"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 554704,
+        "name": "Whole Farm Premium Fiber Rich Thick Poha + Whole Farm Grocery Raw Peanuts Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c31fb8e9-9ea3-47b3-9569-4ab5f1757edf.jpg?ts=1716957027",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/00e5f80f-df16-4b67-85e9-9c6d4b98d30e.jpg?ts=1716887368",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1155d586-958e-4126-964d-efe38bc61e1a.jpg?ts=1716887370",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a24fa001-eaf7-45ee-9b76-71e0f5ff8d77.jpg?ts=1716887371",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/37748dd5-5c78-4b7f-b570-4128ca8ccddd.jpg?ts=1716887373",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/695e02fd-fe29-4f0b-a5e3-ed323fdc2a8a.jpg?ts=1716887374",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/91f99527-7634-45ce-a9c9-f808a8d7c201.jpg?ts=1716887376",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4ef5e1e9-0c64-4add-a576-e8a0c40d927f.jpg?ts=1716887377",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a3fc1295-4966-4e79-b224-a83dd1541c67.jpg?ts=1716887379",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2486fef4-0567-4d4b-947a-dbc218232e86.jpg?ts=1716887380"
+        ],
+        "mrp": 228,
+        "offer_price": 112,
+        "unit_level_price": "",
+        "quantity": "500 g + 500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/554704",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          554704
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "001e68b5-c775-4da3-b30e-86a8ca27e16b",
+        "name": "The Whole Truth Choco Cranberry Fudge Energy bar",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b0a8e115-f13d-460c-8ae4-7e26e1d3fbb8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1125bcb0-d53c-4922-bc49-b28fc0961fa6-17FY7Pr11cExPdoufvcj8CHTqttK6k2yX.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1125bcb0-d53c-4922-bc49-b28fc0961fa6-1qttYa1Ub8gH439KHzB2uNsejjjmYqMD_.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1125bcb0-d53c-4922-bc49-b28fc0961fa6-18UDlb43dcScAuWkr3x9cHl2ORstetI8d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1125bcb0-d53c-4922-bc49-b28fc0961fa6-1dzoeMYnAyZMqA4Nv6vdIB31BTTJnatnN.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 65.0,
+        "unit_level_price": 65.0,
+        "quantity": "40 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1125bcb0-d53c-4922-bc49-b28fc0961fa6",
+        "id": "1125bcb0-d53c-4922-bc49-b28fc0961fa6",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1125bcb0-d53c-4922-bc49-b28fc0961fa6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39b51abc-d451-437c-a008-38b0eb290e8e",
+        "name": "The Whole Truth 55% Dark Chocolate",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f09f1383-c122-4fe1-a60b-f42da3c30569.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5076cc7d-2a2b-4fb9-b912-e2a12c295a1b-15Cqn2q1hKt49LUx6vd-INLM02n_AMrDa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5076cc7d-2a2b-4fb9-b912-e2a12c295a1b-1Lze3bwI2AVschoK-QIT4hSI6qUmTQIu_.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5076cc7d-2a2b-4fb9-b912-e2a12c295a1b-1deWAeVFw0Agv_IH4q--aZqpN1Mdeps_J.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5076cc7d-2a2b-4fb9-b912-e2a12c295a1b-1rkXDaFIEofHiEUWSllgfgwQ9g0kqUOX4.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 343.0,
+        "unit_level_price": 343.0,
+        "quantity": "80 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5076cc7d-2a2b-4fb9-b912-e2a12c295a1b",
+        "id": "5076cc7d-2a2b-4fb9-b912-e2a12c295a1b",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "5076cc7d-2a2b-4fb9-b912-e2a12c295a1b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11275",
+        "name": "DMart Premia Tej Patta ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000303xx14NOV21_5_P.jpg"
+        ],
+        "mrp": 32,
+        "offer_price": 24,
+        "unit_level_price": "(\u20b9 0.48 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-tej-patta?selectedProd=11275",
+        "id": "15156",
+        "parentIndex": 30,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15156"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19006",
+        "name": "DMart Premia Dhaniya ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000436xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 141,
+        "offer_price": 103,
+        "unit_level_price": "(\u20b9 0.26 / 1 gm)",
+        "quantity": "400 g",
+        "deeplink": "https://www.dmart.in/product/premia-dhaniya?selectedProd=19006",
+        "id": "15143",
+        "parentIndex": 32,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15143"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11282",
+        "name": "DMart Premia Amsul Wet Kokam ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000310xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 158,
+        "offer_price": 116,
+        "unit_level_price": "(\u20b9 0.58 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-kokam?selectedProd=11282",
+        "id": "15152",
+        "parentIndex": 33,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15152"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "22002",
+        "name": "DMart Premia Lawang ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000435xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 113,
+        "offer_price": 84,
+        "unit_level_price": "(\u20b9 1.68 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-lawang?selectedProd=22002",
+        "id": "15159",
+        "parentIndex": 35,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15159"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19012",
+        "name": "DMart Premia Rai Small ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000464xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 69,
+        "offer_price": 51,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-rai-small?selectedProd=19012",
+        "id": "15162",
+        "parentIndex": 38,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15162"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11253",
+        "name": "DMart Premia Chilli Kashmiri ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000280xx30JUN22_5_P.jpg"
+        ],
+        "mrp": 96,
+        "offer_price": 71,
+        "unit_level_price": "(\u20b9 0.71 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-kashmiri-chilli?selectedProd=11253",
+        "id": "15150",
+        "parentIndex": 39,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15150"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11288",
+        "name": "DMart Premia Alsi ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000316xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 18,
+        "offer_price": 14,
+        "unit_level_price": "(\u20b9 0.14 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-alsi?selectedProd=11288",
+        "id": "15170",
+        "parentIndex": 40,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15170"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18605",
+        "name": "DMart Premia Jaipatri (Mace) ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000458xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 160,
+        "offer_price": 118,
+        "unit_level_price": "(\u20b9 5.90 / 1 gm)",
+        "quantity": "20 g",
+        "deeplink": "https://www.dmart.in/product/premia-jaipatri?selectedProd=18605",
+        "id": "18604",
+        "parentIndex": 41,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18604"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "17506",
+        "name": "DMart Premia Dry Coconut ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000408xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 245,
+        "offer_price": 182,
+        "unit_level_price": "(\u20b9 0.36 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-dry-coconut?selectedProd=17506",
+        "id": "15145",
+        "parentIndex": 43,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15145"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11257",
+        "name": "DMart Premia Kasoori Methi ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000284xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 86,
+        "offer_price": 66,
+        "unit_level_price": "(\u20b9 0.66 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-kasoori-methi?selectedProd=11257",
+        "id": "15151",
+        "parentIndex": 44,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15151"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11251",
+        "name": "DMart Premia Lukhnowi Badishep ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110000278xx12JAN22_5_P.jpg"
+        ],
+        "mrp": 78,
+        "offer_price": 55,
+        "unit_level_price": "(\u20b9 0.55 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-lukhnowi-badishep?selectedProd=11251",
+        "id": "15168",
+        "parentIndex": 45,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15168"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18622",
+        "name": "DMart Premia Kalvanji ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000475xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 37,
+        "unit_level_price": "(\u20b9 0.37 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-kalvanji?selectedProd=18622",
+        "id": "18621",
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18621"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "17510",
+        "name": "DMart Premia Green Elaichi ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000412xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 326,
+        "offer_price": 214,
+        "unit_level_price": "(\u20b9 4.28 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-green-elaichi?selectedProd=17510",
+        "id": "15158",
+        "parentIndex": 49,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15158"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11285",
+        "name": "DMart Premia Sabja (Basil Seeds) ",
+        "brand": "DMart Premia",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000313xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 39,
+        "offer_price": 29,
+        "unit_level_price": "(\u20b9 0.29 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-sabja?selectedProd=11285",
+        "id": "15154",
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15154"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18616",
+        "name": "DMart Premia Til Black ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000469xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 74,
+        "offer_price": 55,
+        "unit_level_price": "(\u20b9 0.55 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-till-black?selectedProd=18616",
+        "id": "18615",
+        "parentIndex": 51,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18615"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "20503",
+        "name": "DMart Premia Badishep ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000451xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 246,
+        "offer_price": 181,
+        "unit_level_price": "(\u20b9 0.36 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-badishep?selectedProd=20503",
+        "id": "15137",
+        "parentIndex": 54,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15137"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19005",
+        "name": "DMart Premia Emli ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110000432xx23MAY22_5_P.jpg"
+        ],
+        "mrp": 161,
+        "offer_price": 119,
+        "unit_level_price": "(\u20b9 0.24 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-emli?selectedProd=19005",
+        "id": "15146",
+        "parentIndex": 56,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15146"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11250",
+        "name": "DMart Premia Green Elaichi Economy ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000277xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 58,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 4.00 / 1 gm)",
+        "quantity": "10 g",
+        "deeplink": "https://www.dmart.in/product/premia-green-elaichi-economy?selectedProd=11250",
+        "id": "15147",
+        "parentIndex": 57,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15147"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "687502",
+        "name": "DMart Premia Black Pepper ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110001418xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 317,
+        "offer_price": 230,
+        "unit_level_price": "(\u20b9 1.15 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/premia-black-pepper?selectedProd=687502",
+        "id": "15140",
+        "parentIndex": 60,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15140"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11263",
+        "name": "DMart Premia Bedgi Chilli ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000291xx11NOV21_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 48,
+        "unit_level_price": "(\u20b9 0.48 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-bedgi-chilli?selectedProd=11263",
+        "id": "15139",
+        "parentIndex": 61,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15139"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "20501",
+        "name": "DMart Premia Jeera ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000419xx25NOV21_5_P.jpg"
+        ],
+        "mrp": 232,
+        "offer_price": 166,
+        "unit_level_price": "(\u20b9 0.33 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-jeera?selectedProd=20501",
+        "id": "15149",
+        "parentIndex": 64,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15149"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19010",
+        "name": "DMart Premia Rai ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000450xx26NOV21_5_P.jpg"
+        ],
+        "mrp": 61,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.09 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-rai?selectedProd=19010",
+        "id": "15153",
+        "parentIndex": 67,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15153"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "922004",
+        "name": "DMart Premia Khas Khas ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110003287xx24MAY22_5_P.jpg"
+        ],
+        "mrp": 102,
+        "offer_price": 76,
+        "unit_level_price": "(\u20b9 1.52 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/premia-khaskhas?selectedProd=922004",
+        "id": "15090",
+        "parentIndex": 69,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15090"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1693526",
+        "name": "DMart Swaad Urad Whole White ",
+        "brand": "DMart Swaad",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110004838xx14FEB25_5_P.jpg"
+        ],
+        "mrp": 148,
+        "offer_price": 118,
+        "unit_level_price": "(\u20b9 0.12 / 1 g)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/dmart-swaad-urad-whole-white-purad6xx14225?selectedProd=1693526",
+        "id": "1697525",
+        "parentIndex": 70,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1697525"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1389050",
+        "name": "DMart Premia Moong Whole Small ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP110004119xx19SEP23_5_P.jpg"
+        ],
+        "mrp": 91,
+        "offer_price": 67,
+        "unit_level_price": "(\u20b9 0.13 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-moon-pwolpulse0prem5xx200923?selectedProd=1389050",
+        "id": "1388576",
+        "parentIndex": 71,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1388576"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1389036",
+        "name": "DMart Premia Masoor Whole ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110004105xx20JAN24_5_P.jpg"
+        ],
+        "mrp": 127,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 0.10 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/dmart-premia-masoor-whole-pwolpulse0prem75xx200923?selectedProd=1389036",
+        "id": "1388562",
+        "parentIndex": 73,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1388562"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1389052",
+        "name": "DMart Premia Moong Whole ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP110004121xx19SEP23_5_P.jpg"
+        ],
+        "mrp": 107,
+        "offer_price": 77,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-moon-pwolpulse0prem7xx200923?selectedProd=1389052",
+        "id": "1388577",
+        "parentIndex": 75,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1388577"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "815001",
+        "name": "Kissan Peanut Butter Creamy ",
+        "brand": "Kissan",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120004690xx29FEB24_5_P.jpg"
+        ],
+        "mrp": 175,
+        "offer_price": 155,
+        "unit_level_price": "(\u20b9 0.44 / 1 gm)",
+        "quantity": "350 g",
+        "deeplink": "https://www.dmart.in/product/kissan-peanut-butter-creamy-pspreads0kiss3xx140721?selectedProd=815001",
+        "id": "885028",
+        "parentIndex": 76,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "885028"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "644003",
+        "name": "Royal Peanut Chikki ",
+        "brand": "Royal",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120001970xx06DEC23_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 20,
+        "unit_level_price": "(\u20b9 0.21 / 1 gm)",
+        "quantity": "96 g",
+        "deeplink": "https://www.dmart.in/product/royal-peanut-chikki-ppetha0roya47xx140120?selectedProd=644003",
+        "id": "634594",
+        "parentIndex": 77,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "634594"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1239505",
+        "name": "Taali Roasted Peanuts - Salted ",
+        "brand": "Taali",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120006046xx12JAN23_5_P.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.27 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/taali-roasted-peanuts---salted-pmsalanut0taal1xx120123?selectedProd=1239505",
+        "id": "1240003",
+        "parentIndex": 78,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1240003"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1239507",
+        "name": "Taali Roasted Peanuts - Nimboo Pudina ",
+        "brand": "Taali",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120006048xx15JAN24_5_P.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.29 / 1 gm)",
+        "quantity": "140 g",
+        "deeplink": "https://www.dmart.in/product/taali-roasted-peanuts---nimboo-pudina-pmsalanut0taal5xx120123?selectedProd=1239507",
+        "id": "1240005",
+        "parentIndex": 79,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1240005"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1239508",
+        "name": "Taali Roasted Peanuts - Masala ",
+        "brand": "Taali",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120006049xx12JAN23_5_P.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 50,
+        "unit_level_price": "(\u20b9 0.36 / 1 gm)",
+        "quantity": "140 g",
+        "deeplink": "https://www.dmart.in/product/taali-roasted-peanuts---masala-pmsalanut0taal7xx120123?selectedProd=1239508",
+        "id": "1240006",
+        "parentIndex": 80,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1240006"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "38001",
+        "name": "Satyam Garam Masala Whole ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JWholeSpices100gmSTYM608xx205021_5_P.jpg"
+        ],
+        "mrp": 156,
+        "offer_price": 104,
+        "unit_level_price": "(\u20b9 1.04 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/satyam-garam-masala-whole?selectedProd=38001",
+        "id": "45622",
+        "parentIndex": 81,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45622"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "264502",
+        "name": "Dr. Oetker FunFoods Peanut Butter Crunchy ",
+        "brand": "FunFoods",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120001060xx23AUG24_5_P.jpg"
+        ],
+        "mrp": 139,
+        "offer_price": 129,
+        "unit_level_price": "(\u20b9 0.34 / 1 gm)",
+        "quantity": "375 g",
+        "deeplink": "https://www.dmart.in/product/funfoods-peanut-butter-crunchy-pspreads0dr9xx140723?selectedProd=264502",
+        "id": "1358026",
+        "parentIndex": 82,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1358026"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "264503",
+        "name": "Dr. Oetker FunFoods Peanut Butter Creamy ",
+        "brand": "FunFoods",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120001061xx23AUG24_5_P.jpg"
+        ],
+        "mrp": 139,
+        "offer_price": 129,
+        "unit_level_price": "(\u20b9 0.34 / 1 gm)",
+        "quantity": "375 g",
+        "deeplink": "https://www.dmart.in/product/funfoods-peanut-butter-creamy-pspreads0dr11xx140723?selectedProd=264503",
+        "id": "1358027",
+        "parentIndex": 83,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1358027"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "901503",
+        "name": "Kissan Crunchy Peanut Butter ",
+        "brand": "Kissan",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120005119xx29FEB24_5_P.jpg"
+        ],
+        "mrp": 175,
+        "offer_price": 156,
+        "unit_level_price": "(\u20b9 0.45 / 1 gm)",
+        "quantity": "350 g",
+        "deeplink": "https://www.dmart.in/product/kissan-crunchy-peanut-butter-pspreads0kiss5xx90921?selectedProd=901503",
+        "id": "908509",
+        "parentIndex": 84,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "908509"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713353",
+        "name": "Shree Rajgira Peanut Chikki ",
+        "brand": "Shree",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY120002322xx18MAY22_5_P.jpg"
+        ],
+        "mrp": 44,
+        "offer_price": 22,
+        "unit_level_price": "(\u20b9 0.24 / 1 gm)",
+        "quantity": "90 g",
+        "deeplink": "https://www.dmart.in/product/shree-rajgira-peanut-chikki-ppetha0shre11xx90520?selectedProd=713353",
+        "id": "714930",
+        "parentIndex": 85,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714930"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713352",
+        "name": "Shree Peanut Chikki ",
+        "brand": "Shree",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY120002321xx18MAY22_5_P.jpg"
+        ],
+        "mrp": 44,
+        "offer_price": 22,
+        "unit_level_price": "(\u20b9 0.22 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/shree-peanut-chikki-ppetha0shre9xx90520?selectedProd=713352",
+        "id": "714929",
+        "parentIndex": 86,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "714929"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "40002",
+        "name": "Satyam Masoor Whole ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JWholePulses500gmSTYM570xx205021_5_P.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 79,
+        "unit_level_price": "(\u20b9 0.16 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/satyam-masoor-whole?selectedProd=40002",
+        "id": "45603",
+        "parentIndex": 87,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45603"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "251505",
+        "name": "24 Mantra Organic Green Moong Whole ",
+        "brand": "24 Mantra Organic",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001000xx2JUN23_5_P.jpg"
+        ],
+        "mrp": 125,
+        "offer_price": 116,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/24-mantra-organic-green-moong-whole-pdalsnpulsesmntr6xx270218?selectedProd=251505",
+        "id": "237579",
+        "parentIndex": 88,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "237579"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "40003",
+        "name": "Satyam Moong Whole ",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JWholePulses500gmSTYM572xx205021_5_P.jpg"
+        ],
+        "mrp": 129,
+        "offer_price": 109,
+        "unit_level_price": "(\u20b9 0.22 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/satyam-moong-whole?selectedProd=40003",
+        "id": "45604",
+        "parentIndex": 89,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45604"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "737503",
+        "name": "Tata Sampann Unpolished Urad Whole ",
+        "brand": "Tata Sampann",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110002393xx26FEB23_5_P.jpg"
+        ],
+        "mrp": 118,
+        "offer_price": 96,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-unpolished-urad-whole-puraddal0tata61xx50620?selectedProd=737503",
+        "id": "736859",
+        "parentIndex": 90,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "736859"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1675023",
+        "name": "Tata Sampann California Almonds Whole ",
+        "brand": "Tata Sampann",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004705xx30DEC24_5_P.jpg"
+        ],
+        "mrp": 332,
+        "offer_price": 274,
+        "unit_level_price": "(\u20b9 1.37 / 1 g)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-california-almonds-whole-palmonds8xx311224?selectedProd=1675023",
+        "id": "1679598",
+        "parentIndex": 91,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1679598"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1675024",
+        "name": "Tata Sampann Premium Cashews Whole ",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004706xx30DEC24_5_P.jpg"
+        ],
+        "mrp": 315,
+        "offer_price": 249,
+        "unit_level_price": "(\u20b9 1.25 / 1 g)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-premium-cashews-whole-pcashews9xx311224?selectedProd=1675024",
+        "id": "1679599",
+        "parentIndex": 92,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1679599"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1583523",
+        "name": "Yu Whole Wheat Noodles ",
+        "brand": "Yu",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120007099xx3JUN24_5_P.jpg"
+        ],
+        "mrp": 180,
+        "offer_price": 90,
+        "unit_level_price": "(\u20b9 0.15 / 1 gm)",
+        "quantity": "600 g",
+        "deeplink": "https://www.dmart.in/product/yu-whole-wheat-noodles-pnoodles0yu3xx30624?selectedProd=1583523",
+        "id": "1582289",
+        "parentIndex": 94,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1582289"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1614028",
+        "name": "The Health Factory Zero Maida Bread 100% Whole Wheat ",
+        "brand": "The Health Factory",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120007252xx8AUG24_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 58,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "350 g",
+        "deeplink": "https://www.dmart.in/product/the-health-factory-zero-maida-bread-100-whole-wheat-pbread21xx80824?selectedProd=1614028",
+        "id": "1615027",
+        "parentIndex": 95,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1615027"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "556507",
+        "name": "RiteBite Peanut Butter Snack Bar ",
+        "brand": "Rite Bite",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LHLTHSUPL40gmRite24xx80819_5_P.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 33,
+        "unit_level_price": "(\u20b9 0.82 / 1 gm)",
+        "quantity": "40 g",
+        "deeplink": "https://www.dmart.in/product/ritebite-peanut-butter-snack-bar-phlthsupl0rite23xx80819?selectedProd=556507",
+        "id": "552065",
+        "parentIndex": 96,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "552065"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "963502",
+        "name": "Mahalaxmi Pista Peanut Chikki ",
+        "brand": "Mahalaxmi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120005306xx22FEB23_5_P.jpg"
+        ],
+        "mrp": 320,
+        "offer_price": 160,
+        "unit_level_price": "(\u20b9 0.32 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/mahalaxmi-pista-peanut-chikki-ptea0maha3xx131221?selectedProd=963502",
+        "id": "965013",
+        "parentIndex": 97,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "965013"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1197501",
+        "name": "Mahalaxmi Peanut Chikki ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120005960xx22FEB23_5_P.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 42,
+        "unit_level_price": "(\u20b9 0.21 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/mahalaxmi-peanut-chikki-ppetha0maha1xx151122?selectedProd=1197501",
+        "id": "1200503",
+        "parentIndex": 98,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1200503"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "768501",
+        "name": "Britannia Whole Wheat Bread ",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG120001471xx8AUG24_5_P.jpg"
+        ],
+        "mrp": 55,
+        "offer_price": 48,
+        "unit_level_price": "(\u20b9 0.12 / 1 gm)",
+        "quantity": "400 g",
+        "deeplink": "https://www.dmart.in/product/britannia-whole-wheat-bread-pbread0brit17xx200324?selectedProd=768501",
+        "id": "1545558",
+        "parentIndex": 99,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1545558"
+        ]
+      }
+    ]
+  }
+]

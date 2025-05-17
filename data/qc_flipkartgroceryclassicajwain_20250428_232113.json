@@ -1,0 +1,2145 @@
+[
+  {
+    "data": [
+      {
+        "xid": "831753b2-5436-4675-bb24-16b0c9859431",
+        "name": "Popular Essentials Classic Sona Masuri Rice",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37d64f1e-ce90-4d45-a060-95799505d357.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1onjruDdvVG1xwS3VoQr1RQG9S-f94Z0o.jpeg"
+        ],
+        "mrp": 530.0,
+        "offer_price": 426.0,
+        "unit_level_price": 426.0,
+        "quantity": "5 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d257dc9b-04f2-419b-bf60-ce321355a01c",
+        "id": "d257dc9b-04f2-419b-bf60-ce321355a01c",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d257dc9b-04f2-419b-bf60-ce321355a01c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 475635,
+        "name": "Natureland Carom Organic Ajwain Seeds",
+        "brand": "Natureland",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d4f76b0e-bc31-4616-b6d0-e553d454699e.jpg?ts=1733805399",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/897d8dd7-521d-4357-bd5b-cdf40e02f225.jpg?ts=1705649371",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1d079867-54f1-4c97-85ef-b2ab91024653.jpg?ts=1705649371",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c2d3daa8-e74e-48fe-8aa3-50765912aa68.jpg?ts=1705649371",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/12ebda17-785c-45a4-93de-e1672a815869.jpg?ts=1705649371",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/83fb648b-be94-4e34-a913-705d9e2fecb7.jpg?ts=1705649371"
+        ],
+        "mrp": 90,
+        "offer_price": 73,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/475635",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          475635
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "605379345",
+        "name": "JIGSHTIAL Flipkart SmartBuy Clear Glass Water Jug with Lid 1.1 L",
+        "brand": "JIGSHTIAL",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgkqxwcvx/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l-product-images-orvgkqxwcvx-p605379345-0-202310020527.jpg"
+        ],
+        "mrp": 999,
+        "offer_price": 459,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l/605379345",
+        "id": "605379345",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "605379345"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40005958",
+        "name": "Paneer - Classic Block",
+        "brand": "Gowardhan",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40005958_2-gowardhan-fresh-paneer-classic-block.jpg"
+        ],
+        "mrp": "105",
+        "offer_price": "89",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40005958",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40005958"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6216b98c-1635-4f46-a2a9-270fb900b202",
+        "name": "Absorbia Moisture Absorber | Absorbia Classic | Season Pack of 6 | Absorbing Capacity - 600Ml Each",
+        "brand": "Absorbia",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b4110754-a792-4745-955a-5fc0a1a5557b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b72701fb-b6a2-4475-8c06-07ccc5522b7d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/77e3d62f-6577-4962-a685-709eebf85910.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/925fccd1-aa7a-4382-b89b-7bb23a08deb8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ca2f070-4766-4b47-beed-640ee7abf169.jpg"
+        ],
+        "mrp": 1374.0,
+        "offer_price": 999.0,
+        "unit_level_price": 999.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/857d1f55-c29b-4d4c-9191-f30b824d408b",
+        "id": "857d1f55-c29b-4d4c-9191-f30b824d408b",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "857d1f55-c29b-4d4c-9191-f30b824d408b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525529,
+        "name": "Whole Farm Premium Ajwain Seeds",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525529a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2ce7d201-20ec-46e5-bbaa-c334abcb8e22.jpg?ts=1743764627",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525529c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525529d.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 42,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525529",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525529
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8a9f9854-8825-4065-93e3-0fbcc530801b",
+        "name": "Parle Monaco Classic Salty Biscuits 696 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/672c694c-8660-45b0-97c5-1dd2d2c4a7da.jpg"
+        ],
+        "mrp": 450.0,
+        "offer_price": 333.0,
+        "unit_level_price": 333.0,
+        "quantity": "696 g X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b91ed3ea-b16f-464a-a408-cd18a3e41055",
+        "id": "b91ed3ea-b16f-464a-a408-cd18a3e41055",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b91ed3ea-b16f-464a-a408-cd18a3e41055"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 588847,
+        "name": "On1y Ajwain Seeds",
+        "brand": "On1y",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc2d2815-1ee8-46ac-9cae-b7289b1979e9.jpg?ts=1733113524",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b3923f1-d137-4ee2-81d3-6fbc03d016da.jpg?ts=1733113524",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c262e1f2-4367-44ae-bbf6-7e534dec5d33.jpg?ts=1733113524",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/42ff3bc8-8ffe-46c0-8a4b-676204e71454.jpg?ts=1733113525",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/793d680b-06cd-4a9b-b474-3f1b27a4d59b.jpg?ts=1733113525"
+        ],
+        "mrp": 79,
+        "offer_price": 66,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/588847",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          588847
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "785f41bc-e3bd-4b8f-bd35-5d1f1efac855",
+        "name": "Classic Har Cricket Bat | Plastic | Full Size",
+        "brand": "Classic Distributor",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fdeb89c9-cbb7-4ee6-80d0-fa4f08465876.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/92d12225-7236-4e81-88dc-f367d6b343c3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aabbc057-5ad6-4b0e-aed4-a55190a5629a.jpg"
+        ],
+        "mrp": 799.0,
+        "offer_price": 378.0,
+        "unit_level_price": 378.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/254dbbc8-5590-4978-80c4-e149f6c7120e",
+        "id": "254dbbc8-5590-4978-80c4-e149f6c7120e",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "254dbbc8-5590-4978-80c4-e149f6c7120e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 541264,
+        "name": "Aashirvaad Pure Whole Ajwain Seeds",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ce5f4c8-aa63-48d8-b775-9cc4ae652fc8.jpg?ts=1740738878",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fce63c4d-0be6-4512-a7ef-872c9bdb228c.jpg?ts=1736332289",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2b94b4fb-da9f-4eb2-be3b-3ade96a3b8cc.jpg?ts=1736332289",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b2018d42-dad9-45fb-926c-b711aa119bf9.jpg?ts=1736332290",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ee030836-1aab-4641-832c-485bbd13decb.jpg?ts=1736332290",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/747f2f6a-4f57-42ae-be2e-c3af0e51bda9.jpg?ts=1736332290",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/91c84703-3e15-4ace-bad4-e6d35eb6fea5.jpg?ts=1736332291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/79bfb098-bcd7-4c2a-912e-4d3c625408f6.jpg?ts=1736332291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/387cf58b-86e5-4dc1-91ec-eaf55b3abf66.jpg?ts=1736332291",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bbc470de-57f2-4fe6-8d04-0639e9546e8a.jpg?ts=1736332292",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/32d9610a-e97d-405a-8663-045b5f4aa3c7.jpg?ts=1736332292",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/94278e8a-4ffc-48b9-8c0c-d01043599c45.jpg?ts=1736332292",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/81814ef2-45be-4970-ae0c-257c3ac1b6ab.jpg?ts=1736332292"
+        ],
+        "mrp": 55,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/541264",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          541264
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40174323",
+        "name": "Little Hearts Classic Crunch Biscuits",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40174323_17-britannia-little-hearts-biscuits.jpg"
+        ],
+        "mrp": "30",
+        "offer_price": "28.5",
+        "unit_level_price": "",
+        "quantity": "70 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40174323",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40174323"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b1ea50fe-70fc-4e51-ac7c-2dc7b09ab15b",
+        "name": "Friends Classic Adult Diaper (Pants, M ,76-142 cm)",
+        "brand": "Friends",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9b8fab3f-810d-4685-9004-bc061b20d10c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31db2746-9b5e-423d-9ec1-5a2ce2dd64be.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d73fbd7f-f5ff-4994-a29d-856cdc0af577.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a569591f-a15e-4986-8074-e22daeb1e1f2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/39d76270-83ce-43b0-96c6-7ae7c8ed8cd6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d7ed9035-c613-4441-bd06-3a298bf2e0ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f179b60e-ea15-46f2-aa4e-cd6babc4260d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2045b4a9-d569-4b96-a9b6-23e437fc5c9a.jpeg"
+        ],
+        "mrp": 550.0,
+        "offer_price": 293.0,
+        "unit_level_price": 293.0,
+        "quantity": "10 pcs",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/04d3141c-6a68-41dc-9a0d-ab46a617b022",
+        "id": "04d3141c-6a68-41dc-9a0d-ab46a617b022",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "04d3141c-6a68-41dc-9a0d-ab46a617b022"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 109190,
+        "name": "JK Ajwain Seeds",
+        "brand": "JK",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/508326d6-eb79-453a-b4ab-55e8c61e5bf0.jpg?ts=1708413094",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/441789b4-9441-43d9-9b27-e58161ea9487.jpg?ts=1708413094",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5252b1fa-3756-43a1-b5a6-9b9fe3e76b5d.jpg?ts=1708413094",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0a6682db-4e61-4f2b-a40f-cbf536b3dad3.jpg?ts=1708413094",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eddc84e4-ccc5-441a-9e0b-727bc92f2113.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 57,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/109190",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          109190
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8990e8ca-01f1-436e-921d-a68228b48d3c",
+        "name": "Gillette Shave Foam - Classic Regular Skin",
+        "brand": "Gillette",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2845d8b5-2d46-46ec-a17c-4c1d409fcca9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6ae133f7-29f8-4508-b5e7-af115889d83c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8a62aeac-181a-4cfa-b5be-7f1c135b5acb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/71adf414-d35d-484b-9852-8b3440894ce3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0915c7c9-c4aa-4802-beb5-84d055f57fea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c23d640b-ccc0-4589-8dd2-774d234072d5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d85f9df5-d26f-4490-9381-b8ec0a4c0d74.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3dfa0bb0-429a-4b94-b3d6-1f6b62af3565.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/573a09bc-d716-4401-9193-effd9b414777.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddc5f496-ed86-421b-82e9-00eadf83e231.jpeg"
+        ],
+        "mrp": 249.0,
+        "offer_price": 237.0,
+        "unit_level_price": 237.0,
+        "quantity": "418 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/84cb5504-da16-499d-8c16-81c290e68759",
+        "id": "84cb5504-da16-499d-8c16-81c290e68759",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "84cb5504-da16-499d-8c16-81c290e68759"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528751,
+        "name": "Whole Farm Grocery Nakul Dana / Elaichi Dana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/26fc15eb-41b1-422e-b7bb-a6a690493bf6.jpg?ts=1725341822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7909305-ccdb-42f7-8349-f0a32fcb9698.jpg?ts=1743766979",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/288f89c5-cef9-47be-989d-7f83978b8b34.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f640691b-9e73-401f-8e71-8e723d2e4087.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/647a3daf-912d-4294-89d3-dcf1efc563a0.jpg?ts=1725341822"
+        ],
+        "mrp": 39,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528751",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528751
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "939d32c2-6e45-4402-94f1-3f11e4a639cf",
+        "name": "Davidoff Classic Medium Roast Instant Coffee",
+        "brand": "Davidoff",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a97dc9c7-e535-49eb-8c33-837f74dfdbc1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/185d4f8b-5b81-4b77-800b-c6966b7492e5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e193bb40-ca11-41f7-a79a-75ec49b46aa8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9dd60ae-dc8f-4212-9424-8ddc051bc6c3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/51cd1648-4b20-4b4b-b9b7-34557b7c47b6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4e019a18-5474-47b5-b7bb-85114d30648b.jpeg"
+        ],
+        "mrp": 749.0,
+        "offer_price": 637.0,
+        "unit_level_price": 637.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/57a29b86-86d6-4f86-8beb-761653b459d4",
+        "id": "57a29b86-86d6-4f86-8beb-761653b459d4",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "57a29b86-86d6-4f86-8beb-761653b459d4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 52117,
+        "name": "Catch Ajwain Seeds",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f7253777-25cd-4d50-bf84-83485b07d352.jpg?ts=1708592516",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117b.jpg?ts=1640926044",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117c.jpg?ts=1640926044",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117d.jpg?ts=1640926044",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117e.jpg?ts=1640926044",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117f.jpg?ts=1640926044",
+          "https://cdn.grofers.com/app/images/products/sliding_image/52117g.jpg?ts=1650950724"
+        ],
+        "mrp": 100,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/52117",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          52117
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "178e8dd9-6b9e-4277-b15a-d37fd01b3fa6",
+        "name": "Pfc FOODs Plant Based Classic Chicken Nuggets",
+        "brand": "Pfc Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2f765f93-b4ac-4314-8a25-6c4a9e68ec2c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4b8544be-f050-4cd6-b639-15b8dafc6a7f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/899f1373-75d5-43e1-84a8-02545e15e750.jpg"
+        ],
+        "mrp": 350.0,
+        "offer_price": 301.0,
+        "unit_level_price": 301.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1dcc28ce-3c79-485e-969e-a4192a0bae10",
+        "id": "1dcc28ce-3c79-485e-969e-a4192a0bae10",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1dcc28ce-3c79-485e-969e-a4192a0bae10"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40002632",
+        "name": "Organic Seeds - Ajwain/Ova",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40002632_9-organic-tattva-organic-seeds-ajwain.jpg"
+        ],
+        "mrp": "90",
+        "offer_price": "67.5",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40002632",
+        "rank": 18,
+        "is_ad": false,
+        "parentIndex": 63,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40002632"
+        ]
+      },
+      {
+        "id": 81292,
+        "name": "Organic Tattva Organic Ajwain Seeds",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/81292a.jpg?ts=1698927190",
+          "https://cdn.grofers.com/app/images/products/sliding_image/81292b.jpg?ts=1698927190",
+          "https://cdn.grofers.com/app/images/products/sliding_image/81292c.jpg?ts=1698927190",
+          "https://cdn.grofers.com/app/images/products/sliding_image/81292d.jpg?ts=1698927190"
+        ],
+        "mrp": 90,
+        "offer_price": 79,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/81292",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          81292
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "76c407c7-b89c-4a58-b132-419bfc21a93d",
+        "name": "Classic Classic Scoop Wooden Bat No 5",
+        "brand": "Classic Distributor",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/72fa5a35-8fe8-478d-b360-d4883271bbbe.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e36a3e7-b75d-405e-9f8b-f03c14bd67c7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dd2bc119-9e24-46df-8e03-2f511341d65e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/13a718c2-e7d1-42b3-b8e0-18162ae7dc6b.jpeg"
+        ],
+        "mrp": 899.0,
+        "offer_price": 542.0,
+        "unit_level_price": 542.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b210a182-ac8b-4bf5-a712-8a92c382cea4",
+        "id": "b210a182-ac8b-4bf5-a712-8a92c382cea4",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b210a182-ac8b-4bf5-a712-8a92c382cea4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 530700,
+        "name": "Orika Neemuch Ajwain Seeds",
+        "brand": "Orika",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6bff844d-e110-4ee1-8a4b-c89e5b5f71de.jpg?ts=1740141601",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3ab46b4-4204-4070-ac42-ff35df7055dd.jpg?ts=1740141602",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1db600dc-8332-4a27-8933-0534d1aee378.jpg?ts=1740141603",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/71bee529-1c81-41fc-92fa-b757f9adca08.jpg?ts=1740141603",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/341f108a-3a86-4bf7-81a8-6517fa73a095.jpg?ts=1740141604",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/10405616-df1e-4170-8d1d-fc4036414d57.jpg?ts=1740141604",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9565240d-8320-4500-80c5-79f463ed1860.jpg?ts=1740141605",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7292a9e0-6834-4571-9d83-589e1e473566.jpg?ts=1740141606",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9495455d-4802-44ee-a9ed-1fad67eabe72.jpg?ts=1740141606",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0644032a-9573-4952-996b-fa28139f0d77.jpg?ts=1740141607",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f202c37c-8793-4104-8e16-f881d45ef274.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 46,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530700",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          530700
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bd25e0dd-5de0-403f-b3bc-9eec7d4d4ef8",
+        "name": "Go Desi Kaju Katli Classic 200 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/60878101-5464-4265-9bd1-00c7482dcd24.jpg"
+        ],
+        "mrp": 470.0,
+        "offer_price": 382.0,
+        "unit_level_price": 382.0,
+        "quantity": "200 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1a710e79-e376-4db7-bf18-4c0f3fcc6f46",
+        "id": "1a710e79-e376-4db7-bf18-4c0f3fcc6f46",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1a710e79-e376-4db7-bf18-4c0f3fcc6f46"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40204986",
+        "name": "Monaco Classic Regular Salted Biscuits",
+        "brand": "Parle",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40204986_5-parle-monaco-classic.jpg"
+        ],
+        "mrp": "80",
+        "offer_price": "72",
+        "unit_level_price": "",
+        "quantity": "371.2 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40204986",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40204986"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1e74c197-a55b-4624-b5f1-7a0abc9be539",
+        "name": "Yardley London Gentleman Classic Deodorizing Talc",
+        "brand": "Yardley London",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/caa36d94-7e9a-4ecf-b7b1-c5adefe04d75.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1fcd4843-e7c8-4bf2-b57e-4f8ebcc5832f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2e85f344-b28c-4d09-a2ef-60d95b8a644e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/55c1ab54-ebbe-450c-b32a-4c28f7bfa7af.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d8df30d0-6c00-4d0a-9165-804d32e39fce.jpg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 225.0,
+        "unit_level_price": 225.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ec29b163-69ad-4261-be42-141af17df8a8",
+        "id": "ec29b163-69ad-4261-be42-141af17df8a8",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ec29b163-69ad-4261-be42-141af17df8a8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b19ffed5-177e-4e64-98f2-1462c5f026d5",
+        "name": "Ritebite Max Protein Unsweetened Classic Crunchy Peanut Butter Spread",
+        "brand": "Max Protein",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/04568904-050b-4e03-8374-8e59038eaf1d-/tmp/20230823-0924581.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/dcd73dec-1c84-4d07-a314-698617589326-/tmp/20230823-0924592.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/88afe9da-0107-4750-b338-04b6855b550f-/tmp/20230823-0925003.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/b1cc4c86-3458-4750-bba9-8bcb2b3970d1-/tmp/20230823-0925014.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/7daccb7f-1d2c-4c18-89bd-eb7a1e0b6bb7-/tmp/20230823-0925025.jpeg"
+        ],
+        "mrp": 449.0,
+        "offer_price": 414.0,
+        "unit_level_price": 414.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/512c687a-a105-4015-a293-83b0ded86585",
+        "id": "512c687a-a105-4015-a293-83b0ded86585",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "512c687a-a105-4015-a293-83b0ded86585"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "81067d2e-03c2-4dca-acb2-dc3d6055f952",
+        "name": "Hasbro Gaming Game Of Life Classic Version",
+        "brand": "Hasbro Gaming",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/73eb1c91-bb3d-46ab-8fd8-0daf6cf63344.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b856ecf2-caa7-43b6-8e5a-5a5e1acde2cd.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/68048e07-170d-4693-9cf9-28e4aa503d5d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a27a4463-7c0d-4f39-af9a-49e5f0a1774a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0a877d2d-4413-40d5-978f-34b7909cee1e.jpg"
+        ],
+        "mrp": 1699.0,
+        "offer_price": 980.0,
+        "unit_level_price": 980.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/70264122-cd9b-42ea-90a3-562252bc213a",
+        "id": "70264122-cd9b-42ea-90a3-562252bc213a",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "70264122-cd9b-42ea-90a3-562252bc213a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "80f202d6-42c4-4024-a062-f89e0ba9a027",
+        "name": "Maybelline New York Fit Me Matte + Poreless Liquid Foundation With Spf, 120 Classic Ivory",
+        "brand": "Maybelline",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83cbd847-5272-4036-bccf-1d705d2eda3d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b9ce57ee-1437-46de-b823-8776eae1619c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cdad13f5-ee0d-4eb7-b0b4-d8c4a8ccb044.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ba8e640-b774-4351-9159-8e258996e8b0.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ebae152-3641-48f9-a0b0-69c355d2e728.jpg"
+        ],
+        "mrp": 649.0,
+        "offer_price": 555.0,
+        "unit_level_price": 555.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b688e37e-25fd-4572-9db1-eb49645c7d2f",
+        "id": "b688e37e-25fd-4572-9db1-eb49645c7d2f",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b688e37e-25fd-4572-9db1-eb49645c7d2f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "79ac3dfd-c58f-4bc3-abc8-030290383432",
+        "name": "Monopoly Classic Version",
+        "brand": "Monopoly",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8f019b92-e0e6-4bbd-ab03-77c9fe3b4598.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b5b61f04-695e-455c-952f-1ad71b605812.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/50ecc134-a53e-4281-8bc7-e630d1900327.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9f18cc7b-a36a-4eb6-9066-d716fbfe9812.jpg"
+        ],
+        "mrp": 1399.0,
+        "offer_price": 605.0,
+        "unit_level_price": 605.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8436cc5c-59b3-4413-96c7-4aee280b2fff",
+        "id": "8436cc5c-59b3-4413-96c7-4aee280b2fff",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8436cc5c-59b3-4413-96c7-4aee280b2fff"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "da52179a-58c3-4539-831b-a5080d5d44cd",
+        "name": "Nycil Germ Expert Prickly Heat Powder - Classic, (Get 60g Free)",
+        "brand": "Nycil",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c3a158c4-d7cb-4895-9cba-4318428efb9f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37bb16f1-0543-4a56-acad-29ca65c4673c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/03d7cf09-1f92-4dd8-b246-416ea4f37b4f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ebaef37c-ba2d-45a6-9fcf-8bdc5977c32c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9f036298-f88a-4b7d-b61c-38f8facf0618.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ea48476-b62d-405b-936d-3814172232ef.jpeg"
+        ],
+        "mrp": 159.0,
+        "offer_price": 149.0,
+        "unit_level_price": 149.0,
+        "quantity": "150 g + 60 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7499be44-2aef-4b6b-8264-aa9f807482b4",
+        "id": "7499be44-2aef-4b6b-8264-aa9f807482b4",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7499be44-2aef-4b6b-8264-aa9f807482b4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "204002",
+        "name": "Basmati Rice/Basmati Tandul - Classic",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/204002_4-india-gate-basmati-rice-classic.jpg"
+        ],
+        "mrp": "1255",
+        "offer_price": "1136",
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/204002",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "204002"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d9615618-f78f-4afa-b0cc-5196baee82a3",
+        "name": "Monopoly Deluxe Fs Classic",
+        "brand": "Monopoly",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f5a63ea5-a2a8-4471-bb57-4961b8568d73.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5d794e74-d716-4036-a06d-bafbd1260d5e.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2f937233-501b-4b36-af96-108790e48e00.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/264498a8-c053-4cbe-b75b-2d184083a1dc.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31479f61-5ba4-4259-8d0b-7059b00d0629.jpg"
+        ],
+        "mrp": 1999.0,
+        "offer_price": 979.0,
+        "unit_level_price": 979.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0a8bf688-6e0d-4dba-b096-61dbfbfd5dea",
+        "id": "0a8bf688-6e0d-4dba-b096-61dbfbfd5dea",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0a8bf688-6e0d-4dba-b096-61dbfbfd5dea"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0e9c80ad-b98e-4ae5-888b-cfa175599df7",
+        "name": "Rage Coffee Classic Medium Roast Organic Instant Coffee",
+        "brand": "Rage Coffee",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7cf49982-ed64-4bc0-847e-b134c3f11f9f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae189780-cd06-49be-8544-0a65a106eeef.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/edbe6c65-f3ec-4153-9495-5c8bec48e92c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/277f73ac-3405-4376-a281-f7ebfb8e945f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/feda80d4-c8a0-4c4f-a75d-87291f296bec.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b7af73af-0b44-43a2-8306-5f9c5e3daaed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/387f0b4d-cd13-462d-9a44-4b5a27259e0b.jpeg"
+        ],
+        "mrp": 299.0,
+        "offer_price": 276.0,
+        "unit_level_price": 276.0,
+        "quantity": "50 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f2c90bda-723e-4346-a150-d7bb83147381",
+        "id": "f2c90bda-723e-4346-a150-d7bb83147381",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f2c90bda-723e-4346-a150-d7bb83147381"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "959ea152-d482-425c-bb52-df22b0a3190c",
+        "name": "Continental Classic Medium Roast Instant Coffee",
+        "brand": "Continental",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/858db9f6-c158-46a5-8ee1-dd6a51d98682.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4b9b0a19-eb6e-4a06-bc82-5f9c3c3a9797.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e4d9f2f2-cfb0-42e7-8172-bbbec05deda3.jpg"
+        ],
+        "mrp": 359.0,
+        "offer_price": 329.0,
+        "unit_level_price": 329.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d984bd96-a72e-4535-8ca6-d746a46a38b5",
+        "id": "d984bd96-a72e-4535-8ca6-d746a46a38b5",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d984bd96-a72e-4535-8ca6-d746a46a38b5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bab97ec5-d621-4224-950c-de52715e4ae6",
+        "name": "Hasbro Gaming Connect 4 Classic Board Game",
+        "brand": "Hasbro Gaming",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3208d78b-9adb-428c-a739-087fcf2e1c16.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d671fce9-cae6-45c7-84ed-17f438e4f971.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/04d4fff3-3c6a-4161-9d21-0392fe2dbbfb.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/130fb8d0-556d-4c8b-bf37-3f465908795c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0363130b-6d83-4e34-986c-7c13ed563707.jpg"
+        ],
+        "mrp": 1099.0,
+        "offer_price": 849.0,
+        "unit_level_price": 849.0,
+        "quantity": "1 set",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/aa53cd7c-e732-4b90-8a87-48c4638f26fe",
+        "id": "aa53cd7c-e732-4b90-8a87-48c4638f26fe",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "aa53cd7c-e732-4b90-8a87-48c4638f26fe"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40247228",
+        "name": "Instant Coffee",
+        "brand": "BRU",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40247228_2-bru-instant-coffee-chicory-mix-fresh-aromatic-no-preservatives.jpg"
+        ],
+        "mrp": "920",
+        "offer_price": "874",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40247228",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40247228"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d51fa759-590c-4901-901c-6d09212108e9",
+        "name": "Nescafe Classic Light Instant Coffee",
+        "brand": "Nescafe",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f18c087-a70f-4cb7-8eda-b43533ba8ce2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec0cb8bb-451b-4915-8b7c-928ad4fc7789.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/55b04d43-9640-4e0f-b579-242835e84fa7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ded8dea-2f30-4f6b-9212-1a0a4d021f2e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d8792161-1a5e-428d-a467-1c692a9b65b2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7d9b266a-05fd-40a9-82ca-6edede798ddc.jpeg"
+        ],
+        "mrp": 799.0,
+        "offer_price": 794.0,
+        "unit_level_price": 794.0,
+        "quantity": "180 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/777028b6-f2f0-4ce2-aec2-23a0b99cfb41",
+        "id": "777028b6-f2f0-4ce2-aec2-23a0b99cfb41",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "777028b6-f2f0-4ce2-aec2-23a0b99cfb41"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0df4a17b-ccfc-41d1-bde3-a0980318251e",
+        "name": "India Gate Gold Standard Classic Basmati Rice | 2 Years Aged | Extra Long Grains 1 kg Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3e74a79c-05b4-43b7-83c0-93e3fa4ec3f4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/870c8528-342c-4b4f-800b-15e8e474e003.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/57c2e61c-f84f-488a-a8e3-02e42fa21926.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6c8081e8-fcf8-4f70-84ca-f7ea96dcb637.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1e4c4883-62bf-4d17-a17b-a63e4eac17bb.jpeg"
+        ],
+        "mrp": 504.0,
+        "offer_price": 408.0,
+        "unit_level_price": 408.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/bb97e2f8-d215-443f-bb70-8acd4c306ed6",
+        "id": "bb97e2f8-d215-443f-bb70-8acd4c306ed6",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "bb97e2f8-d215-443f-bb70-8acd4c306ed6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "578adab1-a7a2-53aa-beba-9595a960251a",
+        "name": "Tata Sampann Classic Salted & Roasted Cashews",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e2723554-ccf6-4856-9797-d3342f109915.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/feb55581-9aae-40f2-94ac-7ef72e1342fa.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8b092b8b-4606-482c-b345-fb5a9612de9d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bdb04f2a-7140-4a20-bd66-8aeeb3cb2eee.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be28065b-7b15-4447-bd27-732b55507a45.jpg"
+        ],
+        "mrp": 395.0,
+        "offer_price": 334.0,
+        "unit_level_price": 334.0,
+        "quantity": null,
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/16af9636-8799-4552-81a2-c4821756e2bb",
+        "id": "16af9636-8799-4552-81a2-c4821756e2bb",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "16af9636-8799-4552-81a2-c4821756e2bb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9d134e73-34da-44d4-8799-6e0c7acd5144",
+        "name": "Knorr Classic Vegetable Soup - Sweet Corn 42 g Combo",
+        "brand": "Knorr",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/df84b33f-7cbf-40c9-8d61-bbafa851e449-1Je-4lOk3QVRWyhdJw0UciYB5JeB3sNoh.jpeg"
+        ],
+        "mrp": 130.0,
+        "offer_price": 102.0,
+        "unit_level_price": 102.0,
+        "quantity": "42 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/df84b33f-7cbf-40c9-8d61-bbafa851e449",
+        "id": "df84b33f-7cbf-40c9-8d61-bbafa851e449",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "df84b33f-7cbf-40c9-8d61-bbafa851e449"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0d1110ed-9d3f-4822-ab0b-ba989262cffa",
+        "name": "Pintola Classic Peanut Butter Crunchy - Original American Recipe With High Protein Fiber",
+        "brand": "Pintola",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/07246bd9-9621-4b85-86ff-4975b3e9259a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d83dfdc9-7a2c-46eb-a96e-2b4bb8965980.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/51c64bae-d6fa-4e6e-8c98-7d83aef18a14.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4bd9349-1cd7-40b3-98b8-733699d1d826.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0b6df768-8d0c-45e9-9296-42905433e104.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f5168b68-ede1-4506-a27c-966d46ebdff6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a59613b-a2a4-4fb7-8c8a-c7298f80db8d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc16be70-b877-4aaa-adfb-9187737890fa.jpeg"
+        ],
+        "mrp": 160.0,
+        "offer_price": 138.0,
+        "unit_level_price": 138.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8db41451-3c4f-41cb-838a-7a4222b690cf",
+        "id": "8db41451-3c4f-41cb-838a-7a4222b690cf",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8db41451-3c4f-41cb-838a-7a4222b690cf"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072515",
+        "name": "Organic - Ajwain/Ova",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072515_14-bb-royal-organic-ajwain.jpg"
+        ],
+        "mrp": "79",
+        "offer_price": "51",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072515",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072515"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e5ea6179-55d3-4228-b522-e63539fd5553",
+        "name": "Cravova Classic Cold Coffee 200 ml Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6564a23b-9b22-44ea-b270-d3acf9d78b64.jpeg"
+        ],
+        "mrp": 100.0,
+        "offer_price": 94.0,
+        "unit_level_price": 94.0,
+        "quantity": "200 ml X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/95a214aa-01b4-42da-9bff-21e97e328571",
+        "id": "95a214aa-01b4-42da-9bff-21e97e328571",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "95a214aa-01b4-42da-9bff-21e97e328571"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "63d0160f-2cfb-4472-9bb1-635431d57c12",
+        "name": "Ritebite Max Protein Classic Creamy Peanut Butter Spread",
+        "brand": "Max Protein",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0df112a0-bd56-461b-8aea-97250fbb4262-/tmp/20230621-1157331.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5ec8e8f9-c539-4eee-9fb0-eadf26cc168f-/tmp/20230621-1157352.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8b8bda67-ffea-433d-b5b0-726c44938612-/tmp/20230621-1157363.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8a252d75-8963-4a0b-a5ce-960247d36c30-/tmp/20230621-1157384.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/a976202a-b1e6-488a-ad83-e3e860583ed4-/tmp/20230621-1157395.jpeg"
+        ],
+        "mrp": 399.0,
+        "offer_price": 335.0,
+        "unit_level_price": 335.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2a715633-5864-4308-9874-3cd99f5dbf02",
+        "id": "2a715633-5864-4308-9874-3cd99f5dbf02",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2a715633-5864-4308-9874-3cd99f5dbf02"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2f2a4222-b252-45f5-826e-a42cae6bd7fb",
+        "name": "Parker Classic Stainless Steel Gold Trim Ball Pen| Ink Color - Blue | Corporate Gift",
+        "brand": "Parker",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b4a9b90-f229-40e4-a8b3-9a02f1ceb054.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ed2dfce7-e400-4103-8c9b-03c9441b7317.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e7698c5f-cb0b-40c8-bf6e-a68f35d0d15b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d335667-a869-4deb-b382-0898f06f25ab.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/53394216-a102-4037-ac0c-59660e663f4f.jpeg"
+        ],
+        "mrp": 540.0,
+        "offer_price": 409.0,
+        "unit_level_price": 409.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0fb63776-25cb-4cee-8b4a-89a73b679116",
+        "id": "0fb63776-25cb-4cee-8b4a-89a73b679116",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0fb63776-25cb-4cee-8b4a-89a73b679116"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "38dafaae-945f-4bfa-a192-9d9d69b87f87",
+        "name": "Blue Tokai Classic Bold Cold Brew Cans",
+        "brand": "Blue Tokai",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d0954dd9-0f8d-426d-ae96-760ebf5ae9a4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c3174d44-4511-4207-8ac7-e33361863b3a-1yp3KcFRZAZuaCA8yoMKFpMe_J4oHGUOW.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c3174d44-4511-4207-8ac7-e33361863b3a-12UytsdsK5ok-MlDd5jBYh4zwavSyTRCM.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c3174d44-4511-4207-8ac7-e33361863b3a-1vDvbX23xMwxLitdqdr-T_EZdJ7lyucB9.jpeg"
+        ],
+        "mrp": 190.0,
+        "offer_price": 171.0,
+        "unit_level_price": 171.0,
+        "quantity": "250 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c3174d44-4511-4207-8ac7-e33361863b3a",
+        "id": "c3174d44-4511-4207-8ac7-e33361863b3a",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c3174d44-4511-4207-8ac7-e33361863b3a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40077089",
+        "name": "Dark Fantasy Bourbon, Classic Biscuit Made With Real Chocolate",
+        "brand": "Sunfeast",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40077089_16-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
+        ],
+        "mrp": "35",
+        "offer_price": "17.5",
+        "unit_level_price": "",
+        "quantity": "111 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40077089",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40077089"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "50b4a44a-151f-47a0-9a43-3db7360f1082",
+        "name": "Classic Scoop Wooden Bat No 2",
+        "brand": "Classic Distributor",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ccf8b2e-d04f-4fef-89b1-be9c53df7277.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fd88d6ae-8168-48c8-b8ed-81406b2fabc7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/10f4a1cf-92d4-4600-8e89-e2626185b8c8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4275b83c-b88a-45ea-9074-f12a42ca7cd4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1b48cf34-f595-496c-83b0-83a947cc05ec.jpeg"
+        ],
+        "mrp": 699.0,
+        "offer_price": 388.0,
+        "unit_level_price": 388.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/28d954f3-ae98-4dab-b2c1-ba981282f0df",
+        "id": "28d954f3-ae98-4dab-b2c1-ba981282f0df",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "28d954f3-ae98-4dab-b2c1-ba981282f0df"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "266151",
+        "name": "Masala Cuppa Noodles",
+        "brand": "Maggi",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/266151_18-maggi-cuppa-noodles-masala.jpg"
+        ],
+        "mrp": "50",
+        "offer_price": "45",
+        "unit_level_price": "",
+        "quantity": "70.5g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/266151",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 31,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "266151"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "267400",
+        "name": "Instant Coffee Powder",
+        "brand": "Nescafe Classic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/267400_12-nescafe-classic-100-pure-instant-coffee.jpg"
+        ],
+        "mrp": "200",
+        "offer_price": "180",
+        "unit_level_price": "",
+        "quantity": "45 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/267400",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 33,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "267400"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40161604",
+        "name": "Xtra Instant Coffee",
+        "brand": "Continental",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40161604_6-continental-xtra-coffee.jpg"
+        ],
+        "mrp": "570",
+        "offer_price": "519",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40161604",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 36,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40161604"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40279034",
+        "name": "Grand Classic Instant Coffee",
+        "brand": "Tata Coffee",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40279034_3-tata-coffee-grand-classic-instant-coffee-strong-taste-rich-aroma.jpg"
+        ],
+        "mrp": "280",
+        "offer_price": "220.08",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40279034",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 42,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40279034"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40194169",
+        "name": "Corn Flakes Classic",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40194169_19-bb-royal-corn-flakes-classic.jpg"
+        ],
+        "mrp": "205",
+        "offer_price": "149",
+        "unit_level_price": "",
+        "quantity": "475 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40194169",
+        "rank": 12,
+        "is_ad": false,
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40194169"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40139089",
+        "name": "Classic Gentle Hand Wash - With Goodness Of Sandalwood & Tulsi",
+        "brand": "Santoor",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40139089_7-santoor-classic-handwash.jpg"
+        ],
+        "mrp": "99",
+        "offer_price": "84.15",
+        "unit_level_price": "",
+        "quantity": "200 ml",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40139089",
+        "rank": 13,
+        "is_ad": false,
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40139089"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40015687",
+        "name": "Classic Blend Tomato Ketchup",
+        "brand": "Del Monte ",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40015687_4-del-monte-tomato-ketchup-classic-blend-rich-thick-condiment.jpg"
+        ],
+        "mrp": "95",
+        "offer_price": "64.6",
+        "unit_level_price": "",
+        "quantity": "450 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40015687",
+        "rank": 14,
+        "is_ad": false,
+        "parentIndex": 53,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40015687"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40012957",
+        "name": "Roasted Peanuts - Classic Salted",
+        "brand": "JABSONS",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40012957_2-jabsons-roasted-peanuts-classic-salted.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "64.4",
+        "unit_level_price": "",
+        "quantity": "160 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40012957",
+        "rank": 15,
+        "is_ad": false,
+        "parentIndex": 55,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40012957"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "241695",
+        "name": "Sunrise Instant Coffee Powder - Chicory Mix",
+        "brand": "Nescafe ",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/241695_16-nescafe-sunrise-rich-aroma-instant-coffee-chicory-mix.jpg"
+        ],
+        "mrp": "620",
+        "offer_price": "620",
+        "unit_level_price": "",
+        "quantity": "190 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/241695",
+        "rank": 16,
+        "is_ad": false,
+        "parentIndex": 59,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "241695"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40007912",
+        "name": "Dishwasher Power Powder Detergent - Classic",
+        "brand": "Finish",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40007912_14-finish-dishwasher-power-detergent.jpg"
+        ],
+        "mrp": "466",
+        "offer_price": "414.74",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40007912",
+        "rank": 17,
+        "is_ad": false,
+        "parentIndex": 61,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40007912"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40312564",
+        "name": "Original Potato Crips - Classic Salted",
+        "brand": "Pringles",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40312564_2-pringles-original-potato-chips.jpg"
+        ],
+        "mrp": "60",
+        "offer_price": "57",
+        "unit_level_price": "",
+        "quantity": "40 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40312564",
+        "rank": 19,
+        "is_ad": false,
+        "parentIndex": 66,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40312564"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40163238",
+        "name": "Stainless Steel Soup/Juice Strainer - Classic, 20 cm",
+        "brand": "Elephant ",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40163238_3-elephant-stainless-steel-soupjuice-strainer-classic-20-cm.jpg"
+        ],
+        "mrp": "415",
+        "offer_price": "279",
+        "unit_level_price": "",
+        "quantity": "1 pc",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40163238",
+        "rank": 20,
+        "is_ad": false,
+        "parentIndex": 68,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40163238"
+        ]
+      }
+    ]
+  }
+]

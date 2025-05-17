@@ -1,0 +1,1581 @@
+[
+  {
+    "data": [
+      {
+        "xid": "34508",
+        "name": "Madhur Pure & Hygienic Sugar ",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000558xx8JUN22_5_P.jpg"
+        ],
+        "mrp": 315,
+        "offer_price": 245,
+        "unit_level_price": "(\u20b9 49.00 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/madhur-pure-&-hygienic-sugar?selectedProd=34508",
+        "id": "14080",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14080"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ALDBDE0VUV",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d1dbda41b751502bebc6c210e1329635",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db94688bd3be92cb6e2d13b276f7d239",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a72c91ce75be67d7612ad25d47d40137"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      },
+      {
+        "id": 11006,
+        "name": "Madhur Pure & Hygienic Sulphurless Sugar",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/56be7f15-5ec0-48fc-876f-3fc275dba950.jpg?ts=1715067177",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ec8bf373-0fb6-486f-a30d-624b5e27898d.jpg?ts=1715067178",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8b790d6c-c201-4aaf-8042-91636fc5aae4.jpg?ts=1715067179",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/66b70d2e-5927-4679-a4fe-b988b7b67036.jpg?ts=1715067179",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/92d43a0d-a7d6-4fae-9e08-a3e3e4cb27ff.jpg?ts=1715067180",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/69dc7a02-7fdf-455e-9143-2da9b3a08dd5.jpg?ts=1715067180",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/19687440-a193-49ee-9cd6-ea17fc7c069d.jpg?ts=1715067182",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d0fdf826-3e5a-44bd-842f-ed2fc1aec0d6.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/11006",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 50,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          11006
+        ]
+      },
+      {
+        "xid": "fa935041-f85c-4633-8c76-4bba8530800d",
+        "name": "Madhur Pure & Hygienic Sugar",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/78c0c023-d4b6-4a23-a76a-2c79ea2c8ca1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/205d6209-8a47-4444-9864-2aab7574980f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/620f10db-18fd-406b-a81f-d69760cd0c5f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2eeaee89-51c0-4dea-acbc-0aed881cf0ad.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/95eacf0b-784d-4b34-863d-1f92d50a48fd.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 58.0,
+        "unit_level_price": 58.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3fd95375-ca7f-4527-92fa-66758967c1b3",
+        "id": "3fd95375-ca7f-4527-92fa-66758967c1b3",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 68,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3fd95375-ca7f-4527-92fa-66758967c1b3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5WCFIMANCY",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/149b1c2550fd66503fb70eb276313c2a"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 111,
+        "unit_level_price": "55.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "db78380f-0bfc-4619-a872-aefed7e6be17",
+        "name": "Fortune Rozana Basmati Rice(5kg), Fortune Sunlite Refined Sunflower Oil(1l) & Madhur Pure & Hygienic Sugar(1kg) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/1458ea05-927f-477b-9d32-64599eb9da3b-8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2a0cf1d9-f412-473c-886e-1161fc5a9b87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/029991d8-08e6-4b48-a47d-71a292be10d5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5a379ea-bf17-468c-b250-ce50207d8702.jpeg"
+        ],
+        "mrp": 1115.0,
+        "offer_price": 859.0,
+        "unit_level_price": 859.0,
+        "quantity": "5 Pieces",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "id": "7e138f3b-85ee-4788-b232-e9f19c893f3e",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7e138f3b-85ee-4788-b232-e9f19c893f3e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 14162,
+        "name": "Madhur Pure & Hygienic Sulphurless Sugar (M30)",
+        "brand": "Madhur",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/850c710f-102a-4d12-a786-2e8edecb0f21.jpg?ts=1715067185",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/64e84ad5-d033-4a36-b59e-df558adca169.jpg?ts=1715067186",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f0721e7a-ad56-41c6-aa28-0aac2f3ee34f.jpg?ts=1715067186",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/faf74915-6123-4ab3-aac3-c802af998c66.jpg?ts=1715067188",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c0d4d48a-ce56-4ba6-af4e-4d0639d6747d.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4057d8df-4767-4eb3-a134-45ee544fa2cc.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f982dac8-9c35-48e5-b1bc-81e6102d6933.jpg?ts=1715067189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/768b289a-bf5d-477f-b95f-539c499dc9a6.jpg"
+        ],
+        "mrp": 315,
+        "offer_price": 267,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/14162",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          14162
+        ]
+      },
+      {
+        "id": "Q6B4JWIBCD",
+        "name": "Madhur Sugar M30",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db75fe860c0321d70c16d346261eef8f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/54e2ca4c8072d9d3bac3d370282f4906",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3ab9f6ad06d01601e9fa8d004ad81103"
+        ],
+        "mrp": 315,
+        "x_available": true,
+        "available": false,
+        "offer_price": 275,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/847G82IUCN",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Q6B4JWIBCD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "64e33d29-72ef-4386-8371-176dc9a2f9f7",
+        "name": "Madhur Pure & Hygienic Sugar",
+        "brand": "Madhur",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ab1bb27f-8c4c-4f49-8ab1-f04d77c9e0c1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5606e4bf-3eb6-4bcd-a0ef-6d319f6433a4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/348d7398-cd79-4292-825a-29f07f8ee85a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b44b8eb3-4342-48a6-9489-ef1aee0cd27b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5597165f-f0e9-4714-9d27-4aad2a6bf1ae.jpeg"
+        ],
+        "mrp": 315.0,
+        "offer_price": 276.0,
+        "unit_level_price": 276.0,
+        "quantity": "5 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7e6e1e61-1669-4f88-aa4e-3a843482f5c2",
+        "id": "7e6e1e61-1669-4f88-aa4e-3a843482f5c2",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7e6e1e61-1669-4f88-aa4e-3a843482f5c2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527639,
+        "name": "Whole Farm Grocery Sugar (Packet)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5c044aca-92d5-4bfc-a1c5-a688db25a316.jpg?ts=1718106537",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b43da53b-6deb-4293-831a-f8896b74cb9d.jpg?ts=1743766957",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639c.jpg?ts=1692432209",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639d.jpg?ts=1692432209",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527639e.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 49,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527639",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 50,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527639
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P3MB65WNGV",
+        "name": "Madhur Sugar & Tata Iodized Salt Pouch Combo",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/29f85a6f9b6d4775049e5c5ba10e2a3d"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 83,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RQGQ85HX6E",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "P3MB65WNGV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a0fe9863-76e8-4c9b-818e-3ca0e9ea4ce5",
+        "name": "Phalada Pure & Sure Organic Sugar",
+        "brand": "Phalada Pure & Sure",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1fba2118-63a6-4e28-9a29-3815cceb77b7.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f63a8cc-a103-4a18-ac58-cb83c3796dd3.jpg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 131.0,
+        "unit_level_price": 131.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f91833a0-9159-4f19-b292-b96245584730",
+        "id": "f91833a0-9159-4f19-b292-b96245584730",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f91833a0-9159-4f19-b292-b96245584730"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 580424,
+        "name": "Whole Farm Premium Sulphurless Sugar",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/771d5e24-b269-4d5f-b40a-114910f7b502.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b5651c18-4df0-4c62-ab63-c6d345569146.jpg?ts=1743764778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1fe4e53a-505b-44b3-b7e3-f4333d6cad89.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/03993fc4-c06d-4d6a-b85d-79a0ae7740dd.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 57,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/580424",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          580424
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525557,
+        "name": "Whole Farm Premium Sugar Powder",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5106bee5-fb84-4e05-85eb-c7313f41aa7c.jpg?ts=1743764650",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525557d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 44,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525557",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 13,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525557
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BFJLCF96G2",
+        "name": "Fortune 100% Pure Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/46a9eb4a3d5be148ada196d3f0c7f1bc"
+        ],
+        "mrp": 740,
+        "x_available": true,
+        "available": true,
+        "offer_price": 733,
+        "unit_level_price": "73.3/kg",
+        "quantity": "5 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/D7VJCB5Q7E",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BFJLCF96G2",
+          "IRYXSOWTIS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 616045,
+        "name": "Whole Farm Premium Brown Sugar",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b011fb9d-6cd5-4479-bf68-25cf0d54a169.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fae1bfdc-2dba-4c04-bbf1-fca91b53afbd.jpg?ts=1743764797",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/75215450-d9ad-411d-89d2-59f9496d0dbb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a24df0de-e16e-44d1-b2ab-2b230e2030ab.jpg"
+        ],
+        "mrp": 200,
+        "offer_price": 200,
+        "unit_level_price": "",
+        "quantity": "1000 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/616045",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          616045
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IRYXSOWTIS",
+        "name": "Fortune 100% Pure Sugar",
+        "brand": "Fortune",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/697cb273500b8542e7f60c72428b4946",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/13fe9ab1405c8a99956be5cb74aaf33a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1d89045b28c6606e77cbd7f655649715"
+        ],
+        "mrp": 370,
+        "x_available": true,
+        "available": true,
+        "offer_price": 370,
+        "unit_level_price": "74/kg",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/D7VJCB5Q7E",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "BFJLCF96G2",
+          "IRYXSOWTIS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527638,
+        "name": "Whole Farm Grocery Sugar (5 kg)",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f6128bcb-94b4-4e1d-948e-a01c1c475e19.jpg?ts=1743766956",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527638e.jpg"
+        ],
+        "mrp": 490,
+        "offer_price": 240,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527638",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527638
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H0R1LQ9XZG",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/ceef07d2-145a-4790-8601-200a534609ab_sugar_H0R1LQ9XZG_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f346cc8556236b9c877f7b9888b924c2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4afa871fbac073c4778999ef9f67085c"
+        ],
+        "mrp": 350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 235,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ANVQ4Q2POF",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H0R1LQ9XZG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 38905,
+        "name": "Parry's Pure Refined Sulphurless Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9e071f75-6d62-458b-b68c-52da9397f6b2.jpg?ts=1724329300",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/751a62f6-7c24-4171-80d0-abf855676230.jpg?ts=1724329301",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/62977d8c-8259-4329-8cbf-1e6116864f90.jpg?ts=1724329302",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0708490a-8874-42b6-a688-39f40d578d7d.jpg?ts=1724329303",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8a145777-39be-48e2-b9eb-472961ef6199.jpg?ts=1724329305",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5745c443-c9eb-4ee6-aa77-d0aadfc0223a.jpg?ts=1724329306",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/07527424-397a-4dd7-8087-4edbd6c1e628.jpg?ts=1724329307"
+        ],
+        "mrp": 70,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/38905",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38905,
+          490864
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3RTD0J61B4",
+        "name": "24 Mantra Organic Sugar",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ce694a994ee783a4b40ea6a573547373"
+        ],
+        "mrp": 290,
+        "x_available": true,
+        "available": true,
+        "offer_price": 203,
+        "unit_level_price": "101.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MLAGDZDD8Z",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3RTD0J61B4",
+          "P7NDAXSABN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 490864,
+        "name": "Parry's Pure Refined Sulphurless Sugar - Pack of 2",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e5a2b466-b27f-4a04-ba92-b74140bbbfb0.jpg?ts=1742558137",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864a.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864b.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864c.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864d.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864e.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864f.jpg?ts=1710347585",
+          "https://cdn.grofers.com/app/images/products/sliding_image/490864g.jpg?ts=1710347585"
+        ],
+        "mrp": 140,
+        "offer_price": 129,
+        "unit_level_price": "",
+        "quantity": "2 x 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/490864",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38905,
+          490864
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P7NDAXSABN",
+        "name": "24 Mantra Organic Sugar",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/13/2418b63f-f70c-4392-9f59-e9f28c3d82f7_20359_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/13/31b82c0c-89bf-4bde-b9e5-5e6be115f3f7_20359_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/13/f7775b6d-a6b2-4b9a-929d-ed3f200662ac_20359_3.png"
+        ],
+        "mrp": 145,
+        "x_available": true,
+        "available": true,
+        "offer_price": 119,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MLAGDZDD8Z",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3RTD0J61B4",
+          "P7NDAXSABN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 495432,
+        "name": "Parry's Superfine Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ca24453a-fedb-469a-aae0-e72b8620ee55.jpg?ts=1722328890",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/555c822c-ed1e-44ee-96fb-3d48b1ed57c0.jpg?ts=1722328891",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/270eb360-a43b-4419-a87d-8af11aa97fd7.jpg?ts=1722328893",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b31c9c6f-69ec-49ff-8333-5b06307828cd.jpg?ts=1722328894",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a95829ba-667b-4afd-8c75-5af7ce8307a4.jpg?ts=1722328895"
+        ],
+        "mrp": 75,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/495432",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          495432
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "95KC1GMRA3",
+        "name": "Flyberry Gourmet Medjoul Date Powder 100% Natural Sweetner",
+        "brand": "Flyberry Gourmet",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/47699f78-690d-4e73-920a-e41e2ba376cb_sugarsubstitutes_95KC1GMRA3_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/85a9ea0a-a98c-40da-8148-9337cee28c05_sugarsubstitutes_95KC1GMRA3_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/923d51dc-fdc8-44f7-b3ba-b7b3ebc7f10b_sugarsubstitutes_95KC1GMRA3_AL2.png"
+        ],
+        "mrp": 399,
+        "x_available": true,
+        "available": true,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "180 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/OQOS27E6RO",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "95KC1GMRA3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 38910,
+        "name": "Parry's White Label Sulphurless Sugar",
+        "brand": "Parry's",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/16feca10-a956-4781-b7fd-4dd1e1bd0f1f.jpg?ts=1708591846",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910b.jpg?ts=1612185613",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/38910g.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/38910",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          38910
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "98DG1XN9O2",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/ff5f4dc1-c3f9-42f1-a1ee-d79ba53c24c2_15755.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 51,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/2UDNQI8MR0",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "98DG1XN9O2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 328914,
+        "name": "Parry's White Label Sulphurless Sugar (5 kg)",
+        "brand": "Parry's",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914a.jpg?ts=1687438424",
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914e.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/328914f.jpg"
+        ],
+        "mrp": 300,
+        "offer_price": 262,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/328914",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          328914
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "N41MNJ8F8P",
+        "name": "Sugar Free Gold",
+        "brand": "Sugar Free",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/6cb30938-0460-4185-8d0a-b419b9c97162_6448_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/e60bc1ef-43bf-4d75-84fb-f07f4d40bbd5_6448_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/5079fa30-89d9-419d-903f-c6fc6cf52d50_6448_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/d6a4978c-6922-467f-9677-03f4b36fea4b_6448_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/e7a2f6de-c71c-4764-a8a4-6ecb345ab2c6_6448_5.png"
+        ],
+        "mrp": 310,
+        "x_available": true,
+        "available": true,
+        "offer_price": 310,
+        "unit_level_price": "",
+        "quantity": "50 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9YSNA6O564",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "N41MNJ8F8P"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5PJMN324AN",
+        "name": "organic tattva Brown Sugar",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/94004c9aaac1f914d8048a40a493496a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1f576f20de288cf90ad873a95a8b998a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/20fdda355adf7beef7409e210e9f8514"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": true,
+        "offer_price": 73,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TQ082FNVR3",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5PJMN324AN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LWXK420XXY",
+        "name": "Supreme Harvest Crystal Sugar 1 kg + Aashirvaad Iodized Salt 1 kg",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/11/d8345724-ca10-4622-ba32-ebb05373467a_sugar_LWXK420XXY_MN.png"
+        ],
+        "mrp": 110,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/728DL26ZZE",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LWXK420XXY"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "502YGW321N",
+        "name": "Organeekz Organic Brown Sugar",
+        "brand": "Organeekz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/18/d4445604-8574-406e-a6f9-cf17c19f8bb3_sugar_502YGW321N_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/18/4e8cb795-7e6c-4f5b-a3c9-40948a0de5f8_sugar_502YGW321N_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/18/533d0f70-54ef-4afa-be90-b8824a37b21c_sugar_502YGW321N_AL2.png"
+        ],
+        "mrp": 77,
+        "x_available": true,
+        "available": true,
+        "offer_price": 54,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SVT9G3QO4K",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "502YGW321N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LOTYMJVFG4",
+        "name": "Safe Harvest Pesticide Free Khandsari Sugar",
+        "brand": "Safe Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/c4dff5f1-54c0-48dd-97da-49bd39def759_sugar_LOTYMJVFG4_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/4dacafbe-722b-4aac-b1af-632c6d47313f_sugar_LOTYMJVFG4_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/dd286d95-041b-4a08-bd57-70e815eb7602_sugar_LOTYMJVFG4_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/2ecdadbd-5dff-459b-8007-ecb4f0e1d527_sugar_LOTYMJVFG4_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/3b04a368-8837-4abf-8ac8-b256026c050e_sugar_LOTYMJVFG4_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/13/b05aa7e4-8f5a-4e38-8a51-1a82f8ae7017_sugar_LOTYMJVFG4_AL5.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VFOU98D1WF",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LOTYMJVFG4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "UEURIRMFHO",
+        "name": "Tata Iodized Salt",
+        "brand": "Tata",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/72ecc69b-d682-4d18-af6d-93976914fadf_242_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/cdb2f435-c158-4343-bbed-b334d73728b4_242_5.png"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 27,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5DMEFBCGC6",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UEURIRMFHO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6BS3J6BLO2",
+        "name": "Sugar Free Green Stevia",
+        "brand": "Sugar Free",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/09538554-eb1a-4cce-aae2-4bc74b61914b_48707_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/64c86fd7-06c5-41c7-b9d8-b491c55b4d6e_48707_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/b23b3db1-c201-4982-b384-b60d2376839a_14446_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/402a38f5-8e5e-4f27-8b0b-453db4394d77_14446_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/9a617f2b-1759-44ca-8066-033d72d2cdad_14446_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/8c2ec90c-4e72-4cb1-baff-d1f6dba8515b_48707_6.png"
+        ],
+        "mrp": 315,
+        "x_available": true,
+        "available": true,
+        "offer_price": 306,
+        "unit_level_price": "",
+        "quantity": "300 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/K0TK32DMFI",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "6BS3J6BLO2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "CX7KN2HUSI",
+        "name": "Dhampur Sulpherless Desi Khand Unrefined Sugar",
+        "brand": "Dhampur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/77a25de01f5507f5988190e4c8737b5b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5ad8a4546456535e4956a4f87b7aa057",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/054396fb646ec05fe796abecf8124639"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8MCMK6O34Q",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CX7KN2HUSI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PPG91SGFYK",
+        "name": "Aashirvaad Iodised Salt",
+        "brand": "Aashirvaad",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/4bc769c1-a371-4974-bd3f-28a91332119e_201_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/a59da175-8e48-4b40-b58f-0b5b46370cd0_201_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/246d529a-42bc-4062-a6c7-ac04f4f6f6e9_201_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/1f52e429-ced7-4c6a-afb4-e643bbb918b6_201_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/b60a4bcb-0623-4e9b-a60a-4bf6cec1189f_201_5.png"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 24,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/90EHT7UF79",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PPG91SGFYK"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "327QMFWD1X",
+        "name": "TRUEFARM Organic Brown Sugar",
+        "brand": "TRUEFARM",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/6925f5c96d8423e033f25ea24c8cc804",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2b307e83bbdaa93f7c8f685e3bb8f65a",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dd3ff83095c9a627bb2e560e28d10af0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dbf4ddb5b81979af49bdc3b71e33a2a2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1b7220eaa41274a040e48815d2edbb14"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 118,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/T10PGNV2QK",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "327QMFWD1X"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GBYUG9SM1K",
+        "name": "Pro Nature Organic Brown Sugar",
+        "brand": "Pro Nature Organic",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ulwukldsfbzvviwurq05",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bfjgubqtmxy2fdahls6d",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ony4bxckqqsqgn8vydlw"
+        ],
+        "mrp": 78,
+        "x_available": true,
+        "available": true,
+        "offer_price": 69,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/KFP68L08T1",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GBYUG9SM1K"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Z5LKS4RILV",
+        "name": "Tata Salt Rock Salt Pouch",
+        "brand": "Tata",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/b0d1eb32-a68f-46e9-a4de-5d506955e538_43085_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/a796138c-293e-4a53-930a-29395ed4d7b6_43085_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/4a3dd4db-016e-4649-adbd-371f51640639_43085_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/f90dc102-b8c5-4584-804e-b81c9fcbd5a4_43085_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/778a6546-ebdd-42d1-879d-bf793121815a_43085_5.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 113,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9WU6I6K9R2",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Z5LKS4RILV"
+        ]
+      }
+    ]
+  }
+]

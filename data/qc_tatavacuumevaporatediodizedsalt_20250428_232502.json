@@ -1,0 +1,3186 @@
+[
+  {
+    "data": [
+      {
+        "id": "241600",
+        "name": "Vacuum Evaporated Iodised Edible Common Salt",
+        "brand": "Tata Salt",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/241600_9-tata-salt-iodized.jpg"
+        ],
+        "mrp": "30",
+        "offer_price": "25",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/241600",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "241600"
+        ]
+      },
+      {
+        "xid": "11340",
+        "name": "Tata Salt - Evaporated Iodised ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISalt1kgTATA3655xx190521_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 26,
+        "unit_level_price": "(\u20b9 0.03 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-salt?selectedProd=11340",
+        "id": "14217",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14217"
+        ]
+      },
+      {
+        "id": "UEURIRMFHO",
+        "name": "Tata Iodized Salt",
+        "brand": "Tata",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/72ecc69b-d682-4d18-af6d-93976914fadf_242_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/cdb2f435-c158-4343-bbed-b334d73728b4_242_5.png"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 27,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5DMEFBCGC6",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UEURIRMFHO"
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Tata Salt (Vacuum Evaporated Iodised)",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/167b98c4-9e70-4204-b618-fc3f29f16747.jpg?ts=1733299682",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b4d4cec6-f0dc-40d8-9f4c-27e9df34f4b9.jpg?ts=1733299683",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d3363de0-e1f7-4c2e-81ff-bfda8826780b.jpg?ts=1733299683",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7cd01a7-2e9c-4eee-87cb-e6aa3154bd99.jpg?ts=1733299684",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6183645b-0a04-4792-a6fa-199aa36637cc.jpg?ts=1733299684",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cb441313-6663-4fba-b0ec-d931cbf07a21.jpg?ts=1733299685",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5a6acf7d-a287-4a7c-8cd3-c6d72841ac20.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2540780e-2233-4a89-8ed6-62b3821c6069.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/73adbc66-b67f-4683-950c-e04b6c8260e8.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4262e18a-e0b8-462b-89d1-176252514104.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b430e54-8d80-4980-9626-bc59855d38bb.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fddaa359-bdb9-4bed-929a-b007592c231a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c8e51d80-f7e8-4750-82fc-eafec8f6a4cc.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 27,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/105",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 46,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          105
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e85a4cb9-a10f-435b-9f6a-b02fc5521c17",
+        "name": "Tata Salt, Free Flowing and Iodised Namak, Vacuum Evaporated, Salt in Fresh",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e5aa24aa-efba-40ac-9e81-930e26468036.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8dcae5d4-e374-4e2d-afa7-e05ea526a955.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1278ebeb-ebd2-4534-8800-729b8a1917e0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/adb009d1-c24f-45b1-91a4-187f405f7720.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8040c2e7-91bc-4516-9604-9160b10fdc53.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6ac1a55f-d028-4b5b-876d-fd8084015f6d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dd8c09ec-fcd6-4eee-8bd1-77c27731e5ee.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/81113369-7478-4d4b-8057-1273556572a1.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 28.0,
+        "unit_level_price": 28.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/208bdb3c-da54-493a-9cb1-5b6c159ae9e1",
+        "id": "208bdb3c-da54-493a-9cb1-5b6c159ae9e1",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 34,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "208bdb3c-da54-493a-9cb1-5b6c159ae9e1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "631501",
+        "name": "Tata Rock Salt Powder Pouch ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001341xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 56,
+        "unit_level_price": "(\u20b9 0.11 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/tata-rock-salt-powder-pouch-psalt0saty81xx271219?selectedProd=631501",
+        "id": "627677",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627677"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11339",
+        "name": "Tata Salt Lite - Low Sodium Iodised ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000373xx9JUN22_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "(\u20b9 0.04 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-salt-lite?selectedProd=11339",
+        "id": "14156",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14156"
+        ]
+      },
+      {
+        "id": "883CSP2S79",
+        "name": "Tata Low Sodium Lite Salt",
+        "brand": "Tata",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/r589wai7qrwlib2vgsaf",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fprb7rcfqw09w4efmaxo",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/umqdnks715a4ahku29sq"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/4CRVTRGZSQ",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "883CSP2S79"
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Tata Salt Lite (15% Less Sodium)",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1bd2030a-7b3a-49fd-bf96-745ac015e0e5.jpg?ts=1707312312",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106c.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106d.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106e.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106f.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106g.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106h.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106b.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106i.jpg?ts=1707298542",
+          "https://cdn.grofers.com/app/images/products/sliding_image/106j.jpg?ts=1707298542"
+        ],
+        "mrp": 50,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/106",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          106
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e0af48f2-5b24-4be2-a124-c088b9cc304a",
+        "name": "Aashirvaad Iodized Salt | Natural | Solar Evaporated Everyday Salt",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4be43806-36a3-4bc7-a3ef-70a727f4fe64.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eacf8bbe-3908-415d-848d-e1b0e91f83b8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3ebc955f-30f9-46d2-940d-97c912dcfdf1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5ac1fa6-c2a5-4be6-a02f-d1f02832d06d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f9a46a8-5753-45e4-aee7-d3959bbb4ae1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/00cd8e56-2d1b-4a98-866f-b34dcd2b0449.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/81078870-abe0-422a-be5d-ab1c214cb9ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d7c4c70b-5cb8-4922-88a5-bca64813816b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/19493ca7-b8fb-4b18-a1ce-8a775e9497a1.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 25.0,
+        "unit_level_price": 25.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f5e3e70b-f1f0-4295-943b-62b5a214a412",
+        "id": "f5e3e70b-f1f0-4295-943b-62b5a214a412",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 13,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f5e3e70b-f1f0-4295-943b-62b5a214a412"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Z5LKS4RILV",
+        "name": "Tata Salt Rock Salt Pouch",
+        "brand": "Tata",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/b0d1eb32-a68f-46e9-a4de-5d506955e538_43085_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/a796138c-293e-4a53-930a-29395ed4d7b6_43085_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/4a3dd4db-016e-4649-adbd-371f51640639_43085_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/f90dc102-b8c5-4584-804e-b81c9fcbd5a4_43085_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/778a6546-ebdd-42d1-879d-bf793121815a_43085_5.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 113,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9WU6I6K9R2",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Z5LKS4RILV"
+        ]
+      },
+      {
+        "id": 497422,
+        "name": "Tata Himalayan Pink Rock Salt (Sendha Namak)",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/91920d93-6cd1-44a1-84fe-7d3ac7879c3b.jpg?ts=1742542931",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c047b421-f3ea-4fd1-b7aa-d660cbb085b2.jpg?ts=1742542932",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dc30efb6-c9e3-4b90-a0d0-2fa8ee11e50e.jpg?ts=1742542932",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eccac82a-b4f4-44fe-b94d-9f5840b32ddc.jpg?ts=1742542933",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/78c59d2f-f67f-4fc6-940b-e452f5da62a6.jpg?ts=1742542934",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1cadf241-c136-4736-bb28-6ab498fef3cf.jpg?ts=1742542934",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d37c292e-e325-49f3-a7c1-47355f796ac3.jpg?ts=1742542935",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d0a7abc5-2964-40c7-b83b-24f0a5414132.jpg?ts=1742542935",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae38c16b-3131-4a29-91d3-8d2230cfd0be.jpg?ts=1742542936",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/39830bd3-e155-42be-b35e-e2f0212fbe5a.jpg?ts=1742542937",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/693c343d-75b1-411d-a6b8-3171ea87bd93.jpg?ts=1742542937",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1df57885-6756-4079-aae2-d066889a5924.jpg?ts=1742542938",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/217b5b29-ea10-40b5-9f52-430e2049afcf.jpg?ts=1742542938",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/408c580e-28b3-4e91-ade1-1441d658bf65.jpg?ts=1742480997",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4d0db9d6-c606-4910-a6ad-9850608de8bd.jpg?ts=1742480997"
+        ],
+        "mrp": 120,
+        "offer_price": 113,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/497422",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 13,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          497422
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "684d51ab-0b4e-44a8-a9ce-4deb2b446d82",
+        "name": "Tata Salt Superlite With 30% Low Sodium",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/36749643-730a-41b4-a677-ab8646164027.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/37908084-992b-48cf-998a-2af3110eaff7-/tmp/20230504-0820172.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/2f2ced37-4586-4f0e-a94c-55ae46f00416-/tmp/20230504-0820173.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0bb0580e-f846-48e8-afc1-243f5994a939-/tmp/20230504-0820174.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5e28f31b-51f0-4488-a2ed-68df35d733ed-/tmp/20230504-0820185.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 66.0,
+        "unit_level_price": 66.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/fe63146f-3e16-4ae0-b731-59796f616714",
+        "id": "fe63146f-3e16-4ae0-b731-59796f616714",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "fe63146f-3e16-4ae0-b731-59796f616714"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "885501",
+        "name": "Tata SuperLite Salt ",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110003196xx17JAN23_5_P.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 65,
+        "unit_level_price": "(\u20b9 0.07 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/tata-superlite-salt-1kg-psalt0tata15xx150721?selectedProd=885501",
+        "id": "885042",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "885042"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PPG91SGFYK",
+        "name": "Aashirvaad Iodised Salt",
+        "brand": "Aashirvaad",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/4bc769c1-a371-4974-bd3f-28a91332119e_201_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/a59da175-8e48-4b40-b58f-0b5b46370cd0_201_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/246d529a-42bc-4062-a6c7-ac04f4f6f6e9_201_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/1f52e429-ced7-4c6a-afb4-e643bbb918b6_201_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/b60a4bcb-0623-4e9b-a60a-4bf6cec1189f_201_5.png"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 24,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/90EHT7UF79",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PPG91SGFYK"
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Aashirvaad Iodized Natural Salt 1 kg",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0f5ac12c-8d6a-4380-a434-a172b1af6e65.jpg?ts=1742972693",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c5da9c5-f72f-4b04-a8a7-361c2afae086.jpg?ts=1742972694",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/78be65f1-d2d7-4e26-a524-04dcc06a84e1.jpg?ts=1742972694",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fe93515f-951c-4ba2-ae78-fd85c550194f.jpg?ts=1742972695",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/946c1b49-0bb1-4ecf-8e55-8da04fd9bce9.jpg?ts=1742972695",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/72b0bc93-f1ff-4f1c-b3a3-f33312b426b2.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e19a1c4d-20bd-4b41-b25d-502e30e3be4f.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 29,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/104",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "578adab1-a7a2-53aa-beba-9595a960251a",
+        "name": "Tata Sampann Classic Salted & Roasted Cashews",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e2723554-ccf6-4856-9797-d3342f109915.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/feb55581-9aae-40f2-94ac-7ef72e1342fa.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8b092b8b-4606-482c-b345-fb5a9612de9d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bdb04f2a-7140-4a20-bd66-8aeeb3cb2eee.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/be28065b-7b15-4447-bd27-732b55507a45.jpg"
+        ],
+        "mrp": 395.0,
+        "offer_price": 334.0,
+        "unit_level_price": 334.0,
+        "quantity": null,
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/16af9636-8799-4552-81a2-c4821756e2bb",
+        "id": "16af9636-8799-4552-81a2-c4821756e2bb",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "16af9636-8799-4552-81a2-c4821756e2bb"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ITSH5F3RGM",
+        "name": "Catch Sprinklers Iodisedtable Salt",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/e1e31e15-7497-404b-8459-bb4cf3f3c765_salt_ITSH5F3RGM_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/1093c5e2-5819-4456-b547-fcebb3b6a5b2_salt_ITSH5F3RGM_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/634da452-4816-40b3-9e58-532db89f579a_salt_ITSH5F3RGM_AL2.png"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/BYC60915U2",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ITSH5F3RGM"
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Catch Sprinklers - Iodized Table Salt",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e1ff50c6-ef8a-4266-b1d0-2b3fce3d9a6f.jpg?ts=1723801389",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a31cdd9-74c6-4f61-b19f-f07a66604ce7.jpg?ts=1718869819",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f448ae28-f01a-4c5b-9ace-ddc0888e0639.jpg?ts=1718869821",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a03d1f3-3bef-4573-9659-57bf6073d31e.jpg?ts=1718869822",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/75571f9a-0a13-4a02-83d8-743b4a545945.jpg?ts=1718869824",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4dca0fd8-507c-4218-a7db-a8c46d94c3a2.jpg?ts=1718869825",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/21117eb9-c545-461a-a4a6-768080ff3bf7.jpg?ts=1718869826"
+        ],
+        "mrp": 50,
+        "offer_price": 50,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/107",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d3e7a20f-77be-5a1d-a069-45992f8ee402",
+        "name": "Tata Sampann Classic Salted & Roasted Almonds",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/93386d78-ba5b-4116-8afc-131d8d735272.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/da661ffc-6823-49db-98c9-2b658e48b5fd.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3b92fee4-6f3d-40c3-be40-39c7bd47fac8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2dc251bd-3571-4bfd-8949-f6d5ae38da54.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b8e64510-491b-437f-82ed-645ec9778d1b.jpg"
+        ],
+        "mrp": 299.0,
+        "offer_price": 245.0,
+        "unit_level_price": 245.0,
+        "quantity": null,
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/7d7638ef-42e2-44c4-a9c4-1291d86f2d0f",
+        "id": "7d7638ef-42e2-44c4-a9c4-1291d86f2d0f",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "7d7638ef-42e2-44c4-a9c4-1291d86f2d0f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1675026",
+        "name": "Tata Sampann Pistachios Roasted & Salted ",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004708xx30DEC24_5_P.jpg"
+        ],
+        "mrp": 375,
+        "offer_price": 249,
+        "unit_level_price": "(\u20b9 1.25 / 1 g)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-pistachios-roasted-salted-ppista11xx311224?selectedProd=1675026",
+        "id": "1679601",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1679601"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 15470,
+        "name": "Catch Sprinklers - Iodized Table Salt",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a6adc86-80e2-4846-a0e4-8519fa39c4e1.jpg?ts=1723622162",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f8be14c5-a29d-473b-b637-d0fea5361818.jpg?ts=1718869854",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/57664fac-9df8-45bd-b37c-8b80243ac02a.jpg?ts=1718869856",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f86a9bd4-6c92-47c8-8a48-93405baaa9e0.jpg?ts=1718869857",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a402a7a-8cf3-47aa-b086-4fdcaca7083a.jpg?ts=1718869859",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/832cf78e-06cb-4981-9841-359f69a4cd12.jpg?ts=1718869860",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b5923446-89fa-4aeb-942b-95fe91ca3100.jpg?ts=1718869861"
+        ],
+        "mrp": 30,
+        "offer_price": 30,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/15470",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          15470
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c1881f4e-0457-4a22-a9e5-b317131219fb",
+        "name": "Tata Himalayan Rock Pink Salt Pouch, Premium Sendha Namak, With Natural Trace Minerals, Low Sodium, Crystal Salt",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ebae094-8fe6-4b55-8a36-8d49c31a6c30.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7ee0ff3e-fcbe-4937-878e-0960b94b4895.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e46b7268-fea4-424f-8981-682cdb4b1221.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/871731c7-bdbb-46e3-900a-53bec198cf7d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3c730215-37aa-4257-8d26-8bd92e049d90.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/36bc499f-8165-418b-93a8-90b6b771e66b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8e9bf2b5-1659-4211-bcb4-32a096d3f7d2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7a78bf07-67d7-428c-9abb-f9f66a61b7aa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2adc0352-c668-48fa-b51f-4dfc78f10c2b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6f6c173c-1f6b-41a3-ae63-2e685e26ba0c.jpeg"
+        ],
+        "mrp": 120.0,
+        "offer_price": 118.0,
+        "unit_level_price": 118.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c727ebd6-3bb2-41c5-8403-037b2b421ca2",
+        "id": "c727ebd6-3bb2-41c5-8403-037b2b421ca2",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 31,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c727ebd6-3bb2-41c5-8403-037b2b421ca2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H0R1LQ9XZG",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/ceef07d2-145a-4790-8601-200a534609ab_sugar_H0R1LQ9XZG_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f346cc8556236b9c877f7b9888b924c2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4afa871fbac073c4778999ef9f67085c"
+        ],
+        "mrp": 350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 235,
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ANVQ4Q2POF",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H0R1LQ9XZG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 429206,
+        "name": "Aashirvaad Proactive Salt Lite",
+        "brand": "Aashirvaad",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4dbe112b-0bbb-4b56-bef0-fbaac76e9ed3.jpg?ts=1711449012",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/11ab46bb-6f55-4912-a5ce-1e6dba963023.jpg?ts=1711449012",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/42f46fa5-e152-46fe-bbbb-29843ca10611.jpg?ts=1711449012",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/01451910-3476-4ab8-81e3-42a4b909af88.jpg?ts=1711449012",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/be779e7a-3574-4cb8-b590-b48735b114de.jpg?ts=1711449012",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/43d269dc-5313-48da-bb0d-8a1b28828a54.jpg?ts=1711449013",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/22f0e35e-ad86-46a8-9988-1c24684856b7.jpg?ts=1711449013",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2f7a6f00-b98c-4857-8ebb-c737c23b27a2.jpg?ts=1711449013",
+          "http://cdn.grofers.com/app/images/products/sliding_image/429206i.jpg?ts=1625031816"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/429206",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          429206
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f6eed0ee-6c3a-4ff2-bf55-d896f363152f",
+        "name": "Tata Himalayan Rock Pink Salt Pouch, Premium Sendha Namak, With Natural Trace Minerals, Low Sodium, Crystal Salt",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0bb09dbe-3a7c-414a-8b43-8d3e61c6c21b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/63f37ff0-2816-40c9-8bdf-fbcbbbd8153c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/edd6a24b-c60e-4297-a06e-7c6fbeb2bf67.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/75bc77f1-7ff0-4071-acf4-5f6efe534f18.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/66707bb5-d6f4-49f7-911d-d96f81bd94af.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f20379a2-a34c-4e89-9249-527794d742b2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0076f0a0-9612-4572-af09-b0ebf2621646.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/060492af-172e-4dbe-a8d4-2ee7a417b7be.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/72855371-1d5e-45db-b0f1-4f20e9de1fa1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/263db8c8-6962-4470-b827-b145f251ccee.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 57.0,
+        "unit_level_price": 57.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b2d5ef85-e2d9-426f-af07-97efe3c249b7",
+        "id": "b2d5ef85-e2d9-426f-af07-97efe3c249b7",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 35,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b2d5ef85-e2d9-426f-af07-97efe3c249b7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "UXVPH0ST6H",
+        "name": "Urban Platter Pink Himalayan Rock Salt Powder Jar",
+        "brand": "Urban Platter",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/51ee805b-d54c-45d0-b383-8e05eccbcdc5_39878.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/11/78526eac-9e3f-495d-b56e-0e3b7e8cf30e_salt_UXVPH0ST6H_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/11/f676541f-de82-4093-8207-3939c05c3e3c_salt_UXVPH0ST6H_AL2.png"
+        ],
+        "mrp": 400,
+        "x_available": true,
+        "available": true,
+        "offer_price": 388,
+        "unit_level_price": "",
+        "quantity": "1.5 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9G0T5JNP2M",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UXVPH0ST6H"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525554,
+        "name": "Whole Farm Premium Rock Salt (Crystal) (Sendha Namak)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/525554a.jpg?ts=1698769627",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3dd302fe-30c8-4b8d-9fd9-2fc752a7c945.jpg?ts=1743764648",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525554c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/525554d.jpg"
+        ],
+        "mrp": 35,
+        "offer_price": 20,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/525554",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525554
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "81642fbc-b9ab-4396-a3fe-9a601768a613",
+        "name": "Tata Coffee Salted Caramel Cold Coffee",
+        "brand": "Tata Coffee",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1911a912-79c8-4b79-b421-0b3dfd5f70fb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/4f653542-b3e6-45d7-885d-57331181ef6e-/tmp/20230502-0236462.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/cf1bb455-8198-404c-a1f2-798d12db32fb-/tmp/20230502-0236463.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/c847af35-609e-4d5b-b3a3-6c93113f2040-/tmp/20230502-0236474.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/121bd87a-b71a-4eca-a98a-cbfe1792b40e-/tmp/20230502-0236475.jpeg"
+        ],
+        "mrp": 125.0,
+        "offer_price": 125.0,
+        "unit_level_price": 125.0,
+        "quantity": "100 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e695d2c6-4753-466d-bfbd-ff0fef810148",
+        "id": "e695d2c6-4753-466d-bfbd-ff0fef810148",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e695d2c6-4753-466d-bfbd-ff0fef810148"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AODHUOACZH",
+        "name": "Aashirvaad Himalayan Pink Salt",
+        "brand": "Aashirvaad",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/77ebdbd9-9089-42f2-96ce-44badd4f4dc8_95306_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/3bc7db5c-223c-494c-9c4d-a47c57c2dcf4_95306_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/af43d8f7-a6f8-4e7d-9c5a-3e68ac127a2f_95306_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/a1a97d6e-3b55-4fd4-b9d7-24334fb82143_95306_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/395573fd-60ef-4cd9-afa7-c8a99f1df39a_95306_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/23/f55b723c-9d17-4814-934d-2dd4561ab205_95306_6.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 105,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/M8DPFXBAV3",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AODHUOACZH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H9HX7NCSPB",
+        "name": "Puro Healthy Salt",
+        "brand": "Puro",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/06fd821d-692b-4414-9c8b-571696b766f2_8860.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/rvjowes5dmwyywaywvla",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wmlhtzffx1nwhxnpztr6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/g8ra3pdnl5hrebo7xyfm",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/oidzp4l9hdtoekafecwz"
+        ],
+        "mrp": 115,
+        "x_available": true,
+        "available": true,
+        "offer_price": 115,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/10UCZV4KM6",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H9HX7NCSPB"
+        ]
+      },
+      {
+        "id": 381536,
+        "name": "Puro Healthy Salt",
+        "brand": "Puro",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d9f0e993-0f44-4d54-8751-dfdd851fca62.jpg?ts=1742298882",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6049d7f8-0450-405b-81f1-214b2ad1b4ce.jpg?ts=1742298883",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c6a577b9-4c4f-4b61-a381-ff4431116f97.jpg?ts=1742298883",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/78e6e0e4-3247-400d-832b-2d84574a8922.jpg?ts=1742298884",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8122679a-899c-464a-9881-71c04fbebb68.jpg?ts=1742298884",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/597db7c9-93d3-4766-adda-a9a5b3a72085.jpg?ts=1742298885",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7bba6e2-35ab-47dd-a3e1-79bf6e688740.jpg?ts=1742298886",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/aa581772-f64c-45db-828f-7be84985800e.jpg?ts=1742298886",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8a0fccf3-bf30-4204-8ada-10e0a3fd88e9.jpg?ts=1742298887",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eb69e17c-ee33-4b16-8200-3060a9a46700.jpg?ts=1742298887",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/db670710-0fae-4373-8c42-0814735e70b1.jpg?ts=1742298888"
+        ],
+        "mrp": 115,
+        "offer_price": 115,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/381536",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 12,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          381536
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "017961a2-1d00-4160-b75f-815fc488295f",
+        "name": "ZOFF Dried Red Chilli-Khadi Lal Mirchi",
+        "brand": "ZOFF",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/393859f8-2015-4de0-8bb4-8a5bd5f1d52a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/00fa9c48-e11a-418e-9c42-eb35afa88a12.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/58d04957-8c6f-45d1-80ab-a76dc860095a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/19e63a50-788f-4bc3-b66c-28e0deb626cc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8e5c4b25-e0d8-442f-9231-4c5efb132e78.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/941744f1-fb76-40da-93d1-84585abb35df.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 60.0,
+        "unit_level_price": 60.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f954982e-cb38-4c90-bc71-8badd229447a",
+        "id": "f954982e-cb38-4c90-bc71-8badd229447a",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f954982e-cb38-4c90-bc71-8badd229447a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2SPPPRY5RA",
+        "name": "Supreme Harvest Rock Salt",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/b9c15dee-588e-4402-b991-6b2e8d10fd1e_81887.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/2/27/0c29c249-43d1-43bd-96f9-8be477cc3189_salt_2SPPPRY5RA_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/2/27/efa929bf-a18d-437d-80b1-e853bcc06e93_salt_2SPPPRY5RA_AL2.png"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 79,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5CI54B1XXO",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "2SPPPRY5RA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 475792,
+        "name": "On1y Pink Salt",
+        "brand": "On1y",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/475792a.jpg?ts=1695123726",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475792b.jpg?ts=1695123726",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475792c.jpg?ts=1695123726",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475792d.jpg?ts=1695123726",
+          "http://cdn.grofers.com/app/images/products/sliding_image/475792e.jpg?ts=1695123726"
+        ],
+        "mrp": 119,
+        "offer_price": 109,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/475792",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          475792
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c2c1d7a6-7674-406d-9a7e-b34b6d90dd80",
+        "name": "Tata Sampann 100% Pure California Almonds/Badam Giri Whole Premium Quality",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e07f6168-3ee8-4969-9c3b-641727078f3b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/106f4f7a-3835-4ead-94c6-39d9a094ba01.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e6d19ca3-176c-4ca8-a677-99d8d534e904.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d71312d-838c-4ae7-97ab-e2187cb88c57.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1334b077-ac58-4797-84fe-ec44bbec1616.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83a03e84-01ed-4cd6-af3d-f84198633f83.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3d74efdd-6bff-449a-b393-bdd3aa4d8152.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a17a5d76-0007-4a89-90a7-fccac14a4bd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c6c3e560-90b7-43d7-b265-e524663c2ac5.jpeg"
+        ],
+        "mrp": 829.0,
+        "offer_price": 651.0,
+        "unit_level_price": 651.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "id": "0e8c47cb-65ab-40aa-a197-300ab42f3b7d",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0e8c47cb-65ab-40aa-a197-300ab42f3b7d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LWXK420XXY",
+        "name": "Supreme Harvest Crystal Sugar 1 kg + Aashirvaad Iodized Salt 1 kg",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/11/d8345724-ca10-4622-ba32-ebb05373467a_sugar_LWXK420XXY_MN.png"
+        ],
+        "mrp": 110,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/728DL26ZZE",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LWXK420XXY"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 531199,
+        "name": "Whole Farm Premium Powder Black Salt (Kala Namak)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3f9afb0c-2517-4ec3-af92-7893878b9f3d.jpg?ts=1719677499",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b53af508-e513-4919-bd86-bce236ab644d.jpg?ts=1743764716",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531199c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531199d.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 15,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/531199",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 9,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          531199
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "90db0f5f-056d-4215-8925-67333f1c6a51",
+        "name": "Tata Tea Premium Tea 500 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/84b2687d-8df0-4b35-b5a5-04ee215df2a4.jpg"
+        ],
+        "mrp": 620.0,
+        "offer_price": 590.0,
+        "unit_level_price": 590.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/45d56925-5b11-4709-b00b-47df28cfb873",
+        "id": "45d56925-5b11-4709-b00b-47df28cfb873",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "45d56925-5b11-4709-b00b-47df28cfb873"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "V49X4MMNG0",
+        "name": "Organic India Himalayan Organic Pink Salt",
+        "brand": "Organic India",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/e6022d78-1bcd-4760-b1f8-3187e1cf704c_67878.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/40b818b1-2fd0-4745-ba04-06d5d73446f8_67878_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/5186a056-a5aa-4511-b100-c1faa6bd6478_67878_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/14f53db5-2c88-4f37-bd26-d8b70b4b8f31_67878_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/c649b969-f4bd-4fad-bc46-0bd4754a3529_67878_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/6/4feb27aa-bb2e-413f-8c44-8c3d1468bfd2_84923_5.png"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 144,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8Z8EEEI7TN",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "V49X4MMNG0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IQU6LTHGZY",
+        "name": "organic tattva Rock Salt",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/7195f1f8-0701-48fc-909c-984568c9d87c_25430.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/17/1c378de5-e2ac-4a59-9c33-15dec86c9e52_salt_IQU6LTHGZY_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/17/3affdeff-5396-483d-ae4e-3a024bb80da1_salt_IQU6LTHGZY_AL2.png"
+        ],
+        "mrp": 60,
+        "x_available": true,
+        "available": true,
+        "offer_price": 53,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0T1Z177JD1",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "IQU6LTHGZY"
+        ]
+      },
+      {
+        "id": 5451,
+        "name": "Natural Tattva Rock Salt / Sendha Namak",
+        "brand": "Natural Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/5451a.jpg?ts=1700650925",
+          "https://cdn.grofers.com/app/images/products/sliding_image/5451b.jpg?ts=1700650925",
+          "https://cdn.grofers.com/app/images/products/sliding_image/5451c.jpg?ts=1700650925",
+          "https://cdn.grofers.com/app/images/products/sliding_image/5451d.jpg?ts=1700650925"
+        ],
+        "mrp": 60,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/5451",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          5451
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "3aa36383-e0f2-4490-9737-59482d819414",
+        "name": "Delight Nuts Mixed Nuts Roasted And Salted - Premium Quality",
+        "brand": "Delight Nuts",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0e60e68b-ff51-49df-99a8-aaea213806ea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/166f1d6c-29c3-4e82-a477-f040d2b4250e-1WexuJbmqo4D3b7DLynVfr2eIOOQdoDZw.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6b16e0f0-678e-4937-942d-fc8482778032-/tmp/20230621-1147423.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/eeae31af-6c25-4f5a-a62a-931a57fe437a-/tmp/20230621-1147434.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/50500fa5-875c-4906-a18d-090a1f730d44-/tmp/20230621-1147445.jpeg"
+        ],
+        "mrp": 499.0,
+        "offer_price": 332.0,
+        "unit_level_price": 332.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/166f1d6c-29c3-4e82-a477-f040d2b4250e",
+        "id": "166f1d6c-29c3-4e82-a477-f040d2b4250e",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "166f1d6c-29c3-4e82-a477-f040d2b4250e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P3MB65WNGV",
+        "name": "Madhur Sugar & Tata Iodized Salt Pouch Combo",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/29f85a6f9b6d4775049e5c5ba10e2a3d"
+        ],
+        "mrp": 95,
+        "x_available": true,
+        "available": true,
+        "offer_price": 83,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RQGQ85HX6E",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "P3MB65WNGV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JKZUJ2QCWU",
+        "name": "Catch Black Salt (Sprinkler)",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/unukhhq3dkw4y0ytmll8",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/kwumaoohbwtrxmqm30yp",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/zldtd996ra0grhw6alam",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/o3tzk5rzbjezemjyqw2s",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e0uwfktxyhskpcmfkss1"
+        ],
+        "mrp": 47,
+        "x_available": true,
+        "available": true,
+        "offer_price": 47,
+        "unit_level_price": "23.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/J5PN92PAJ5",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WDNCKH7S3Z",
+          "JKZUJ2QCWU"
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Catch Sprinklers - Black Salt (Kala Namak)",
+        "brand": "Catch",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/16d403c2-5c24-4bd1-a86d-9ee94b848904.jpg?ts=1723622145",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c89025dc-9c40-48c5-a044-14c84bf1d844.jpg?ts=1718869831",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bf7280c1-12c7-4280-8429-35d7f1c01dac.jpg?ts=1718869832",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b7e4a322-0b21-40be-bee7-6e137d080e7d.jpg?ts=1718869834",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b9f37533-b6c1-4fc0-8645-0495a85b93ff.jpg?ts=1718869835",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/571503c3-92e5-4a9c-881a-3618541f8f7a.jpg?ts=1718869836",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/dc6fff44-fb47-4452-84d2-8606f5f82b11.jpg?ts=1718869837"
+        ],
+        "mrp": 47,
+        "offer_price": 47,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/108",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "482d786f-f676-4305-858a-022d15963533",
+        "name": "Eureka Forbes Atom 600 Watts Corded Handheld Vacuum Cleaner(Red)",
+        "brand": "Eureka Forbes",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d93a5f82-f543-4861-bdc1-d7db65c70d85.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ee1a55d8-3e76-4770-8d5e-cad18980b19b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/59398fa3-c665-4033-93cb-7ea96f788529.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06cca9d9-f5f5-4d8f-811c-0b2c30588f73.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7e794e2e-31be-4aa9-b4ea-c3d3e4cd6d31.jpg"
+        ],
+        "mrp": 4500.0,
+        "offer_price": 2599.0,
+        "unit_level_price": 2599.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f6a193bd-42f8-4592-ae09-54d69cd972c5",
+        "id": "f6a193bd-42f8-4592-ae09-54d69cd972c5",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f6a193bd-42f8-4592-ae09-54d69cd972c5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527975,
+        "name": "Whole Farm Premium Rock Salt / Sendha Namak Powder (Sendha Namak)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/527975a.jpg?ts=1698769629",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9134a59c-6c51-4816-b7d3-24ad44311c73.jpg?ts=1743764729",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527975c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527975d.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 23,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527975",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527975
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "23aef278-7bf1-4a55-a3cc-473b3d4037c8",
+        "name": "Tata Coffee Grand Premium 100% Coffee Blend Instant Coffee Pouch 45 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d474f3d6-c159-4cac-abdb-14f78f9b3d3b.jpg"
+        ],
+        "mrp": 400.0,
+        "offer_price": 328.0,
+        "unit_level_price": 328.0,
+        "quantity": "45 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/4236168a-4335-4365-acfe-c341f4b4c0c3",
+        "id": "4236168a-4335-4365-acfe-c341f4b4c0c3",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "4236168a-4335-4365-acfe-c341f4b4c0c3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 217110,
+        "name": "On1y Grinder Black Salt (Kala Namak)",
+        "brand": "On1y",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110a.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110b.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110c.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110d.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110e.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110f.jpg?ts=1695123619",
+          "http://cdn.grofers.com/app/images/products/sliding_image/217110g.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 91,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/217110",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          217110
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "20d5cbb2-bcff-4d06-ad6a-91bdf8f09f1b",
+        "name": "Colgate Active Salt Toothpaste Daily Germ Protection Healthy Gums & Teeth Combo Pack",
+        "brand": "Colgate",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/215e1666-47ec-4638-96ad-121e2ec92d19.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/59659c52-0566-41f5-87ac-351f69488842.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c6a315a9-40f9-47d9-abd1-d69c72a3c336.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af275a10-bb6f-4493-93f9-46e6f810e66d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f52f55c6-0480-4275-916d-58d7b64600b4.jpg"
+        ],
+        "mrp": 315.0,
+        "offer_price": 277.0,
+        "unit_level_price": 277.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6f211df4-8de0-4640-9280-e2a8d33cb500",
+        "id": "6f211df4-8de0-4640-9280-e2a8d33cb500",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6f211df4-8de0-4640-9280-e2a8d33cb500"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WDNCKH7S3Z",
+        "name": "Catch Black Salt (Sprinkler)",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/41652a8b-a558-4e8d-b0b7-47fac3dbcffc_916601.png"
+        ],
+        "mrp": 94,
+        "x_available": true,
+        "available": true,
+        "offer_price": 90,
+        "unit_level_price": "22.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/J5PN92PAJ5",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WDNCKH7S3Z",
+          "JKZUJ2QCWU"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 544594,
+        "name": "Tata 100% Pure Cold Pressed Groundnut Oil / Peanut Oil",
+        "brand": "Tata",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2eb3b98-0e3b-4e90-b570-2e64baa856b1.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e670a191-26d2-47fd-a4bc-c82101820a04.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fabdeabe-f48c-4c5f-bb79-ff1e5121d4b2.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4dd5330f-bc05-4191-ab33-e53e10ba49ef.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fa506c8b-fe07-4706-bc5f-11a87e5fade2.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e36e4688-6245-4881-895d-601f92149962.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/10b97b6e-ad30-4fb7-a7f8-43ebb012c308.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5ca6e634-13e6-4a8a-93d8-a51793b44ae2.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/94ee2188-e57c-4488-94ea-32524c61b82a.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c895595a-d744-4774-b609-5f8c008f8f34.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a02d94ef-b6bb-44e7-b1c7-811a7d5d5f3c.jpg?ts=1719249996",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/71364413-8ef5-4636-9030-d2611090ed56.jpg?ts=1719249996"
+        ],
+        "mrp": 500,
+        "offer_price": 336,
+        "unit_level_price": "",
+        "quantity": "1 ltr",
+        "deeplink": "https://blinkit.com/prn/x/prid/544594",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          544594
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f5506476-f767-44c4-867d-3faf2d7be182",
+        "name": "Mr Makhana Super Snack - Himalayan Salt And Pepper 55 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b1d940a0-4289-4c1b-bc0e-639be8b47cf4.jpg"
+        ],
+        "mrp": 300.0,
+        "offer_price": 246.0,
+        "unit_level_price": 246.0,
+        "quantity": "55 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a3efb76a-731f-4c31-86da-c96b189f3ab3",
+        "id": "a3efb76a-731f-4c31-86da-c96b189f3ab3",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a3efb76a-731f-4c31-86da-c96b189f3ab3"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 405806,
+        "name": "Tata Sampann High In Fibre Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2b30b87e-cb59-4feb-bec6-43846a0deed5.jpg?ts=1731402119",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bcab2452-4145-4459-a8cc-8a831dc13ad4.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/99ebb899-1af3-4cd7-9053-860a01f3323d.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f69f187a-57ea-43aa-a14a-f552f47d9c29.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/30803461-e410-4bb8-a5dc-863412d27004.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f6d4ee25-bbb5-4218-9d7d-94eb16ff20e2.jpg?ts=1731402121",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bf58ea7-a37e-4cf7-b1a7-979d01725946.jpg?ts=1731402121",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/768301ed-ee6e-42be-a7b8-612f6f0999d5.jpg?ts=1731402122",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ad2e3cb-aa31-44e9-961f-6daa1bcbb654.jpg?ts=1731402122",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0894903d-6796-4785-bb80-622334ce719f.jpg?ts=1731402122"
+        ],
+        "mrp": 61,
+        "offer_price": 49,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/405806",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 46,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          405806,
+          460667
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a07ee9f9-9ea7-4948-a70a-43f4ef01bc67",
+        "name": "Daily Good Pistachios California Salted",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/76cbb628-78b3-43eb-ad43-92ead68bf600.jpg"
+        ],
+        "mrp": 855.0,
+        "offer_price": 570.0,
+        "unit_level_price": 570.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/138a48ca-64fb-4d72-ab95-e486d8d39df8",
+        "id": "138a48ca-64fb-4d72-ab95-e486d8d39df8",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "138a48ca-64fb-4d72-ab95-e486d8d39df8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "F0OKPFUWHB",
+        "name": "Catch Premium Pink Rock Salt",
+        "brand": "Catch",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/f0505feb-f746-4957-9291-9c0fbb9e1175_14631.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8e9c7a6c798e2955290c89267fcfda53",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fe26bb2516534f88bcf33be7c68b10bd",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/88b0a5273ea1df5e8a883287a156d25c",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dcf9a8ba9bc38c921597bf7c8213e3f4"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 88,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TNQRGUJNE7",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F0OKPFUWHB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 460667,
+        "name": "Tata Sampann High In Fibre Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a36a94aa-4166-487c-ba92-0fb9df736981.jpg?ts=1731402133",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f0c59ebe-e7b3-4daa-93b8-1d33020c0c6e.jpg?ts=1731402133",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c608c556-c357-4472-a87f-54a39f3928b1.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b1fd43cf-4441-4b8f-85ee-c669eb507d93.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/60894894-6543-4a89-944e-839916dc8f02.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/beaf4939-2c49-41ab-9cb3-a43e4e1b772d.jpg?ts=1731402135",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8381f6a3-0261-4210-8777-fb3075c0cbfe.jpg?ts=1731402135",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d32bfc1f-696c-40d4-a934-96c12e7b4348.jpg?ts=1731402136",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ec891dc-18b5-44b7-84dd-cb7ba5cf8d7c.jpg?ts=1731402136",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/44b25c68-8acb-4b11-88c0-1e6f2c4f9dd6.jpg?ts=1731402136"
+        ],
+        "mrp": 120,
+        "offer_price": 93,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/460667",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 22,
+        "parentIndex": 16,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          405806,
+          460667
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0c58193e-fc41-4e3a-8a64-786641cd3153",
+        "name": "Daily Good Walnut / Akhrot Broken Kernels(200gms) & Daily Good Pistachios California Salted(100gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8e72d57b-e12a-4213-b673-193610ebd212.jpg"
+        ],
+        "mrp": 474.0,
+        "offer_price": 387.0,
+        "unit_level_price": 387.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6008f5b8-f230-49bf-af0d-c2a93d7204d1",
+        "id": "6008f5b8-f230-49bf-af0d-c2a93d7204d1",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6008f5b8-f230-49bf-af0d-c2a93d7204d1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "98DG1XN9O2",
+        "name": "Supreme Harvest Crystal Sugar",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/ff5f4dc1-c3f9-42f1-a1ee-d79ba53c24c2_15755.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 51,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/2UDNQI8MR0",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "98DG1XN9O2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 39493,
+        "name": "Tata Sampann Unpolished Toor Dal/Toor Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64729800-0e10-489b-bced-9f50c775743b.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3d93035-90e7-45b8-bf53-d56928321e13.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ec5e07ec-a144-4052-a502-935e0c4bf1da.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0f9e197d-62dc-41c3-ae2b-046cd471a819.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/686f93cb-fa62-4d05-a9b2-05c23028f3f5.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/dd296646-9cdf-4c39-8c3e-a3f859db8478.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e4f39e21-5367-43a6-ba42-8946dd50743e.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/21d5e40b-613f-4ae4-b963-92491214f784.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5d98ce47-7f93-4007-a897-73c265853a1c.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7b4c64e0-d97a-4506-a3e4-6a85ece766c5.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7ae08428-65b5-4110-89b8-4b25d8ef7d9d.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b28cdb71-6e22-47e3-bcc8-e0379d314410.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b8f85b82-f54a-4c2c-ae45-612ce00c06dd.jpg?ts=1733828007",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8d71b04f-f231-4e70-8baf-8905279e98d1.jpg?ts=1733828007"
+        ],
+        "mrp": 224,
+        "offer_price": 171,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/39493",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 28,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          39493,
+          305650
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "09944ab8-90dd-470f-ac78-a49ab4a97e3e",
+        "name": "Tata 1Mg Salmon Omega 3 Fish Oil Capsules Pack Of 90",
+        "brand": "Tata 1Mg",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a80cf52c-fea1-46c6-a5d4-5301494ee599.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/17c9eedc-83d0-44a8-b93c-8fb2832e7ac9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ac562bd2-e788-465d-bc9e-ab16fec5cb87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a3f8d07c-1124-4949-ab3a-1e0891ffc3b5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ff0b7f4-e3ca-49f8-a7bf-77b58ffefa0c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1bcd9709-19f9-424b-8a60-d2884bfb29bc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6202bbd4-2469-4f12-aaf8-ff36ece5b057.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a97ddd6e-bd0d-475b-9277-d0c01a3c66cf.jpeg"
+        ],
+        "mrp": 875.0,
+        "offer_price": 595.0,
+        "unit_level_price": 595.0,
+        "quantity": "1 pack (90 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3cfba755-386a-4fc8-b884-9d98159650f5",
+        "id": "3cfba755-386a-4fc8-b884-9d98159650f5",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3cfba755-386a-4fc8-b884-9d98159650f5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5WCFIMANCY",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/149b1c2550fd66503fb70eb276313c2a"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 111,
+        "unit_level_price": "55.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 305650,
+        "name": "Tata Sampann Unpolished Toor Dal/Toor Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0aaf38ee-a97d-4f8d-a933-b73538fad7f8.jpg?ts=1734350813",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0a852b01-0285-4a1c-be60-63ee54342ad0.jpg?ts=1734350813",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66b8a3a7-36c0-45ad-b1e9-e1f9b11f35ff.jpg?ts=1734350814",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8870c453-feb3-44c5-aff0-eedf6f89fd6a.jpg?ts=1734350815",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e96c7b5e-926e-4ee3-ba9d-ab68cf4f6159.jpg?ts=1734350815",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4c74eac3-7067-4a37-b011-ef1a423c3e2a.jpg?ts=1734350816",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3d05dbe4-ce5f-4cbc-97fb-32c6efa6dd88.jpg?ts=1734350817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/de1ed603-cfbd-499b-8994-c58e8a18af6f.jpg?ts=1734350817",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/42edc51d-4ece-4433-8964-28401d30faf9.jpg?ts=1734350818",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5786540b-f800-47f7-9151-09fb7cf90607.jpg?ts=1734350819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ae29b9f2-8985-429a-b383-7f504b979882.jpg?ts=1734350819",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/58e56750-dd18-41d4-a819-400c6258b589.jpg?ts=1734350820",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7435eaee-f847-471e-9189-45befb504709.jpg?ts=1734350820"
+        ],
+        "mrp": 113,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/305650",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 14,
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          39493,
+          305650
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "389fdd75-bb30-4b63-b895-101176c88efe",
+        "name": "Daily Good Pistachios California Salted",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bb0e0694-d9bf-45da-977b-905292390fc1.jpg"
+        ],
+        "mrp": 450.0,
+        "offer_price": 331.0,
+        "unit_level_price": 331.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/890ac239-11b0-43be-8103-3432b1de6d5c",
+        "id": "890ac239-11b0-43be-8103-3432b1de6d5c",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "890ac239-11b0-43be-8103-3432b1de6d5c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ALDBDE0VUV",
+        "name": "Madhur Pure & Hygienic White Sugar",
+        "brand": "Madhur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d1dbda41b751502bebc6c210e1329635",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db94688bd3be92cb6e2d13b276f7d239",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a72c91ce75be67d7612ad25d47d40137"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 56,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/WCXTCV0VP8",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5WCFIMANCY",
+          "ALDBDE0VUV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 15486,
+        "name": "Tata Sampann 100% Chana Dal Fine Besan/Gram Flour",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e1a06361-f91c-4e91-8897-e0ba7e8fbcc0.jpg?ts=1720775773",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48572b3a-0ef1-47bb-8a4c-9f8605ad4858.jpg?ts=1738822778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f0fe7957-74be-46b4-b09c-142f21e0da78.jpg?ts=1738822778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d6dd61a-087c-432e-a33e-afe647982ffd.jpg?ts=1738822778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f3d7ef4f-7ade-4e6a-8977-7ce236cb7173.jpg?ts=1738822778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/83df31f6-606b-422c-b8b8-3d6dcea99b94.jpg?ts=1738822778",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/50bb78e6-c35b-40ae-8814-c2a37f3a08da.jpg?ts=1738822779",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/55ab307b-7746-4027-a672-6b4a82f9a806.jpg?ts=1738822779",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d94b17f3-7409-4cc4-9a64-8acfaf9dba59.jpg?ts=1738822779",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b2ae769e-ce80-480e-b2fc-c7ad45e026a7.jpg?ts=1738822779",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/47ca8e61-0057-4332-acd9-09d6b80ded9a.jpg?ts=1738822779",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/58565d1c-9f82-4ad2-94e2-0a92faee2910.jpg?ts=1738822779"
+        ],
+        "mrp": 80,
+        "offer_price": 58,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/15486",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          15486,
+          309447
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e1cf8769-7ad0-45d3-95cd-cdb134dd2781",
+        "name": "INALSA Vacuum Cleaner Ozoy Plus,700W Motor&14Kpa Suction,Hepa, 2-In-1 Handheld&Stick Vacuum Cleaner",
+        "brand": "Inalsa",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31ea3a3d-358c-48dd-9784-fb66b550dba0.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1c932809-0f6e-4a6d-9bdd-65946bda3ad8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2178c6ae-5f8e-4586-b210-37950591e869.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/11a10da2-5da8-469c-9985-8e6d9aa5d7ed.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0521e159-0bda-4f08-9bf5-6b3df890b352.jpg"
+        ],
+        "mrp": 3995.0,
+        "offer_price": 2095.0,
+        "unit_level_price": 2095.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5bdae36d-f059-4378-8843-fad7de963181",
+        "id": "5bdae36d-f059-4378-8843-fad7de963181",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "5bdae36d-f059-4378-8843-fad7de963181"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AK076W09AM",
+        "name": "Natureland Organics Himalayan Rock Organic Pink Salt",
+        "brand": "Natureland Organics",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/677bc08a-d737-4289-8f00-489183bb9fec_90542.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fcc598dc64e8827654f44143d43c2fa3",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/6ca69618b69af814e5bc145bbe9ad62f"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 42,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MLRJ0JDAE7",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AK076W09AM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 309447,
+        "name": "Tata Sampann 100% Chana Dal Fine Besan/Gram Flour",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6e3a16f0-78ad-4d78-8ae9-c0c6a5413e14.jpg?ts=1719296056",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fc5d994d-f13f-432d-85ef-0e454e250925.jpg?ts=1738822835",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fbb62ba6-13e9-46da-941e-02e26c0130e0.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/830febcb-bb4c-4128-8db9-49d26ae77e36.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e788c221-6dde-4ea4-87e9-cf94c07f7daf.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ba2794e-bbd7-46a6-bca8-17482a1c1459.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c7674f77-026a-483f-acbc-6a7a53170646.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cad13f36-8598-47a0-8f08-b2fa32fc8fae.jpg?ts=1738822836",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f5c01116-1e78-4e2e-88e9-452166eb3514.jpg?ts=1738822837",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6fddda85-ba17-4128-b48b-e1796cb037d7.jpg?ts=1738822837",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b4f510bb-1a42-4ff4-998e-0d3a3ab4a587.jpg?ts=1738822837",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d850acd9-86e8-4f82-b582-13f7d92c358f.jpg?ts=1738822837"
+        ],
+        "mrp": 158,
+        "offer_price": 108,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/309447",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 11,
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          15486,
+          309447
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8c043a80-ecb4-4ada-80f8-a3f33570d07c",
+        "name": "The Whole Truth Sea Salt Dark Chocolate",
+        "brand": "The Whole Truth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d3557f1-3b06-4aef-9479-7db746e43295.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6a72d1e0-d7dc-43e9-8e1d-e98adf625083-/tmp/20230324-0627202.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d14c5e20-19f5-4ff4-baf0-a163e0f2ce7b-/tmp/20230324-0627223.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/5df9952a-421c-4abd-90d9-4975db0bcf7c-/tmp/20230324-0627234.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/ea75f9ad-2d1c-474c-b7db-419938b456eb-/tmp/20230324-0627245.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 320.0,
+        "unit_level_price": 320.0,
+        "quantity": "80 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c93be03a-efca-4be9-b342-766b48e248ba",
+        "id": "c93be03a-efca-4be9-b342-766b48e248ba",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c93be03a-efca-4be9-b342-766b48e248ba"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PW4W27UWIL",
+        "name": "24 Mantra Natural Saindhava Lavana Powder Rock Salt (Sendha Namak)",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/29/4e855081-670c-4545-a73b-3ad9998ed841_44865.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d7efaf72b4e4ac02b1fb881c5bcb0597",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/2018fc1acf824d3f17bc849833d5e393"
+        ],
+        "mrp": 240,
+        "x_available": true,
+        "available": true,
+        "offer_price": 168,
+        "unit_level_price": "84/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/P3ILGUP868",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PW4W27UWIL",
+          "DRPBG1POQW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 57903,
+        "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bbb8b649-8c94-4dbe-b2ff-af3363de072c.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b15ab712-c97e-4967-8705-9cc1155b562f.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0621490f-d12a-452c-a765-f8f9f41f8e7e.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48bdcdc6-4503-4538-97f7-a628e27fb207.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1c066818-9263-4e8e-83b3-4613e79704c3.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e8a9213f-f0f4-4909-8dac-d9ec48bcd0a0.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/526560ed-033f-4ded-8945-b24ac9ae84f4.jpg?ts=1736609573",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3860dad-d86f-48f4-b769-9abadc48d9a8.jpg?ts=1736609573",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/686897d6-cd0f-4008-83c1-d48523c505d7.jpg?ts=1736609574",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f03d56bf-1f5b-4f9a-81a7-f9387fce8419.jpg?ts=1736609574"
+        ],
+        "mrp": 103,
+        "offer_price": 96,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/57903",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 17,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          57903
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9ff45755-d6c7-470c-8d86-1fd7ba82d48b",
+        "name": "Tata Sampann 100% Pure Premium Cashews/Kaju Whole",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2aa3a699-01ca-4bd5-ace4-b155f30f58e2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4048e6c4-24e3-42da-a367-276d47e7c3ae.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ce48bede-ad85-4b7d-a58b-72898848dd3e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4fcd1d3f-4f4f-4d51-97d7-724482c8d50f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/67c88950-5221-45cb-a8c7-9d3f2909321e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d785b98e-3ddd-4e7d-ab00-42de6cc0c2ce.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/19175466-d88c-47ab-bccb-c95af2209199.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/262feba2-8381-4b1d-8941-5b9d77005767.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae1b42c0-f63a-4c59-bc29-484c821de56e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4430c962-dd82-4779-8e94-f735ed758cb5.jpeg"
+        ],
+        "mrp": 775.0,
+        "offer_price": 613.0,
+        "unit_level_price": 613.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/00e9993a-f99f-4665-b27b-08986a4656ba",
+        "id": "00e9993a-f99f-4665-b27b-08986a4656ba",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "00e9993a-f99f-4665-b27b-08986a4656ba"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "DRPBG1POQW",
+        "name": "24 Mantra Natural Saindhava Lavana Powder Rock Salt (Sendha Namak)",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/920d02f3-d133-4902-8440-51eb52f7038c_5023_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/15ee79ac-c72c-4a1c-aea6-9afa7ef3c4fd_5023_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/2b3ade5f-1a2d-4f82-bf21-7f6b0dc94142_5023_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/27/cdf17474-ddf5-41f7-bb44-6ffe70e12841_5023_4.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 98,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/P3ILGUP868",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PW4W27UWIL",
+          "DRPBG1POQW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6a13b0d6-15f4-49ad-95de-046c1f887cba",
+        "name": "Uncle Chips Plain Salted 80 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c0d066a3-6de3-4e74-a3e0-806d744a4ed0.jpg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 164.0,
+        "unit_level_price": 164.0,
+        "quantity": "80 g X 4",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f7c8b6d1-b65b-4241-a70c-3bf74d91da10",
+        "id": "f7c8b6d1-b65b-4241-a70c-3bf74d91da10",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f7c8b6d1-b65b-4241-a70c-3bf74d91da10"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ddfce3e9-349c-4d20-8da1-a5d83914488d",
+        "name": "Salt Balance Mouthwash Alkaline Probiotic With Basil Mint Flavor",
+        "brand": "Salt",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/922bda81-f261-469d-ba5b-197a4e23b82c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f6f48858-d360-4b51-886c-425ee9b464dc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/62edeaf8-a76b-4e01-aa69-50a686750023.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/46f62e5a-57d6-4a71-bef0-64e7a90ae46e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c4de342-966a-4bcc-8e2a-9e2be8f247a8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c4dc1d7b-18f9-430a-a4c2-44858ab085ec.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/52f2b8b0-eb78-4e90-b78b-632e3dea45ba.jpeg"
+        ],
+        "mrp": 550.0,
+        "offer_price": 458.0,
+        "unit_level_price": 458.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/eb488264-89ef-4761-b675-7ef86957453d",
+        "id": "eb488264-89ef-4761-b675-7ef86957453d",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "eb488264-89ef-4761-b675-7ef86957453d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f9c69eda-8e0a-4435-8d47-10ac75d2e026",
+        "name": "Tata Coffee Degree Kaapi Filter Coffee",
+        "brand": "Tata Coffee",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ad8616c7-234c-492e-baef-88d489b8b34b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/28a6f7f0-2072-40f9-8f4a-9f87e71277be.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/75948eb9-c144-4812-b78c-a139eb75954d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/162746d7-ef7d-411c-bdc0-e474a5013c5c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/67b6a936-2763-48af-ad07-71bb6a4dddff.jpg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 162.0,
+        "unit_level_price": 162.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2cda41f8-3419-410b-839c-0121283d7e4d",
+        "id": "2cda41f8-3419-410b-839c-0121283d7e4d",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2cda41f8-3419-410b-839c-0121283d7e4d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2afda1eb-a067-4d38-81af-be05a858933c",
+        "name": "Eno - Lemon Fruit Salt Sixer Pack 6 pc Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/199d8ca3-ea5b-4911-bc1d-899f1f231529.jpg"
+        ],
+        "mrp": 198.0,
+        "offer_price": 177.0,
+        "unit_level_price": 177.0,
+        "quantity": "6 pc X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/148fbdcb-205a-44cd-9700-bfd823c2c796",
+        "id": "148fbdcb-205a-44cd-9700-bfd823c2c796",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "148fbdcb-205a-44cd-9700-bfd823c2c796"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "649787e2-2ee3-4d5b-83a1-e090ce3c7775",
+        "name": "Kent \u200eStorm Vacuum Cleaner",
+        "brand": "Kent",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cff30e4a-8ed8-4908-919c-5af4c89605cd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f35c40a6-4f04-433f-af4f-33985f1d24c3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/747d7475-4439-4154-81fd-bf542b2ef1d5.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/21c96cd5-9a59-47f1-8709-de2afd8c5039.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6e27cbe1-126a-4581-b478-e23d6e5482bc.jpg"
+        ],
+        "mrp": 5950.0,
+        "offer_price": 2189.0,
+        "unit_level_price": 2189.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3102c223-cbc2-499e-b5aa-7e7a2fbe2b94",
+        "id": "3102c223-cbc2-499e-b5aa-7e7a2fbe2b94",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3102c223-cbc2-499e-b5aa-7e7a2fbe2b94"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c22db7d5-e257-4a87-b1e7-38553a3f0eea",
+        "name": "Daily Good Cashew / Kaju Split(100gms), Daily Good Almond / Badam (California)(100gms) & Daily Good Pistachios California Salted(100gms) & Daily Good Walnut / Akhrot Broken Kernels(200gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/99648496-d6cc-4a24-b25d-0700e1df1ed8.jpg"
+        ],
+        "mrp": 784.0,
+        "offer_price": 665.0,
+        "unit_level_price": 665.0,
+        "quantity": "4 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/484ea167-01bc-4130-a69b-ae626c50b36f",
+        "id": "484ea167-01bc-4130-a69b-ae626c50b36f",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "484ea167-01bc-4130-a69b-ae626c50b36f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0cbf4384-8305-4677-98c7-cf7ec77df7b4",
+        "name": "Modern Kitchens Banana Chips Salted 70 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ebc1c37d-fd63-4f50-a0e9-aa88b73e4669.jpg"
+        ],
+        "mrp": 180.0,
+        "offer_price": 147.0,
+        "unit_level_price": 147.0,
+        "quantity": "70 g X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f39d0dd5-3122-42a2-8e8a-a16f3e6a120d",
+        "id": "f39d0dd5-3122-42a2-8e8a-a16f3e6a120d",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f39d0dd5-3122-42a2-8e8a-a16f3e6a120d"
+        ]
+      }
+    ]
+  }
+]

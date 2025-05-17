@@ -1,0 +1,4426 @@
+[
+  {
+    "data": [
+      {
+        "id": "40201018",
+        "name": "Kitchen Roll - 2 Ply",
+        "brand": "bb home",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40201018_4-bb-home-kitchen-towel-2-ply-100-virgin-pulppaper.jpg"
+        ],
+        "mrp": "165",
+        "offer_price": "132",
+        "unit_level_price": "",
+        "quantity": "60 Pulls",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40201018",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40201018"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 540367,
+        "name": "True Elements White Sesame Seeds (Safed Til)",
+        "brand": "True Elements",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367a.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367b.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/540367f.jpg"
+        ],
+        "mrp": 200,
+        "offer_price": 96,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/540367",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          540367
+        ]
+      },
+      {
+        "id": "3G5QIA54G6",
+        "name": "True Elements White Sesame Raw Seeds High in Protein and Dietary Fibres",
+        "brand": "True Elements",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/9/1327c816-89fb-49ef-9d62-16ae234773d7_3G5QIA54G6_mn.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/9/52bd4348-c35e-423d-96f3-0f8fa227c886_3G5QIA54G6_al1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/22/09a121dc-295e-4424-9391-1fb27d1fd6fb_masalaandspice_3G5QIA54G6_AL2.png"
+        ],
+        "mrp": 200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 200,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/F61MI8W4YT",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3G5QIA54G6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "89785535-dcd0-47b8-8e8a-c6cf22f30b99",
+        "name": "Indic Wisdom Wood Pressed White Sesame Oil | Cold Pressed - Extracted on Wooden Churner",
+        "brand": "Indic Wisdom",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ad16a6c3-6c19-4818-a289-56416721902a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1hZ4gYhonOVLbAYSOi803O2yJMz86sM7w.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1hghKXBqPC5H4JMA1ZbiCRPoVOtAtKL9J.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-1Kx_aU2o0Not9FT7qu9hnzMgfTRTnJ-o4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e364760c-8322-49d2-a040-b9698348075e-188Wf4TtfF_cyDzUSffhv1ar5PpS6Vi-9.jpeg"
+        ],
+        "mrp": 600.0,
+        "offer_price": 479.0,
+        "unit_level_price": 479.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e364760c-8322-49d2-a040-b9698348075e",
+        "id": "e364760c-8322-49d2-a040-b9698348075e",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e364760c-8322-49d2-a040-b9698348075e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "605379345",
+        "name": "JIGSHTIAL Flipkart SmartBuy Clear Glass Water Jug with Lid 1.1 L",
+        "brand": "JIGSHTIAL",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgkqxwcvx/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l-product-images-orvgkqxwcvx-p605379345-0-202310020527.jpg"
+        ],
+        "mrp": 999,
+        "offer_price": 459,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l/605379345",
+        "id": "605379345",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "605379345"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "FDIG27Q28T",
+        "name": "Supreme Harvest Til White (Sesame White)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/b2ee63ec-fbdc-4563-bca2-63d50c81f6e9_masalaandspice_FDIG27Q28T_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 71,
+        "unit_level_price": "35.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/35QAZEBZMY",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "FDIG27Q28T",
+          "9AMH4X5NWV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "19004",
+        "name": "DMart Premia Til White ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000430xx20NOV21_5_P.jpg"
+        ],
+        "mrp": 127,
+        "offer_price": 93,
+        "unit_level_price": "(\u20b9 0.19 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/premia-till-white?selectedProd=19004",
+        "id": "15157",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "15157"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528030,
+        "name": "Whole Farm Premium White Sesame Seeds/Til",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528030a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/47fd4877-c2cb-428e-b39b-543339567269.jpg?ts=1743764673",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528030c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528030d.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 38,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528030",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528030
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ac78ed2d-dcf3-4080-b8a2-a27c3b3a22c6",
+        "name": "Popular Essentials White Til",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1cca6848-e786-4148-9a2f-7ad8bcef9e48.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/2c9b3998-cdd8-4abb-8bad-f8eaf34acfff-1w1KRN_Fl5_45qlV50sjBktPOXdORkpz3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/2c9b3998-cdd8-4abb-8bad-f8eaf34acfff-1XShSV6rtOljO9KP5G64frblB6-gopz8a.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 44.0,
+        "unit_level_price": 44.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2c9b3998-cdd8-4abb-8bad-f8eaf34acfff",
+        "id": "2c9b3998-cdd8-4abb-8bad-f8eaf34acfff",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2c9b3998-cdd8-4abb-8bad-f8eaf34acfff"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9AMH4X5NWV",
+        "name": "Supreme Harvest Til White (Sesame White)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/2/5ba5eaf8-93b3-4e15-8cb5-fb2d9547590d_15730.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b72984ed6187a7bc109a707cae628255",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/14717731f7521ca4c439e3f841d354be"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 36,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/35QAZEBZMY",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "FDIG27Q28T",
+          "9AMH4X5NWV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "267629",
+        "name": "2 Ply Kitchen Tissue Paper Roll",
+        "brand": "Origami",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/267629_6-origami-2-ply-kitchen-towels.jpg"
+        ],
+        "mrp": "190",
+        "offer_price": "180.5",
+        "unit_level_price": "",
+        "quantity": "2 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/267629",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "267629"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 541141,
+        "name": "On1y White Sesame Seeds",
+        "brand": "On1y",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/541141a.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/541141b.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/541141c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/541141d.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 62,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/541141",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          541141
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "5a814456-6232-43c2-931a-63466e9253c5",
+        "name": "Daily Good Till - Sesame Nylon White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf9d6720-ebe9-4b92-a6ed-0ad5cf88fe8d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/181be8f3-f5fe-4659-9571-b4ddcddcf3c3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8b0d6986-f390-46af-a0cc-36dab3b60737.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6273142c-d4a1-49f8-99b0-10191674ea91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3fb3327-abcc-42b9-ab02-22d5f413b40c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e67965a0-c8c3-43e5-86a9-d5f331f2495f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47cdaa8c-161e-48f0-880e-d8aedaf6a939.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 50.0,
+        "unit_level_price": 50.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/52307443-1765-459a-b23d-5fdb64265c92",
+        "id": "52307443-1765-459a-b23d-5fdb64265c92",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "52307443-1765-459a-b23d-5fdb64265c92"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "I9VVAAZW8O",
+        "name": "Supreme Harvest Til Black (Sesame Black)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/c0a5b88e-1fb0-4abd-8a63-598bcbd0911d_masalaandspice_I9VVAAZW8O_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/423856fc745aef8b19c05109e47e17a4",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/060068cfed2bb138ad6e90445ecde437"
+        ],
+        "mrp": 142,
+        "x_available": true,
+        "available": true,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ISUV8J9ALI",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "I9VVAAZW8O"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "713231",
+        "name": "SHR Til White ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB110002070xx26FEB23_5_P.jpg"
+        ],
+        "mrp": 64,
+        "offer_price": 47,
+        "unit_level_price": "(\u20b9 0.23 / 1 gm)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/shr-til-white-pwholespice0shrt47xx80520?selectedProd=713231",
+        "id": "712229",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "712229"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528751,
+        "name": "Whole Farm Grocery Nakul Dana / Elaichi Dana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/26fc15eb-41b1-422e-b7bb-a6a690493bf6.jpg?ts=1725341822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7909305-ccdb-42f7-8349-f0a32fcb9698.jpg?ts=1743766979",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/288f89c5-cef9-47be-989d-7f83978b8b34.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f640691b-9e73-401f-8e71-8e723d2e4087.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/647a3daf-912d-4294-89d3-dcf1efc563a0.jpg?ts=1725341822"
+        ],
+        "mrp": 39,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528751",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528751
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7849aab7-c893-4411-855b-7fd68c866c59",
+        "name": "True Elements White Sesame Raw Seeds",
+        "brand": "True Elements",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b0d0a80b-3880-432f-b980-11db9407495a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/23ff6c72-7b5d-4fa5-b22a-b247ea7c858a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/06374ca2-74c2-426b-8fd2-33c0a618e05a.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4735b611-40d2-478b-b15a-a39dffa2c68d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7bf77dbd-f19d-4b5a-bb3b-3f3285f28ecf.jpg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 160.0,
+        "unit_level_price": 160.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/140e84a4-3c7f-47d9-8c87-bd5f505a63a9",
+        "id": "140e84a4-3c7f-47d9-8c87-bd5f505a63a9",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "140e84a4-3c7f-47d9-8c87-bd5f505a63a9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4RD5YMB1OS",
+        "name": "Supreme Harvest White Sesame Seeds",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/ecf1974c-5a7a-47bc-9d4c-546c1152e3d9_76218.png"
+        ],
+        "mrp": 260,
+        "x_available": true,
+        "available": true,
+        "offer_price": 141,
+        "unit_level_price": "35.3/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YWWT2ZI9G3",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4RD5YMB1OS",
+          "BWSYL81B41"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1003514",
+        "name": "SHR Til White ",
+        "brand": "SHR",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110003358xx9JAN22_5_P.jpg"
+        ],
+        "mrp": 159,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 0.20 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/shr-til-white--pwholespice0shr5xx150123?selectedProd=1003514",
+        "id": "1242003",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1242003"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40000665",
+        "name": "2 Ply Kitchen Tissue Paper Roll",
+        "brand": "Origami",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40000665_7-origami-kitchen-towels-2-ply.jpg"
+        ],
+        "mrp": "375",
+        "offer_price": "356.25",
+        "unit_level_price": "",
+        "quantity": "240 Pulls",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40000665",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40000665"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528031,
+        "name": "Whole Farm Premium Nylon White Sesame Seeds",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528031a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5c56fd67-25fd-4684-9abe-bb9f6bd48f0a.jpg?ts=1743764674",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528031c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528031d.jpg"
+        ],
+        "mrp": 25,
+        "offer_price": 22,
+        "unit_level_price": "",
+        "quantity": "50 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528031",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528031
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "29d733fb-d767-4623-b892-2924685bf8ef",
+        "name": "Daily Good Till - Sesame White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/01e6fe5c-2dc4-44ec-8e47-f7e367397421.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c91cdcbb-c7e6-4caf-8028-a61c3da8a660.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/63327290-c960-4853-b1f6-6ffa7794c694.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9f215de6-45e4-4fe3-b639-beba29e6c931.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f1e73e4a-c125-4d7f-8bce-38983196eea5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e0dddb46-722a-44ec-a738-a18febbf139e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/54fd431a-40a3-4e08-b1af-1312739de8aa.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 50.0,
+        "unit_level_price": 50.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/33db442d-c8b4-477e-8fc4-222848bb4594",
+        "id": "33db442d-c8b4-477e-8fc4-222848bb4594",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "33db442d-c8b4-477e-8fc4-222848bb4594"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BWSYL81B41",
+        "name": "Supreme Harvest White Sesame Seeds",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/2/af40fde1-d9c3-48df-a6b7-303dde8e0899_15731.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/350a1820e09a98462b0c4f3b74b4b9d6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/96f41579ed2fe21434d1cf3b470840b2"
+        ],
+        "mrp": 130,
+        "x_available": true,
+        "available": true,
+        "offer_price": 72,
+        "unit_level_price": "36/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YWWT2ZI9G3",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4RD5YMB1OS",
+          "BWSYL81B41"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "69501",
+        "name": "RRO Til Dil Premium Til Oil Bottle (1 L) ",
+        "brand": "RRO",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KEdibleOil1LRRO2026XX143211344_5_P.jpg"
+        ],
+        "mrp": 360,
+        "offer_price": 316,
+        "unit_level_price": "(\u20b9 0.34 / 1 g)",
+        "quantity": "917 g",
+        "deeplink": "https://www.dmart.in/product/rro-til-dil-premium-til-oil-bottle?selectedProd=69501",
+        "id": "72187",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "72187"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6fc7bd9a-dbdc-4f4b-81f9-c2e624127fd9",
+        "name": "Daily Good Cardamom / Elachi Green(50gms), Daily Good Cloves / Lavang / Laung(50gms) & Daily Good Till / Sesame White(100gms) & Daily Good Cinnamon / Dalchini(50gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/12bc3da6-e5f7-4805-9eb0-10b6456e8cbf.jpg"
+        ],
+        "mrp": 584.0,
+        "offer_price": 445.0,
+        "unit_level_price": 445.0,
+        "quantity": "4 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2b99c926-678a-4f48-a228-6bfccb6d093e",
+        "id": "2b99c926-678a-4f48-a228-6bfccb6d093e",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2b99c926-678a-4f48-a228-6bfccb6d093e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IDVDAZ8T3Y",
+        "name": "Supreme Harvest Black Sesame Seeds",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/f89b9e0c-4973-406e-bfb3-a17e29776d2a_masalaandspice_IDVDAZ8T3Y_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 468,
+        "x_available": true,
+        "available": true,
+        "offer_price": 246,
+        "unit_level_price": "61.5/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5E6HVN0XRN",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "IDVDAZ8T3Y",
+          "XHKFTV01PB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "18616",
+        "name": "DMart Premia Til Black ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV110000469xx27NOV21_5_P.jpg"
+        ],
+        "mrp": 74,
+        "offer_price": 55,
+        "unit_level_price": "(\u20b9 0.55 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-till-black?selectedProd=18616",
+        "id": "18615",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "18615"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "100006306",
+        "name": "Kitchen Towel - 2 Ply",
+        "brand": "Premier",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/100006306_2-premier-kitchen-towel.jpg"
+        ],
+        "mrp": "170",
+        "offer_price": "170",
+        "unit_level_price": "",
+        "quantity": "2 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/100006306",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "100006306"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "be4ede55-d97c-4536-8d1b-d78fa72fb486",
+        "name": "Perfora Classic Mint Toothpaste - For Fresh Breath & Teeth Whitening",
+        "brand": "Perfora",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/211b9e8a-05ca-4529-96cd-25b6387cda47.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aee8b1dd-2b1d-49df-8ca8-0024d32aa5a6.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8b85f505-2b4f-49b9-9b1d-83f2010077bb.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/db5eb1e3-f0c2-48ab-9ddf-503450b9a8ab.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a7b4ddb2-5f2a-4f65-9943-eb949f401bed.jpg"
+        ],
+        "mrp": 99.0,
+        "offer_price": 90.0,
+        "unit_level_price": 90.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6b2f6860-b03c-4bd9-aed1-7b800444c928",
+        "id": "6b2f6860-b03c-4bd9-aed1-7b800444c928",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6b2f6860-b03c-4bd9-aed1-7b800444c928"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XHKFTV01PB",
+        "name": "Supreme Harvest Black Sesame Seeds",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/47df88bb-3625-4714-91a7-284fa0f527f1_masalaandspice_XHKFTV01PB_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/regewfxukkjkrjfwilly"
+        ],
+        "mrp": 234,
+        "x_available": true,
+        "available": true,
+        "offer_price": 123,
+        "unit_level_price": "61.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5E6HVN0XRN",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "IDVDAZ8T3Y",
+          "XHKFTV01PB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11116",
+        "name": "Tilsona Til Oil (500 ml) ",
+        "brand": "Tilsona",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/ISesameOil500mlTISN3441xx120521_5_P.jpg"
+        ],
+        "mrp": 230,
+        "offer_price": 201,
+        "unit_level_price": "(\u20b9 0.44 / 1 gm)",
+        "quantity": "475 g",
+        "deeplink": "https://www.dmart.in/product/tilsona-til-oil?selectedProd=11116",
+        "id": "14137",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14137"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "601949e7-1ba8-4e1e-a665-31dd4bbf7d88",
+        "name": "Nescafe Classic Instant Coffee Powder - 100% Pure Coffee 180 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/819fe06c-45cc-4309-8dc3-fc47c68f295f.jpg"
+        ],
+        "mrp": 1598.0,
+        "offer_price": 1588.0,
+        "unit_level_price": 1588.0,
+        "quantity": "180 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/af25c672-f279-4fe6-a4b5-b0ecafe177b0",
+        "id": "af25c672-f279-4fe6-a4b5-b0ecafe177b0",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "af25c672-f279-4fe6-a4b5-b0ecafe177b0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ece0293e-f516-455d-8949-0e9a22d26ab4",
+        "name": "Portronics Harmonics Twins S6 TWS Earbuds - White | With 50Hrs Playtime | Auto ENC | Ipx4 | Fast Charge",
+        "brand": "Portronics",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8cfcabfb-b6f9-4c2e-a915-167af2c5e165.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/cefcab6e-dd70-4d4b-aac4-59c7df18c6ab-/tmp/20231006-2017412.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/a738f90f-50bd-4c88-ab23-cc5912dcc438-/tmp/20231006-2017413.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/fff8798c-a6ac-460f-9da9-d9448779beab-/tmp/20231006-2017414.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/97caff72-d1bd-4774-9472-f6450c2f0986-/tmp/20231006-2017415.jpeg"
+        ],
+        "mrp": 2999.0,
+        "offer_price": 1089.0,
+        "unit_level_price": 1089.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dde9358a-91ac-4d5b-9259-75205340734b",
+        "id": "dde9358a-91ac-4d5b-9259-75205340734b",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "dde9358a-91ac-4d5b-9259-75205340734b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "7X7AHSLOA0",
+        "name": "Maya Whole Spice White Til/Sesame Seeds",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/2/28/8541ab2e-bd55-46f8-a478-c48ec72962c5_masalaandspice_7X7AHSLOA0_MN.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 79,
+        "unit_level_price": "39.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/PD32HGQ75C",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7X7AHSLOA0",
+          "BYYGFL8MYR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1364001",
+        "name": "DMart Premia Til Roasted ",
+        "brand": "DMart Premia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110004057xx22JAN25_5_P.jpg"
+        ],
+        "mrp": 36,
+        "offer_price": 27,
+        "unit_level_price": "(\u20b9 0.27 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/premia-til-roasted-pwholespice0prem15xx70823?selectedProd=1364001",
+        "id": "1371508",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1371508"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "13c4551c-0897-4da1-b30e-90f158ae585a",
+        "name": "Zebronics Transformer Gaming Combo, 6 Buttons, Multicolor Led, High Res Sensor, 3200 Dpi (White)",
+        "brand": "Zebronics",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d43b9261-ee49-4bf7-a817-366f2b065366.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bbe742de-e72f-48d1-9787-f9ff0c672438.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c923e439-1146-42d2-b2ce-ec4de99cbf17.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fa40b4b0-5cf3-4bda-88b7-91f8d8b40e9f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/de89b930-aea1-4d68-85d7-1be93f8665f1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25cbf31f-09dd-4098-89c6-10a51d333cb8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2ce8a705-8073-4966-b89f-2f927e391be7.jpeg"
+        ],
+        "mrp": 2499.0,
+        "offer_price": 1474.0,
+        "unit_level_price": 1474.0,
+        "quantity": "1 set  (2 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c3c2aafd-0721-4fd8-9c9d-ed6bc3c0080c",
+        "id": "c3c2aafd-0721-4fd8-9c9d-ed6bc3c0080c",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c3c2aafd-0721-4fd8-9c9d-ed6bc3c0080c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "BYYGFL8MYR",
+        "name": "Maya Whole Spice White Til/Sesame Seeds",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/lgcllsk71nngh21dbknk"
+        ],
+        "mrp": 40,
+        "x_available": true,
+        "available": true,
+        "offer_price": 40,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/PD32HGQ75C",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7X7AHSLOA0",
+          "BYYGFL8MYR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1377001",
+        "name": "Supreme Shraddha Pooja Til Oil ",
+        "brand": "Supreme",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN110004150xx6JAN24_5_P.jpg"
+        ],
+        "mrp": 225,
+        "offer_price": 115,
+        "unit_level_price": "(\u20b9 0.13 / 1 ml)",
+        "quantity": "900 ml",
+        "deeplink": "https://www.dmart.in/product/supreme-shraddha-pooja-til-oil-ppoojaitems0supr1xx60124?selectedProd=1377001",
+        "id": "1453001",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1453001"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40132300",
+        "name": "Kitchen Tissue Paper Roll - 2-Ply",
+        "brand": "bb home",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40132300_7-bb-home-kitchen-towel-2-ply-100-virgin-pulppaper.jpg"
+        ],
+        "mrp": "299",
+        "offer_price": "255",
+        "unit_level_price": "",
+        "quantity": "1 pc",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40132300",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40132300"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bb6b1b0b-4d9b-445a-a259-9b5afb3d436e",
+        "name": "Larah By Borosil Red Carnation 13Pc Dinner Set Opalware Crockery For Dining & Gifting - White",
+        "brand": "Larah by Borosil",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4a544c92-a4fc-4433-94de-a2aa0d960ac3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f7a7b16-c2f6-4ba7-a5d3-6a861edb2ab1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7a0e5207-2d02-4c1f-91db-0529cb44499e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fd12f5ee-6293-4362-81c0-fe20ed03ec16.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/14fc7c26-2b05-4dee-bde3-471a4806227a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f74b3bc-206a-4992-8520-853532c8fef0.jpeg"
+        ],
+        "mrp": 1895.0,
+        "offer_price": 1049.0,
+        "unit_level_price": 1049.0,
+        "quantity": "1 pack (13 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8881b534-4af1-40eb-a7b5-748999c65e04",
+        "id": "8881b534-4af1-40eb-a7b5-748999c65e04",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8881b534-4af1-40eb-a7b5-748999c65e04"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IMIL36XHZL",
+        "name": "True Elements Kalonji,True Elements White Sesame Raw Seeds",
+        "brand": "True Elements",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/6/c55cee9c-3d3c-4522-8156-06b9120bce93_982430.png"
+        ],
+        "mrp": 350,
+        "x_available": true,
+        "available": true,
+        "offer_price": 292,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IM4XSSV6BE",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "IMIL36XHZL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1595272",
+        "name": "The Monk Who Sold His Ferrari By Robin Sharma ",
+        "brand": "Jaico",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN270000074xx26JUN24_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 194,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/the-monk-who-sold-his-ferrari-by-robin-sharma-pbooks0giip49xx260624?selectedProd=1595272",
+        "id": "1595271",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595271"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "831753b2-5436-4675-bb24-16b0c9859431",
+        "name": "Popular Essentials Classic Sona Masuri Rice",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37d64f1e-ce90-4d45-a060-95799505d357.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1onjruDdvVG1xwS3VoQr1RQG9S-f94Z0o.jpeg"
+        ],
+        "mrp": 530.0,
+        "offer_price": 426.0,
+        "unit_level_price": 426.0,
+        "quantity": "5 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d257dc9b-04f2-419b-bf60-ce321355a01c",
+        "id": "d257dc9b-04f2-419b-bf60-ce321355a01c",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d257dc9b-04f2-419b-bf60-ce321355a01c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1005588",
+        "name": "Faces Canada Splash Nail Enamel - Beach Rose 157 ",
+        "brand": "Faces Canada",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR140003955xx12APR23_5_P.jpg"
+        ],
+        "mrp": 129,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 12.38 / 1 ml)",
+        "quantity": "Beach Rose 157",
+        "deeplink": "https://www.dmart.in/product/faces-canada-splash-nail-enamel---iris-102-pskinprot0face615xx030322?selectedProd=1005588",
+        "id": "1019535",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1019535"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40310741",
+        "name": "Raw White Sesame/Safed Til Seeds",
+        "brand": "True Elements",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40310741_2-true-elements-raw-white-sesame-seeds.jpg"
+        ],
+        "mrp": "200",
+        "offer_price": "136",
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40310741",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40310741"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c102f336-1b24-4e27-b522-bf98477dae82",
+        "name": "Enamor Women's SB06 Cotton Lounge Sports Bra | High Coverage | Non Padded | Wirefree | White | M",
+        "brand": "Enamor",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1705512a-1851-4f28-9788-9c5527ecf831.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d8bbf4b7-3be1-4905-9d21-4db98f818737.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/43382983-1304-435a-96ac-af2eae11d7c1.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d5c93c33-c463-4f12-a6ae-fded30b00bfa.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4abb1444-ea1a-463c-b6d6-95a8189548d4.jpg"
+        ],
+        "mrp": 399.0,
+        "offer_price": 399.0,
+        "unit_level_price": 399.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b612d97d-ba1c-492f-9f0a-96004874cf34",
+        "id": "b612d97d-ba1c-492f-9f0a-96004874cf34",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b612d97d-ba1c-492f-9f0a-96004874cf34"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6216b98c-1635-4f46-a2a9-270fb900b202",
+        "name": "Absorbia Moisture Absorber | Absorbia Classic | Season Pack of 6 | Absorbing Capacity - 600Ml Each",
+        "brand": "Absorbia",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b4110754-a792-4745-955a-5fc0a1a5557b.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b72701fb-b6a2-4475-8c06-07ccc5522b7d.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/77e3d62f-6577-4962-a685-709eebf85910.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/925fccd1-aa7a-4382-b89b-7bb23a08deb8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8ca2f070-4766-4b47-beed-640ee7abf169.jpg"
+        ],
+        "mrp": 1374.0,
+        "offer_price": 999.0,
+        "unit_level_price": 999.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/857d1f55-c29b-4d4c-9191-f30b824d408b",
+        "id": "857d1f55-c29b-4d4c-9191-f30b824d408b",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "857d1f55-c29b-4d4c-9191-f30b824d408b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "07063ce6-d262-424d-a711-e66c2ae4f9e0",
+        "name": "Wishcare Invisible Gel Sunscreen Spf50+ Pa++++ - Broad Spectrum Protection With No White Cast",
+        "brand": "WishCare",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fd6f8a27-e867-4f11-aab2-f7779e52fbc2.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f28f4b26-95e7-4d23-91ee-c163747b7778.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3cddf3f1-bb8b-4742-bfff-f9f97d915a88.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c8134050-5588-4550-bc3f-cf2a255a0955.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9b1257c8-5fdf-447f-ad17-491f16c4cad6.jpg"
+        ],
+        "mrp": 499.0,
+        "offer_price": 425.0,
+        "unit_level_price": 425.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/68aa3c90-141f-4c78-981f-09e3cb3f279c",
+        "id": "68aa3c90-141f-4c78-981f-09e3cb3f279c",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "68aa3c90-141f-4c78-981f-09e3cb3f279c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40085736",
+        "name": "Organic Sona Masoori Raw Rice - 6+ Months Old",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40085736_9-bb-royal-organic-sonamasoori-white-rice.jpg"
+        ],
+        "mrp": "579",
+        "offer_price": "450",
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40085736",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40085736"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "6a1872f2-a414-4bc9-b3be-e3953b28da4c",
+        "name": "TP-Link TL-WA850RE 300Mbps Wi-Fi Wireless Range Extender, Wi-Fi Booster - White",
+        "brand": "TP-Link",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0a1788a1-d5a5-4339-8103-b83523038600.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e90833c0-b4cd-4e87-8649-d2ef0d4ed4f0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/da693277-85e3-4431-9bdd-3779bb342908.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f676406-4cfc-4d23-8c0b-b8e71a21c815.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/635f9526-d1dc-44b9-bfb3-66540228723d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/22c64ddb-2ae1-420a-9309-cf9b3607c52f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b7fc02b-961d-4e3b-8028-ac71ac06fb81.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7053ef90-640a-47b4-b770-00e693e7895e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/789c2c14-ba32-46cf-bfef-1bceee362281.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/030a6ea6-64c6-4a74-ad8a-6eaa31365970.jpeg"
+        ],
+        "mrp": 2499.0,
+        "offer_price": 1374.0,
+        "unit_level_price": 1374.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b501e0a4-aee1-4063-a16a-2ffb87862f35",
+        "id": "b501e0a4-aee1-4063-a16a-2ffb87862f35",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b501e0a4-aee1-4063-a16a-2ffb87862f35"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8a9f9854-8825-4065-93e3-0fbcc530801b",
+        "name": "Parle Monaco Classic Salty Biscuits 696 g Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/672c694c-8660-45b0-97c5-1dd2d2c4a7da.jpg"
+        ],
+        "mrp": 450.0,
+        "offer_price": 333.0,
+        "unit_level_price": 333.0,
+        "quantity": "696 g X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b91ed3ea-b16f-464a-a408-cd18a3e41055",
+        "id": "b91ed3ea-b16f-464a-a408-cd18a3e41055",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b91ed3ea-b16f-464a-a408-cd18a3e41055"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1569031",
+        "name": "Ajanta Sweep Analog Wall Clock Silent Mechanism 2707 - 34x34x4cm ",
+        "brand": "Ajanta",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY150006489xx20MAY24_5_P.jpg"
+        ],
+        "mrp": 735,
+        "offer_price": 679,
+        "unit_level_price": "",
+        "quantity": "White",
+        "deeplink": "https://www.dmart.in/product/ajanta-sweep-analog-wall-clock-silent-mechanism-2707-34x34x4cm-pclocks0ajan17xx200524?selectedProd=1569031",
+        "id": "1578529",
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1578529"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cbe74ed3-0954-4e00-9708-b03fea41a8e8",
+        "name": "SleepyCat Microfiber Cloud Pillow With Adjustable Zipper White | Standard Size | 27 x 18 inch",
+        "brand": "Sleepycat",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a6079d43-c544-4974-bde6-f671e7315e70.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/96c70feb-4863-40ef-a903-1d1c9ddbdcc7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7cbb9746-9eef-4e98-8175-297455f5c8e6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/700b3e80-7c4d-4ef0-93f4-5dbb2eba7d8d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d50a7711-1fd0-48c9-9192-dade77b3c193.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1d7ce9a6-e7c9-4383-8b4e-24aefc1d1c9d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/56cb5000-48f4-4675-8072-0525689a7e8b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3d9dfd53-415b-42fc-99da-238356a9f783.jpeg"
+        ],
+        "mrp": 2199.0,
+        "offer_price": 1319.0,
+        "unit_level_price": 1319.0,
+        "quantity": "1 pack (2 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/36b6e15a-1ef8-4737-b08e-a48c1071b7a0",
+        "id": "36b6e15a-1ef8-4737-b08e-a48c1071b7a0",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "36b6e15a-1ef8-4737-b08e-a48c1071b7a0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "986210",
+        "name": "Ajanta Office Analog Wall Clock Silent Mechanism 397 - 32.3x32.3x4.7cm ",
+        "brand": "Ajanta",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY180000480xx20MAY24_5_P.jpg"
+        ],
+        "mrp": 515,
+        "offer_price": 399,
+        "unit_level_price": "",
+        "quantity": "White",
+        "deeplink": "https://www.dmart.in/product/ajanta-simple-analog-wall-clock-677-24x24x35-cm-pclocks0ajan3xx220524?selectedProd=986210",
+        "id": "1579545",
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1579545"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "785f41bc-e3bd-4b8f-bd35-5d1f1efac855",
+        "name": "Classic Har Cricket Bat | Plastic | Full Size",
+        "brand": "Classic Distributor",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fdeb89c9-cbb7-4ee6-80d0-fa4f08465876.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/92d12225-7236-4e81-88dc-f367d6b343c3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aabbc057-5ad6-4b0e-aed4-a55190a5629a.jpg"
+        ],
+        "mrp": 799.0,
+        "offer_price": 378.0,
+        "unit_level_price": 378.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/254dbbc8-5590-4978-80c4-e149f6c7120e",
+        "id": "254dbbc8-5590-4978-80c4-e149f6c7120e",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "254dbbc8-5590-4978-80c4-e149f6c7120e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1634536",
+        "name": "Yardley London Gentleman Classic Deodorant Roll On ",
+        "brand": "Yardley",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP140005968xx23SEP24_5_P.jpg"
+        ],
+        "mrp": 249,
+        "offer_price": 124,
+        "unit_level_price": "(\u20b9 2.48 / 1 ml)",
+        "quantity": "50 ml",
+        "deeplink": "https://www.dmart.in/product/yardley-london-gentleman-classic-deodorant-roll-on-pwomendeos41xx240924?selectedProd=1634536",
+        "id": "1637109",
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1637109"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "1222228",
+        "name": "Low GI 7 White Rice - Diabetic Friendly/Akki",
+        "brand": "Sugar Watchers",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/1222228_1-sugar-watchers-low-gi-7-white-rice-diabetic-friendlyakki.jpg"
+        ],
+        "mrp": "1890",
+        "offer_price": "1814.4",
+        "unit_level_price": "",
+        "quantity": "2 x 5 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/1222228",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "1222228"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f0b7bc17-62cb-402c-8727-d61f70f17108",
+        "name": "boAt 10000 mAh Magnetic Wireless Power Bank w/ 15W Wireless Charging - PB330 MagnaCharge (White)",
+        "brand": "boat",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2d715a67-0366-4008-afd9-0ab224d8d825.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e134395f-c92c-4a09-8239-0bb257e2a701.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e1a7b3ae-d728-497a-bbe7-fdf9a967568d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/293daa03-bb01-4807-9c17-52437dcabf82.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7f834649-88f3-4f2d-85b7-165e25405a62.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fdcd47f6-b5bf-489a-af2c-2f85fca6c645.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/812f6384-86c5-4eb8-8b83-b8a507742c6e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/197c0328-8adc-4e11-8857-f359c5ccee6b.jpeg"
+        ],
+        "mrp": 4999.0,
+        "offer_price": 2299.0,
+        "unit_level_price": 2299.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/879cd68e-afa6-426b-b57f-4f512eba8514",
+        "id": "879cd68e-afa6-426b-b57f-4f512eba8514",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "879cd68e-afa6-426b-b57f-4f512eba8514"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1586025",
+        "name": "Hoi Momo Sauce - Classic Green ",
+        "brand": "Hoi",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120007130xx10JUN24_5_P.jpg"
+        ],
+        "mrp": 85,
+        "offer_price": 42,
+        "unit_level_price": "(\u20b9 0.17 / 1 gm)",
+        "quantity": "250 g",
+        "deeplink": "https://www.dmart.in/product/hoi-momo-sauce-classic-green-psauces0hoi5xx100624?selectedProd=1586025",
+        "id": "1586623",
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1586623"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b1ea50fe-70fc-4e51-ac7c-2dc7b09ab15b",
+        "name": "Friends Classic Adult Diaper (Pants, M ,76-142 cm)",
+        "brand": "Friends",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9b8fab3f-810d-4685-9004-bc061b20d10c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/31db2746-9b5e-423d-9ec1-5a2ce2dd64be.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d73fbd7f-f5ff-4994-a29d-856cdc0af577.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a569591f-a15e-4986-8074-e22daeb1e1f2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/39d76270-83ce-43b0-96c6-7ae7c8ed8cd6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d7ed9035-c613-4441-bd06-3a298bf2e0ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f179b60e-ea15-46f2-aa4e-cd6babc4260d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2045b4a9-d569-4b96-a9b6-23e437fc5c9a.jpeg"
+        ],
+        "mrp": 550.0,
+        "offer_price": 293.0,
+        "unit_level_price": 293.0,
+        "quantity": "10 pcs",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/04d3141c-6a68-41dc-9a0d-ab46a617b022",
+        "id": "04d3141c-6a68-41dc-9a0d-ab46a617b022",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "04d3141c-6a68-41dc-9a0d-ab46a617b022"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1685538",
+        "name": "Perfora Classic Mint Toothpaste ",
+        "brand": "Perfora",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN140006193xx21JAN25_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 69,
+        "unit_level_price": "(\u20b9 0.69 / 1 gm)",
+        "quantity": "100 g",
+        "deeplink": "https://www.dmart.in/product/perfora-classic-mint-toothpaste-ptoothpastes1xx210125?selectedProd=1685538",
+        "id": "1686181",
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1686181"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8990e8ca-01f1-436e-921d-a68228b48d3c",
+        "name": "Gillette Shave Foam - Classic Regular Skin",
+        "brand": "Gillette",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2845d8b5-2d46-46ec-a17c-4c1d409fcca9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6ae133f7-29f8-4508-b5e7-af115889d83c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8a62aeac-181a-4cfa-b5be-7f1c135b5acb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/71adf414-d35d-484b-9852-8b3440894ce3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0915c7c9-c4aa-4802-beb5-84d055f57fea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c23d640b-ccc0-4589-8dd2-774d234072d5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d85f9df5-d26f-4490-9381-b8ec0a4c0d74.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3dfa0bb0-429a-4b94-b3d6-1f6b62af3565.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/573a09bc-d716-4401-9193-effd9b414777.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ddc5f496-ed86-421b-82e9-00eadf83e231.jpeg"
+        ],
+        "mrp": 249.0,
+        "offer_price": 237.0,
+        "unit_level_price": 237.0,
+        "quantity": "418 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/84cb5504-da16-499d-8c16-81c290e68759",
+        "id": "84cb5504-da16-499d-8c16-81c290e68759",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "84cb5504-da16-499d-8c16-81c290e68759"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12201",
+        "name": "Yardley Gentleman Classic Spray For Men ",
+        "brand": "Yardley",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IMensDeos150mlYRDL2741XX300421_5_P.jpg"
+        ],
+        "mrp": 225,
+        "offer_price": 175,
+        "unit_level_price": "(\u20b9 1.17 / 1 ml)",
+        "quantity": "150 ml",
+        "deeplink": "https://www.dmart.in/product/yardley-gentleman-classic-spray-for-men?selectedProd=12201",
+        "id": "14908",
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14908"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a5a62a2b-e8b8-4990-975d-41debcf8e0de",
+        "name": "boAt Immortal 141 TWS Earbuds for Gaming w/ 40H Playtime, BEAST Mode & RGB LEDs (White Sabre)",
+        "brand": "boat",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0bec8047-a779-4b1d-98f0-3a17df69443c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c8da83e3-a281-439d-a4c8-636bf022886f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ec3d1c24-5bbe-4eb2-9bae-ba1d25b8616c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2eacc628-abb1-4481-b8cf-5a347adf7b19.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5c313463-2e2f-4a72-85c9-34f0258dd69e.jpeg"
+        ],
+        "mrp": 3499.0,
+        "offer_price": 1399.0,
+        "unit_level_price": 1399.0,
+        "quantity": "1 pair",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3873b754-0d1f-4761-993e-6e0a434027a0",
+        "id": "3873b754-0d1f-4761-993e-6e0a434027a0",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3873b754-0d1f-4761-993e-6e0a434027a0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1163010",
+        "name": "Joyo Kitchen Classic Square Container - Blue ",
+        "brand": "Joyo",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV150004677xx6NOV23_5_P.jpg"
+        ],
+        "mrp": 1256,
+        "offer_price": 449,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/joyo-kitchen-classic-square-container---spatula---blue-pcontainers0joyo5xx121022?selectedProd=1163010",
+        "id": "1177510",
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1177510"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "900461235",
+        "name": "Aromatic Indrayani White Rice",
+        "brand": "ANUTILAM",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/900461235_1-anutilam-aromatic-indrayani-white-rice.jpg"
+        ],
+        "mrp": "680",
+        "offer_price": "680",
+        "unit_level_price": "",
+        "quantity": "5 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/900461235",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "900461235"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e3b72b17-72a2-4450-b3f5-6be36e10c13c",
+        "name": "Mr White Detergent Powder",
+        "brand": "Mr. White",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f86e5e7a-4f2e-4210-b615-1d9891f3256f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37964f87-6e64-4836-850f-e934464b2872.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a7bf5424-9dbf-4d72-98b8-4a7d0944ec13.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a9bf0fe2-362e-4088-95d8-3ffa6a0555f6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/46d0683d-2553-4991-b6f0-b660bafa30ed.jpeg"
+        ],
+        "mrp": 860.0,
+        "offer_price": 663.0,
+        "unit_level_price": 663.0,
+        "quantity": "10 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b998bfa8-0380-400e-877b-8d7b7b30bb92",
+        "id": "b998bfa8-0380-400e-877b-8d7b7b30bb92",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b998bfa8-0380-400e-877b-8d7b7b30bb92"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1163011",
+        "name": "Joyo Kitchen Classic Square Container - Pink ",
+        "brand": "Joyo",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV150004678xx6NOV23_5_P.jpg"
+        ],
+        "mrp": 1256,
+        "offer_price": 449,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/joyo-kitchen-classic-square-container---spatula---pink-pcontainers0joyo7xx121022?selectedProd=1163011",
+        "id": "1177511",
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1177511"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cd92ed00-a163-4685-956a-ca6d8517ee91",
+        "name": "The Face Shop White Seed Brightening Lotion, Face Cream With Niacinamide",
+        "brand": "The Face Shop",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7b654366-fccc-4699-81cf-fd00c3622741.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ca007201-24eb-4553-9ba6-bf26efe5a0a9.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2f2e1638-03e2-43d6-93c9-19e9e21ed07f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d0754cec-2f9b-4cc1-afb0-5e123edcb264.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/21da91c6-15b9-4a1e-83fa-809c531b6b66.jpg"
+        ],
+        "mrp": 779.0,
+        "offer_price": 546.0,
+        "unit_level_price": 546.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/059f83a4-807d-445e-bf2f-388c7a618bfd",
+        "id": "059f83a4-807d-445e-bf2f-388c7a618bfd",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "059f83a4-807d-445e-bf2f-388c7a618bfd"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1587522",
+        "name": "Nova Nova Choco Pockets Classic Chocolate Wafer Bites ",
+        "brand": "Nova Nova",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120007137xx10JUN24_5_P.jpg"
+        ],
+        "mrp": 49,
+        "offer_price": 24,
+        "unit_level_price": "(\u20b9 0.80 / 1 gm)",
+        "quantity": "30 g",
+        "deeplink": "https://www.dmart.in/product/nova-nova-choco-pockets-classic-chocolate-wafer-bites-pbiscuits0nova11xx100624?selectedProd=1587522",
+        "id": "1586626",
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1586626"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "428d8568-ce8b-4632-bad4-6b276fc25b91",
+        "name": "Portronics Gobreeze Portable Neck Fan (POR 2048) - White",
+        "brand": "Portronics",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/621d61d9-092d-43bf-ac17-bded1285a1c9.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f4aec22-330b-4872-9fa4-97b4bd26f226.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc51e9ab-03ec-4e3f-8354-291a1ff870b8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/21b4bc50-592a-4b46-9e6b-a38b524565b1.jpg"
+        ],
+        "mrp": 2499.0,
+        "offer_price": 1174.0,
+        "unit_level_price": 1174.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cd3bf284-fe97-49e4-bcb9-1131323ec406",
+        "id": "cd3bf284-fe97-49e4-bcb9-1131323ec406",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cd3bf284-fe97-49e4-bcb9-1131323ec406"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1610111",
+        "name": "India Gate Classic Hyderabadi Biryani Masala ",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004508xx2JUL24_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 49,
+        "unit_level_price": "(\u20b9 0.70 / 1 gm)",
+        "quantity": "70 g",
+        "deeplink": "https://www.dmart.in/product/india-gate-classic-hyderabadi-biryani-masala-pmasala0indi19xx300724?selectedProd=1610111",
+        "id": "1610110",
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1610110"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "294222",
+        "name": "3 Ply Toilet Tissue Paper Roll",
+        "brand": "Origami",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/294222_10-origami-so-soft-3-ply-toilet-tissue.jpg"
+        ],
+        "mrp": "570",
+        "offer_price": "541.5",
+        "unit_level_price": "",
+        "quantity": "12 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/294222",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "294222"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "939d32c2-6e45-4402-94f1-3f11e4a639cf",
+        "name": "Davidoff Classic Medium Roast Instant Coffee",
+        "brand": "Davidoff",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a97dc9c7-e535-49eb-8c33-837f74dfdbc1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/185d4f8b-5b81-4b77-800b-c6966b7492e5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e193bb40-ca11-41f7-a79a-75ec49b46aa8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9dd60ae-dc8f-4212-9424-8ddc051bc6c3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/51cd1648-4b20-4b4b-b9b7-34557b7c47b6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4e019a18-5474-47b5-b7bb-85114d30648b.jpeg"
+        ],
+        "mrp": 749.0,
+        "offer_price": 637.0,
+        "unit_level_price": 637.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/57a29b86-86d6-4f86-8beb-761653b459d4",
+        "id": "57a29b86-86d6-4f86-8beb-761653b459d4",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "57a29b86-86d6-4f86-8beb-761653b459d4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1610113",
+        "name": "India Gate Classic Lucknowi Biryani Masala ",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004509xx2JUL24_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 49,
+        "unit_level_price": "(\u20b9 0.70 / 1 gm)",
+        "quantity": "70 g",
+        "deeplink": "https://www.dmart.in/product/india-gate-classic-lucknowi-biryani-masala-pmasala0indi21xx300724?selectedProd=1610113",
+        "id": "1610112",
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1610112"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "63272b63-d8f5-4508-9556-e6d933006846",
+        "name": "The Face Shop White Seed Brightening Serum With Niacinamide",
+        "brand": "The Face Shop",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0b9376d6-0947-4b78-9d96-ead58f41cc98.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1b996bd4-e047-440e-831a-83ad3fdc3957.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/65935079-3a9a-45dd-ad62-48dcdfd191b1.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6c562b32-b4f6-42c9-82bd-dc004afc86be.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f91f56d6-5ce4-4131-bded-e2a1d9a609ce.jpg"
+        ],
+        "mrp": 1285.0,
+        "offer_price": 836.0,
+        "unit_level_price": 836.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f2fd36c6-014b-4392-af12-f7da1b2af2f5",
+        "id": "f2fd36c6-014b-4392-af12-f7da1b2af2f5",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f2fd36c6-014b-4392-af12-f7da1b2af2f5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1610115",
+        "name": "India Gate Classic Kolkata Biryani Masala ",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL110004510xx2JUL24_5_P.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 49,
+        "unit_level_price": "(\u20b9 0.70 / 1 gm)",
+        "quantity": "70 g",
+        "deeplink": "https://www.dmart.in/product/india-gate-classic-kolkata-biryani-masala-pmasala0indi23xx300724?selectedProd=1610115",
+        "id": "1610114",
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1610114"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c4edc231-a357-41fe-a06e-5b54c0277058",
+        "name": "Vanish White Chlorine Bleach Free Detergent Powder",
+        "brand": "Vanish",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d22fd997-9df4-4636-9227-1d0a776bef6c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6235db5b-a9bb-405e-bc39-3b2a3e85acea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/722cd59d-c78c-4922-b688-8a274dfb6017.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1ec47f45-5445-4618-8544-0daf599b152e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8720c001-f43a-455f-b967-5d065d44cc0f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0a034626-4e09-438e-8147-065b7a9804d0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/073a6399-fde2-448d-8098-8f71815b3db5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6965fa77-51bb-42f4-87c5-fa44b151a385.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 228.0,
+        "unit_level_price": 228.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9cdafd86-765e-48fc-bf66-84f722cad3c8",
+        "id": "9cdafd86-765e-48fc-bf66-84f722cad3c8",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9cdafd86-765e-48fc-bf66-84f722cad3c8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11497",
+        "name": "Saffola Masala Oats Classic ",
+        "brand": "Saffola",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR120000138xx1APR22_5_P.jpg"
+        ],
+        "mrp": 18,
+        "offer_price": 15,
+        "unit_level_price": "(\u20b9 0.39 / 1 gm)",
+        "quantity": "38 g",
+        "deeplink": "https://www.dmart.in/product/saffola-masala-oats-classic?selectedProd=11497",
+        "id": "13535",
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13535"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "178e8dd9-6b9e-4277-b15a-d37fd01b3fa6",
+        "name": "Pfc FOODs Plant Based Classic Chicken Nuggets",
+        "brand": "Pfc Foods",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2f765f93-b4ac-4314-8a25-6c4a9e68ec2c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4b8544be-f050-4cd6-b639-15b8dafc6a7f.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/899f1373-75d5-43e1-84a8-02545e15e750.jpg"
+        ],
+        "mrp": 350.0,
+        "offer_price": 301.0,
+        "unit_level_price": 301.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1dcc28ce-3c79-485e-969e-a4192a0bae10",
+        "id": "1dcc28ce-3c79-485e-969e-a4192a0bae10",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1dcc28ce-3c79-485e-969e-a4192a0bae10"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "565502",
+        "name": "Hawkins Classic Inner Lid Pressure Cooker (CL40) - 4 L ",
+        "brand": "Hawkins",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY150001624xx05MAY22_5_P.jpg"
+        ],
+        "mrp": 1900,
+        "offer_price": 1709,
+        "unit_level_price": "",
+        "quantity": "4 L",
+        "deeplink": "https://www.dmart.in/product/hawkins-classic-cooker-cl15-:-15-litres-pcookers0hawk7xx5919?selectedProd=565502",
+        "id": "571504",
+        "parentIndex": 33,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "571504"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1691022",
+        "name": "Home Chef Instant Pasta Masala Classic ",
+        "brand": "Home Chef",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120007758xx3FEB25_5_P.jpg"
+        ],
+        "mrp": 32,
+        "offer_price": 0,
+        "unit_level_price": "(\u20b9 0.00 / 1 g)",
+        "quantity": "69.5 g",
+        "deeplink": "https://www.dmart.in/product/home-chef-instant-pasta-masala-classic-ppasta34xx30225?selectedProd=1691022",
+        "id": "1692064",
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1692064"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11653",
+        "name": "Act II Classic Salted Popcorn ",
+        "brand": "Act II",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IPapads30gA2P22xx250521_5_P.jpg"
+        ],
+        "mrp": 10,
+        "offer_price": 9,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "30 g",
+        "deeplink": "https://www.dmart.in/product/act-ii-classic-salted-popcorn?selectedProd=11653",
+        "id": "13653",
+        "parentIndex": 35,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13653"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "831007",
+        "name": "Cravova Classic Mojito ",
+        "brand": "Cravova",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC130001551xx18DEC21_5_P.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 30,
+        "unit_level_price": "(\u20b9 0.10 / 1 ml)",
+        "quantity": "300 ml",
+        "deeplink": "https://www.dmart.in/product/cravova-classic-mojito-psqshsyrp0crav27xx020221?selectedProd=831007",
+        "id": "829581",
+        "parentIndex": 36,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "829581"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "915502",
+        "name": "Camay Classic Soap ",
+        "brand": "Camay",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/OCT140003628xx19OCT21_5_P.jpg"
+        ],
+        "mrp": 237,
+        "offer_price": 118,
+        "unit_level_price": "",
+        "quantity": "125 g x 3 U",
+        "deeplink": "https://www.dmart.in/product/camay-classic-frgrnc-beauty-soap-3x125gm-pbathsoaps0cama19xx51021?selectedProd=915502",
+        "id": "921510",
+        "parentIndex": 37,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "921510"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12015",
+        "name": "Horlicks Classic Malt Jar ",
+        "brand": "Horlicks",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC130000166xx24DEC24_5_P.jpg"
+        ],
+        "mrp": 294,
+        "offer_price": 273,
+        "unit_level_price": "(\u20b9 0.55 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/horlicks-classic-malt-jar?selectedProd=12015",
+        "id": "14254",
+        "parentIndex": 38,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14254"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "796441",
+        "name": "Santoor Classic Handwash Pouch ",
+        "brand": "Santoor",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/LHANDWASH1.5LSant2xx300421_5_P.jpg"
+        ],
+        "mrp": 209,
+        "offer_price": 179,
+        "unit_level_price": "(\u20b9 132.59 / 1 L)",
+        "quantity": "1.35 L",
+        "deeplink": "https://www.dmart.in/product/santoor-handwash-pouch?selectedProd=796441",
+        "id": "168501",
+        "parentIndex": 40,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "168501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "174002",
+        "name": "Gowardhan Paneer Classic Block ",
+        "brand": "Gowardhan",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/KPANEER500gmGWDN3122xx090621_5_P.jpg"
+        ],
+        "mrp": 245,
+        "offer_price": 210,
+        "unit_level_price": "(\u20b9 0.42 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/gowardhan-paneer-classic-block-1?selectedProd=174002",
+        "id": "174504",
+        "parentIndex": 42,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "174504"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "373501",
+        "name": "Kokan Gem Goa Cashew Classic (Kaju) ",
+        "brand": "Kokan Gem",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110001115xx6JUN22_5_P.jpg"
+        ],
+        "mrp": 650,
+        "offer_price": 519,
+        "unit_level_price": "(\u20b9 1.04 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/kokan-gem-goa-cashew-classic-pdryfruitskkgc12xx101018?selectedProd=373501",
+        "id": "367572",
+        "parentIndex": 43,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "367572"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "516001",
+        "name": "Absorbia Moisture Absorber Classic ",
+        "brand": "Absorbia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC150001355xx8DEC21_5_P.jpg"
+        ],
+        "mrp": 229,
+        "offer_price": 142,
+        "unit_level_price": "(\u20b9 0.47 / 1 gm)",
+        "quantity": "300 g",
+        "deeplink": "https://www.dmart.in/product/absorbia-moisture-absorber-dehumidifier-classic-pfreshernersabso36xx200619?selectedProd=516001",
+        "id": "517002",
+        "parentIndex": 44,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "517002"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "551003",
+        "name": "Tetley Classic Immune Green Tea ",
+        "brand": "Tetley",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN130000638xx4JUN22_5_P.jpg"
+        ],
+        "mrp": 660,
+        "offer_price": 575,
+        "unit_level_price": "(\u20b9 5.75 / 1 U)",
+        "quantity": "100 U",
+        "deeplink": "https://www.dmart.in/product/tetley-green-tea-pure-original-ptea0tetl3xx31719?selectedProd=551003",
+        "id": "535620",
+        "parentIndex": 45,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "535620"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "556005",
+        "name": "RiteBite Max Protein Daily Choco Classic Bar ",
+        "brand": "Rite Bite",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LHLTHSUPL50gmRite10xx030521_5_P.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 63,
+        "unit_level_price": "(\u20b9 1.26 / 1 gm)",
+        "quantity": "50 g",
+        "deeplink": "https://www.dmart.in/product/ritebite-max-protein-daily-choco-classic-bar-phlthsupl0rite9xx80819?selectedProd=556005",
+        "id": "552058",
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "552058"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "596036",
+        "name": "Classic Hanger Set - Assorted ",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUL190000129xx26JUL22_5_P.jpg"
+        ],
+        "mrp": 199,
+        "offer_price": 89,
+        "unit_level_price": "(\u20b9 14.83 / 1 U)",
+        "quantity": "6  U",
+        "deeplink": "https://www.dmart.in/product/classic-plastic-hangers-phookshangers0023xx300420?selectedProd=596036",
+        "id": "712081",
+        "parentIndex": 47,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "712081"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "743690",
+        "name": "Nycil Classic Menthol Cool Talc ",
+        "brand": "Nycil",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN140002718xx28JAN23_5_P.jpg"
+        ],
+        "mrp": 159,
+        "offer_price": 134,
+        "unit_level_price": "(\u20b9 0.89 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/nycil-clasic-menthol-cool-talc-150g-ptlcmpwdr0nyci47xx270620?selectedProd=743690",
+        "id": "748272",
+        "parentIndex": 48,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "748272"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1076009",
+        "name": "All Time Plastic Classic Mixing Bowl With Lid ",
+        "brand": "All Time",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150004261xx13FEB24_5_P.jpg"
+        ],
+        "mrp": 455,
+        "offer_price": 279,
+        "unit_level_price": "",
+        "quantity": "4 U",
+        "deeplink": "https://www.dmart.in/product/all-time-plastic-classic-mixing-bowl-with-lid-pkitchplst0all19xx120224?selectedProd=1076009",
+        "id": "1481048",
+        "parentIndex": 49,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1481048"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1076501",
+        "name": "The Belgian Waffle Classic Choco Crisps ",
+        "brand": "The Belgian Waffle Co",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120005553xx10DEC22_5_P.jpg"
+        ],
+        "mrp": 120,
+        "offer_price": 89,
+        "unit_level_price": "(\u20b9 1.05 / 1 gm)",
+        "quantity": "85 g",
+        "deeplink": "https://www.dmart.in/product/the-belgian-waffle-crisps---chocolate-pbiscuits0the1xx10622?selectedProd=1076501",
+        "id": "1080501",
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1080501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1101501",
+        "name": "Slurrp Farm Millet Classic Masala Noodles ",
+        "brand": "Slurrp Farm",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC120005583xx29DEC23_5_P.jpg"
+        ],
+        "mrp": 129,
+        "offer_price": 99,
+        "unit_level_price": "(\u20b9 0.52 / 1 gm)",
+        "quantity": "192 g",
+        "deeplink": "https://www.dmart.in/product/slurrp-farm-foxtail-millet-noodles-pnoodles0slur13xx29622?selectedProd=1101501",
+        "id": "1102010",
+        "parentIndex": 51,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1102010"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1202003",
+        "name": "Aristocrat Classic Laptop Backpack - 28 L (Blue) ",
+        "brand": "Aristocrat",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC200000483xx29DEC22_5_P.jpg"
+        ],
+        "mrp": 3400,
+        "offer_price": 1599,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/aristocrat-classic-laptop-backpack---blue-pbackpacks0aris11xx301222?selectedProd=1202003",
+        "id": "1231506",
+        "parentIndex": 52,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1231506"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1240524",
+        "name": "Borosil Vision Classic Mug Set (190 ml) - 6 Pieces ",
+        "brand": "Borosil",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN150004953xx13JAN23_5_P.jpg"
+        ],
+        "mrp": 595,
+        "offer_price": 515,
+        "unit_level_price": "(\u20b9 85.83 / 1 U)",
+        "quantity": "6 U",
+        "deeplink": "https://www.dmart.in/product/borosil-vision-classic-mug-set---190-ml-pcupsmugs0boro51xx230123?selectedProd=1240524",
+        "id": "1246026",
+        "parentIndex": 53,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1246026"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1281508",
+        "name": "Apis Classic Dates ",
+        "brand": "Apis",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110003726xx18MAY23_5_P.jpg"
+        ],
+        "mrp": 199,
+        "offer_price": 105,
+        "unit_level_price": "(\u20b9 0.21 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/apis-classic-dates-pdates0apis1xx310523?selectedProd=1281508",
+        "id": "1329018",
+        "parentIndex": 54,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1329018"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1316520",
+        "name": "Hawkins Classic Induction Inner Lid Pressure Cooker (ICL50) - 5 L ",
+        "brand": "Hawkins",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY150005249xx15MAY23_5_P.jpg"
+        ],
+        "mrp": 2325,
+        "offer_price": 2118,
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://www.dmart.in/product/hawkins-classic-induction-pressure-cooker-(icl50)-pcookers0hawk5xx310523?selectedProd=1316520",
+        "id": "1329004",
+        "parentIndex": 55,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1329004"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1316521",
+        "name": "Hawkins Classic Induction Inner Lid Pressure Cooker (ICL3W) - 3 L ",
+        "brand": "Hawkins",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY150005250xx15MAY23_5_P.jpg"
+        ],
+        "mrp": 1750,
+        "offer_price": 1575,
+        "unit_level_price": "",
+        "quantity": "3 L",
+        "deeplink": "https://www.dmart.in/product/hawkins-classic-induction-pressure-cooker-(icl3w)-pcookers0hawk7xx310523?selectedProd=1316521",
+        "id": "1329005",
+        "parentIndex": 56,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1329005"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1475019",
+        "name": "Varmora Stainless Steel Classic Lunch Box - Cyan Blue ",
+        "brand": "Varmora",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR150006190xx8APR24_5_P.jpg"
+        ],
+        "mrp": 1439,
+        "offer_price": 1099,
+        "unit_level_price": "",
+        "quantity": "4 U",
+        "deeplink": "https://www.dmart.in/product/varmora-stainless-steel-classic-lunch-box-cyan-blue-plunchbox0varm19xx90424?selectedProd=1475019",
+        "id": "1557633",
+        "parentIndex": 57,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1557633"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1482038",
+        "name": "Borosil Classic Tea Set 1 Litre Carafe & 6 Mugs ",
+        "brand": "Borosil",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150006276xx29FEB24_5_P.jpg"
+        ],
+        "mrp": 1395,
+        "offer_price": 949,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/borosil-classic-tea-set-1-litre-carafe---6-mugs-pglassset0boro9xx290224?selectedProd=1482038",
+        "id": "1484519",
+        "parentIndex": 58,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1484519"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1556064",
+        "name": "Reynolds Jetter Classic Ball Pen - Blue ",
+        "brand": "Reynolds",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY230000640xx13MAY24_5_P.jpg"
+        ],
+        "mrp": 75,
+        "offer_price": 67,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/reynolds-jetter-classic-ball-pen-blue-ppenpencils0reyn3xx200524?selectedProd=1556064",
+        "id": "1578533",
+        "parentIndex": 59,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1578533"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1591523",
+        "name": "Princeware Classic Plastic Storage Container (Blue) - Set of 3 ",
+        "brand": "Princeware",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN150006713xx18JUN24_5_P.jpg"
+        ],
+        "mrp": 868,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/princeware-classic-plastic-storage-container-(blue)-pcontainers0prin11xx200624?selectedProd=1591523",
+        "id": "1595026",
+        "parentIndex": 60,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595026"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1591527",
+        "name": "Princeware Classic Plastic Storage Container (Blue) - Set of 5 ",
+        "brand": "Princeware",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN150006717xx18JUN24_5_P.jpg"
+        ],
+        "mrp": 783,
+        "offer_price": 279,
+        "unit_level_price": "",
+        "quantity": "5 U",
+        "deeplink": "https://www.dmart.in/product/princeware-classic-plastic-storage-container-(blue-)-pcontainers0prin19xx200624?selectedProd=1591527",
+        "id": "1595030",
+        "parentIndex": 61,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595030"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1591528",
+        "name": "Princeware Classic Plastic Storage Container (Pink) - Set of 5 ",
+        "brand": "Princeware",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN150006718xx18JUN24_5_P.jpg"
+        ],
+        "mrp": 783,
+        "offer_price": 279,
+        "unit_level_price": "",
+        "quantity": "5 U",
+        "deeplink": "https://www.dmart.in/product/princeware-classic-plastic-storage-container-(pink)-pcontainers0prin21xx200624?selectedProd=1591528",
+        "id": "1595031",
+        "parentIndex": 62,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595031"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1641533",
+        "name": "Larah By Borosil Dinner Set (Thali Set) Classic - 18 Pieces ",
+        "brand": "Larah By Borosil",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP150007821xx7SEP24_5_P.jpg"
+        ],
+        "mrp": 2195,
+        "offer_price": 1199,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/larah-by-borosil-dinner-set-(thali-set)-classic-18-pieces-pdinnerset25xx131024?selectedProd=1641533",
+        "id": "1647816",
+        "parentIndex": 63,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1647816"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1668058",
+        "name": "Lakme Xtraordin-Airy Mattreal Mousse Foundation Classic Ivory ",
+        "brand": "Lakme",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV140006062xx28NOV24_5_P.jpg"
+        ],
+        "mrp": 975,
+        "offer_price": 649,
+        "unit_level_price": "",
+        "quantity": "25 g",
+        "deeplink": "https://www.dmart.in/product/lakme-xtraordin-airy-mattreal-mousse-foundation-classic-ivory-pfoundation9xx28112024?selectedProd=1668058",
+        "id": "1669038",
+        "parentIndex": 64,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1669038"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1679045",
+        "name": "Kabuliwala & The Postmaster Classic Indian Stories By Rabindranath Tagore ",
+        "brand": "Westland Books",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN270000194xx3JAN25_5_P.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 219,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/kabuliwala-the-postmaster-classic-indian-stories-by-rabindranath-tagore-pothers47xx30125?selectedProd=1679045",
+        "id": "1679563",
+        "parentIndex": 65,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1679563"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1718581",
+        "name": "Shills Professional Press On Classic Art Combo Oval Nails ",
+        "brand": "Shills Professional",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR140006385xx29MAR25_5_P.jpg"
+        ],
+        "mrp": 249,
+        "offer_price": 199,
+        "unit_level_price": "(\u20b9 8.29 / 1 Piece)",
+        "quantity": "24 U",
+        "deeplink": "https://www.dmart.in/product/shills-professional-press-on-classic-art-combo-oval-nails-pnailpolish39xx2425?selectedProd=1718581",
+        "id": "1724584",
+        "parentIndex": 66,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1724584"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12559",
+        "name": "Medimix Ayurvedic Classic 18 Herbs Soap ",
+        "brand": "Medimix",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR140000493xx2APR25_5_P.jpg"
+        ],
+        "mrp": 220,
+        "offer_price": 185,
+        "unit_level_price": "",
+        "quantity": "125 g x 4 U",
+        "deeplink": "https://www.dmart.in/product/medimix-ayurvedic-classic-18-herbs-soap?selectedProd=12559",
+        "id": "14447",
+        "parentIndex": 69,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14447"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "810502",
+        "name": "Lay's Classic Salted Potato Chips ",
+        "brand": "Lay's",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120004668xx6JUN22_5_P.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 33,
+        "unit_level_price": "(\u20b9 0.40 / 1 gm)",
+        "quantity": "82 g",
+        "deeplink": "https://www.dmart.in/product/lays-classic-salted-potato-chips-pwafer0lays3xx71220?selectedProd=810502",
+        "id": "812007",
+        "parentIndex": 70,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "812007"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1483020",
+        "name": "Gulf Finest Classic Dates ",
+        "brand": "Gulf Dates",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110004355xx14MAR24_5_P.jpg"
+        ],
+        "mrp": 162,
+        "offer_price": 88,
+        "unit_level_price": "(\u20b9 0.18 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/gulf-finest-classic-dates-pdates0gulf21xx200324?selectedProd=1483020",
+        "id": "1545571",
+        "parentIndex": 71,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1545571"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1068003",
+        "name": "Haldiram's Classic Lassi ",
+        "brand": "Haldiram's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR130001867xx27APR25_5_P.jpg"
+        ],
+        "mrp": 20,
+        "offer_price": 18,
+        "unit_level_price": "(\u20b9 0.10 / 1 ml)",
+        "quantity": "180 ml",
+        "deeplink": "https://www.dmart.in/product/haldirams-classic-lassi-plassi0hald19xx230522?selectedProd=1068003",
+        "id": "1073510",
+        "parentIndex": 72,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1073510"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1591524",
+        "name": "Princeware Classic Plastic Storage Container (Pink) - Set of 3 ",
+        "brand": "Princeware",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN150006714xx18JUN24_5_P.jpg"
+        ],
+        "mrp": 868,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "3 U",
+        "deeplink": "https://www.dmart.in/product/princeware-classic-plastic-storage-container-(pink)-pcontainers0prin13xx200624?selectedProd=1591524",
+        "id": "1595027",
+        "parentIndex": 73,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1595027"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11405",
+        "name": "Parle Monaco Cheeslings Classic ",
+        "brand": "Parle Monaco",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/Isaltybiscuit125gPRLE2033xx120521_5_P.jpg"
+        ],
+        "mrp": 140,
+        "offer_price": 89,
+        "unit_level_price": "(\u20b9 0.30 / 1 gm)",
+        "quantity": "300 g",
+        "deeplink": "https://www.dmart.in/product/parle-monaco-cheeslings-namkeen?selectedProd=11405",
+        "id": "13821",
+        "parentIndex": 74,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13821"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "34520",
+        "name": "Cycle 3 In 1 Pure Agarbathi Classic ",
+        "brand": "Cycle",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB150000440xx22FEB22_5_P.jpg"
+        ],
+        "mrp": 65,
+        "offer_price": 58,
+        "unit_level_price": "(\u20b9 0.48 / 1 gm)",
+        "quantity": "1 Unit",
+        "deeplink": "https://www.dmart.in/product/cycle-3-in-1-pure-agarbathi?selectedProd=34520",
+        "id": "45631",
+        "parentIndex": 77,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "45631"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11407",
+        "name": "Parle Monaco Classic Regular Biscuit ",
+        "brand": "Parle Monaco",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/Isaltybiscuit125gPRLE2065xx120521_5_P.jpg"
+        ],
+        "mrp": 40,
+        "offer_price": 37,
+        "unit_level_price": "(\u20b9 0.20 / 1 gm)",
+        "quantity": "185.6 g",
+        "deeplink": "https://www.dmart.in/product/parle-monaco-classic-regular-biscuit?selectedProd=11407",
+        "id": "13916",
+        "parentIndex": 80,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13916"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11887",
+        "name": "Nescaf\u00e9 Classic Coffee Jar ",
+        "brand": "Nescafe",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC130000032xx17DEC24_5_P.jpg"
+        ],
+        "mrp": 115,
+        "offer_price": 106,
+        "unit_level_price": "(\u20b9 4.42 / 1 gm)",
+        "quantity": "24 g",
+        "deeplink": "https://www.dmart.in/product/nescafe-classic-coffee-jar?selectedProd=11887",
+        "id": "14247",
+        "parentIndex": 84,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14247"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11889",
+        "name": "Nescaf\u00e9 Classic Coffee ",
+        "brand": "Nescafe",
+        "available": false,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY130000034xx25MAY22_5_P.jpg"
+        ],
+        "mrp": 1860,
+        "offer_price": 1729,
+        "unit_level_price": "(\u20b9 3.46 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/nescafe-classic-coffee?selectedProd=11889",
+        "id": "14246",
+        "parentIndex": 87,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14246"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "113519",
+        "name": "Britannia Cheese Cubes - Classic ",
+        "brand": "Britannia",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN130000396xx24JUN24_5_P.jpg"
+        ],
+        "mrp": 405,
+        "offer_price": 369,
+        "unit_level_price": "(\u20b9 0.61 / 1 gm)",
+        "quantity": "600 g",
+        "deeplink": "https://www.dmart.in/product/britannia-cheese-cubes?selectedProd=113519",
+        "id": "113020",
+        "parentIndex": 89,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "113020"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "364003",
+        "name": "Hand Aid Classic Liquid Handwash ",
+        "brand": "Hand Aid",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/AUG140001095xx1AUG23_5_P.jpg"
+        ],
+        "mrp": 135,
+        "offer_price": 67,
+        "unit_level_price": "(\u20b9 0.09 / 1 ml)",
+        "quantity": "750 ml",
+        "deeplink": "https://www.dmart.in/product/hand-aid-handwash-classic-phandwashhaid16xx15918?selectedProd=364003",
+        "id": "364502",
+        "parentIndex": 90,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "364502"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "409001",
+        "name": "Britannia Little Hearts Classic ",
+        "brand": "Britannia Little Hearts",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN120001399xx24JUN24_5_P.jpg"
+        ],
+        "mrp": 30,
+        "offer_price": 25,
+        "unit_level_price": "(\u20b9 0.36 / 1 gm)",
+        "quantity": "70 g",
+        "deeplink": "https://www.dmart.in/product/britannia-little-hearts-classic-biscuits?selectedProd=409001",
+        "id": "13514",
+        "parentIndex": 92,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "13514"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "11308",
+        "name": "India Gate Basmati Rice - Classic ",
+        "brand": "India Gate",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN110000338xx14JUN24_5_P.jpg"
+        ],
+        "mrp": 1255,
+        "offer_price": 1039,
+        "unit_level_price": "(\u20b9 207.80 / 1 kg)",
+        "quantity": "5 kg",
+        "deeplink": "https://www.dmart.in/product/india-gate-basmati-rice-classic?selectedProd=11308",
+        "id": "14069",
+        "parentIndex": 93,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14069"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "12014",
+        "name": "Horlicks Health & Nutrition Drink Refill - Classic Malt ",
+        "brand": "Horlicks",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/IHealthDrinks1kgHRLK2876xx210521_5_P.jpg"
+        ],
+        "mrp": 574,
+        "offer_price": 533,
+        "unit_level_price": "(\u20b9 0.53 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/horlicks-classic-malt-refill?selectedProd=12014",
+        "id": "14384",
+        "parentIndex": 95,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "14384"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "781516",
+        "name": "Philips Ujjwal White LED Batten - 20 W ",
+        "brand": "Philips",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/LLEDBULBS0Phil38xx021020_5_P.jpg"
+        ],
+        "mrp": 500,
+        "offer_price": 149,
+        "unit_level_price": "",
+        "quantity": "20 W",
+        "deeplink": "https://www.dmart.in/product/philips-ujjwal-led-batten-pledbulbs0phil37xx021020?selectedProd=781516",
+        "id": "797541",
+        "parentIndex": 96,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "797541"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1383010",
+        "name": "Nippo White LED Bulb ",
+        "brand": "NIPPO",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/SEP180000690xx2SEP23_5_P.jpg"
+        ],
+        "mrp": 300,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "12 W",
+        "deeplink": "https://www.dmart.in/product/nippo-led-bulb--pledbulbs0nipp9xx20923?selectedProd=1383010",
+        "id": "1383009",
+        "parentIndex": 97,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1383009"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1584025",
+        "name": "Ecolink Emergency B22 LED Bulb White 12 W ",
+        "brand": "Ecolink",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JUN180000826xx5JUN24_5_P.jpg"
+        ],
+        "mrp": 619,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "1 U",
+        "deeplink": "https://www.dmart.in/product/ecolink-emergency-b22-led-bulb-white-12-w-pledbulbs0ecol7xx50624?selectedProd=1584025",
+        "id": "1582380",
+        "parentIndex": 98,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1582380"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1573089",
+        "name": "Luxor White Board Marker - Black & Blue ",
+        "brand": "Luxor",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY230000657xx28MAY24_5_P.jpg"
+        ],
+        "mrp": 55,
+        "offer_price": 39,
+        "unit_level_price": "",
+        "quantity": "2 U",
+        "deeplink": "https://www.dmart.in/product/luxor-white-board-marker-black-blue-ppenpencils0luxo1xx280524?selectedProd=1573089",
+        "id": "1582052",
+        "parentIndex": 99,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1582052"
+        ]
+      }
+    ]
+  }
+]

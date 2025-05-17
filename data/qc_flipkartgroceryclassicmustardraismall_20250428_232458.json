@@ -1,0 +1,1309 @@
+[
+  {
+    "data": [
+      {
+        "id": "40135853",
+        "name": "Organic - Mustard/Mohari/Rai, Small",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40135853_8-bb-royal-organic-mustardrai-small.jpg"
+        ],
+        "mrp": "144",
+        "offer_price": "121",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40135853",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40135853"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528015,
+        "name": "Whole Farm Premium Black Small Mustard Seeds/Rai",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b8875e04-c4d5-459f-b764-502ef6f75d34.jpg?ts=1743764662",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528015d.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 33,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528015",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 12,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528015
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "454ed69b-69fd-4d9e-98d5-e681829c9fda",
+        "name": "Popular Essentials Mustard Seeds Rai Small",
+        "brand": "Popular Essentials",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5142eb80-7ac5-4692-bcd0-fe96dc1528d1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3be2c060-c211-4108-bc46-0f502a016ff2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7c25a008-f8c6-4170-b128-8d4a7a10377d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aff83f6a-398a-4926-9ff5-836f1a1b8ee7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3913ba02-47f4-467a-ad0e-56b3fabbf25c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ee6c36c4-45be-4e5a-ba3b-06ba799ff89b.jpeg"
+        ],
+        "mrp": 27.0,
+        "offer_price": 24.0,
+        "unit_level_price": 24.0,
+        "quantity": "100 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d564ba77-dee0-4be5-93e3-d6b1cc4d686e",
+        "id": "d564ba77-dee0-4be5-93e3-d6b1cc4d686e",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d564ba77-dee0-4be5-93e3-d6b1cc4d686e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "605379345",
+        "name": "JIGSHTIAL Flipkart SmartBuy Clear Glass Water Jug with Lid 1.1 L",
+        "brand": "JIGSHTIAL",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgkqxwcvx/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l-product-images-orvgkqxwcvx-p605379345-0-202310020527.jpg"
+        ],
+        "mrp": 999,
+        "offer_price": 459,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/jigshtial-flipkart-smartbuy-clear-glass-water-jug-with-lid-1-1-l/605379345",
+        "id": "605379345",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "605379345"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AOCKIZZJ3G",
+        "name": "OM BHAKTI Wick For Diya Ghee Cotton Wicks Small",
+        "brand": "OM BHAKTI",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/50f90bad-218a-4484-893b-9c98dc379761_poojaneeds_AOCKIZZJ3G_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/2eb53f71-70a6-4af9-ba95-4721d6f4b801_poojaneeds_AOCKIZZJ3G_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/b0cc662d-708f-49a1-af11-fa30cbc1ee24_poojaneeds_AOCKIZZJ3G_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/e73ba724-4f52-4ea6-919b-cd4c92357575_poojaneeds_AOCKIZZJ3G_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/db85736f-40ee-4397-87f0-d471bde7711b_poojaneeds_AOCKIZZJ3G_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/66582a29-dc71-4a1c-aa2c-1f89d1a14021_poojaneeds_AOCKIZZJ3G_AL5.png"
+        ],
+        "mrp": 159,
+        "x_available": true,
+        "available": true,
+        "offer_price": 143,
+        "unit_level_price": "",
+        "quantity": "30 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SONJT2H8DK",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AOCKIZZJ3G"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528016,
+        "name": "Whole Farm Premium Yellow Small Mustard Seeds/Rai",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a6bb8430-9947-448f-b149-e80e466aac8d.jpg?ts=1743764663",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528016d.jpg"
+        ],
+        "mrp": 25,
+        "offer_price": 23,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528016",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528016
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "28BKHOZNVI",
+        "name": "Mangaldeep Chandan 3 In1 Agarbatti Classic Chandan, Rose Chandan & Jasmine Chandan",
+        "brand": "Mangaldeep",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/c870f1f0-625e-4379-a3b9-7b46761ee005_poojaneeds_28BKHOZNVI_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/9/ff81daf7-9775-4701-896a-8c6d7566ea89_2e6942ab-053b-46c2-9575-a5ff1a550621",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/a4a1bd8c-708d-4b54-9493-31a3d971eb59_poojaneeds_28BKHOZNVI_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/d3127a43-252b-4960-8f1e-29bda00c3394_poojaneeds_28BKHOZNVI_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/934ab564-1a30-4e03-98af-d2d37db3c773_poojaneeds_28BKHOZNVI_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/24/a8d925e7-5c65-43a7-8990-94fadc0c9a0b_poojaneeds_28BKHOZNVI_AL5.png"
+        ],
+        "mrp": 125,
+        "x_available": true,
+        "available": true,
+        "offer_price": 116,
+        "unit_level_price": "",
+        "quantity": "226 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/441A27JVTB",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "28BKHOZNVI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 108382,
+        "name": "24 Mantra Organic Black (Small) Mustard Seeds / Rai Seeds",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9cd87fc0-a6b3-4af9-ad79-3e664d23b07e.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/afb97555-3d12-4c8b-80ff-f3fb5e67e89e.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a11e68e4-9b03-4763-996c-8183b08a3861.jpg?ts=1742469907",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a61c5826-a480-41a8-8f48-ec09f90a8ea8.jpg?ts=1742469908",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7611238e-188e-43c8-8250-14186e30fdab.jpg?ts=1742469908",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7d77152d-98dc-4ab1-95b5-be08611cdc20.jpg"
+        ],
+        "mrp": 38,
+        "offer_price": 38,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/108382",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108382,
+          495104
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H8Z3Y1618Q",
+        "name": "OM BHAKTI Sree Ganeshaya Namaha -3ft Small Leaf (Cloth)",
+        "brand": "OM BHAKTI",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/12/22677c00-a551-4a48-8f8f-603a4140c140_poojaneeds_H8Z3Y1618Q_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/12/c0b2a7cd-ebb3-4775-88ac-0a6525aae32f_poojaneeds_H8Z3Y1618Q_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/12/7fca4f8e-5ac0-4ddb-a2be-722ff58d9c7d_poojaneeds_H8Z3Y1618Q_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/12/005d716c-434d-441e-8ebe-6e960a4d8f23_poojaneeds_H8Z3Y1618Q_AL3.png"
+        ],
+        "mrp": 159,
+        "x_available": true,
+        "available": true,
+        "offer_price": 159,
+        "unit_level_price": "",
+        "quantity": "1 Piece",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/U4DFR9CDJS",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H8Z3Y1618Q"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 495104,
+        "name": "24 Mantra Organic Black (Small) Mustard Seeds / Rai Seeds - Pack of 2",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/66ee04db-df2d-4783-b573-afe58e6c637d.jpg?ts=1742470269",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/39da5a7a-0cba-474f-a9d9-5f81fcd5483a.jpg?ts=1742470269",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/15abc068-6952-431b-901f-2adb3e6074f7.jpg?ts=1742470270",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/227ddef2-098d-45ee-b60f-164b37456f3c.jpg?ts=1742470270",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1c250e82-47e2-4ddc-854d-6cec3a7bb972.jpg?ts=1742470271",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90bf9a2f-f60c-4323-9afc-7d11a65c58ec.jpg?ts=1742470271"
+        ],
+        "mrp": 76,
+        "offer_price": 69,
+        "unit_level_price": "",
+        "quantity": "2 x 100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/495104",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          108382,
+          495104
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XST7TBRO01",
+        "name": "SATVIK Pooja Banana Broom- Small",
+        "brand": "SATVIK",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/2fcbcf9c-b2f3-423c-8b59-bf4c4a128147_865961_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/59850a69-c785-488c-8c90-7614f205838a_865961_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/ffe4c4c5-969f-4b88-92a6-4a9275d5aff2_865961_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/4c15fcf7-a322-43f4-b215-86126462b4a1_865961_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/fb3a5e39-74f0-48ba-8ddc-afbccf40ff94_865961_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/c1c79c2c-1677-47ca-b33a-5478330bcf6b_865961_6.png"
+        ],
+        "mrp": 189,
+        "x_available": true,
+        "available": true,
+        "offer_price": 189,
+        "unit_level_price": "",
+        "quantity": "1 Piece",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5FACFHPBC9",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XST7TBRO01"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528751,
+        "name": "Whole Farm Grocery Nakul Dana / Elaichi Dana",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/26fc15eb-41b1-422e-b7bb-a6a690493bf6.jpg?ts=1725341822",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d7909305-ccdb-42f7-8349-f0a32fcb9698.jpg?ts=1743766979",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/288f89c5-cef9-47be-989d-7f83978b8b34.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f640691b-9e73-401f-8e71-8e723d2e4087.jpg?ts=1725341822",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/647a3daf-912d-4294-89d3-dcf1efc563a0.jpg?ts=1725341822"
+        ],
+        "mrp": 39,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528751",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528751
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0THYIJNPXK",
+        "name": "Diacraft Pooja Thali - Gold - Small",
+        "brand": "Diacraft",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/6/e1c5d080-abf0-4357-8f35-037c2c033d7a_720433_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/6/71906057-38f9-4064-8523-bc31f5f6b02c_720433_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/6/a68bf02a-dfd0-4255-9606-df502503d626_720433_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/6/c4e51a0e-674f-49c0-b76c-fcc3aa65c504_720433_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/6/bb9489f6-0783-46e9-9733-34efd7503b5b_720433_5.png"
+        ],
+        "mrp": 129,
+        "x_available": true,
+        "available": true,
+        "offer_price": 55,
+        "unit_level_price": "",
+        "quantity": "1 Piece",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/92JSP0D1IZ",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0THYIJNPXK"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40026602",
+        "name": "Mustard/Mohari/Rai - Small",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40026602_10-bb-royal-mustardrai-small.jpg"
+        ],
+        "mrp": "230",
+        "offer_price": "121",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40026602",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40026602"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 545720,
+        "name": "Zoff Premium Black Mustard",
+        "brand": "Zoff",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/15cd24a1-11e0-4b25-8edd-6dd39c04a496.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f4dfd740-0881-4c83-b1f0-8176f2f1f20f.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bec84a13-ea3e-4d3c-a5ef-11940eb31dd3.jpg",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7c7c6a83-e06b-4c26-99e3-c23e90a79e0d.jpg"
+        ],
+        "mrp": 45,
+        "offer_price": 33,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/545720",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          545720
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KY9JKQM8SG",
+        "name": "Mangalam Camphor Small Round Jar & Camphor Bhimseni Jar",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/3bf76f7b-4e19-4a1e-a452-e0e020e19104_20761_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/a0c355f4-8f55-4d20-9f4f-42617655f813_20761_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/4fb232bc-7546-412e-b0e2-e9da98c2991f_20761_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/7d95ad4f-db85-49e2-812c-37562862b867_20761_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/7eda6713-a231-45e8-9ab9-e002deb6873a_20761_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/7/a557e48f-5ef7-47be-ac4e-9072d76281e7_20761_6.png"
+        ],
+        "mrp": 475,
+        "x_available": true,
+        "available": false,
+        "offer_price": 427,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/4T8PNIDPNW",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "KY9JKQM8SG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 32783,
+        "name": "Satyam Black Big Mustard Seeds",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/53210da9-0b3c-479b-98f7-d81798197bdc.jpg?ts=1708591110"
+        ],
+        "mrp": 25,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32783",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32783
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "C20WMSTTDR",
+        "name": "OM BHAKTI Camphor (Small)",
+        "brand": "OM BHAKTI",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/198369e5-9c00-4740-ae8a-a8c1d361c38d_poojaneeds_C20WMSTTDR_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/7a3bf05b-fbf6-4be3-80f4-6be1654e1e6d_poojaneeds_C20WMSTTDR_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/7b929fcf-58ed-450e-a4a6-600a665d6752_poojaneeds_C20WMSTTDR_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/fd2da554-f211-4c4e-a0b1-294d9e68fad9_poojaneeds_C20WMSTTDR_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/1fa589c2-765d-4da7-b3e1-2cf619db60d4_poojaneeds_C20WMSTTDR_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/8/15898445-9942-4c0b-a2f3-9705d4f270ff_poojaneeds_C20WMSTTDR_AL5.png"
+        ],
+        "mrp": 59,
+        "x_available": true,
+        "available": false,
+        "offer_price": 52,
+        "unit_level_price": "",
+        "quantity": "1 pack",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/94VMY7ISGL",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "C20WMSTTDR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 629894,
+        "name": "Whole Farm Premium Yellow Small Mustard Seeds/Rai - Pack of 2",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/239e0292-06f2-4bb4-8508-ac70ca077158.jpg?ts=1741771420",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e9e1a766-1b06-4f20-ae31-479b5aed6e83.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d4c6936b-56b3-4c87-85ab-5a2d7bf3a9d7.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2061036-9a14-4d3e-b3c3-c185f1e56e20.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 45,
+        "unit_level_price": "",
+        "quantity": "2 x 100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/629894",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          629894
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40089604",
+        "name": "Organic - Mustard/Mohari/Rai Yellow",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40089604_13-bb-royal-organic-mustardrai-yellow.jpg"
+        ],
+        "mrp": "29",
+        "offer_price": "29",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40089604",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40089604"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40085063",
+        "name": "Mustard/Mohari/Rai - Small",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40085063_5-bb-popular-mustardrai-small.jpg"
+        ],
+        "mrp": "111",
+        "offer_price": "33",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40085063",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40085063"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40135854",
+        "name": "Organic - Mustard/Mohari/Rai Big",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40135854_11-bb-royal-organic-mustardrai-big.jpg"
+        ],
+        "mrp": "58",
+        "offer_price": "43",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40135854",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40135854"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "279819",
+        "name": "Organic Mustard/Mohari Seeds - Whole, Big",
+        "brand": "24 Mantra Organic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/279819_10-24-mantra-organic-mustard-seeds-whole-big.jpg"
+        ],
+        "mrp": "28",
+        "offer_price": "28",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/279819",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "279819"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40002634",
+        "name": "Organic Seeds - Black Mustard/Mohari",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40002634_10-organic-tattva-organic-seeds-black-mustard.jpg"
+        ],
+        "mrp": "40",
+        "offer_price": "30",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40002634",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40002634"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40001278",
+        "name": "Mustard/Mohari/Rai - Yellow",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40001278_6-bb-royal-mustardrai-yellow.jpg"
+        ],
+        "mrp": "64",
+        "offer_price": "29",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40001278",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40001278"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40000624",
+        "name": "Mustard/Mohari/Rai - Big",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40000624_10-bb-royal-mustardrai-big.jpg"
+        ],
+        "mrp": "85",
+        "offer_price": "43",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40000624",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40000624"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40051743",
+        "name": "Premium Kachi Ghani Pure Mustard Oil",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40051743_7-fortune-fortune-premium-kachi-ghani-pure-mustard-oil.jpg"
+        ],
+        "mrp": "1100",
+        "offer_price": "974.06",
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40051743",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40051743"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40030808",
+        "name": "Cumin/Jeera Whole/Jeera Purna",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40030808_10-bb-royal-cuminjeera-whole.jpg"
+        ],
+        "mrp": "760",
+        "offer_price": "355",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40030808",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 40,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40030808"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30002397",
+        "name": "Mustard Oil",
+        "brand": "Patanjali",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30002397_9-patanjali-mustard-oil.jpg"
+        ],
+        "mrp": "180",
+        "offer_price": "180",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30002397",
+        "rank": 12,
+        "is_ad": false,
+        "parentIndex": 42,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30002397"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40311588",
+        "name": "Pure & Unrefined Cold Pressed Mustard Oil",
+        "brand": "Tata Simply Better",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40311588_4-tata-simply-better-100-pure-unrefined-cold-pressed-mustard-oil.jpg"
+        ],
+        "mrp": "350",
+        "offer_price": "308",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40311588",
+        "rank": 13,
+        "is_ad": false,
+        "parentIndex": 44,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40311588"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30003360",
+        "name": "Kachi Ghani Mustard Oil",
+        "brand": "Dhara ",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30003360_7-dhara-oil-mustard-kachi-ghani.jpg"
+        ],
+        "mrp": "210",
+        "offer_price": "182.65",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30003360",
+        "rank": 14,
+        "is_ad": false,
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30003360"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "100005318",
+        "name": "Kachi Ghani Mustard Oil",
+        "brand": "Dhara ",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/100005318_10-dhara-oil-mustard-kachi-ghani.jpg"
+        ],
+        "mrp": "1075",
+        "offer_price": "938.96",
+        "unit_level_price": "",
+        "quantity": "5 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/100005318",
+        "rank": 15,
+        "is_ad": false,
+        "parentIndex": 48,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "100005318"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "212470",
+        "name": "Kachi Ghani Mustard Oil",
+        "brand": "Dhara ",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/212470_5-dhara-oil-mustard-kachi-ghani.jpg"
+        ],
+        "mrp": "230",
+        "offer_price": "184.6",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/212470",
+        "rank": 16,
+        "is_ad": false,
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "212470"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40140644",
+        "name": "Kachi Ghani Mustard Oil",
+        "brand": "Patanjali",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40140644_7-patanjali-mustard-oil.jpg"
+        ],
+        "mrp": "175",
+        "offer_price": "175",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40140644",
+        "rank": 17,
+        "is_ad": false,
+        "parentIndex": 52,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40140644"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40181475",
+        "name": "Cold Pressed Kachi Ghani Mustard Cooking Oil",
+        "brand": "bb Royal Organic",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40181475_14-bb-royal-organic-cold-pressed-kachi-ghani-mustard-cooking-oil.jpg"
+        ],
+        "mrp": "550",
+        "offer_price": "271",
+        "unit_level_price": "",
+        "quantity": "1 L",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40181475",
+        "rank": 18,
+        "is_ad": false,
+        "parentIndex": 54,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40181475"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40137362",
+        "name": "Mustard Oil - Cold Pressed",
+        "brand": "Pro Nature",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40137362_5-pro-nature-mustard-oil-cold-pressed.jpg"
+        ],
+        "mrp": "252",
+        "offer_price": "252",
+        "unit_level_price": "",
+        "quantity": "500 ml",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40137362",
+        "rank": 19,
+        "is_ad": false,
+        "parentIndex": 56,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40137362"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40199934",
+        "name": "Organic Mango Pickle",
+        "brand": "indiSecrets",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40199934_8-indisecrets-organic-homestyle-mango-pickle.jpg"
+        ],
+        "mrp": "149",
+        "offer_price": "99",
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40199934",
+        "rank": 20,
+        "is_ad": false,
+        "parentIndex": 59,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40199934"
+        ]
+      }
+    ]
+  }
+]

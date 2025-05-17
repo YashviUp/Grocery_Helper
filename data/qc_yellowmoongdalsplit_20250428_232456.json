@@ -1,0 +1,3291 @@
+[
+  {
+    "data": [
+      {
+        "id": "40320543",
+        "name": "Rajasthani Moong Dal Halwa",
+        "brand": "Precia",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40320543_5-precia-rajasthani-moong-dal-halwa.jpg"
+        ],
+        "mrp": "145",
+        "offer_price": "89",
+        "unit_level_price": "",
+        "quantity": "125 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40320543",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40320543"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "631506",
+        "name": "Organic Tattva Moong Dal Yellow Split ",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAY110001346xx24MAY22_5_P.jpg"
+        ],
+        "mrp": 310,
+        "offer_price": 199,
+        "unit_level_price": "(\u20b9 0.20 / 1 gm)",
+        "quantity": "1 kg",
+        "deeplink": "https://www.dmart.in/product/organic-tattva-moong-dal-yellow-split-pmoongdal0orga17xx301219?selectedProd=631506",
+        "id": "627682",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "627682"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "be041d24-2d7f-438b-8b32-1eaa3e00a2c6",
+        "name": "Tata Sampann Unpolished Urad Dal | Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/26956e47-3e20-44ae-b50c-c48b62d18a79.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/eb978041-4091-43c3-a150-4d1af0c69d8a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6846295d-b3f8-401c-9375-705d18ccbdf7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2c58e368-c7b4-4af1-a68e-3d2ff1dbc817.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4ebf70dd-f9d3-413f-916d-425da04db242.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cb18b420-6cf3-4837-b5a2-7e17dc5b94a3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c2ef50ee-ee59-47d3-b5ee-0712471c50bf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/48be9ac9-8d0d-4a79-a29d-b393ac3586b1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6f5beda3-af46-4dab-8eb5-7dbe212301aa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/063d4399-5e96-406d-a1d3-9bbe33c90d58.jpeg"
+        ],
+        "mrp": 118.0,
+        "offer_price": 118.0,
+        "unit_level_price": 118.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d86025a7-fbff-439e-9c8b-3ddcd17afe0c",
+        "id": "d86025a7-fbff-439e-9c8b-3ddcd17afe0c",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d86025a7-fbff-439e-9c8b-3ddcd17afe0c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 57903,
+        "name": "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bbb8b649-8c94-4dbe-b2ff-af3363de072c.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b15ab712-c97e-4967-8705-9cc1155b562f.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0621490f-d12a-452c-a765-f8f9f41f8e7e.jpg?ts=1736609571",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/48bdcdc6-4503-4538-97f7-a628e27fb207.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1c066818-9263-4e8e-83b3-4613e79704c3.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e8a9213f-f0f4-4909-8dac-d9ec48bcd0a0.jpg?ts=1736609572",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/526560ed-033f-4ded-8945-b24ac9ae84f4.jpg?ts=1736609573",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b3860dad-d86f-48f4-b769-9abadc48d9a8.jpg?ts=1736609573",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/686897d6-cd0f-4008-83c1-d48523c505d7.jpg?ts=1736609574",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f03d56bf-1f5b-4f9a-81a7-f9387fce8419.jpg?ts=1736609574"
+        ],
+        "mrp": 103,
+        "offer_price": 96,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/57903",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 17,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          57903
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101980",
+        "name": "Organic Tattva, Moong Dal Yellow Split, 1kg | Rich in Protein | Naturally Gluten Free | Unpolished Dal | Pesticide and Chemical Free | Pack of 1",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv4jdumq5b/organic-tattva-moong-dal-yellow-split-1kg-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-1-product-images-orv4jdumq5b-p610101980-0-202410161525.jpg"
+        ],
+        "mrp": 310,
+        "offer_price": 248,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/organic-tattva-moong-dal-yellow-split-1kg-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-1/610101980",
+        "id": "610101980",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101980"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0I0KPTC4RL",
+        "name": "Praakritik Organic Yellow Moong Dal",
+        "brand": "Praakritik",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/1/9c17722d-05f2-48dc-a95f-e112b98e33c0_972163_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/1/6250f8e5-9000-40b0-b135-64f012d9b0ad_972163_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/1/26ba826f-cb7b-4587-b04a-c801086198fe_972163_3.png"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 144,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/54EEW30L8Q",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0I0KPTC4RL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "eecc1373-f3bd-43f4-a8b8-186ea2ffa869",
+        "name": "Safe Harvest Pesticide-Free Mung Split | Pure and Natural | Vegan | Gluten Free",
+        "brand": "Safe Harvest",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8fe24d1e-b21f-4bab-8413-6d09365e00ea.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e6eea324-40d5-4e2a-ae4e-e9d0fab20062-1KtCQi9-YAa9E__tr8zlfbxWYaNLtWCBh.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e6eea324-40d5-4e2a-ae4e-e9d0fab20062-1Ogv9Fz9uML0anfaCnRrpcSRkjPbTMTKj.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e6eea324-40d5-4e2a-ae4e-e9d0fab20062-1ngfYgsGlabsTrhtU_BPre8KK__VeXE1D.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/e6eea324-40d5-4e2a-ae4e-e9d0fab20062-1my0N7Pr9qkkIplvrjjn2Z3IplRVy24Pm.jpeg"
+        ],
+        "mrp": 140.0,
+        "offer_price": 119.0,
+        "unit_level_price": 119.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e6eea324-40d5-4e2a-ae4e-e9d0fab20062",
+        "id": "e6eea324-40d5-4e2a-ae4e-e9d0fab20062",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e6eea324-40d5-4e2a-ae4e-e9d0fab20062"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 71165,
+        "name": "Satyam Yellow Moong Dal (Dhuli)",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3c69ab6e-f300-403b-a86f-6e3903ed426c.jpg?ts=1712825586",
+          "https://cdn.grofers.com/app/images/products/sliding_image/71165b.jpg?ts=1690814459",
+          "https://cdn.grofers.com/app/images/products/sliding_image/71165c.jpg?ts=1690814459"
+        ],
+        "mrp": 129,
+        "offer_price": 120,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/71165",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          71165
+        ]
+      },
+      {
+        "xid": "386aa8f7-0745-4603-9b79-3544c22427c5",
+        "name": "Satyam Yellow Moong Dal",
+        "brand": "Satyam",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/641a90c7-8208-4472-983e-047d45fea9ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/dd91c0d5-d942-4d47-bfa6-c0187ae471ee-1M8XvtvxfusiRn8dLpnD7shqwDnBB91dg.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/dd91c0d5-d942-4d47-bfa6-c0187ae471ee-1M3Sqn5OPc0OMdSG6i5tRurS69YvH55CD.jpeg"
+        ],
+        "mrp": 129.0,
+        "offer_price": 108.0,
+        "unit_level_price": 108.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dd91c0d5-d942-4d47-bfa6-c0187ae471ee",
+        "id": "dd91c0d5-d942-4d47-bfa6-c0187ae471ee",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "dd91c0d5-d942-4d47-bfa6-c0187ae471ee"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658260",
+        "name": "Momsy Premium Moong Dal Yellow / Split| Healthy Pulses (450gm)",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvynlzbp3e/momsy-premium-moong-dal-yellow-split-healthy-pulses-450gm-product-images-orvynlzbp3e-p609658260-0-202408052015.jpg"
+        ],
+        "mrp": 399,
+        "offer_price": 199,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-moong-dal-yellow-split-healthy-pulses-450gm/609658260",
+        "id": "609658260",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658260"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "000PI74X52",
+        "name": "24 Mantra Green Moong Dal Split",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/49ee097edbf3d2b2a9180296b2020320",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/82132e22e686a1a6a7d6af4dfddf1bf3",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/acf7a663f3d96695f54508bb347b3cdc"
+        ],
+        "mrp": 290,
+        "x_available": true,
+        "available": true,
+        "offer_price": 203,
+        "unit_level_price": "20.3/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/V8NFKS7DUC",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "000PI74X52",
+          "FSNUMCQOTQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000418",
+        "name": "Green Moong Split/Chilka/Hirve Moong Chilka",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000418_15-bb-royal-moong-green-splitchilka.jpg"
+        ],
+        "mrp": "111",
+        "offer_price": "77",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000418",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000418"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8064313f-a24f-4d57-b0c7-a82587ecf747",
+        "name": "Daily Good Unpolished Urad Dal | Split White 500 g Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0e645bd5-2015-4b5b-abd6-d513fe9df78d.jpg"
+        ],
+        "mrp": 260.0,
+        "offer_price": 202.0,
+        "unit_level_price": 202.0,
+        "quantity": "500 g X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ac74e932-55d3-42a5-bcf7-8c3a04fa5c88",
+        "id": "ac74e932-55d3-42a5-bcf7-8c3a04fa5c88",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ac74e932-55d3-42a5-bcf7-8c3a04fa5c88"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 23742,
+        "name": "Tata Sampann Unpolished Moong Dal (Dhuli) Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b0ae7762-2d0f-4ce5-9962-ce83ebd9ba27.jpg?ts=1736609552",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/19842a96-d758-40d3-baa7-cf2b6d51994b.jpg?ts=1736609552",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f50684ec-4978-4d7d-b6ce-d478048a485e.jpg?ts=1736609553",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/333970ba-c628-4aec-a2f1-77ea7505f10b.jpg?ts=1736609553",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a5bf0c11-866a-4adb-8537-b6b1b43f3719.jpg?ts=1736609553",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/581d630e-2483-405f-87f8-ac2166f296de.jpg?ts=1736609553",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a4eb6b7a-1270-4117-b84f-0d1f04aa7866.jpg?ts=1736609554",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1521efde-f9ff-46c1-a4c8-09c0183072ba.jpg?ts=1736609554",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/67aee649-eecb-4f1e-9968-9efa03245e9e.jpg?ts=1736609554",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/72fa9e1c-8a4d-4b73-8f67-efd35079d267.jpg?ts=1736609554"
+        ],
+        "mrp": 205,
+        "offer_price": 170,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/23742",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 18,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          23742
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101988",
+        "name": "Organic Tattva, Moong Dal Yellow Split, 500g | Rich in Protein | Naturally Gluten Free | Unpolished Dal | Pesticide and Chemical Free | Pack of 4",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvwzk0rc7q/organic-tattva-moong-dal-yellow-split-500g-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-4-product-images-orvwzk0rc7q-p610101988-0-202410161525.jpg"
+        ],
+        "mrp": 620,
+        "offer_price": 496,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/organic-tattva-moong-dal-yellow-split-500g-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-4/610101988",
+        "id": "610101988",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101988"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "FSNUMCQOTQ",
+        "name": "24 Mantra Green Moong Dal Split",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/4c6ab84b-5483-4744-9935-588e0ac9c9f4_3426_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/f83b4916-deea-4f57-a8d3-6bf2c9b0cc11_3426_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/7971a1ad-2d54-4a32-9e7b-b7539b6abc09_3426_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/27/71a09fb9-b9dc-4988-8f58-148b9934fcbe_3426_4.png"
+        ],
+        "mrp": 145,
+        "x_available": true,
+        "available": true,
+        "offer_price": 109,
+        "unit_level_price": "21.8/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/V8NFKS7DUC",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "000PI74X52",
+          "FSNUMCQOTQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bbb95104-14f5-4092-b7b9-ac9d7fd03114",
+        "name": "Daily Good Unpolished Urad Dal | Split White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b89ea0ae-e9c6-4c29-b801-2e4fd0bbcbd1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9938186d-23e7-46ab-9c9f-f97a738e9efa.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d852f3c0-cba5-444e-a8a9-5fc68fe59eca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0f24b9df-acba-410b-8413-c2da2ba3581a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/44a6c8a7-b776-461c-91cc-a446652adab3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/586ffbff-9d27-4c76-983b-e93b80b8b2db.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3be49f60-f301-46d4-9201-3c1c8546d055.jpeg"
+        ],
+        "mrp": 250.0,
+        "offer_price": 100.0,
+        "unit_level_price": 100.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/e0c65e93-3f0e-4a79-8d2b-e09d0348f90a",
+        "id": "e0c65e93-3f0e-4a79-8d2b-e09d0348f90a",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "e0c65e93-3f0e-4a79-8d2b-e09d0348f90a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 183583,
+        "name": "Organic Tattva Organic Moong Dal (Dhuli) Split",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4ae235e2-311b-48b8-9719-c8c2d3fdb874.jpg?ts=1713777058",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583b.jpg?ts=1699256489",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583c.jpg?ts=1699256489",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583d.jpg?ts=1699256489",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583e.jpg?ts=1699256489",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583f.jpg?ts=1699256489",
+          "https://cdn.grofers.com/app/images/products/sliding_image/183583g.jpg"
+        ],
+        "mrp": 155,
+        "offer_price": 125,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/183583",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          183583
+        ]
+      },
+      {
+        "id": "CN70CI8OFR",
+        "name": "organic tattva Split Organic Moong Dal (Chilka)",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d12a7d63a66ad7ca457d9733a47dd440",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/efc1f6be521175266af9c1f4b56a2d61",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9b0e63f3b8b19d5ffbad66454007ccaa"
+        ],
+        "mrp": 155,
+        "x_available": true,
+        "available": true,
+        "offer_price": 129,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9C00V6EAD5",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "CN70CI8OFR"
+        ]
+      },
+      {
+        "id": "40002652",
+        "name": "Organic Green Moong Dal Split",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40002652_4-organic-tattva-organic-moong-dal-green-split.jpg"
+        ],
+        "mrp": "155",
+        "offer_price": "139.5",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40002652",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40002652"
+        ]
+      },
+      {
+        "xid": "762b9112-588e-4d77-aacc-e48763d032df",
+        "name": "Organic Tattva Organic Moong Dal Yellow Split",
+        "brand": "Organic Tattva",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/52ba9c67-b3b4-42ff-9e64-f892e7bca6c0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6fb22d55-cc0c-4e07-946d-96c7d324617b-1yGeKGoQKRFxtYXc8vJIw2y1ShRWadYn8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6fb22d55-cc0c-4e07-946d-96c7d324617b-1XVvKN750I24Ax-dlWHVGZADxO-PYCoqA.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6fb22d55-cc0c-4e07-946d-96c7d324617b-1a5hbQzvopKiOctmn69RmmM2dEYj9M5mw.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/6fb22d55-cc0c-4e07-946d-96c7d324617b-1UkexFFSNtDHBrwC1C_1FexlkNj4reVC6.jpeg"
+        ],
+        "mrp": 155.0,
+        "offer_price": 127.0,
+        "unit_level_price": 127.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6fb22d55-cc0c-4e07-946d-96c7d324617b",
+        "id": "6fb22d55-cc0c-4e07-946d-96c7d324617b",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6fb22d55-cc0c-4e07-946d-96c7d324617b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658261",
+        "name": "Momsy Premium Moong Dal Yellow / Split| Healthy Pulses (2kg)",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvzgeombhi/momsy-premium-moong-dal-yellow-split-healthy-pulses-2kg-product-images-orvzgeombhi-p609658261-0-202408052015.jpg"
+        ],
+        "mrp": 899,
+        "offer_price": 599,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-moong-dal-yellow-split-healthy-pulses-2kg/609658261",
+        "id": "609658261",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658261"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GGNKMUTGPX",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/8c1c0981-fc72-40f9-a806-254a2ffa4b9c_15593_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h6yoxs1mzjhyn9z84iro",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/saibedutdopuykjkl02k"
+        ],
+        "mrp": 484,
+        "x_available": true,
+        "available": true,
+        "offer_price": 329,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/YEDZTK801D",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GGNKMUTGPX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "39d32a5f-24fe-4c22-801f-51e5c719aab5",
+        "name": "Daily Good Unpolished Urad Dal | Split White",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/34807953-951d-4387-a6a2-17b611cd90fe.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/570484f5-aff9-4e57-a9eb-c76f36ed6e1f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/abecb0ea-9fc9-4f1f-a0e3-dac79e074f89.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc7e6a80-45a7-4a33-ad27-30507801e355.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1dd10aea-9440-44b0-a801-84962cfee932.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b2568361-84fe-48f2-93ac-36ea03845eef.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/62c2a909-2abd-4927-af91-7073838e04b2.jpeg"
+        ],
+        "mrp": 130.0,
+        "offer_price": 101.0,
+        "unit_level_price": 101.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90",
+        "id": "d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527599,
+        "name": "Whole Farm Grocery Moong Dal (Chilka) Split",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/824e9f7d-1def-421a-b316-864d26ac8df9.jpg?ts=1712825451",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f1ae65d-caa4-4158-a604-d0abe941ac7d.jpg?ts=1743766941",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527599c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527599d.jpg"
+        ],
+        "mrp": 180,
+        "offer_price": 138,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527599",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527599
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101985",
+        "name": "Organic Tattva, Moong Dal Yellow Split, 1kg | Rich in Protein | Naturally Gluten Free | Unpolished Dal | Pesticide and Chemical Free | Pack of 2",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvprtjiikb/organic-tattva-moong-dal-yellow-split-1kg-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-2-product-images-orvprtjiikb-p610101985-0-202410161525.jpg"
+        ],
+        "mrp": 620,
+        "offer_price": 496,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/organic-tattva-moong-dal-yellow-split-1kg-rich-in-protein-naturally-gluten-free-unpolished-dal-pesticide-and-chemical-free-pack-of-2/610101985",
+        "id": "610101985",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101985"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XD7GK2PNHW",
+        "name": "Popular Essentials Toor Dal (Split)",
+        "brand": "Popular Essentials",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0147a0553c936dd733782006445adcf0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/1712bcab9c9d2caced8413d2d10d2c38",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b53b10918732c56ffb382c066a7687dc"
+        ],
+        "mrp": 239,
+        "x_available": true,
+        "available": true,
+        "offer_price": 209,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XBEAT7OEEM",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XD7GK2PNHW"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30010367",
+        "name": "Green Moong Split/Chilka/Hirve Moong Chilka",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30010367_7-bb-popular-moong-green-splitchilka.jpg"
+        ],
+        "mrp": "98",
+        "offer_price": "72",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30010367",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30010367"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "350e6193-1c11-4453-bd5c-209668c29c5a",
+        "name": "Popular Essentials Masoor Dal Split | Un-Polished",
+        "brand": "Popular Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6decac70-165a-4dd7-a996-ff12c5cf2ce2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1L1BmeeA4gCd9cD3wgecVO5vzhvzQjtNT.jpeg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 69.0,
+        "unit_level_price": 69.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/c7e079f6-2488-4e55-a154-8e989d4f1633",
+        "id": "c7e079f6-2488-4e55-a154-8e989d4f1633",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "c7e079f6-2488-4e55-a154-8e989d4f1633"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 13462,
+        "name": "Organic Tattva Organic Moong Dal (Chilka) Split",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/540efc56-3cd9-41ff-92fd-5dc2d7fab3b6.jpg?ts=1713776988",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13462b.jpg?ts=1705912113",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13462c.jpg?ts=1705912113",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13462d.jpg?ts=1705912113",
+          "https://cdn.grofers.com/app/images/products/sliding_image/13462e.jpg?ts=1705912113"
+        ],
+        "mrp": 155,
+        "offer_price": 125,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/13462",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          13462
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658323",
+        "name": "Momsy Premium Moong Dal Yellow / Split| Healthy Pulses (950gm)",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvbfi6ft4q/momsy-premium-moong-dal-yellow-split-healthy-pulses-950gm-product-images-orvbfi6ft4q-p609658323-0-202408052019.jpg"
+        ],
+        "mrp": 599,
+        "offer_price": 372,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-moong-dal-yellow-split-healthy-pulses-950gm/609658323",
+        "id": "609658323",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658323"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "87VQC3DRMV",
+        "name": "24 Mantra Organic Moong Dal",
+        "brand": "24 Mantra",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/3629a816-6d33-485b-ada6-fcb860c021f5_45993_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/6890edfe-fd36-4452-b119-045a4ffa9394_45993_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/065a9d67-2fa7-4e17-8b71-8012daa26ea2_45993_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/28/30690867-7edb-4fb9-9801-0a8291df8679_45993_4.png"
+        ],
+        "mrp": 170,
+        "x_available": true,
+        "available": true,
+        "offer_price": 133,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/UIIHEZYBCY",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "87VQC3DRMV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "25e7ea64-44ee-4372-8e9a-5fd3288ac0be",
+        "name": "Daily Good Unpolished Urad Dal | Split White 1 kg Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f34b5d0d-08a5-4e04-97fc-e4a83db22c00.jpg"
+        ],
+        "mrp": 750.0,
+        "offer_price": 276.0,
+        "unit_level_price": 276.0,
+        "quantity": "1 kg X 3",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a941c6bc-cd2c-4662-ae21-f850a6adf048",
+        "id": "a941c6bc-cd2c-4662-ae21-f850a6adf048",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a941c6bc-cd2c-4662-ae21-f850a6adf048"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 403558,
+        "name": "Tata Sampann Organic Moong Dal (Chilka) Unpolished",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f58d5d31-46c8-4f98-a4fe-5411c98a770b.jpg?ts=1713777094",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558b.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558c.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558d.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558e.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558f.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558g.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558h.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558i.jpg?ts=1689076959",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403558j.jpg?ts=1689076959"
+        ],
+        "mrp": 135,
+        "offer_price": 116,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/403558",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          403558
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "609658400",
+        "name": "Momsy Premium (5kg) | Moong Dal Yellow / Split| Healthy Pulses",
+        "brand": "Momsy",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvzn7f00lb/momsy-premium-5kg-moong-dal-yellow-split-healthy-pulses-product-images-orvzn7f00lb-p609658400-0-202408052024.jpg"
+        ],
+        "mrp": 1499,
+        "offer_price": 1299,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/momsy-premium-5kg-moong-dal-yellow-split-healthy-pulses/609658400",
+        "id": "609658400",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "609658400"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XMBP3HU245",
+        "name": "Supreme Harvest Green Moong Whole",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/a7447a48-3608-4358-bebf-27051fea7068_15610.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 198,
+        "x_available": true,
+        "available": true,
+        "offer_price": 148,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H6NW4MW3LF",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XMBP3HU245"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "721396c8-4e9e-4d5a-a5a8-e5086aa29c54",
+        "name": "Daily Good Unpolished Urad Dal | Split White 1 kg Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f82201a-45a8-496b-9850-fbf4a61103b0.jpg"
+        ],
+        "mrp": 500.0,
+        "offer_price": 184.0,
+        "unit_level_price": 184.0,
+        "quantity": "1 kg X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a7115475-c60f-4092-ae99-021a08d96b72",
+        "id": "a7115475-c60f-4092-ae99-021a08d96b72",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a7115475-c60f-4092-ae99-021a08d96b72"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 523605,
+        "name": "Fortune Moong Dal (Dhuli) Unpolished",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4aa4f0ca-d2ce-4c54-8277-c9d7a2012b3f.jpg?ts=1713777259",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523605b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523605c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523605d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523605e.jpg"
+        ],
+        "mrp": 105,
+        "offer_price": 89,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/523605",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          523605,
+          523604
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101446",
+        "name": "Laxmi Daily Feast 2 kg  (1kg Pack of 2) Moong Dal | Split Mung Beans without skin | Yellow Dal",
+        "brand": "Laxmi",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv89ab01ee/laxmi-daily-feast-2-kg-1kg-pack-of-2-moong-dal-split-mung-beans-without-skin-yellow-dal-product-images-orv89ab01ee-p610101446-0-202410161355.jpg"
+        ],
+        "mrp": 699,
+        "offer_price": 559,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/laxmi-daily-feast-2-kg-1kg-pack-of-2-moong-dal-split-mung-beans-without-skin-yellow-dal/610101446",
+        "id": "610101446",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101446"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "W37UC85T6J",
+        "name": "organic tattva Arhar Tur Dal",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cnz0ffchcjyz0ikau3q5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cfdjwnhkbutprvmp6m4r",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hmp00xpzfgbyvooss6p6"
+        ],
+        "mrp": 365,
+        "x_available": true,
+        "available": true,
+        "offer_price": 265,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/UUNC5WR71Q",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "W37UC85T6J"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072501",
+        "name": "Organic - Green Moong Dal /Hirvi Moong - Split",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072501_19-bb-royal-organic-green-moong-dal-split.jpg"
+        ],
+        "mrp": "139",
+        "offer_price": "77",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072501",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 523604,
+        "name": "Fortune Moong Dal (Dhuli) Unpolished",
+        "brand": "Fortune",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b1bd84af-9889-4ba2-a048-6b34456c0070.jpg?ts=1713777258",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523604b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523604c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523604d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/523604e.jpg"
+        ],
+        "mrp": 209,
+        "offer_price": 168,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/523604",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 7,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          523605,
+          523604
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101528",
+        "name": "Laxmi Daily Feast 1 Kg Moong Dal | Split Mung Beans without skin | Yellow Dal",
+        "brand": "Laxmi",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvrdzgastm/laxmi-daily-feast-1-kg-moong-dal-split-mung-beans-without-skin-yellow-dal-product-images-orvrdzgastm-p610101528-0-202410161401.jpg"
+        ],
+        "mrp": 399,
+        "offer_price": 329,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/laxmi-daily-feast-1-kg-moong-dal-split-mung-beans-without-skin-yellow-dal/610101528",
+        "id": "610101528",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101528"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VFM9T9AFYZ",
+        "name": "Organeekz Organic Toor Dal",
+        "brand": "Organeekz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/vuj8epw7yxo9cv5zugk8",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qidf3x3ojnzxgtfs8bne",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/leadwet2ycexfubzcfvi"
+        ],
+        "mrp": 422,
+        "x_available": true,
+        "available": true,
+        "offer_price": 281,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/L9P8A2Z63Z",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VFM9T9AFYZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "d34135ac-83ad-46b3-a810-a126f6f80a02",
+        "name": "Popular Organics Moong Dal Split / Moong Dhuli",
+        "brand": "Popular Organics",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/58e5a129-56b9-4d82-8de9-96de2edc781f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6388e70c-cc0a-442c-b0d8-4f83ab4942b2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cdc953fc-ae50-41ab-bef4-252fc2b2a9f5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a3c01f8a-da54-46ac-989a-b3ef41ffaa1f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fc7eed9a-2c4c-404a-b8fe-8e05835ccd9c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/00d280c0-90ad-41d8-8047-a0254f8b296e.jpeg"
+        ],
+        "mrp": 155.0,
+        "offer_price": 136.0,
+        "unit_level_price": 136.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/36e0319f-e789-4f55-b004-b10f8f1317ee",
+        "id": "36e0319f-e789-4f55-b004-b10f8f1317ee",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "36e0319f-e789-4f55-b004-b10f8f1317ee"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 403557,
+        "name": "Tata Sampann Organic Moong Dal (Dhuli) Unpolished",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/43e156b7-ce42-456a-963d-706ceeca8ab3.jpg?ts=1713777092",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557b.jpg?ts=1629883596",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557c.jpg?ts=1629883596",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557d.jpg?ts=1629883596",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/403557g.jpg"
+        ],
+        "mrp": 140,
+        "offer_price": 126,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/403557",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          403557
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602086246",
+        "name": "Pure Tree | Certified Organic | Moong Split without Skin | 900 gm | Yellow Moong Dal | Dhuli Dal",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvh4ejdrue/pure-tree-certified-organic-moong-split-without-skin-900-gm-yellow-moong-dal-dhuli-dal-product-images-orvh4ejdrue-p602086246-0-202306021420.jpg"
+        ],
+        "mrp": 419,
+        "offer_price": 365,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-moong-split-without-skin-900-gm-yellow-moong-dal-dhuli-dal/602086246",
+        "id": "602086246",
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602086246"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XPX3OOZX2U",
+        "name": "Supreme Harvest Masoor Dal (Split)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/7694f8c0-17fc-4400-bc6f-c9c692c56e1f_15583.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7a5df1b42e75ab8f7400a2aa57d46a03",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9f98e71a1c5ec9dd2db30ea2c65bf07"
+        ],
+        "mrp": 187,
+        "x_available": true,
+        "available": true,
+        "offer_price": 123,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/G8WPWQF7F0",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XPX3OOZX2U"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 403776,
+        "name": "Basic Moong Dal (Dhuli)",
+        "brand": "Basic",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8794bf37-012a-40bd-8419-db1dcf5f30d6.jpg?ts=1717673307",
+          "http://cdn.grofers.com/app/images/products/sliding_image/403776b.jpg?ts=1690812813",
+          "http://cdn.grofers.com/app/images/products/sliding_image/403776c.jpg?ts=1690812813",
+          "http://cdn.grofers.com/app/images/products/sliding_image/403776d.jpg?ts=1690812813",
+          "http://cdn.grofers.com/app/images/products/sliding_image/403776e.jpg?ts=1690812813"
+        ],
+        "mrp": 180,
+        "offer_price": 127,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/403776",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 15,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          403776
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "604302940",
+        "name": "Pure Tree | Certified Organic | Moong Split without Skin | 1900 gm | Yellow Moong Dal | Dhuli Dal",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvqlpyv35k/pure-tree-certified-organic-moong-split-without-skin-1900-gm-yellow-moong-dal-dhuli-dal-product-images-orvqlpyv35k-p604302940-0-202309011127.jpg"
+        ],
+        "mrp": 679,
+        "offer_price": 623,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-moong-split-without-skin-1900-gm-yellow-moong-dal-dhuli-dal/604302940",
+        "id": "604302940",
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "604302940"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "NNPKDR5RZS",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/29/fa76fdda-70f3-4c4d-a667-a81350107f2e_24712.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 528,
+        "x_available": true,
+        "available": true,
+        "offer_price": 315,
+        "unit_level_price": "157.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/B56Q568P16",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "NNPKDR5RZS",
+          "0WF643CH0N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2098aa1c-0bdb-4a75-8350-33c901bf275d",
+        "name": "Natureland Organics Moong Split Washed",
+        "brand": "Natureland Organics",
+        "available": false,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b093d31f-9dde-4a0c-afbe-852f580d4dc7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/33c3de04-d303-4f40-979b-a52d8f72843b-/tmp/20230810-1937582.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/dafebf9f-746f-4e91-b0cd-1dc35f1c312a-/tmp/20230810-1937583.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/00c6e576-cf8d-4fe2-9ed0-dcefd25cef7c-/tmp/20230810-1938004.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/d5e2ba3f-b81c-4e29-a879-467becc47a00-/tmp/20230810-1938005.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 127.0,
+        "unit_level_price": 127.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1f052020-9c2f-4797-8312-0d3d4a917202",
+        "id": "1f052020-9c2f-4797-8312-0d3d4a917202",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1f052020-9c2f-4797-8312-0d3d4a917202"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 544084,
+        "name": "Basic Arhar Dal +  Moong Dal (Dhuli) Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/large_images/jpeg/305a661a-a48a-457f-b105-1f7b4983d845.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/758b776e-0a7b-4111-b56e-f28aa43b4ab7.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9343824c-d32e-42a9-a847-f9f28aad1324.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8867792f-5588-43b2-9630-bd872cc20eab.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/00ed4184-2f63-4b87-afcb-d500f4f60974.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4a752b95-15a9-4fbf-944e-6a401f44f425.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/96708dd2-0f90-4428-a9de-344039a62194.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9a5208f8-a72c-4984-8edd-8c6316b9c717.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a80edaa5-2b1a-4d10-ac21-c1683feb317c.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/60ad54ed-58bc-4c88-bc27-e72e258f335b.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9362f8b0-f05b-4438-8b6d-28e6c7123f57.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a93a6ac2-9141-4f8a-b781-fb6a098dfce5.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6ee153bd-835a-465d-96f6-e9738f1ba5af.jpg?ts=1710350833"
+        ],
+        "mrp": 420,
+        "offer_price": 267,
+        "unit_level_price": "",
+        "quantity": "1 kg + 1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/544084",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 15,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          544084
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602972385",
+        "name": "Pure Tree | Certified Organic | Moong Split without Skin | 1800 gm | Yellow Moong Dal | Dhuli Dal",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvgipbjv6m/pure-tree-certified-organic-moong-split-without-skin-1800-gm-yellow-moong-dal-dhuli-dal-product-images-orvgipbjv6m-p602972385-0-202307061335.jpg"
+        ],
+        "mrp": 675,
+        "offer_price": 605,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-moong-split-without-skin-1800-gm-yellow-moong-dal-dhuli-dal/602972385",
+        "id": "602972385",
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602972385"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0WF643CH0N",
+        "name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/23/44644c69-5e5d-4f41-94b0-7cf0d5961584_15592_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/h6yoxs1mzjhyn9z84iro",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/saibedutdopuykjkl02k"
+        ],
+        "mrp": 264,
+        "x_available": true,
+        "available": true,
+        "offer_price": 160,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/B56Q568P16",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "NNPKDR5RZS",
+          "0WF643CH0N"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527622,
+        "name": "Whole Farm Premium Moong Dal (Dhuli) (1 kg)",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/56d3c4ad-2069-4731-ade3-200ecf2a58f7.jpg?ts=1713777308",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4241d5f2-7ec0-4fd3-9b1a-4508a4d85e78.jpg?ts=1743764723",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527622c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527622d.jpg"
+        ],
+        "mrp": 205,
+        "offer_price": 185,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/527622",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527622
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602114872",
+        "name": "Pure Tree | Certified Organic | Moong Split without Skin | 900 gm | Yellow Moong Dal | Pack Of 2",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rv8u339vps/pure-tree-certified-organic-moong-split-without-skin-900-gm-yellow-moong-dal-pack-of-2-product-images-orv8u339vps-p602114872-0-202306032138.jpg"
+        ],
+        "mrp": 670,
+        "offer_price": 573,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-moong-split-without-skin-900-gm-yellow-moong-dal-pack-of-2/602114872",
+        "id": "602114872",
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602114872"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "SRT6H6INB4",
+        "name": "TATA Sampann Unpolished Moong Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/e56d7a95-9647-45fb-9975-83ffb713003d_3472_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/df1dd320-877d-49bd-af50-842cec878c25_3472_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/f1832907-9997-4d7e-a057-1911a3f1a50b_3472_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/0cfb3580-3f7e-4232-8005-4abcfcb23d34_3472_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/0164fc2d-6fe6-4c9e-bbb7-56396a336e35_3472_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/18/b54ff283-2d04-4b7f-b8f4-a182f3e117ee_3472_6.png"
+        ],
+        "mrp": 205,
+        "x_available": true,
+        "available": true,
+        "offer_price": 178,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7QNFXWYLLR",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "SRT6H6INB4"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30002287",
+        "name": "Unpolished Moong Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30002287_11-tata-sampann-unpolished-moong-dal.jpg"
+        ],
+        "mrp": "205",
+        "offer_price": "170",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30002287",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30002287"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527615,
+        "name": "Whole Farm Premium Moong Dal (Dhuli) Yellow",
+        "brand": "Whole Farm",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/80368d0b-986e-41a9-b084-753417124a2b.jpg?ts=1713777305",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d28954ed-98cf-47a9-b577-33060e7f3870.jpg?ts=1743764717",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527615c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527615d.jpg"
+        ],
+        "mrp": 105,
+        "offer_price": 81,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527615",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527615
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "602085685",
+        "name": "Pure Tree | Certified Organic | Moong Split without Skin | 400 gm | Yellow Moong Dal | Dhuli Dal",
+        "brand": "Pure Tree",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvvotcsdr3/pure-tree-certified-organic-moong-split-without-skin-400-gm-yellow-moong-dal-dhuli-dal-product-images-orvvotcsdr3-p602085685-0-202306021408.jpg"
+        ],
+        "mrp": 199,
+        "offer_price": 166,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/pure-tree-certified-organic-moong-split-without-skin-400-gm-yellow-moong-dal-dhuli-dal/602085685",
+        "id": "602085685",
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "602085685"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610856939",
+        "name": "Organic Tattva, Organic Pulses / Dal Combo Pack (Yellow Moong Split Gluten Free and Unpolished Dal, 1.5 Kg (1Kg + 500G) | Rich in Protein | Naturally Gluten Free and Unpolished Dal | Pesticide and Chemical Free | Pack of 2",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvz4savvg7/organic-tattva-organic-pulses-dal-combo-pack-yellow-moong-split-gluten-free-and-unpolished-dal-1-5-kg-1kg-500g-rich-in-protein-naturally-gluten-free-and-unpolished-dal-pesticide-and-chemical-free-pack-of-2-product-images-orvz4savvg7-p610856939-0-202501101616.jpg"
+        ],
+        "mrp": 465,
+        "offer_price": 395,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/organic-tattva-organic-pulses-dal-combo-pack-yellow-moong-split-gluten-free-and-unpolished-dal-1-5-kg-1kg-500g-rich-in-protein-naturally-gluten-free-and-unpolished-dal-pesticide-and-chemical-free-pack-of-2/610856939",
+        "id": "610856939",
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610856939"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WVFZMNMRR2",
+        "name": "Kitchen Gems Moong Dal",
+        "brand": "Kitchen gems",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/9e5e18eb-7893-454f-b620-2fe0196622a2_27583_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/33e422d9-e056-4caa-bc05-4a853d595a11_27583_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/1/58eb0260-0445-4808-a320-c5c3042fbdb3_27604_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/1/d1e05138-ec4a-42f8-8ccf-b1d19e7c7313_27604_4.png"
+        ],
+        "mrp": 210,
+        "x_available": true,
+        "available": true,
+        "offer_price": 153,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HCYGIX0PZH",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "WVFZMNMRR2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "610101449",
+        "name": "Laxmi Daily Feast 500 gm Split Moong Beans Bold with Skin | Mung Dal Yellow | Moong Chilka | Moong Fada for Sprouting - (Pack of 1)",
+        "brand": "Laxmi",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvnxsvv7vh/laxmi-daily-feast-500-gm-split-moong-beans-bold-with-skin-mung-dal-yellow-moong-chilka-moong-fada-for-sprouting-pack-of-1-product-images-orvnxsvv7vh-p610101449-0-202410161356.jpg"
+        ],
+        "mrp": 299,
+        "offer_price": 249,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/laxmi-daily-feast-500-gm-split-moong-beans-bold-with-skin-mung-dal-yellow-moong-chilka-moong-fada-for-sprouting-pack-of-1/610101449",
+        "id": "610101449",
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "610101449"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LJKNLNZ8OB",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/28e49fc1a3f77d8886972abed0c4cba4"
+        ],
+        "mrp": 672,
+        "x_available": true,
+        "available": true,
+        "offer_price": 461,
+        "unit_level_price": "153.7/kg",
+        "quantity": "1 kg x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "595147545",
+        "name": "Vedarth Organic Yellow Moong Dal (Split) (5 kg)",
+        "brand": "VEDARTH",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvn6gw5hvr/vedarth-organic-yellow-moong-dal-split-5-kg-product-images-orvn6gw5hvr-p595147545-0-202211081604.png"
+        ],
+        "mrp": 2490,
+        "offer_price": 1249,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/vedarth-organic-yellow-moong-dal-split-5-kg/595147545",
+        "id": "595147545",
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "595147545"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9U0SO8X0IJ",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/16/fbdc1bda-a977-4013-891e-7ca1e2873e0e_500427.png"
+        ],
+        "mrp": 448,
+        "x_available": true,
+        "available": true,
+        "offer_price": 312,
+        "unit_level_price": "156/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40044731",
+        "name": "Moong Dal",
+        "brand": "bb Popular",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40044731_13-bb-popular-moong-dal.jpg"
+        ],
+        "mrp": "380",
+        "offer_price": "300.96",
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40044731",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40044731"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "595147874",
+        "name": "Vedarth Organic Yellow Moong Dal (Split) (1000 g)",
+        "brand": "VEDARTH",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/rvlo2lynql/vedarth-organic-yellow-moong-dal-split-1000-g-product-images-orvlo2lynql-p595147874-0-202211081618.png"
+        ],
+        "mrp": 498,
+        "offer_price": 339,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/vedarth-organic-yellow-moong-dal-split-1000-g/595147874",
+        "id": "595147874",
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "595147874"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "20ZC326JM5",
+        "name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/ee7bda94-246d-4314-b6f2-f00c7f3b4793_2628_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/8ef154d6-60c3-41bd-aedb-60ee2760769f_2628_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/f7aea799-1b7d-4f71-99f4-8edfdba009a6_2628_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/8fa6e024-1f20-41e8-b98e-ba23246edca8_2628_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/2f0e5999-d7c6-47da-a368-dc506d7c5f3f_2628_6.png"
+        ],
+        "mrp": 224,
+        "x_available": true,
+        "available": true,
+        "offer_price": 158,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/TVDSXRJGU0",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LJKNLNZ8OB",
+          "9U0SO8X0IJ",
+          "20ZC326JM5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "7K20GBNVBX",
+        "name": "Organic India Organic Arhar Dal",
+        "brand": "Organic India",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b8ed8f49a68ecccfd8582f0ccc36b930",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4a3937c5d94a634654d0e46d97508f87",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d32798b2a62374a1270055ee22fd2bb0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7ea9502035077a1bdb80086595d313c7"
+        ],
+        "mrp": 375,
+        "x_available": true,
+        "available": true,
+        "offer_price": 356,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VPBUXTLLZE",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "7K20GBNVBX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PTK8USAIHH",
+        "name": "Basic Toor Dal",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/31/61de02ea-3633-499c-a4f7-75b083416e2f_pulsesandothergrains_PTK8USAIHH_MN.png"
+        ],
+        "mrp": 460,
+        "x_available": true,
+        "available": true,
+        "offer_price": 269,
+        "unit_level_price": "134.5/kg",
+        "quantity": "1 kg x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7DBAVWDSIQ",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTK8USAIHH",
+          "YT2NIZ1BOF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "YT2NIZ1BOF",
+        "name": "Basic Toor Dal",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/7dc690f8-0ee2-48cd-8684-280b1c1512f6_72163_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/c8fdc5d1-e669-4e0c-a5ad-92f6b0a875a0_72163_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/c83fa601-2a65-400c-9583-3ca1e10d2d29_72163_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/3/5e0651c3-7a12-4ac3-9b64-f11c1c9e140a_72163_4.png"
+        ],
+        "mrp": 230,
+        "x_available": true,
+        "available": true,
+        "offer_price": 137,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7DBAVWDSIQ",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PTK8USAIHH",
+          "YT2NIZ1BOF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30010379",
+        "name": "Urad Dal/Udid Dal - Split",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30010379_12-bb-popular-urad-dal-split.jpg"
+        ],
+        "mrp": "111",
+        "offer_price": "85.07",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30010379",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30010379"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VMZCL4A2PU",
+        "name": "Organeekz Organic Moong Dal",
+        "brand": "Organeekz",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/f1edf81a-c1ae-4123-abd7-beb36846d334_pulsesandothergrains_VMZCL4A2PU_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/31348e22-c80c-44bc-baf8-c8f69bf6baff_pulsesandothergrains_VMZCL4A2PU_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/7015717f-eaf0-4e1d-bf5f-19fbfed31fd6_pulsesandothergrains_VMZCL4A2PU_AL2.png"
+        ],
+        "mrp": 296,
+        "x_available": true,
+        "available": true,
+        "offer_price": 199,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9KUADJE0ZR",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VMZCL4A2PU"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "C3U1GN9PCP",
+        "name": "Supreme Harvest Moong Chilka",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/16/2af130f7-34f7-4c55-a8ad-58a5b0a274f8_pulsesandothergrains_C3U1GN9PCP_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "mrp": 198,
+        "x_available": true,
+        "available": true,
+        "offer_price": 164,
+        "unit_level_price": "16.4/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VDVEOQJ07T",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "C3U1GN9PCP",
+          "3YT96R4RD7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3YT96R4RD7",
+        "name": "Supreme Harvest Moong Chilka",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/3/e2bd8f9b-d60d-484b-a255-32fa682fbcf2_pulsesandothergrains_3YT96R4RD7_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c5fe25aacce97ee43d3efabf460e69ac",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3bd6e9c40cc9714b6923fb4e135e7547"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 83,
+        "unit_level_price": "16.6/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VDVEOQJ07T",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "C3U1GN9PCP",
+          "3YT96R4RD7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "F98RKXM60A",
+        "name": "Supreme Harvest Masoor Dal (Split)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/40a269ec-edd3-4e87-a5ab-e0e382c02d88_15582.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7a5df1b42e75ab8f7400a2aa57d46a03",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9f98e71a1c5ec9dd2db30ea2c65bf07"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 63,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MIXKAJZ8E3",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "F98RKXM60A"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "1227106",
+        "name": "Moong Dal Namkeen",
+        "brand": "Haldiram's",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/1227106_1-haldirams-moong-dal-namkeen.jpg"
+        ],
+        "mrp": "30",
+        "offer_price": "30",
+        "unit_level_price": "",
+        "quantity": "3X35 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/1227106",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "1227106"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0XYWB5J0QB",
+        "name": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "brand": "Kitchen gems",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/e33a73fd-a762-4a8f-9e0f-d724e82b5170_27591_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/71b7ce36-b11d-4dab-80ff-ae3f5bd6fc2c_27591_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/1ac0bdc8-074a-40e5-ba50-92cedb8497f2_27541_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/12/b9856f7f-dda7-4bc3-8641-a52eb58863d7_27541_4.png"
+        ],
+        "mrp": 250,
+        "x_available": true,
+        "available": true,
+        "offer_price": 155,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/S8ZKXXGDYR",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0XYWB5J0QB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "20005211",
+        "name": "Unpolished Moong Dal Chilka",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/20005211_8-tata-sampann-unpolished-moong-dal-chilka.jpg"
+        ],
+        "mrp": "94",
+        "offer_price": "92.12",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/20005211",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 31,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "20005211"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000440",
+        "name": "Moong Dal - Desi Unpolished",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000440_17-bb-royal-moong-dal.jpg"
+        ],
+        "mrp": "111",
+        "offer_price": "86.6",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000440",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 34,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000440"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "20005213",
+        "name": "Unpolished Green Moong Dal - Whole",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/20005213_8-tata-sampann-moong-whole.jpg"
+        ],
+        "mrp": "93",
+        "offer_price": "86",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/20005213",
+        "rank": 12,
+        "is_ad": false,
+        "parentIndex": 37,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "20005213"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000463",
+        "name": "Fried Gram/Futana Dal",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000463_16-bb-royal-fried-grambengal-gram.jpg"
+        ],
+        "mrp": "90",
+        "offer_price": "88.3",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000463",
+        "rank": 13,
+        "is_ad": false,
+        "parentIndex": 40,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000463"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072509",
+        "name": "Organic - Urad Dal/Udid Dal, White (Split), Unpolished",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072509_16-bb-royal-organic-urad-dal-white-split-unpolished.jpg"
+        ],
+        "mrp": "129",
+        "offer_price": "100",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072509",
+        "rank": 14,
+        "is_ad": false,
+        "parentIndex": 43,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072509"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072500",
+        "name": "Organic - Urad Dal/Udid Dal, Black, Split",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072500_13-bb-royal-organic-urad-dal-black-split.jpg"
+        ],
+        "mrp": "129",
+        "offer_price": "93",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072500",
+        "rank": 15,
+        "is_ad": false,
+        "parentIndex": 46,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072500"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40072478",
+        "name": "Organic Moong Dal",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40072478_14-bb-royal-organic-moong-dal-unpolished.jpg"
+        ],
+        "mrp": "279",
+        "offer_price": "165",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40072478",
+        "rank": 16,
+        "is_ad": false,
+        "parentIndex": 50,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40072478"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40226723",
+        "name": "Green Hari Moong Dal - Split, Chilka - Unpolished",
+        "brand": "Mai Rasoi",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40226723_2-ma1-raso1-greenhari-moong-dalchilka-unpolished-high-in-protein-dietary-fibre.jpg"
+        ],
+        "mrp": "95",
+        "offer_price": "78.66",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40226723",
+        "rank": 17,
+        "is_ad": false,
+        "parentIndex": 52,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40226723"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40195139",
+        "name": "Urad Dal/Udid Dal",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40195139_8-tata-sampann-unpolished-urad-dal-split.jpg"
+        ],
+        "mrp": "124",
+        "offer_price": "121.52",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40195139",
+        "rank": 18,
+        "is_ad": false,
+        "parentIndex": 55,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40195139"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000466",
+        "name": "Urad Dal/Udid Dal - Split",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000466_11-bb-royal-urad-dal-split.jpg"
+        ],
+        "mrp": "111",
+        "offer_price": "100",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000466",
+        "rank": 19,
+        "is_ad": false,
+        "parentIndex": 59,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000466"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30007755",
+        "name": "Unpolished Masoor Dal - Split",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30007755_6-tata-sampann-unpolished-masoor-dal-split.jpg"
+        ],
+        "mrp": "83",
+        "offer_price": "81.34",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30007755",
+        "rank": 20,
+        "is_ad": false,
+        "parentIndex": 61,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30007755"
+        ]
+      }
+    ]
+  }
+]

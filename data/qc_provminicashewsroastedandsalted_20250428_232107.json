@@ -1,0 +1,2582 @@
+[
+  {
+    "data": [
+      {
+        "xid": "1128020",
+        "name": "ProV Select California Roasted & Salted Pistachios ",
+        "brand": "ProV",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110003532xx9APR25_5_P.jpg"
+        ],
+        "mrp": 799,
+        "offer_price": 399,
+        "unit_level_price": "(\u20b9 1.00 / 1 gm)",
+        "quantity": "400 g",
+        "deeplink": "https://www.dmart.in/product/prov-select-california-roasted---salted-pistachios-ppista0prov7xx90822?selectedProd=1128020",
+        "id": "1128019",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1128019"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "2be7cf03-5c76-4f89-9602-d9ce135d816f",
+        "name": "Prov Mini-Cashew Roasted & Salted",
+        "brand": "Prov",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b6fbf392-95b2-4d01-97bf-f5cc182d8071.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/95e66ac5-642b-4833-9be6-700f929bbffc.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/70fa2fff-5daf-4307-a7a6-0ad845e0f771.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4004cec-d122-4e09-a263-48b68ec42ed9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/790419d9-8cbe-41e8-80ad-38fefb5d0e6f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cea1ef07-224f-47bb-961e-0ccfe41ed62b.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 25.0,
+        "unit_level_price": 25.0,
+        "quantity": "18g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/342ce2d8-9916-497d-8f84-34787ddabb55",
+        "id": "342ce2d8-9916-497d-8f84-34787ddabb55",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "7 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "342ce2d8-9916-497d-8f84-34787ddabb55"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 542309,
+        "name": "Happilo Premium Salted Roasted Flavoured Cashew",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d6296324-d69d-4bac-91b9-1e02ca40a507.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/848be906-8eb3-4d2e-b78e-4c295343ca27.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24e2ecb5-d7c3-4eb3-9099-c03f75e65ec5.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d4b7b14b-4049-4a3d-8e73-f4c8f85cc6e8.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b26263f3-b76a-4df7-bc4c-0ba084221f1d.jpg?ts=1733826247",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1158b0e2-227f-4118-84e5-11476bd07a08.jpg?ts=1745256093",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0496f166-a3af-4c89-aa1e-f90bd76c90ac.jpg?ts=1745256093",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6abd489a-9419-4cd9-a4c7-91291df86361.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ecfbaefd-604f-430e-a52e-253b9aea8a70.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5c7387db-e3cf-4c01-a799-178c0ba6a421.jpg?ts=1733826247",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a517cba8-4698-4a6e-8639-6386daf7fadc.jpg?ts=1733826247"
+        ],
+        "mrp": 70,
+        "offer_price": 49,
+        "unit_level_price": "",
+        "quantity": "35 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/542309",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          542309
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3C3XOTIFA9",
+        "name": "Farmley Classic Salted Roasted Cashews",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/1eb93354-88d9-43fd-854e-f3898fe74647_45003_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/8e532293-3db2-4cbc-b7be-d2300aada535_45003_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/1c78a31e-f179-4fbf-92f8-00aa2608e2c8_45003_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/db2b58af-1562-46f8-b1ed-26f918307f65_45003_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/8ed2820d-ba88-4142-a1e5-9cf34b09d603_45003_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/26/34d8f647-afe3-41a6-bdbd-d0359a9701d5_45003_6.png"
+        ],
+        "mrp": 99,
+        "x_available": true,
+        "available": true,
+        "offer_price": 86,
+        "unit_level_price": "238.9/100 g",
+        "quantity": "36 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HM2MRGOP73",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3C3XOTIFA9",
+          "I1Q45WKAVZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1128018",
+        "name": "ProV Select Cashews ",
+        "brand": "ProV",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/APR110003531xx9APR25_5_P.jpg"
+        ],
+        "mrp": 849,
+        "offer_price": 469,
+        "unit_level_price": "(\u20b9 0.94 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/prov-select-cashews-pcashews0prov5xx90822?selectedProd=1128018",
+        "id": "1128017",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1128017"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 597366,
+        "name": "MevaBite Roasted & Salted Flavoured Cashew",
+        "brand": "MevaBite",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/20547e84-b10f-487d-9f13-0362647f8649.jpg?ts=1734686360",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8c03db47-9f3f-4dd7-b9e5-47672f9f88b2.jpg?ts=1734686361",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/822f3654-dfb8-4220-b959-d8c6e2abee05.jpg?ts=1734686361",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/383260b4-1ad3-4392-91f3-8518af63dd9d.jpg?ts=1734686361",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/82e163a4-e092-4f2b-9451-ba11e3f15cb6.jpg?ts=1734686361",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b61e7c4-3a50-4027-9eb9-918fe646088d.jpg?ts=1734686361",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9498ee53-7497-4b9c-bc49-e91c1cacb0f7.jpg?ts=1734686361"
+        ],
+        "mrp": 90,
+        "offer_price": 61,
+        "unit_level_price": "",
+        "quantity": "43 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/597366",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          597366
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "I1Q45WKAVZ",
+        "name": "Farmley Classic Salted Roasted Cashews",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/df11f02a4dd89cca4e96af5ad8191140"
+        ],
+        "mrp": 297,
+        "x_available": true,
+        "available": false,
+        "offer_price": 252,
+        "unit_level_price": "233.3/100 g",
+        "quantity": "36 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HM2MRGOP73",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3C3XOTIFA9",
+          "I1Q45WKAVZ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1675026",
+        "name": "Tata Sampann Pistachios Roasted & Salted ",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110004708xx30DEC24_5_P.jpg"
+        ],
+        "mrp": 375,
+        "offer_price": 249,
+        "unit_level_price": "(\u20b9 1.25 / 1 g)",
+        "quantity": "200 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-pistachios-roasted-salted-ppista11xx311224?selectedProd=1675026",
+        "id": "1679601",
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1679601"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40087190",
+        "name": "Premium Oven Roasted & Salted Cashew Nuts",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40087190_6-happilo-premium-cashews-roasted-salted.jpg"
+        ],
+        "mrp": "465",
+        "offer_price": "381.3",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40087190",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40087190"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 443309,
+        "name": "Happilo Freshly Oven Roasted & Salted Flavoured Cashew",
+        "brand": "Happilo",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/38539e61-a2a9-4655-b877-2830ce476471.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e8b16618-e868-431b-a1a7-0016fbbfa0c9.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/674e7fec-f482-4e27-ba12-d756b21fafa4.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bc883b09-86a7-4fec-8ef4-8c820862aa43.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/569f80b6-e16f-4348-a4d2-cd733c89635f.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1034c4df-7d74-45b5-a53b-ca3ed9077294.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9d74f3db-c4d8-44fe-b7c8-363aec0cf7b3.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/da72276d-8b8b-4669-a721-b88e99839dfc.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/094864d4-c372-4b89-8fe2-843bcff9cf7b.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eae8e96a-6779-40f4-91db-7a8a20306168.jpg?ts=1733818688",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/feaece1c-fe0b-405d-a25e-5de039c6210a.jpg?ts=1733818688"
+        ],
+        "mrp": 465,
+        "offer_price": 339,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/443309",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          443309
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LC1I0WLTF8",
+        "name": "Mom Meal Of The Moment Roasted & Salted Cashews",
+        "brand": "Mom Meal Of The Moment",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/9f74c3b7-f9f8-40f0-a100-4cc04f42fcd3_namkeenandsavourysnacks_LC1I0WLTF8_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/1cdabc0b-1b2b-4399-903a-ac36bd1a843f_namkeenandsavourysnacks_LC1I0WLTF8_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/b8c3c44c-8500-47b1-85ff-6f32d90358e1_namkeenandsavourysnacks_LC1I0WLTF8_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/e8173581-ec78-49cb-9be6-079b52f42111_namkeenandsavourysnacks_LC1I0WLTF8_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/311186d2-3c9d-4e72-ad6d-e8d4bec3b238_namkeenandsavourysnacks_LC1I0WLTF8_AL4.png"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": true,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "45 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IGQBJQK0BI",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LC1I0WLTF8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1362503",
+        "name": "Makino Roasted Peanuts Salted ",
+        "brand": "Makino",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/FEB120006588xx26FEB25_5_P.jpg"
+        ],
+        "mrp": 100,
+        "offer_price": 50,
+        "unit_level_price": "(\u20b9 0.33 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/makino-roasted-himalayan-salt-peanuts-pmsalanut0maki1xx40823?selectedProd=1362503",
+        "id": "1370558",
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1370558"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 538540,
+        "name": "Farmley Classic Salted & Flavoured Cashew Roasted",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9d35db2c-0630-4384-bc78-dc48f3bae314.jpg?ts=1732273983",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6e8d89dd-4aed-43ff-ad2f-527e9d76e70e.jpg?ts=1732273983",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4ff014b9-eb7e-42f2-97d1-6c2638980a6b.jpg?ts=1732273984",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1b21f33-c81e-48e4-9f0d-a40a4b1385e0.jpg?ts=1732273984",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9a311160-4797-4a1f-8649-9ef40f21cffd.jpg?ts=1732273984",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0e90d611-9f41-4f4c-b393-bc6542a03396.jpg?ts=1732273985",
+          "http://cdn.grofers.com/app/images/products/sliding_image/538540g.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/538540h.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/538540i.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/538540j.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/538540k.jpg"
+        ],
+        "mrp": 379,
+        "offer_price": 317,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/538540",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          538540
+        ]
+      },
+      {
+        "id": "UTVTTROM50",
+        "name": "Farmley Classic Salted Roasted Cashews",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b1b4a3428064e0da58dd0298b009a2eb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/21/ee853862-08ac-4163-b44f-d722a8feaa13_96380_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/21/08be97e6-fee7-43a9-8869-1505ec1ae805_96380_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/21/deadfeee-5b16-40f6-8fa5-8b4e7892d1fb_96380_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0cac5f9a0da69573c68d222e7eb01e69",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/bfc7cd30e87b8927e750a99e28c4941b"
+        ],
+        "mrp": 379,
+        "x_available": true,
+        "available": true,
+        "offer_price": 318,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IFNBC8G04F",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UTVTTROM50"
+        ]
+      },
+      {
+        "id": "900457163",
+        "name": "Classic Salted Roasted Cashews",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/900457163_2-farmley-classic-salted-cashews.jpg"
+        ],
+        "mrp": "379",
+        "offer_price": "320.63",
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/900457163",
+        "rank": 12,
+        "is_ad": false,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "900457163"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "SWVV9SWUUB",
+        "name": "Happilo Premium Californian Roasted & Salted Pistachios",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/9bf95b55-a5a2-4091-8735-bda46b78f5e0_38354_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/5efdad5c-704e-486c-aa59-1d46e68c3f12_38354_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/ad0d2587-cf45-4148-9050-a5359f6a55cb_38354_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/aed8362f-38d5-491e-ada8-12f1c746002a_38354_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/c57b452d-e06e-4482-ba00-882979130e00_38354_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/7f9a9e36-3369-4a82-bfe9-1f34592f0900_38354_6.png"
+        ],
+        "mrp": 990,
+        "x_available": true,
+        "available": true,
+        "offer_price": 771,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/33XNKW8PBX",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "SWVV9SWUUB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1239505",
+        "name": "Taali Roasted Peanuts - Salted ",
+        "brand": "Taali",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/JAN120006046xx12JAN23_5_P.jpg"
+        ],
+        "mrp": 80,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.27 / 1 gm)",
+        "quantity": "150 g",
+        "deeplink": "https://www.dmart.in/product/taali-roasted-peanuts---salted-pmsalanut0taal1xx120123?selectedProd=1239505",
+        "id": "1240003",
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1240003"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "10000501",
+        "name": "Cashew/Kaju - Roasted & Salted",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000501_11-bb-royal-cashewkaju-roasted-salted.jpg"
+        ],
+        "mrp": "288",
+        "offer_price": "160.65",
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000501",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000501"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 520304,
+        "name": "Farmley Classic Salted & Roasted Flavoured Cashew",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b4d24937-8bf6-4f82-b622-1cbe26a49b4b.jpg?ts=1737976175",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e3936660-ddbb-4fb9-a212-6ac475baaf11.jpg?ts=1737976175",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4e8080e2-e930-4e78-999d-a1890704bf3c.jpg?ts=1737976176",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6f64d955-09ce-49ca-84c5-bfac64f0d2db.jpg?ts=1737976176",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6857f0e3-91a6-407e-bfea-0bd11369df64.jpg?ts=1737976176",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1d5b4473-7cf4-4c4e-aa61-ffeaf303b56e.jpg?ts=1737976177",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/999baa21-129a-4357-8405-7050c58acd5b.jpg?ts=1737976177",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/93719bc8-ccb8-4bca-8b89-719ff30fd279.jpg?ts=1732273972",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6edf9b96-4a6c-4bb0-be68-b3dcd0b1a43f.jpg"
+        ],
+        "mrp": 99,
+        "offer_price": 88,
+        "unit_level_price": "",
+        "quantity": "36 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/520304",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          520304
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "S6SF883B3U",
+        "name": "Farmley Roasted & Salted Makhana - Himalayan Salt",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7703023d51c2ea13e0a04e3627d9b825"
+        ],
+        "mrp": 478,
+        "x_available": true,
+        "available": true,
+        "offer_price": 378,
+        "unit_level_price": "245.5/100 g",
+        "quantity": "77 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/W6ILGHOD9S",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "S6SF883B3U",
+          "IPGYT8TFLL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "512503",
+        "name": "Makhanawala's Roasted Salt-N-Pepper Foxnuts ",
+        "brand": "Makhanawala's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV120001622xx18NOV22_5_P.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 109,
+        "unit_level_price": "(\u20b9 1.82 / 1 gm)",
+        "quantity": "60 g",
+        "deeplink": "https://www.dmart.in/product/makhanawalas-roasted-salt-n-pepper-foxnuts-pmsalanut0makh11xx30519?selectedProd=512503",
+        "id": "494118",
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "494118"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 462419,
+        "name": "Nutty Gritties Lightly Salted & Roasted Jumbo Flavoured Cashew",
+        "brand": "Nutty Gritties",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419a.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419b.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419c.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419d.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419e.jpg?ts=1675323809",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419f.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419g.jpg?ts=1689679400",
+          "http://cdn.grofers.com/app/images/products/sliding_image/462419h.jpg?ts=1689679400"
+        ],
+        "mrp": 420,
+        "offer_price": 357,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/462419",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          462419
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IPGYT8TFLL",
+        "name": "Farmley Roasted & Salted Makhana - Himalayan Salt",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/2c81ece6-c20a-4231-8551-1e7d6570adf5_26637_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/f2b5ee49-9daa-44a1-8b0c-be7b148e25bb_26637_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/b1839f35-83bc-433c-b982-9702b5060209_26637_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/6d093c68-35a9-432a-8fc7-245871f4abae_26637_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/28e6f153-229d-4fb4-98b9-27561bdb9e5a_26637_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/1/25/ea96da74-0aa0-428d-9d4e-ae17ee2a15ea_26637_6.png"
+        ],
+        "mrp": 239,
+        "x_available": true,
+        "available": true,
+        "offer_price": 191,
+        "unit_level_price": "248.1/100 g",
+        "quantity": "77 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/W6ILGHOD9S",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "S6SF883B3U",
+          "IPGYT8TFLL"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "732004",
+        "name": "Makhanawala's Roasted Makhana (Foxnuts) Himalayan Pink Salt ",
+        "brand": "Makhanawala's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV120002855xx18NOV22_5_P.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 111,
+        "unit_level_price": "(\u20b9 1.85 / 1 gm)",
+        "quantity": "60 g",
+        "deeplink": "https://www.dmart.in/product/makhanawalas-roasted-makhana-(foxnuts)-himalayan-pink-salt-pnamkeens0makh13xx130520?selectedProd=732004",
+        "id": "732698",
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "732698"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 530692,
+        "name": "Nutty Gritties Salted & Roasted Flavoured Cashew",
+        "brand": "Nutty Gritties",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/91ca104d-f0c4-403d-befe-53189516cc9e.jpg?ts=1740386701",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/69cba7b6-236c-424f-b0bb-b994f1e6fef4.jpg?ts=1740386701",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/efcd9d2b-104e-471e-a8d6-a74aa885089b.jpg?ts=1740386701",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/35a5c838-a0c5-47d0-bf31-2b8b38aa0783.jpg?ts=1740386702",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/87f25480-b0df-4ed4-871c-7cf43bfb8f7a.jpg?ts=1740386702",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c37b0d88-0db4-492c-b258-76a7c04d2ff5.jpg?ts=1740386703",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6852cee8-f8a6-48b9-894f-16d8024e5f82.jpg?ts=1740386703",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3634d9b3-a9f8-48e7-a7b4-89c43511059b.jpg?ts=1740386708",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b864ea4-c250-4186-9874-f31e28436287.jpg?ts=1740386709",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/50ac636f-8509-4241-b7ea-0b3a097a3b5f.jpg?ts=1740386709",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8e9fc74d-e31b-4bde-8e38-5c74e77a42ad.jpg?ts=1740386709"
+        ],
+        "mrp": 99,
+        "offer_price": 91,
+        "unit_level_price": "",
+        "quantity": "40 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/530692",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          530692
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KDTW4MCDZO",
+        "name": "Wonderland Foods Raw Almonds & Cashews Combo",
+        "brand": "Wonderland Foods",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/27/7fb1fc7f-e18a-4e9c-990c-1c90398347aa_driedfruitsnutsandseeds_KDTW4MCDZO_MN.png"
+        ],
+        "mrp": 1569,
+        "x_available": true,
+        "available": true,
+        "offer_price": 1007,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MDA27NROO0",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "KDTW4MCDZO"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "732005",
+        "name": "Makhanawala's Roasted Makhana (Foxnuts) Spicy Black Salt ",
+        "brand": "Makhanawala's",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/NOV120002856xx18NOV22_5_P.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 109,
+        "unit_level_price": "(\u20b9 1.82 / 1 gm)",
+        "quantity": "60 g",
+        "deeplink": "https://www.dmart.in/product/makhanawalas-roasted-makhana-(foxnuts)-spicy-black-salt-pnamkeens0makh15xx130520?selectedProd=732005",
+        "id": "732699",
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "732699"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40303160",
+        "name": "Flavours Almonds - Roasted & Salted",
+        "brand": "ProV",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40303160_1-prov-flavours-almonds-roasted-salted.jpg"
+        ],
+        "mrp": "399",
+        "offer_price": "239.4",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40303160",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40303160"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 534689,
+        "name": "Delight nuts Roasted & Salted Flavoured Cashew",
+        "brand": "Delight nuts",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689a.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689e.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/534689f.jpg"
+        ],
+        "mrp": 549,
+        "offer_price": 363,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/534689",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          534689
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LLJNH83G80",
+        "name": "Delight Nuts Cashew Roasted And Salted",
+        "brand": "Delight Nuts",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/136025e7db59bc426a599bc606e2c639"
+        ],
+        "mrp": 998,
+        "x_available": true,
+        "available": true,
+        "offer_price": 848,
+        "unit_level_price": "212/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZTEJWKXKML",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LLJNH83G80",
+          "GTL7C6ACQI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1161520",
+        "name": "Wonderland Roasted & Salted California Pista ",
+        "brand": "Wonderland",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/MAR110003570xx12MAR25_5_P.jpg"
+        ],
+        "mrp": 725,
+        "offer_price": 379,
+        "unit_level_price": "(\u20b9 0.95 / 1 gm)",
+        "quantity": "400 g",
+        "deeplink": "https://www.dmart.in/product/wonderland-roasted---salted-california-pista-ppista0wond5xx11222?selectedProd=1161520",
+        "id": "1212017",
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "1212017"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 520790,
+        "name": "Roasted & Salted Cashew by MOM - Meal Of The Moment",
+        "brand": "MOM - Meal Of The Moment",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b582b132-30aa-4ec8-abbe-a6188737863e.jpg?ts=1721990945",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b06eed73-46ab-4a46-bbe8-028071017e88.jpg?ts=1721990947",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3bae9194-f2d5-478b-897e-c3f2fade9a71.jpg?ts=1721990948",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ea333181-b952-41f1-af8b-3676d753b712.jpg?ts=1721990949",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b6730f2f-4a0d-4778-9f49-8afbf1633248.jpg?ts=1721990951",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0fc226ff-98c1-4f63-af0d-2b8157be329a.jpg?ts=1721990952",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b64ee30e-bee1-4556-af78-beb84958a6d8.jpg?ts=1721990953",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/432b4e06-18e9-40c1-aae3-0383f32b3346.jpg?ts=1721990954"
+        ],
+        "mrp": 90,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "45 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/520790",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          520790
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GTL7C6ACQI",
+        "name": "Delight Nuts Cashew Roasted And Salted",
+        "brand": "Delight Nuts",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/eb6e99ea-04d3-4c6b-8443-905d76a87479_driedfruitsnutsandseeds_GTL7C6ACQI_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/87fa9331-6bce-41ae-b351-84a784084945_driedfruitsnutsandseeds_GTL7C6ACQI_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/9b38dd95-e4c7-4200-a05e-87b397389315_driedfruitsnutsandseeds_GTL7C6ACQI_AL2.png"
+        ],
+        "mrp": 499,
+        "x_available": true,
+        "available": true,
+        "offer_price": 429,
+        "unit_level_price": "214.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/ZTEJWKXKML",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "LLJNH83G80",
+          "GTL7C6ACQI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40307875",
+        "name": "Classic Salted Roasted Cashews",
+        "brand": "Farmley",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40307875_4-farmley-classic-salted-roasted-cashews.jpg"
+        ],
+        "mrp": "99",
+        "offer_price": "74.25",
+        "unit_level_price": "",
+        "quantity": "36 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40307875",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40307875"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 548354,
+        "name": "paper boat Classic Salted Flavoured Cashew",
+        "brand": "paper boat",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f7c3acf9-9f88-4e2b-b844-ad10b978757c.jpg?ts=1713186305",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/929b326a-1488-4e76-9da7-a83bec9dd3e3.jpg?ts=1713186306",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/04b30760-2ac9-41fc-81da-038920e21f6e.jpg?ts=1713186306",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/273cb3db-2a5b-41df-85dc-500b27553cdc.jpg?ts=1713186307",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f12776a2-504b-4c81-b529-568554c72c6c.jpg?ts=1713186308",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6eb074b4-42f3-4f57-9bfc-2ed947b99be4.jpg?ts=1713186308",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b2505fca-11a3-4e35-8cae-18ac30c18a5d.jpg?ts=1713186309",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e9cf44a2-b13b-4d92-a2d1-d992f5004e4b.jpg?ts=1713186309"
+        ],
+        "mrp": 140,
+        "offer_price": 119,
+        "unit_level_price": "",
+        "quantity": "50 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/548354",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          548354
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6R9IXOPFC2",
+        "name": "Farmley Roasted Makhana Cream And Onion & Salted Makhana Combo",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/cc6eb97e-eafe-4c7c-b5ea-36f374f2e768_42920_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/04754857-f173-48d1-882b-000a6907d592_42920_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/8865002a-3944-414a-8664-f0de67ed8442_42920_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/3d765e66-b13b-4dfa-9a8d-2d238583b163_42920_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/b8921295-7a59-4a03-a1d9-f2d6a49e42df_42920_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/23/bb4b1194-9ce1-4c07-89a5-b49a2231484d_42920_6.png"
+        ],
+        "mrp": 478,
+        "x_available": true,
+        "available": true,
+        "offer_price": 387,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/163L79VPU8",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "6R9IXOPFC2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40303163",
+        "name": "Flavours Cashew - Roasted & Salted",
+        "brand": "ProV",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40303163_1-prov-flavours-cashew-roasted-salted.jpg"
+        ],
+        "mrp": "399",
+        "offer_price": "260",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40303163",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40303163"
+        ]
+      },
+      {
+        "id": 615657,
+        "name": "Mr. Makhana Home Style Salted Roasted Cashew",
+        "brand": "Mr. Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f1cb39a-edcf-4be3-b92f-80ef14c4ca5f.jpg?ts=1740640949",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/752eb1ca-a0dd-488d-815f-eb2b495da9f3.jpg?ts=1740640950",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/91ef3a5a-2c3a-4929-a9f3-4c0f684047a5.jpg?ts=1740640950",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d5053b6e-40b6-4a4f-95bd-02f161146f50.jpg?ts=1740640950",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/31c76f09-dac1-416f-8bb7-414ae184f819.jpg?ts=1740640950",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/62d4d6a6-a6ca-4c0a-9f98-b15afa8984e6.jpg?ts=1740640951"
+        ],
+        "mrp": 399,
+        "offer_price": 380,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/615657",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          615657
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40303166",
+        "name": "Premium California Pistachio - Roasted & Salted",
+        "brand": "ProV",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40303166_1-prov-premium-california-pistachio-roasted-salted.jpg"
+        ],
+        "mrp": "549",
+        "offer_price": "329.4",
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40303166",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40303166"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40320398",
+        "name": "Classic Salted & Roasted Cashews/Kaju",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40320398_4-tata-sampann-classic-salted-roasted-cashew.jpg"
+        ],
+        "mrp": "395",
+        "offer_price": "323.03",
+        "unit_level_price": "",
+        "quantity": "190 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40320398",
+        "rank": 8,
+        "is_ad": false,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40320398"
+        ]
+      },
+      {
+        "id": 541764,
+        "name": "Tata Sampann Classic Salted & Roasted Flavoured Cashew",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1bc275ea-bbe9-4682-8662-fa5cb71e3fb0.jpg?ts=1724831637",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ab3dd2f1-b637-4d7b-b0e2-d9c025b733e3.jpg?ts=1717416953",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/699549c9-f3b6-43be-9c0c-366e9095fbd4.jpg?ts=1717416954",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3cccb945-aaf4-4c6b-9ca3-b9606d07e229.jpg?ts=1717416955",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/542fd9b0-7381-412b-aa7e-e7e70923a888.jpg?ts=1717416956",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a7c39018-3ba1-4ae7-9bd5-60e51908513c.jpg?ts=1717416958",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a1d4218f-0e01-4fcd-9d97-70a1addab2aa.jpg?ts=1717416959",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2051b5bf-de88-42f4-8f24-46368be8176c.jpg?ts=1717416960",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/59dacc6d-2988-4125-878d-4a296eb04b3d.jpg?ts=1717416962",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0952c40f-9fb6-4a6d-b749-c63e3f23c7eb.jpg?ts=1717416963",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2770e24d-f88a-4e64-807b-667065d31217.jpg?ts=1717416964",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/de726af4-7d62-4241-ac13-60f1a3feed1b.jpg?ts=1717416965"
+        ],
+        "mrp": 395,
+        "offer_price": 356,
+        "unit_level_price": "",
+        "quantity": "190 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/541764",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          541764
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "UWTISPV14M",
+        "name": "Supreme Harvest Roasted & Salted Pistachio",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/12/0c2e02ff-1343-4c71-b7ca-5124bdf90848_driedfruitsnutsandseeds_UWTISPV14M_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 390,
+        "x_available": true,
+        "available": true,
+        "offer_price": 199,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/O6F87TMVXV",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "UWTISPV14M"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0F9M5MBA6S",
+        "name": "Mom Meal Of The Moment Roasted Masala Cashews",
+        "brand": "Mom Meal Of The Moment",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/3c84797f-3547-4b3a-b74a-8c5ad3370eeb_namkeenandsavourysnacks_0F9M5MBA6S_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/cbebde9c-689a-4626-8dad-91c9169c5e8a_namkeenandsavourysnacks_0F9M5MBA6S_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/c5cf7611-9d70-48cd-bc23-5fb7434cf4e7_namkeenandsavourysnacks_0F9M5MBA6S_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/de4d0e62-ac8b-4a99-aca3-0e1f66db499c_namkeenandsavourysnacks_0F9M5MBA6S_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/20/9ea0b9aa-2437-443b-a671-382641c5c7ab_namkeenandsavourysnacks_0F9M5MBA6S_AL4.png"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": true,
+        "offer_price": 85,
+        "unit_level_price": "",
+        "quantity": "42 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/GKQ4PNBGC8",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0F9M5MBA6S"
+        ]
+      },
+      {
+        "id": 520791,
+        "name": "Dry Roasted Masala Cashew by MOM - Meal Of The Moment",
+        "brand": "MOM - Meal Of The Moment",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4184745f-cfaa-40c2-9b8f-62c6c0e56ad0.jpg?ts=1721990958",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/89a17d84-9e4f-4be1-a289-ad8eaa52a546.jpg?ts=1721990959",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f1fe963b-2402-4d49-b32a-5e12477193af.jpg?ts=1721990960",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1aeb3d71-de2b-4215-8d9b-2e0c6ac5e2fe.jpg?ts=1721990962",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/520409ed-4883-463c-9aec-41fa8b9979d1.jpg?ts=1721990963",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2ee85e95-a063-46e8-8c27-4ba9ea9f2b01.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/28f65513-b331-4a8b-bcf7-703fc4c8a060.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e3aab8fe-baa7-488c-95ba-9bce48905010.jpg"
+        ],
+        "mrp": 90,
+        "offer_price": 86,
+        "unit_level_price": "",
+        "quantity": "40 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/520791",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          520791
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AWWY8CDZE7",
+        "name": "Nutraj Snackrite Almond Roasted & Salted & Nutraj\u00a0Snackrite\u00a0Cashew\u00a0Roasted & Salted",
+        "brand": "Nutraj",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/8/a66338d5-5a38-4296-9d8c-ddeec9b96dac_784882.png"
+        ],
+        "mrp": 698,
+        "x_available": true,
+        "available": true,
+        "offer_price": 474,
+        "unit_level_price": "",
+        "quantity": "2 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/LFHHFQOPTI",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AWWY8CDZE7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40311180",
+        "name": "Cashew Kernels - Roasted & Salted",
+        "brand": "Regency",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40311180_4-regency-cashew-kernels-roasted-salted.jpg"
+        ],
+        "mrp": "425",
+        "offer_price": "425",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40311180",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40311180"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40095087",
+        "name": "Lightly Salted Roasted Cashews",
+        "brand": "Cornitos",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40095087_6-cornitos-roasted-cashews-lightly-salted.jpg"
+        ],
+        "mrp": "410",
+        "offer_price": "405.9",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40095087",
+        "rank": 10,
+        "is_ad": false,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40095087"
+        ]
+      },
+      {
+        "id": 359091,
+        "name": "Cornitos Pop n Crunch Roasted Cashew (Lightly Salted)",
+        "brand": "Cornitos Pop n Crunch",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/da0e334a-f4a2-4cfe-86a1-1c493e38e4bb.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6ba5d041-7edf-4583-93f7-a4aaa6fc84d6.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/87016073-acf2-4cbc-87e2-0e647c8962b4.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3285cf0d-f25d-4cd2-8bf4-c406b782b05f.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9f847fb8-5f08-4205-ac66-69322f871537.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f8e1937d-ebc3-461e-808e-54a4fc8709fb.jpg?ts=1734425193",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6f8ff954-9c9a-43fb-bc59-fb4ba30708f4.jpg?ts=1734425193"
+        ],
+        "mrp": 410,
+        "offer_price": 406,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/359091",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          359091,
+          499232,
+          527268
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "L80Y2MIMOB",
+        "name": "Happilo 100% Natural Premium Whole Cashews",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/a2047a8b-4106-4c1b-862d-0648afeddbbe_31628_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/be74b965-1495-4d97-b834-ff06e2e06dfb_31628_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/85cc4fb9-80d2-4608-9f06-47e58cdfa8ef_31628_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/e24cbad0-4bb4-47e4-a086-cd42d48c7d0b_31628_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/1619f21f-b904-4763-b512-b5a8cb59b7a2_31628_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/9/8799999f-a725-4fc1-ad11-9106e7c98e53_31628_6.png"
+        ],
+        "mrp": 995,
+        "x_available": true,
+        "available": true,
+        "offer_price": 649,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/R5CN2PYBLG",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "L80Y2MIMOB"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 499232,
+        "name": "Cornitos Pop n Crunch Roasted Cashew (Lightly Salted) - Pack of 2",
+        "brand": "Cornitos Pop n Crunch",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/50f80e77-1675-4189-8d26-7c18766cb753.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/99314f7d-e501-4112-92a2-927149ce551e.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c6363f82-00c0-4057-a67c-0fc69aa22bee.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b92fbfd7-b889-4a22-abaf-91fa052aa0a6.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a00a6518-b48b-4521-84b6-0d705a733c13.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9fb394e9-6d82-430d-b526-e2655c26fde6.jpg?ts=1724829370",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0b86eac6-b42c-4bbd-aa63-07b8d2d65947.jpg?ts=1724829370"
+        ],
+        "mrp": 820,
+        "offer_price": 795,
+        "unit_level_price": "",
+        "quantity": "2 x 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/499232",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 13,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          359091,
+          499232,
+          527268
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QRCNL0CXJJ",
+        "name": "Delight Nuts Pistachios Roasted and Salted",
+        "brand": "Delight Nuts",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/18/74192932-4178-4a30-85f3-a45b1d220f20_driedfruitsnutsandseeds_QRCNL0CXJJ_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/18/47574bb7-a507-462e-95e8-143db9655918_driedfruitsnutsandseeds_QRCNL0CXJJ_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/6/18/47a9da0f-92a7-4611-9033-c565ed790351_driedfruitsnutsandseeds_QRCNL0CXJJ_AL2.png"
+        ],
+        "mrp": 1199,
+        "x_available": true,
+        "available": true,
+        "offer_price": 959,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/FNE9Q3QYUH",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QRCNL0CXJJ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527268,
+        "name": "Cornitos Pop n Crunch Roasted Cashew (Lightly Salted) - Pack of 3",
+        "brand": "Cornitos Pop n Crunch",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bd882a82-d03c-4366-8ab3-6cf919dfef98.jpg?ts=1712819135",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5ff1991b-0569-4bba-9b00-32f483b60962.jpg?ts=1712819136",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2040c69a-886d-4209-958e-fe8b7276847f.jpg?ts=1712819137",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e6336419-b6b2-4ecc-acbf-6b55517d35e1.jpg?ts=1712819138",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b565bb02-f49d-4d16-a6ce-36d0418b0698.jpg?ts=1712819139",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/58b5d06d-6730-46bf-9e01-02ff371aa4c4.jpg?ts=1712819143",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/be11a5e7-cdb2-469e-a61d-fd0b82960d2b.jpg?ts=1712819145",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527268g.jpg?ts=1710343770"
+        ],
+        "mrp": 1230,
+        "offer_price": 1181,
+        "unit_level_price": "",
+        "quantity": "3 x 200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527268",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 13,
+        "childIndex": 2,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          359091,
+          499232,
+          527268
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 615659,
+        "name": "Mr. Makhana Desi Masala Roasted Cashew",
+        "brand": "Mr. Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cf35fbea-6684-4163-9f3c-888ca4e93a5f.jpg?ts=1740640952",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c87fc981-1da8-494f-9ab5-cf32c21088a9.jpg?ts=1740640953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b73185aa-4deb-4cc0-a2ad-4287b60bd073.jpg?ts=1740640953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fa786b0a-9e0e-47cb-8c96-ee9aa2b173c8.jpg?ts=1740640954",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5e5e3066-69cc-4c01-a555-45bc4eb01688.jpg?ts=1740640954",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f146df44-f878-4ce6-93da-b0cdbded855e.jpg?ts=1740640954"
+        ],
+        "mrp": 399,
+        "offer_price": 380,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/615659",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          615659
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "D634B13O7Z",
+        "name": "Farmley Jumbo Iranian Roasted & Salted Pistachios (Pista)",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/c4bbccc5-09a8-4352-b554-c545e6f35745_driedfruitsnutsandseeds_D634B13O7Z_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/637c3a02-9c63-465d-99a4-54d124401694_driedfruitsnutsandseeds_D634B13O7Z_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/d08e2d1e-6e87-49a5-a306-5b49f856e4f0_driedfruitsnutsandseeds_D634B13O7Z_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/de50b7fa-3d46-40f6-a629-f566e7debf6f_driedfruitsnutsandseeds_D634B13O7Z_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/11f0e05d-72ed-4f78-928c-12d8994bbdec_driedfruitsnutsandseeds_D634B13O7Z_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/21/f0b9c71e-2361-494a-bf95-7772eec3dd2c_driedfruitsnutsandseeds_D634B13O7Z_AL5.png"
+        ],
+        "mrp": 540,
+        "x_available": true,
+        "available": true,
+        "offer_price": 337,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8D0EEF2OZD",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "D634B13O7Z"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40018131",
+        "name": "Cashew/Kajus - Roasted & Salted",
+        "brand": "Dcc Delicious",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40018131_3-delicious-cashews-roasted-salted.jpg"
+        ],
+        "mrp": "169",
+        "offer_price": "169",
+        "unit_level_price": "",
+        "quantity": "80 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40018131",
+        "rank": 9,
+        "is_ad": false,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40018131"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 636786,
+        "name": "Mr. Makhana Home Style Salted Roasted Cashew +  Pudina Party Flavoured Makhana Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e1d6412c-6b66-4b7f-b472-950fa1faa8a0.jpg?ts=1743158207",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/15a42524-acb1-4ae5-9e24-6980ea6ff13f.jpg?ts=1743156199",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/96b219c5-2798-4835-a576-7fbd5ee18737.jpg?ts=1743156200",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/01226528-101f-4360-8bd4-3bf12459e0c7.jpg?ts=1743156202",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1f2bcb06-2388-435b-804f-f96c20370a92.jpg?ts=1743156203",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9693626d-aa03-41ed-93af-a4d7fa895aff.jpg?ts=1743156204",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7dae8b4c-ca26-4bbd-987e-2be522eca25c.jpg?ts=1743156205",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/41b3adf4-7739-4e61-9f95-7ee1ae9dd17d.jpg?ts=1743156208",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/72509fa3-5cf2-490e-81f6-f22f59ceb72b.jpg?ts=1743156210",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/69f83e4c-ea36-4e30-a72c-7141aed36b27.jpg?ts=1743156211",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/740b9543-d344-458f-81cb-b341a4c603b3.jpg?ts=1743156212",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c24e63dc-1e49-438c-88a4-b0ec218f13f0.jpg?ts=1743156212",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bfbb5832-ebd4-4fa1-9277-3238cdcf7ea2.jpg?ts=1743156213"
+        ],
+        "mrp": 449,
+        "offer_price": 404,
+        "unit_level_price": "",
+        "quantity": "200 g + 20 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/636786",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          636786
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "2K1O191S1T",
+        "name": "Delight Nuts Mixed Nuts Roasted And Salted",
+        "brand": "Delight Nuts",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/6d15f4ed-a360-4f20-be54-b38d7be9c77e_driedfruitsnutsandseeds_2K1O191S1T_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/1e8a9953-1755-49f4-bac2-6feca414b44e_driedfruitsnutsandseeds_2K1O191S1T_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/3/23/835bb8f8-a3ae-4a74-b4de-f40d69cd033b_driedfruitsnutsandseeds_2K1O191S1T_AL2.png"
+        ],
+        "mrp": 499,
+        "x_available": true,
+        "available": true,
+        "offer_price": 429,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/JW3MH3JOPJ",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "2K1O191S1T"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 636784,
+        "name": "Mr. Makhana Desi Masala Roasted Cashew +  Lime & Chilli Flavoured Makhana Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/71ed9b8c-b577-4be9-bd93-2847d15226d3.jpg?ts=1743158205",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/97da2d9a-3bd1-4ec7-80ec-f4adb99e5625.jpg?ts=1743156172",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8820bc19-2788-497f-b985-f09c2839bc4d.jpg?ts=1743156174",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0e40a9e1-fcd8-47d7-a776-aaae95122539.jpg?ts=1743156176",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c5892dcd-55bc-4507-94d1-b7fc6b143812.jpg?ts=1743156178",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ceee4c51-5f0c-43ac-ae7d-8f52e90eb2a4.jpg?ts=1743156180",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6cc9bda8-d781-4ded-a0de-f32b10cad293.jpg?ts=1743156182",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/73c1b537-60e5-461d-860d-565fe79c4e31.jpg?ts=1743156185",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e12a250e-dedc-421f-8f7e-041908b573ec.jpg?ts=1743156187",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/440e4222-9e22-47b8-8282-ea24c5caf620.jpg?ts=1743156189",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cea43482-ae90-4e6d-bd87-0ec2bc67ca4f.jpg?ts=1743156191",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/84269891-11be-4e9f-8df8-126693842210.jpg?ts=1743156192",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/31eecacf-245c-4006-be25-9b74db9cfcce.jpg?ts=1743156193",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/083c2d2a-fdaa-4073-a99f-dae383e5a02a.jpg?ts=1743156195"
+        ],
+        "mrp": 449,
+        "offer_price": 404,
+        "unit_level_price": "",
+        "quantity": "200 g + 20 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/636784",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          636784
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A1YUF924ZM",
+        "name": "Supreme Harvest Roasted & Salted Pistachio",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/18/ecbc8df4-b0ca-4f2c-97ba-f7d7300a51cd_driedfruitsnutsandseeds_A1YUF924ZM_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/db1ef9b4710a3898c3779ec95e1bb6d8",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f87097981e99ea973ba7836907485108",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d50caa647f95ca184880b93cf7e69b92"
+        ],
+        "mrp": 200,
+        "x_available": true,
+        "available": true,
+        "offer_price": 114,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H9SMSD51CV",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A1YUF924ZM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "8N24SP08A9",
+        "name": "Let's Try Roasted Chana",
+        "brand": "Let's Try",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/6/308077fa-993e-4111-9fc4-e0b01a5e83f5_34887_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/6/077b3d56-00f9-4e5a-8ea0-e05b133dd208_34887_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/2/6/bf334003-8511-4f27-b93d-266df3a55b59_34887_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/461aa0a5-17df-4736-8ed6-adb74d349576_34887_4.png"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 99,
+        "unit_level_price": "",
+        "quantity": "450 gm",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/UFMCX7VONS",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "8N24SP08A9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "OHA432XO1X",
+        "name": "Happilo Roasted Salted California Pistachios",
+        "brand": "Happilo",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/86e3a2d5-f8a3-422c-8685-14dd65888195_3948_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/61e64439-82e0-4bf2-b5be-33afc6f5a554_3948_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/f6b26474-31ce-4069-8e58-4398a84dffed_3948_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/991ed4df-755a-4abb-9ce8-78029fed7496_38354_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/6/57561e7c-e7bd-464e-927e-98406b1a9990_3948_5.png"
+        ],
+        "mrp": 395,
+        "x_available": true,
+        "available": true,
+        "offer_price": 319,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/T7GZNRCM5R",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OHA432XO1X"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "U053B2J642",
+        "name": "Cornitos Roasted Peanut Salted",
+        "brand": "Cornitos",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/5/be93bd37-de0b-4925-a9e5-4b8378a175fe_namkeenandsavourysnacks_U053B2J642_MN.png"
+        ],
+        "mrp": 280,
+        "x_available": true,
+        "available": true,
+        "offer_price": 252,
+        "unit_level_price": "84/100 g",
+        "quantity": "150 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VROHWT6ZUT",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U053B2J642",
+          "3ZX22CBIH1",
+          "Q5QN6FDAS1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40125519",
+        "name": "Roasted & Salted Cashews",
+        "brand": "Nutty Gritties",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40125519_5-nutty-gritties-cashewnuts-jumbo-roasted-lightly-salted.jpg"
+        ],
+        "mrp": "420",
+        "offer_price": "420",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40125519",
+        "rank": 11,
+        "is_ad": false,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40125519"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3ZX22CBIH1",
+        "name": "Cornitos Roasted Peanut Salted",
+        "brand": "Cornitos",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/26b3dabe-eaed-4975-afdc-f11f6695f80d_31227_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/2a952ea4-109d-4431-81c6-ba2d71010e1e_31227_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/540619d2-268f-4f5b-88ad-70eac844820c_31227_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/83af911b-5416-4491-b2e8-cf3d136019d3_31227_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/d71bfcdb-d899-48b9-816b-46f914772a75_31227_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/20/5711b942-9777-483a-8614-f633dcb399a8_31227_6.png"
+        ],
+        "mrp": 140,
+        "x_available": true,
+        "available": true,
+        "offer_price": 127,
+        "unit_level_price": "84.7/100 g",
+        "quantity": "150 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VROHWT6ZUT",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U053B2J642",
+          "3ZX22CBIH1",
+          "Q5QN6FDAS1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "Q5QN6FDAS1",
+        "name": "Cornitos Roasted Peanut Salted",
+        "brand": "Cornitos",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/4/5/a5f79b38-e8c4-4afa-a442-f063a4df56e3_namkeenandsavourysnacks_Q5QN6FDAS1_MN.png"
+        ],
+        "mrp": 420,
+        "x_available": true,
+        "available": false,
+        "offer_price": 374,
+        "unit_level_price": "83.1/100 g",
+        "quantity": "150 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/VROHWT6ZUT",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 18,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "U053B2J642",
+          "3ZX22CBIH1",
+          "Q5QN6FDAS1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "3T7GD6YMOU",
+        "name": "Farmley Roasted & Salted Makhana & Tangy Tomato Makhana Combo",
+        "brand": "Farmley",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5fd12e118323a19c1b1134a18ffb453f"
+        ],
+        "mrp": 478,
+        "x_available": true,
+        "available": true,
+        "offer_price": 387,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/K2BC4QK23Z",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "3T7GD6YMOU"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40338031",
+        "name": "Cashew - Roasted & Salted",
+        "brand": "Wonderland Foods",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40338031_1-wonderland-foods-cashew-roasted-salted.jpg"
+        ],
+        "mrp": "40",
+        "offer_price": "33",
+        "unit_level_price": "",
+        "quantity": "25 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40338031",
+        "rank": 13,
+        "is_ad": false,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40338031"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40226024",
+        "name": "Premium Cashews - Roasted & Salted, Healthy Snack Option",
+        "brand": "Wonderland Foods",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40226024_1-wonderland-foods-premium-cashews-roasted-salted-healthy-snack-option.jpg"
+        ],
+        "mrp": "360",
+        "offer_price": "247",
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40226024",
+        "rank": 14,
+        "is_ad": false,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40226024"
+        ]
+      }
+    ]
+  }
+]

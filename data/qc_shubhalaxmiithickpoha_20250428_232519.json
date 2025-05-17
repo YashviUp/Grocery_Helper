@@ -1,0 +1,2970 @@
+[
+  {
+    "data": [
+      {
+        "id": "10000453",
+        "name": "Poha/Avalakki/Aval/Chivda",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/10000453_14-bb-royal-poha-avalakkiavalchivda-thick.jpg"
+        ],
+        "mrp": "55",
+        "offer_price": "43",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/10000453",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "10000453"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 426416,
+        "name": "JK Thick Poha",
+        "brand": "JK",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e22486bc-c290-476f-aae6-b250bf4b4004.jpg?ts=1736994851",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/40784da3-f828-437b-a3cb-f9b5fdc92a5d.jpg?ts=1736994851",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a8330cab-4afa-4be8-b257-89dab6a4bba0.jpg?ts=1736994852",
+          "http://cdn.grofers.com/app/images/products/sliding_image/426416d.jpg?ts=1671606707",
+          "http://cdn.grofers.com/app/images/products/sliding_image/426416e.jpg?ts=1671606707",
+          "http://cdn.grofers.com/app/images/products/sliding_image/426416f.jpg?ts=1671606707"
+        ],
+        "mrp": 64,
+        "offer_price": 58,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/426416",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          426416
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "107bd8ba-25a0-466d-b6ae-f73bb1f18a79",
+        "name": "Daily Good Poha / Avalakki Thick(500gms) & Daily Good Raw Peanut / Singdana(500gms) Combo",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/62f390d4-f198-4477-aa54-d697acf1d6cd.jpg"
+        ],
+        "mrp": 180.0,
+        "offer_price": 161.0,
+        "unit_level_price": 161.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6a968e46-ed33-41b1-a011-8f818e792ce2",
+        "id": "6a968e46-ed33-41b1-a011-8f818e792ce2",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6a968e46-ed33-41b1-a011-8f818e792ce2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "RNIFR5PUO6",
+        "name": "Supreme Harvest Poha Thick (Avalakki Thick)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/e72a94a9-a33a-4b24-b4ea-9cf5d40ccdfa_15505.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 75,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/NFAZ6ZQ836",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "RNIFR5PUO6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 527588,
+        "name": "Whole Farm Premium Fiber Rich Thick Poha",
+        "brand": "Whole Farm",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bf2b5106-cdcf-4144-ba50-515819f39823.jpg?ts=1745388498",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6cea5a1b-d397-4d1c-a659-5553f73f95eb.jpg?ts=1743764698",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527588c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/527588d.jpg"
+        ],
+        "mrp": 68,
+        "offer_price": 41,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/527588",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          527588
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0bb8d909-c4ca-4260-86c4-47af89971055",
+        "name": "Tata Sampann Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c3076913-558a-4a05-9fb1-431beafad9f8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d35cb5e7-69af-446d-8c70-bd4e7aa46b83.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/60f8d0e8-2bf8-426a-ab01-76c8ebd5ab6a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d51f3366-5353-49b2-a31b-4951564bef69.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b26bb6a0-52bb-400b-b41c-d56b1a14d744.jpeg"
+        ],
+        "mrp": 120.0,
+        "offer_price": 97.0,
+        "unit_level_price": 97.0,
+        "quantity": "1 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/47402841-10fa-4cdf-9b7c-faa20e39573f",
+        "id": "47402841-10fa-4cdf-9b7c-faa20e39573f",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "47402841-10fa-4cdf-9b7c-faa20e39573f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VAKRX10R9I",
+        "name": "Mom Meal Of The Moment Poha With Bhujia",
+        "brand": "Mom Meal Of The Moment",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/142c9c9a-5356-409c-bd31-927932ec8de4_18031_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/6f3ec417-28ae-451b-9dbf-4ff501898ee8_18031_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/77793842-470a-4e3f-a0fd-ef3764ae72d2_18031_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/2c3a73a4-ca5a-4ed5-a131-b15ef99ab305_18031_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/b38a6aba-c41e-43a6-9b84-ccfe9e2805d1_18031_5.png"
+        ],
+        "mrp": 65,
+        "x_available": true,
+        "available": true,
+        "offer_price": 62,
+        "unit_level_price": "",
+        "quantity": "80 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3FQ2O14RXO",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VAKRX10R9I"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 480588,
+        "name": "Fortune Indori Thick Poha",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/63f88fcc-606d-4fa2-9819-a3747b617bf8.jpg?ts=1732175953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9f1c0ead-7f76-4b96-8f27-b60b1b716aad.jpg?ts=1732175953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/14a909e3-c326-4291-8fd3-1a207957bf16.jpg?ts=1732175953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/308fedb1-f423-478c-83f2-458885387a8a.jpg?ts=1732175953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f20278ad-3c19-43d6-86f5-3c19092c72ba.jpg?ts=1732175953",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e31f6403-925b-4009-8237-ca8fd329a795.jpg?ts=1732175953",
+          "http://cdn.grofers.com/app/images/products/sliding_image/480588j.jpg?ts=1732175953"
+        ],
+        "mrp": 75,
+        "offer_price": 59,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/480588",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 25,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          480588
+        ]
+      },
+      {
+        "xid": "29f5522b-f00f-4595-a2e6-a0f8b98c3142",
+        "name": "Fortune Indori Poha",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a4763b35-d959-480f-b78b-1ce5da964087.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d9ae9405-04b1-4a7c-ba60-5cad83cfae9e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/74a887f7-c7fb-4a9d-a6f9-99121ea2d64a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25be4f58-687f-43c7-b602-30396ee9d007.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4fe7512-5f97-4d3e-8dbc-a98546c91b84.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3fb2bd0-b79e-4043-9042-c56a90fd20e9.jpeg"
+        ],
+        "mrp": 75.0,
+        "offer_price": 60.0,
+        "unit_level_price": 60.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1df49466-44cd-4389-858a-d5acfd69e5b2",
+        "id": "1df49466-44cd-4389-858a-d5acfd69e5b2",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1df49466-44cd-4389-858a-d5acfd69e5b2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "af9d93bd-247b-4c26-ab2e-678d5aee8ce8",
+        "name": "Daily Good Poha / Avalakki Thick",
+        "brand": "Daily Good",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1641d551-d864-4f5c-9280-0e6fa4301a59.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b517f8fc-3ec4-4592-840a-d1d6741c98f3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0c6afcc5-4d85-4bb0-a7c1-7dd5debac406.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/984203ba-5673-43e6-8873-6e97cc0ac61d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/02ae70d9-aff2-41bf-aebc-6124b70306bd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a076baa4-bf6b-4c4a-b29e-1aaf29d02c08.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/abeb1bdb-5fe2-4b7e-a833-28ff51e4edae.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 47.0,
+        "unit_level_price": 47.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6e5598c2-423f-4c62-ab55-1bd4aefd8eb7",
+        "id": "6e5598c2-423f-4c62-ab55-1bd4aefd8eb7",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6e5598c2-423f-4c62-ab55-1bd4aefd8eb7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "H1F1PVQO4W",
+        "name": "Britannia Winkin Cow Strawbericious Thick Milkshake Pet Bottle",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/10/be21157d-2fab-4797-b65a-3cca7bacffe3_milkbaseddrinks_H1F1PVQO4W_MN.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 59,
+        "unit_level_price": "16.4/100 ml",
+        "quantity": "180 ml x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0PK0F5CW0G",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H1F1PVQO4W",
+          "WRHPHKAXQM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "30010358",
+        "name": "Poha/Avalakki/Aval/Chivda",
+        "brand": "bb Popular",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/30010358_4-bb-popular-pohaavalakkiavalchivda-thick.jpg"
+        ],
+        "mrp": "50",
+        "offer_price": "41",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/30010358",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "30010358"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "719501",
+        "name": "Tata Sampann Poha ",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.dmart.in/images/products/DEC110002285xx11DEC24_5_P.jpg"
+        ],
+        "mrp": 61,
+        "offer_price": 40,
+        "unit_level_price": "(\u20b9 0.08 / 1 gm)",
+        "quantity": "500 g",
+        "deeplink": "https://www.dmart.in/product/tata-sampann-poha-ppoha0tata1xx130520?selectedProd=719501",
+        "id": "720001",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "DMart",
+          "sla": "Wednesday 07AM-10AM",
+          "storeId": "10680",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/dmart.webp"
+        },
+        "siblings": [
+          "720001"
+        ]
+      },
+      {
+        "id": 405806,
+        "name": "Tata Sampann High In Fibre Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2b30b87e-cb59-4feb-bec6-43846a0deed5.jpg?ts=1731402119",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/bcab2452-4145-4459-a8cc-8a831dc13ad4.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/99ebb899-1af3-4cd7-9053-860a01f3323d.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f69f187a-57ea-43aa-a14a-f552f47d9c29.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/30803461-e410-4bb8-a5dc-863412d27004.jpg?ts=1731402120",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f6d4ee25-bbb5-4218-9d7d-94eb16ff20e2.jpg?ts=1731402121",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7bf58ea7-a37e-4cf7-b1a7-979d01725946.jpg?ts=1731402121",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/768301ed-ee6e-42be-a7b8-612f6f0999d5.jpg?ts=1731402122",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ad2e3cb-aa31-44e9-961f-6daa1bcbb654.jpg?ts=1731402122",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0894903d-6796-4785-bb80-622334ce719f.jpg?ts=1731402122"
+        ],
+        "mrp": 61,
+        "offer_price": 49,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/405806",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 46,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          405806,
+          460667
+        ]
+      },
+      {
+        "xid": "0485054e-99b6-41aa-8a8a-f6a319edb278",
+        "name": "Tata Sampann High in Fibre Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f5006984-5e15-464a-ab3e-ef31cf9a15e5.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/17ac9c39-a052-4649-9a44-11b2ae9103ca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/887fa92b-7481-43c4-8668-65f36f5f44e4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3f5222da-0b4e-4c74-afef-480098ccc090.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d3bb3ff1-fdca-4f05-85df-8f61b38da1bd.jpeg"
+        ],
+        "mrp": 61.0,
+        "offer_price": 50.0,
+        "unit_level_price": 50.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/21d8b605-47ae-4e2d-8ec0-5e7e728a68de",
+        "id": "21d8b605-47ae-4e2d-8ec0-5e7e728a68de",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 8,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "21d8b605-47ae-4e2d-8ec0-5e7e728a68de"
+        ]
+      },
+      {
+        "id": "U3MSDBHJI5",
+        "name": "Tata Sampann High In Fiber Poha",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/a251aef1-d26b-4262-88fb-1edc06efc44f_2662_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/2f470af9-9a1a-434a-b47f-987cd72c3dbb_2662_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/c8292add-2e9b-4fe3-a54b-15e77a91cf10_2662_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/15/156afc1d-75a7-48a8-be3a-23ed160ee3b2_2662_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/538aa871-6b7e-44c2-9214-1b7a372d023a_2662_6.png"
+        ],
+        "mrp": 61,
+        "x_available": true,
+        "available": true,
+        "offer_price": 54,
+        "unit_level_price": "10.8/100 g",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3J600UNH93",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZIJVHOLC3U",
+          "U3MSDBHJI5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7839196b-252b-4f00-bb3c-e5cd942dcb06",
+        "name": "Fortune Poha | Thick",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c09d5e2c-4c26-44dd-8962-1a73c9f8156e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/110e8485-ff71-406a-9aae-3d615f209918.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/641b6a6c-2ff2-4457-8ceb-0d43e1be210d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fe65a210-aa4c-4de9-90d1-9a67c0d323c6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f3d78b0d-65c9-431a-9d65-f7f5aba66603.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3531ddc3-d69f-45a3-a6b1-8e5687ac395b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c29b4f80-5e25-4681-aada-3e0fba1c6b8e.jpeg"
+        ],
+        "mrp": 60.0,
+        "offer_price": 57.0,
+        "unit_level_price": 57.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a105647b-b679-4f9c-a5e8-daba13a2b856",
+        "id": "a105647b-b679-4f9c-a5e8-daba13a2b856",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 15,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a105647b-b679-4f9c-a5e8-daba13a2b856"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "WRHPHKAXQM",
+        "name": "Britannia Winkin Cow Strawbericious Thick Milkshake Pet Bottle",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fc07dd25f137328c808bc241128c8bda",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7b028ec3eb8cf447818504bddea933c3",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fd19f35a4e5b3a3e2bc3e95e613f3c83"
+        ],
+        "mrp": 40,
+        "x_available": true,
+        "available": true,
+        "offer_price": 30,
+        "unit_level_price": "16.7/100 ml",
+        "quantity": "180 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/0PK0F5CW0G",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "H1F1PVQO4W",
+          "WRHPHKAXQM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 460667,
+        "name": "Tata Sampann High In Fibre Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a36a94aa-4166-487c-ba92-0fb9df736981.jpg?ts=1731402133",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f0c59ebe-e7b3-4daa-93b8-1d33020c0c6e.jpg?ts=1731402133",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c608c556-c357-4472-a87f-54a39f3928b1.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b1fd43cf-4441-4b8f-85ee-c669eb507d93.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/60894894-6543-4a89-944e-839916dc8f02.jpg?ts=1731402134",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/beaf4939-2c49-41ab-9cb3-a43e4e1b772d.jpg?ts=1731402135",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8381f6a3-0261-4210-8777-fb3075c0cbfe.jpg?ts=1731402135",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d32bfc1f-696c-40d4-a934-96c12e7b4348.jpg?ts=1731402136",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3ec891dc-18b5-44b7-84dd-cb7ba5cf8d7c.jpg?ts=1731402136",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/44b25c68-8acb-4b11-88c0-1e6f2c4f9dd6.jpg?ts=1731402136"
+        ],
+        "mrp": 120,
+        "offer_price": 93,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/460667",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 22,
+        "parentIndex": 3,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          405806,
+          460667
+        ]
+      },
+      {
+        "id": "Y1X8YIQTP1",
+        "name": "Tata Sampann Thick Poha",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/2/757851c0-52d4-49f8-9dcc-da9b243a6d86_15413_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/2/312d3f9d-b3e1-4ee8-89fa-1b0b081a6693_15413_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/36a97d94-cbc7-4e9c-b779-fe8888715a4c_15413_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/19/a121f1b2-213d-4d51-90bb-ed5c63bba493_15413_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/30/aeae9f73-2e91-4f4d-b8ce-eadc9642ba00_ricericeproducts_Y1X8YIQTP1_AL4.png"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 106,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/L5X0LBXU6M",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "Y1X8YIQTP1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 528791,
+        "name": "Whole Farm Grocery Thick Poha / Avalakki",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/528791a.jpg?ts=1698939488",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ecd86d7-4d1f-4d51-a9f7-5edb358655bb.jpg?ts=1743766994",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528791c.jpg?ts=1692432212",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528791d.jpg?ts=1692432212",
+          "http://cdn.grofers.com/app/images/products/sliding_image/528791e.jpg?ts=1692432212"
+        ],
+        "mrp": 68,
+        "offer_price": 39,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/528791",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          528791
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "b47a0e49-dd09-451a-8b42-ec2ee72286b3",
+        "name": "Sunsilk Lusciously Thick & Long Shampoo",
+        "brand": "Sunsilk",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3451ec3d-a910-4aaf-919f-dbad104254fe-1fwllwrljSslHLOYKVgTgdTTeqfnmCOGV.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3451ec3d-a910-4aaf-919f-dbad104254fe-1fFM8i-PDnYMWSUoomTiGKl1B22e99Kct.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/3451ec3d-a910-4aaf-919f-dbad104254fe-1TjuKPc4umDP_b-elaYLkzaPY9KqnYDHu.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/409cec87-8c36-4194-80fd-7eb85077c347.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dc430615-9687-4af6-9864-64355437ca97.jpeg"
+        ],
+        "mrp": 809.0,
+        "offer_price": 526.0,
+        "unit_level_price": 526.0,
+        "quantity": "650 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3451ec3d-a910-4aaf-919f-dbad104254fe",
+        "id": "3451ec3d-a910-4aaf-919f-dbad104254fe",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3451ec3d-a910-4aaf-919f-dbad104254fe"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AQBQDH3BGH",
+        "name": "Organic Tattva Poha",
+        "brand": "organic tattva",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hpwgzt7h7r0qpp1dsi45",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/g8s0ggjrlaetc9bz8xy3",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/wy2bydikagezise5fulr"
+        ],
+        "mrp": 89,
+        "x_available": true,
+        "available": true,
+        "offer_price": 71,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/2OB054CHX3",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AQBQDH3BGH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40220133",
+        "name": "Thick Poha",
+        "brand": "Tata Sampann",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40220133_5-tata-sampann-white-thick-poha-high-in-fibre.jpg"
+        ],
+        "mrp": "120",
+        "offer_price": "93",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40220133",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40220133"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 531226,
+        "name": "Whole Farm Grocery Avalakki Thick Poha",
+        "brand": "Whole Farm Grocery",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/531226a.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d29e304c-dca9-4225-9a00-4284294aa1fd.jpg?ts=1743767000",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531226c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531226d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/531226e.jpg"
+        ],
+        "mrp": 95,
+        "offer_price": 79,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/531226",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 12,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          531226
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a40f1874-1650-4cc1-9bdd-3aa861e13a1b",
+        "name": "Mamaearth Kerala Thaali Hair Oil with Shikakai, Hibiscus, Bhringraj, Methi Dana & Amla for Thick & Long Hair",
+        "brand": "Mamaearth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f177f330-c717-4a25-b68f-97c4207c8401.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5a58613-b737-4f73-bee5-b670521d071f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/578ee8f6-cb59-4dad-9489-6c7b06cc91f1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e5ff529c-c5bc-43d8-9816-2d885c1ba383.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/101f5509-87d5-49a5-b5c2-aecdd8b5edbd.jpeg"
+        ],
+        "mrp": 419.0,
+        "offer_price": 328.0,
+        "unit_level_price": 328.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/915b7b2d-3cca-47f3-bf69-dfbb39398b05",
+        "id": "915b7b2d-3cca-47f3-bf69-dfbb39398b05",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "915b7b2d-3cca-47f3-bf69-dfbb39398b05"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZBWZ12ANY0",
+        "name": "Dabur Vatika Rosemary Hair Growth Oil Hibiscus Coconut Oil Hair Growth and Thickness.",
+        "brand": "Dabur",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/8da4b540-f2d2-41d5-9a63-638a2331496f_hairandbodyoils_ZBWZ12ANY0_MN.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/6fae22c2-003a-41a8-ae4f-b4181057e702_hairandbodyoils_ZBWZ12ANY0_AL1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/b1cde5ac-f065-44df-a15e-0fb928cb0e66_hairandbodyoils_ZBWZ12ANY0_AL2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/d67f45f6-56dc-4212-a1af-f888a9a78631_hairandbodyoils_ZBWZ12ANY0_AL3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/540bd6b6-35fc-4119-92fc-dbbd690a1af8_hairandbodyoils_ZBWZ12ANY0_AL4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/5/24/316cf26b-9b1a-4934-ae39-dbbeebf8591c_hairandbodyoils_ZBWZ12ANY0_AL5.png"
+        ],
+        "mrp": 550,
+        "x_available": true,
+        "available": true,
+        "offer_price": 385,
+        "unit_level_price": "",
+        "quantity": "200 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/20KMFP61DX",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZBWZ12ANY0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "6Q8M4L053N",
+        "name": "Satyam Poha/Powa Jada",
+        "brand": "Satyam",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/d52b4c530c7358383d839d341e590f81",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tgrfewg5eucisrcopw1n",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/lygxuanuhsfreth219g9"
+        ],
+        "mrp": 53,
+        "x_available": true,
+        "available": true,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/9G0AKXM0FM",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "6Q8M4L053N"
+        ]
+      },
+      {
+        "id": 32775,
+        "name": "Satyam Jada Thick Poha",
+        "brand": "Satyam",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fcc0f089-4f08-47a9-8ee7-44e8cd2aafd8.jpg?ts=1708590990",
+          "https://cdn.grofers.com/app/images/products/sliding_image/32775b.jpg?ts=1690813441"
+        ],
+        "mrp": 53,
+        "offer_price": 53,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/32775",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32775
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "99ee7d53-74c1-4278-8cb2-f1f420a875e1",
+        "name": "Sunsilk Lusciously Thick And Long Conditioner",
+        "brand": "Sunsilk",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/44d5561a-0442-4eaf-aad9-9f8a9326ab31.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ff297842-ed40-448f-be45-e8ee2ecbda91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a90379cf-40a2-42bd-b5bb-3c42e9cc2f53.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3a79d881-3c3d-47ed-ad34-1e4b8bdf8676.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a98d8718-635f-4b7c-bf96-85508a5949cc.jpeg"
+        ],
+        "mrp": 217.0,
+        "offer_price": 217.0,
+        "unit_level_price": 217.0,
+        "quantity": "180 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/de30aa6f-6de7-491e-b813-8bc3e85dc031",
+        "id": "de30aa6f-6de7-491e-b813-8bc3e85dc031",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "de30aa6f-6de7-491e-b813-8bc3e85dc031"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 543495,
+        "name": "Whole Farm Farm Premium Fiber Rich Thick Poha + Premium Raw Peanuts Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/large_images/jpeg/4ec35d0c-bebe-4f33-9d6d-340efe52c130.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1f616a30-e558-4ebc-993c-2e15b65977c5.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/decd8b41-3dd1-45e5-8ada-a64dbb34a77d.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2ee0d7f5-39a5-4569-a1bc-95844cd30828.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e9839ac3-bea3-4693-bd0e-66c8e1f17bd6.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0039ff3f-e5a1-4b55-8bc2-6958ddc0b3b2.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a1c03fba-7331-48af-8c0e-6d0fc01ee3c3.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/049e0960-ec9f-4592-955d-036edfc38eb7.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6ed7eec3-ed42-41ad-a00a-ce2285789e1d.jpg?ts=1710350833",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1ef7958d-f728-4969-a5f4-c62214cfb003.jpg?ts=1710350833"
+        ],
+        "mrp": 203,
+        "offer_price": 124,
+        "unit_level_price": "",
+        "quantity": "500 g + 500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/543495",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          543495
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "85d4208d-e993-4915-a3d3-f7aaead30e32",
+        "name": "Manforce Ultra Feel Super Thin Bubble Gum Flavoured Condom With Thickness Of 0.05mm 10 pc Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37b38683-85bb-48d9-9884-d5eebb4dfea3.jpg"
+        ],
+        "mrp": 300.0,
+        "offer_price": 192.0,
+        "unit_level_price": 192.0,
+        "quantity": "10 pc X 2",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/d3440c8a-9788-4d49-81f5-710c6e066c84",
+        "id": "d3440c8a-9788-4d49-81f5-710c6e066c84",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "d3440c8a-9788-4d49-81f5-710c6e066c84"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "83DLRFKL5F",
+        "name": "Supreme Harvest Poha Thick (Avalakki Thick)",
+        "brand": "Supreme Harvest",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/8/6bfedf1e-6060-4cbe-8d74-a9ea4808eba1_15504.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/akr52zfervvkfaqkofb6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/gutza5crwar7ahmwudzz"
+        ],
+        "mrp": 55,
+        "x_available": true,
+        "available": true,
+        "offer_price": 54,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/AGFS2E1DVP",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "83DLRFKL5F"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 554704,
+        "name": "Whole Farm Premium Fiber Rich Thick Poha + Whole Farm Grocery Raw Peanuts Combo",
+        "brand": "",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c31fb8e9-9ea3-47b3-9569-4ab5f1757edf.jpg?ts=1716957027",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/00e5f80f-df16-4b67-85e9-9c6d4b98d30e.jpg?ts=1716887368",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1155d586-958e-4126-964d-efe38bc61e1a.jpg?ts=1716887370",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a24fa001-eaf7-45ee-9b76-71e0f5ff8d77.jpg?ts=1716887371",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/37748dd5-5c78-4b7f-b570-4128ca8ccddd.jpg?ts=1716887373",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/695e02fd-fe29-4f0b-a5e3-ed323fdc2a8a.jpg?ts=1716887374",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/91f99527-7634-45ce-a9c9-f808a8d7c201.jpg?ts=1716887376",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4ef5e1e9-0c64-4add-a576-e8a0c40d927f.jpg?ts=1716887377",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a3fc1295-4966-4e79-b224-a83dd1541c67.jpg?ts=1716887379",
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2486fef4-0567-4d4b-947a-dbc218232e86.jpg?ts=1716887380"
+        ],
+        "mrp": 228,
+        "offer_price": 112,
+        "unit_level_price": "",
+        "quantity": "500 g + 500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/554704",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          554704
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "8bb42a43-5efc-4ad0-98cf-dd93d9189f9d",
+        "name": "Clinic Plus Strong & Thick Shampoo",
+        "brand": "Clinic Plus",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b471160-46ee-4a73-8b52-f6cb5f4eeeaf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6de99d3a-5426-48cf-9f11-26f15a11e09e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/49a7c801-d88c-4894-8b9c-ab3ed026e2a7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/859a51dd-6d61-462e-80eb-e65a7b0b9e6b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5bf771f2-b3c2-4089-a5ab-91963c3ae83d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/03313b13-af4e-465f-997f-f338b8514581.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/aa079ad7-600c-4aa4-a7f0-b8fda6f5bbc9.jpeg"
+        ],
+        "mrp": 795.0,
+        "offer_price": 517.0,
+        "unit_level_price": 517.0,
+        "quantity": "650 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3a3dd668-74c5-4beb-a8e8-d17f60ed186f",
+        "id": "3a3dd668-74c5-4beb-a8e8-d17f60ed186f",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3a3dd668-74c5-4beb-a8e8-d17f60ed186f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZIJVHOLC3U",
+        "name": "Tata Sampann High In Fiber Poha",
+        "brand": "Tata Sampann",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/41cfa33a8f47e66296eddeecef690fcb"
+        ],
+        "mrp": 122,
+        "x_available": true,
+        "available": true,
+        "offer_price": 106,
+        "unit_level_price": "10.6/100 g",
+        "quantity": "500 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/3J600UNH93",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZIJVHOLC3U",
+          "U3MSDBHJI5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40252623",
+        "name": "Indori Poha Super Soft Thick Source Of Protein Fibre",
+        "brand": "Fortune",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40252623_2-fortune-indori-poha-super-soft-thick-source-of-protein-fibre.jpg"
+        ],
+        "mrp": "75",
+        "offer_price": "55.54",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40252623",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40252623"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 522072,
+        "name": "Vijay Indori Thick Poha",
+        "brand": "Vijay",
+        "available": false,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4b4ea712-0825-45ce-bca8-092a312dc4fe.jpg?ts=1723622447",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8e3f6546-66f2-4cec-ac04-06a17a7d0536.jpg?ts=1717935118",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bb0387d9-6d1e-47c7-84a5-bf1555eddf50.jpg?ts=1717935119",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/25633449-3f67-4c1d-8df2-00dfbdcbfcdc.jpg?ts=1717935120",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e3a7d82c-ac11-451c-8a0a-241f5e663f85.jpg?ts=1717935121",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/510ca85c-4586-4c62-9e08-801bab90e4ae.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e134d293-1e59-4a23-96fb-4eacf0a1f670.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 36,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/522072",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          522072
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c46310d7-ecad-4239-9ae7-42ee2810c730",
+        "name": "Kitchen Essentials-Hard Anodized Chapati Tawa Ss Wire Handle 25 Cm(10\"), 3Mm Thickness",
+        "brand": "Kitchen Essentials",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/63050d9d-f127-41a4-854e-57be71ab43f2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/60deeb14-304c-44b9-ac6b-18fc150e1eca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/78e6d426-f4e2-4429-907a-47b655d994c2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0d00a059-1290-449b-b390-918cb0935c51.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/851d5fa6-18d1-421a-b595-0ad5af545628.jpeg"
+        ],
+        "mrp": 855.0,
+        "offer_price": 379.0,
+        "unit_level_price": 379.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/76b6cac5-a5e1-46b1-a46b-725c5d9b07b9",
+        "id": "76b6cac5-a5e1-46b1-a46b-725c5d9b07b9",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "76b6cac5-a5e1-46b1-a46b-725c5d9b07b9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40252624",
+        "name": "Thick Poha Source Of Fibre Protein Healthy Breakfast",
+        "brand": "Fortune",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40252624_3-fortune-thick-poha-source-of-fibre-protein-healthy-breakfast.jpg"
+        ],
+        "mrp": "60",
+        "offer_price": "47.98",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40252624",
+        "rank": 7,
+        "is_ad": false,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40252624"
+        ]
+      },
+      {
+        "id": 480589,
+        "name": "Fortune Thick Poha",
+        "brand": "Fortune",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b50fd815-87b6-4f6f-9d28-55ab75d36aae.jpg?ts=1732189579",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/524dcc30-8918-4de1-ae66-5713938a6494.jpg?ts=1732189580",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/13438c4e-736f-4071-bf34-76bd432c335f.jpg?ts=1732189581",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f15a9897-e4f4-464c-8c51-f9b43d004fbd.jpg?ts=1732189581",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7a0479ac-49b9-4ebb-b400-ce134b2fc353.jpg?ts=1732189582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cc0ae0d6-48bc-4114-8c8b-a481dea90ad6.jpg?ts=1732189582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/055b8e76-b03e-4aa2-ab06-65f0e0cc7c7b.jpg?ts=1732189582",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/77205c66-2860-4123-9541-48098e7a3fcc.jpg?ts=1732189583",
+          "http://cdn.grofers.com/app/images/products/sliding_image/480589i.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/480589j.jpg"
+        ],
+        "mrp": 60,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/480589",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          480589,
+          566341
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "952e308a-9103-46d9-a467-d2c6d70ce9f9",
+        "name": "Mamaearth Kerala Thaali Shampoo with Shikakai, Hibiscus,  Amla for Thick & Long Hair",
+        "brand": "Mamaearth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8252d987-2c43-46f7-8bee-23be8e788a56.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ba17d870-ec62-4651-87df-0c7ad2c1b59e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8206a1ba-1043-4950-8ef0-d8ea39b51b99.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/15b8b959-3053-49d4-bfa8-3eb6112ea24b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bea51b24-5530-467f-a394-43fb2e825b47.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 322.0,
+        "unit_level_price": 322.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/13254dc6-ae27-46da-a88b-0670a8fc74d6",
+        "id": "13254dc6-ae27-46da-a88b-0670a8fc74d6",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "13254dc6-ae27-46da-a88b-0670a8fc74d6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "VUTA1ALWT9",
+        "name": "Mtr Poha Breakfast Mix",
+        "brand": "Mtr",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/170bda2ceedaafe0c61dc2f12387c5eb"
+        ],
+        "mrp": 60,
+        "x_available": true,
+        "available": true,
+        "offer_price": 55,
+        "unit_level_price": "45.8/100 g",
+        "quantity": "60 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HUOO2H8HJY",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VUTA1ALWT9",
+          "DC8HZZ1VLS",
+          "MUZS8RV6LW",
+          "JMQL8QVXIR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40223030",
+        "name": "Organic - Poha - Thick",
+        "brand": "bb Royal",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40223030_1-bb-royal-organic-poha-thick.jpg"
+        ],
+        "mrp": "119",
+        "offer_price": "85",
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40223030",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40223030"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 566341,
+        "name": "Fortune Thick Poha",
+        "brand": "Fortune",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/11180d24-43d9-4595-8204-8b22b71e26dd.jpg?ts=1732189584",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e7f1610f-dbf0-4f03-bf22-c591d049f217.jpg?ts=1732189585",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8becf7d4-7a19-4a6f-85eb-74f2534a9c32.jpg?ts=1732189585",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/303622ab-3103-42c1-9b45-b04892b9371f.jpg?ts=1732189586",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/08f29e23-38c0-4532-bd48-67d1fedcb9c4.jpg?ts=1732189586",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/01534005-d368-42ea-a7dd-bf21c0e99124.jpg?ts=1732189587",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a7532482-6b76-4a1d-aea8-aeab072cca78.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/714469ef-60a5-4cbc-bc2b-eabea1ba9e9e.jpg"
+        ],
+        "mrp": 110,
+        "offer_price": 87,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://blinkit.com/prn/x/prid/566341",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 10,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          480589,
+          566341
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7ff2f30d-0ce8-47b6-95a1-35d4046b0d01",
+        "name": "Bronson Professional Bobby Hair Pins Big With Storage Box Thick Black Ball Tip Metal 100 Pcs",
+        "brand": "Bronson Professional",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/865adc0a-c227-4388-ac79-227c8529f4a7.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/91f36457-cd94-4b78-8b09-6e3370dcba9c.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a1d17b68-3734-4b42-9bdd-6c0e602c9b34.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6b983046-6034-4cf7-ba04-68b038661bb6.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6c9ced7c-03a3-4773-a61e-dac3311cbcfc.jpg"
+        ],
+        "mrp": 145.0,
+        "offer_price": 75.0,
+        "unit_level_price": 75.0,
+        "quantity": "1 pack (100 pcs)",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cddc6dc5-9191-4ca9-aed6-9f47deaa2ae2",
+        "id": "cddc6dc5-9191-4ca9-aed6-9f47deaa2ae2",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cddc6dc5-9191-4ca9-aed6-9f47deaa2ae2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "DC8HZZ1VLS",
+        "name": "Mtr Poha Breakfast Mix",
+        "brand": "Mtr",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a9809eddfa08373be8acb633415fd558",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a5f8ee81c368feebe1efed3c843544ad",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a0d8f56e9aff92cce4f0e3d35b5dee69"
+        ],
+        "mrp": 30,
+        "x_available": true,
+        "available": true,
+        "offer_price": 28,
+        "unit_level_price": "46.7/100 g",
+        "quantity": "60 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HUOO2H8HJY",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VUTA1ALWT9",
+          "DC8HZZ1VLS",
+          "MUZS8RV6LW",
+          "JMQL8QVXIR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7f095d0b-08fc-4edb-8b87-0e49141a3129",
+        "name": "MTR 3 min Poha",
+        "brand": "MTR",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8aad1b9a-1b28-456b-9f10-75b97aad3de2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f1cb2683-de80-41c8-86e3-65d8638063da-1gWWfzsL-4MktFTD8E2q2jQ6T97zqWlgY.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f1cb2683-de80-41c8-86e3-65d8638063da-1-IZ-ILuhalZoChotW4V6yoMNzP90ty4J.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f1cb2683-de80-41c8-86e3-65d8638063da-1VqfmiHEgNsOQGoKC6fOohxStx0QBCPsj.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f1cb2683-de80-41c8-86e3-65d8638063da-137vs180tBo1b8P2urgOxn23auMdWbJvj.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 130.0,
+        "unit_level_price": 130.0,
+        "quantity": "60 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f1cb2683-de80-41c8-86e3-65d8638063da",
+        "id": "f1cb2683-de80-41c8-86e3-65d8638063da",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f1cb2683-de80-41c8-86e3-65d8638063da"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "MUZS8RV6LW",
+        "name": "Mtr Poha Breakfast Mix",
+        "brand": "Mtr",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a849816e6f5141c227b5f026d2dc6254"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": false,
+        "offer_price": 133,
+        "unit_level_price": "44.3/100 g",
+        "quantity": "60 g x 5",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HUOO2H8HJY",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 9,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VUTA1ALWT9",
+          "DC8HZZ1VLS",
+          "MUZS8RV6LW",
+          "JMQL8QVXIR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40002653",
+        "name": "Organic Poha Thick",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40002653_6-organic-tattva-organic-poha.jpg"
+        ],
+        "mrp": "89",
+        "offer_price": "75.65",
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40002653",
+        "rank": 6,
+        "is_ad": false,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40002653"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "bbb8d445-b733-4ff1-995c-fca6f654d48f",
+        "name": "MOM Poha with Bhujia",
+        "brand": "MOM",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/6d47ed1f-3a96-4d22-81d3-c404ec58cb7d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b129a682-0abb-4912-8399-eee88c9fd514.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ef80fe62-8d3b-451d-896a-982d9ef8b04c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f13bdffd-8e60-4da5-bff7-7016142db8f9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/faf6225c-9a92-45c5-85d3-d16f7e7ec005.jpeg"
+        ],
+        "mrp": 65.0,
+        "offer_price": 62.0,
+        "unit_level_price": 62.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f6677cb0-326c-44b6-a574-aee4f09fc1e5",
+        "id": "f6677cb0-326c-44b6-a574-aee4f09fc1e5",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f6677cb0-326c-44b6-a574-aee4f09fc1e5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JMQL8QVXIR",
+        "name": "Mtr Poha Breakfast Mix",
+        "brand": "Mtr",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/762165dfc54657fa500c868deacb1d11"
+        ],
+        "mrp": 90,
+        "x_available": true,
+        "available": false,
+        "offer_price": 82,
+        "unit_level_price": "45.6/100 g",
+        "quantity": "60 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/HUOO2H8HJY",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 9,
+        "childIndex": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "VUTA1ALWT9",
+          "DC8HZZ1VLS",
+          "MUZS8RV6LW",
+          "JMQL8QVXIR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "A1SBMF88WI",
+        "name": "Sunsilk Lusciously Thick & Long Conditioner",
+        "brand": "Sunsilk",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/l7medruylulvdrvqwhme",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/tluwvnc3mwabtjle6iek",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/webelktbgtjkgpzarxzq"
+        ],
+        "mrp": 217,
+        "x_available": true,
+        "available": true,
+        "offer_price": 206,
+        "unit_level_price": "",
+        "quantity": "180 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/MU0TUQHLRZ",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "A1SBMF88WI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "622a26c1-bec9-4dd0-8b0c-8511cc2bb2bb",
+        "name": "Laxminarayan Cornflakes Chiwda",
+        "brand": "Laxminarayan",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/75654f92-3d70-4262-970a-35f847fd9216.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5d5cb33c-8221-4d40-af9b-3aed9b1d8bb3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4a4796d7-2925-445d-89f5-9e42cfe8d9be.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a98990f1-d755-4934-8f65-a1470f71d2a8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/25463311-1888-480e-b206-c94bbbcbdc8e-1XJZ9tizus_6PJSo5b_IdXNOBOTIin-FZ.jpeg"
+        ],
+        "mrp": 108.0,
+        "offer_price": 103.0,
+        "unit_level_price": 103.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/25463311-1888-480e-b206-c94bbbcbdc8e",
+        "id": "25463311-1888-480e-b206-c94bbbcbdc8e",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 7,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "25463311-1888-480e-b206-c94bbbcbdc8e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "OTUP3FN1UJ",
+        "name": "Sitashree Laxminarayan Poha Chiwda 250 GM",
+        "brand": "Sitashree Laxminarayan Best Chiwda",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/1f71ac5e-0de8-4839-a6b1-215bc85b3848_819487_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/e1c02d5a-3a8d-4fb0-afc2-c5c06a7c3d47_819487_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/9de23f0b-7642-42af-bf22-b504c590a019_819487_3.png"
+        ],
+        "mrp": 108,
+        "x_available": true,
+        "available": true,
+        "offer_price": 108,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RQ2TR0F5H3",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OTUP3FN1UJ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "1d27f287-f6c2-48a8-845e-991334404f88",
+        "name": "Organic Tattva Red Poha",
+        "brand": "Organic Tattva",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/74f6f247-854e-4ac0-892a-0e8b785af197-Photo.jpeg"
+        ],
+        "mrp": 99.0,
+        "offer_price": 76.0,
+        "unit_level_price": 76.0,
+        "quantity": "500 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/74df73f0-3b64-4a78-a038-4355a0261a40",
+        "id": "74df73f0-3b64-4a78-a038-4355a0261a40",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "74df73f0-3b64-4a78-a038-4355a0261a40"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QYK78G9GJV",
+        "name": "Sitashree Laxminarayan Poha Chiwda 500 GM",
+        "brand": "Sitashree Laxminarayan Best Chiwda",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/9187fa02-9684-4504-b099-ebdd98144b6a_320936_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/27acbc53-9054-491c-a761-660b32839e34_320936_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/12/26/82c53cc5-227c-4c89-b778-caf124f7b95e_320936_3.png"
+        ],
+        "mrp": 216,
+        "x_available": true,
+        "available": true,
+        "offer_price": 216,
+        "unit_level_price": "",
+        "quantity": "500 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RVUDBS9IKL",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QYK78G9GJV"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "3fa4ceaa-ca2d-4853-a53a-a5b9dd5f8f72",
+        "name": "Laxminarayan Potato Chiwda",
+        "brand": "Laxminarayan",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/74efd9b9-b8a3-46ae-b64e-68f439ec280e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/065badc8-7442-4451-8e45-f0e828aba311.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/499f96f6-66bf-4c5f-89f5-4cb485cf333c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f014266a-dfb4-450a-b6b9-8456002fc00a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/8208c0dd-b131-4e7b-a10d-94ddb6d8e5b5-1rw99SxTOiCn74ETxgvoPdYgSHem7o6XP.jpeg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 91.0,
+        "unit_level_price": 91.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8208c0dd-b131-4e7b-a10d-94ddb6d8e5b5",
+        "id": "8208c0dd-b131-4e7b-a10d-94ddb6d8e5b5",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8208c0dd-b131-4e7b-a10d-94ddb6d8e5b5"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "R5CUTDILFF",
+        "name": "BABUS LAXMINARAYAN Best Poha Chiwda",
+        "brand": "BABUS LAXMINARAYAN",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/p5tv8ennephvjwdmmkvc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ag8f4sisg4nkmjd0vvgw",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fmjroqei5ka0vb4lmgci"
+        ],
+        "mrp": 110,
+        "x_available": true,
+        "available": true,
+        "offer_price": 110,
+        "unit_level_price": "",
+        "quantity": "250 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/4FKV8BCNGY",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "R5CUTDILFF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "eaf1dfbe-4116-4159-9206-4e8aa573af1f",
+        "name": "Laxminarayan Best Poha Chiwda",
+        "brand": "Laxminarayan",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0fa4c64d-2391-4fe0-b48c-e789b61bc8b8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/69d956e8-8043-4c66-9a29-f32f6fb6f6b3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2c33fc54-5737-47a3-9f50-b2113981cb62.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/dff6dc83-6da5-4749-bcb7-66f2a8e2a36e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/0059e99f-aab3-44d3-90bf-c07d0e7bee17-1I0-anEJ8WWzEEh1VGCGb4DTPn4rffCUr.jpeg"
+        ],
+        "mrp": 95.0,
+        "offer_price": 95.0,
+        "unit_level_price": 95.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0059e99f-aab3-44d3-90bf-c07d0e7bee17",
+        "id": "0059e99f-aab3-44d3-90bf-c07d0e7bee17",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0059e99f-aab3-44d3-90bf-c07d0e7bee17"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0V7TFU6RDP",
+        "name": "Britannia Winkin' Cow Vanillicious Thick Milk Shake",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c788d1aebee2567ad5f74f7fbece67fb"
+        ],
+        "mrp": 120,
+        "x_available": true,
+        "available": true,
+        "offer_price": 88,
+        "unit_level_price": "16.3/100 ml",
+        "quantity": "180 ml x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/83AEA5FUS8",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0V7TFU6RDP",
+          "IT47DK3DL2",
+          "T4RDKGGSS6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "7f64389f-3efd-4cb6-9ff5-32ccebabe67e",
+        "name": "Vinay Trading Thick Paper Beer Pong Party Glass (Blue)- 450Ml",
+        "brand": "Vinay Trading",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/84fd9914-d9f6-4c1e-9efd-7ebee4af9d50.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f52673a3-c6ce-4bc5-bdd5-e0b6a6ba1d59.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/218c9395-e0d6-4c0c-bb38-dcf135bb2204.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/85eee214-80e0-4cd2-bc62-fdff93b8d434.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3806a91-1b59-4d22-b2b4-dde90b97b241.jpeg"
+        ],
+        "mrp": 129.0,
+        "offer_price": 99.0,
+        "unit_level_price": 99.0,
+        "quantity": "10 pcs",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/380019a4-5ebf-45a3-a0cf-3e2393a50258",
+        "id": "380019a4-5ebf-45a3-a0cf-3e2393a50258",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "380019a4-5ebf-45a3-a0cf-3e2393a50258"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "IT47DK3DL2",
+        "name": "Britannia Winkin' Cow Vanillicious Thick Milk Shake",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/10/1855fd5b-b7d4-432a-9765-5fd86181043b_milkbaseddrinks_IT47DK3DL2_MN.png"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 59,
+        "unit_level_price": "16.4/100 ml",
+        "quantity": "180 ml x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/83AEA5FUS8",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0V7TFU6RDP",
+          "IT47DK3DL2",
+          "T4RDKGGSS6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e3115f01-6542-4c80-ad93-70d6bd4af71c",
+        "name": "Laxminarayan Sabudana Chiwda",
+        "brand": "Laxminarayan",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3107e2fd-a220-4464-8da5-60b01f5fa2a6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e636f228-82f4-4bd2-b79e-50c37dc44172.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/5dc3b31b-7a97-4d88-b3f7-b5202ee9486b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/cf5f04d0-b0bd-4c70-86b2-dc724a2980a2-1RUCdTVU98fBJq_T5U_4qha_SaB8NvavB.jpeg"
+        ],
+        "mrp": 70.0,
+        "offer_price": 67.0,
+        "unit_level_price": 67.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cf5f04d0-b0bd-4c70-86b2-dc724a2980a2",
+        "id": "cf5f04d0-b0bd-4c70-86b2-dc724a2980a2",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cf5f04d0-b0bd-4c70-86b2-dc724a2980a2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "T4RDKGGSS6",
+        "name": "Britannia Winkin' Cow Vanillicious Thick Milk Shake",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0514ad2de35c1a518a9c8cd42de47219",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/04b7cb42ea8d38288bcc30fdabd70683",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/20205e214aacd97577b6e69392baa939"
+        ],
+        "mrp": 40,
+        "x_available": true,
+        "available": true,
+        "offer_price": 30,
+        "unit_level_price": "16.7/100 ml",
+        "quantity": "180 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/83AEA5FUS8",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0V7TFU6RDP",
+          "IT47DK3DL2",
+          "T4RDKGGSS6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a9670441-c285-4501-9e51-25aa50b229bb",
+        "name": "Smith & Jones Ginger Garlic Paste, Thick & Coarse Paste for Cooking",
+        "brand": "Smith & Jones",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/143ccf91-dbe4-4a2d-8ebb-759e9083e9dd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f7897490-98f3-4188-a6d5-ef63a64ec92d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b99005f1-9225-46cd-af59-025de0b2656d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/de695cb1-d6bb-4285-be56-ff2987947d0d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/82b46d99-58be-411b-b866-58eabecf20ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8bd2b82c-010b-44ee-96da-d15fe59b1c73.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f4d52ad3-2417-465e-af17-686dcb6138bf.jpeg"
+        ],
+        "mrp": 50.0,
+        "offer_price": 46.0,
+        "unit_level_price": 46.0,
+        "quantity": "200 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/739c60d2-e3b0-43ea-8440-cb65cbdcfa6d",
+        "id": "739c60d2-e3b0-43ea-8440-cb65cbdcfa6d",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 31,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "739c60d2-e3b0-43ea-8440-cb65cbdcfa6d"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QGJNBZ3PL9",
+        "name": "Chitale Bandhu Patal Poha Chivda",
+        "brand": "Chitale Bandhu",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4f124e5b288d0a2feac2c9e3c0094703",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3fe3c9269c0946890e2575658197fd4b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cd0bed013e25aee7d7862f7647a014b6"
+        ],
+        "mrp": 78,
+        "x_available": true,
+        "available": true,
+        "offer_price": 78,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7W974ZVJVA",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "QGJNBZ3PL9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9fadb120-7571-41f4-9d3f-0e6161ecde95",
+        "name": "Desi Farms Creamy & Thick Dahi Tub",
+        "brand": "Desi Farms",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/75660efb-8bab-422e-ae67-4dcf4e627db3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/de0bc04c-9914-489f-a35f-4466ab567d37.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bea0ce5f-5b91-4b01-80d2-0c13b0522365.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2274fdaf-3588-4ca4-9059-771d276f5451.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7929676e-5929-42d6-b145-3d021dd6aa63.jpg"
+        ],
+        "mrp": 158.0,
+        "offer_price": 89.0,
+        "unit_level_price": 89.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/469f147b-c676-47c9-b2da-1e90a421e984",
+        "id": "469f147b-c676-47c9-b2da-1e90a421e984",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "469f147b-c676-47c9-b2da-1e90a421e984"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GRCWL09B9A",
+        "name": "Sunsilk Black Shine Shampoo and Sunsilk Thick and Long Conditioner Combo",
+        "brand": "Sunsilk",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/qe5tp6tiwsybgixbv93b"
+        ],
+        "mrp": 1099,
+        "x_available": true,
+        "available": true,
+        "offer_price": 709,
+        "unit_level_price": "",
+        "quantity": "1 combo",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XYJ82AAR49",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GRCWL09B9A"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "38103ccd-f680-4d34-abde-5ca2e9ad883e",
+        "name": "MTR Breakfast Khatta Meetha Poha Mix",
+        "brand": "MTR",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/239c184e-c6af-40e9-ac88-2e17f70bb090.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f17a571e-f28c-43a0-8710-75f7e6d0b19b-14fSQZIYHZCfEO_CK9H_dZw5yNLfgbWia.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f17a571e-f28c-43a0-8710-75f7e6d0b19b-1odvpMja8smd3gWrXsDRd0g8hs6SBvPmN.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f17a571e-f28c-43a0-8710-75f7e6d0b19b-15iGI4LkvFuPwhWL_GJLHwWUbKdSFvKN4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/f17a571e-f28c-43a0-8710-75f7e6d0b19b-1CyU9zOREeCMBDqsuFJ69KIA0BGEikrw7.jpeg"
+        ],
+        "mrp": 30.0,
+        "offer_price": 28.0,
+        "unit_level_price": 28.0,
+        "quantity": "60 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/f17a571e-f28c-43a0-8710-75f7e6d0b19b",
+        "id": "f17a571e-f28c-43a0-8710-75f7e6d0b19b",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "f17a571e-f28c-43a0-8710-75f7e6d0b19b"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "41Y5I160N2",
+        "name": "Clinic Plus Strong & Thick Shampoo With Rice Water, Protein + Vitamin E",
+        "brand": "Clinic Plus",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8f61e890549a0f3e9290f4d2e8f49423",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/67635ad89288bdaf445a119a01414f36",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5557db4bdf7f015b035edb355f90797d",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e9920e9686376e0f9dbeef6f49891ccf",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ee16aeaf7f08acb95739dc7ada00737b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c3f06253f4b972a8dc2f18eb114a0e69"
+        ],
+        "mrp": 328,
+        "x_available": true,
+        "available": true,
+        "offer_price": 295,
+        "unit_level_price": "",
+        "quantity": "355 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/F9HO66GGXV",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "41Y5I160N2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a120ca9d-0e06-4736-a484-de1ac7b1951b",
+        "name": "Poha",
+        "brand": "Zepto Cafe",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c5b98737-dcac-448d-a0dc-35a807e2027b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fcf519e6-6332-48a9-93c4-44d65a002607.jpeg"
+        ],
+        "mrp": 164.0,
+        "offer_price": 115.0,
+        "unit_level_price": 115.0,
+        "quantity": "Serves 1",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/cb2b662b-13e3-4e58-a473-65ab915cfb8e",
+        "id": "cb2b662b-13e3-4e58-a473-65ab915cfb8e",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "cb2b662b-13e3-4e58-a473-65ab915cfb8e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0W5ZGL1TVA",
+        "name": "Satyam Kurmura",
+        "brand": "Satyam",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c1z48qwfdvf84pazlfly",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ldp1wv9ysymirr8dcgwe",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/hvnsgcqxg6y9apxg4ruk"
+        ],
+        "mrp": 32,
+        "x_available": true,
+        "available": true,
+        "offer_price": 29,
+        "unit_level_price": "",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7J9AT8QOYN",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0W5ZGL1TVA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "091c1639-8da2-4712-b384-6c4dc8c6db0e",
+        "name": "Mamaearth Kerala Thaali Conditioner with Shikakai, Hibiscus, Amla, Reetha & Methi Dana for Thick & Long Hair",
+        "brand": "Mamaearth",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cfa61898-229e-4a0b-ade3-20fc28a3f4ed.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/05dbebb9-e586-4f64-bfc4-3724d76e6ad7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ed4aff6a-0a57-495f-88f5-25bb390f2fca.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8b541f36-b444-4998-88f0-4979f1925886.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7550c1f4-5934-46ed-a646-d3851df18fa4.jpeg"
+        ],
+        "mrp": 349.0,
+        "offer_price": 322.0,
+        "unit_level_price": 322.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/958a215b-71fb-4dc4-84d6-d35946b417d8",
+        "id": "958a215b-71fb-4dc4-84d6-d35946b417d8",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "958a215b-71fb-4dc4-84d6-d35946b417d8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ONV0JGVH9D",
+        "name": "Maya Surti Murmura",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5117051d03f43023737af332087da2a8"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 69,
+        "unit_level_price": "17.3/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/U1N07L4SNZ",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ONV0JGVH9D",
+          "PO66NXLTN1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "83970b04-3b3d-526f-a379-813ffb838be6",
+        "name": "Chik Protein Solution Hairfall Prevent Shampoo, With Goodness Of Egg White, For Thick And Healthier Hair",
+        "brand": "Chik",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/135e63ff-046f-41c0-ad70-00e34f497c74.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ea9710bb-e374-44e1-9ac1-3848e591582e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/61e085b5-e5fe-4937-8d26-0f52f5ccd7a1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cf862559-0b3a-4ffb-a47f-f57c54974a3d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ad1142de-12af-4bb9-a36f-9fe3b3ab8c91.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b94fb467-004e-4996-a8cc-04719dd286a0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/14d5a197-8518-41a3-8751-1548c8b4eb0e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c64da44b-7db7-4e69-8980-5635fbb0ab85.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/85767a1d-85f1-4818-86d2-119165084667.jpeg"
+        ],
+        "mrp": 285.0,
+        "offer_price": 248.0,
+        "unit_level_price": 248.0,
+        "quantity": "340 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dd731361-30d7-4ce9-9efb-f8289a2499be",
+        "id": "dd731361-30d7-4ce9-9efb-f8289a2499be",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "dd731361-30d7-4ce9-9efb-f8289a2499be"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PO66NXLTN1",
+        "name": "Maya Surti Murmura",
+        "brand": "Maya",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b89380f07519e31baf0d1ddf3b0a3a0d",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/kk7hvyepny5cuwnf2xor",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/xdlgamrvxrsc2cnxg1ed"
+        ],
+        "mrp": 35,
+        "x_available": true,
+        "available": true,
+        "offer_price": 35,
+        "unit_level_price": "17.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/U1N07L4SNZ",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "6 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ONV0JGVH9D",
+          "PO66NXLTN1"
+        ]
+      }
+    ]
+  }
+]

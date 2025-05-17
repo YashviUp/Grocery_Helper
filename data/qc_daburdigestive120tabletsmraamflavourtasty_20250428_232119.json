@@ -1,0 +1,3602 @@
+[
+  {
+    "data": [
+      {
+        "id": 567677,
+        "name": "Dabur Hajmola Tasty Digestive Tablets - Mr. Aam",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/61903e11-0bd0-4f5c-afc5-326408c368fd.jpg?ts=1725878596",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2fa3aaed-bf1c-4bd5-90a8-59395b32e2a3.jpg?ts=1725878597",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e3136cf5-9fb3-4f11-8f1d-dd61c351e332.jpg?ts=1725878598",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/36e93325-5291-45bd-8f88-6afef7969255.jpg?ts=1725878599",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/efd3bd72-ba58-4cd9-891d-e7fdf949f94d.jpg?ts=1725868823"
+        ],
+        "mrp": 70,
+        "offer_price": 67,
+        "unit_level_price": "",
+        "quantity": "120 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/567677",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          567677
+        ]
+      },
+      {
+        "id": "40050840",
+        "name": "Hajmola Pudina - Digestive Tablets",
+        "brand": "Dabur",
+        "available": false,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40050840_2-dabur-hajmola-pudina-digestive-tablets.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "67.9",
+        "unit_level_price": "",
+        "quantity": "120 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40050840",
+        "rank": 5,
+        "is_ad": false,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40050840"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "75b6db6a-0d83-47b2-8939-b494f5b4c737",
+        "name": "Mr Muscle Floor Cleaner Lavender",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fe083921-64da-49bb-8475-d702241680c2.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/937033ad-1b7c-4b66-ac4c-fd6d094b5c50.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8715bdf2-fad0-4d63-b83f-064cdb9fb416.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/25ddb5d1-7551-4d71-bea5-b7348e25b9a4.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9a5d5483-d991-4aa3-a3a5-6a35d58ea40a.jpg"
+        ],
+        "mrp": 445.0,
+        "offer_price": 359.0,
+        "unit_level_price": 359.0,
+        "quantity": "2 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/dfca64dd-c7de-4e4d-a85f-3397b0a8bc55",
+        "id": "dfca64dd-c7de-4e4d-a85f-3397b0a8bc55",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "dfca64dd-c7de-4e4d-a85f-3397b0a8bc55"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "490020543",
+        "name": "Dabur Regular Hajmola 120 Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/490020543/dabur-regular-hajmola-120-pcs-product-images-o490020543-p490020543-0-202203170444.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 66,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/dabur-regular-hajmola-120-pcs/490020543",
+        "id": "490020543",
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "490020543"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "5JVHNF4IHU",
+        "name": "Britannia Nutrichoice 5 Grain Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/892d362488ad9b5a9b69b359d33f3264"
+        ],
+        "mrp": 225,
+        "x_available": true,
+        "available": true,
+        "offer_price": 202,
+        "unit_level_price": "33.7/100 g",
+        "quantity": "200 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IHKE9GOC0V",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5JVHNF4IHU",
+          "LTDPH3J5VQ",
+          "FWZXWGPP8I"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40050841",
+        "name": "Hajmola Anardana Digestive Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40050841_7-dabur-hajmola-anardana-digestive-tablets.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "67.9",
+        "unit_level_price": "",
+        "quantity": "120 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40050841",
+        "rank": 2,
+        "is_ad": false,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40050841"
+        ]
+      },
+      {
+        "id": 32496,
+        "name": "Dabur Hajmola Anardana Digestive Tablets",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b8294403-3520-4478-b0bc-644a8b5bc8b0.jpg?ts=1735822652",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/19b756e3-0be9-4ad4-8e75-7f34c060f42e.jpg?ts=1735822653",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/41400d3e-6af6-44a6-a38e-753c64bff3f1.jpg?ts=1735822653",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/470c95b2-d918-438d-bde7-b11724623014.jpg?ts=1735822654",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0f09af35-08f8-4f3f-8233-52be080a2fb0.jpg?ts=1735822654",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fa1b48ec-b253-403f-90a6-d985f3e51f7d.jpg?ts=1735822655",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/23ca0ef2-1854-4d77-a314-7781a9a57ea9.jpg?ts=1735822656",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/554e7121-9ef7-4182-a93f-5895eb9d6018.jpg?ts=1735822656"
+        ],
+        "mrp": 70,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "120 units",
+        "deeplink": "https://blinkit.com/prn/x/prid/32496",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32496,
+          483006
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "c4096b57-e5ae-415d-9942-85448a5acd65",
+        "name": "Mr Muscle Sparkling Floor Cleaner Liquid - Lavender, Kills 99.9% Germs",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/34f5b7c9-b563-4788-8d15-033405a6cf02.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e1a447f1-0a25-4f9d-bcdf-880ab9e65a60.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bd8a02ba-8149-42f9-8b5f-c8bcfa7138bf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0a7b0b90-783f-4ede-a1be-90efa74f18f3.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7ed9ebe3-c14d-4d56-887c-1e6df55da44c.jpeg"
+        ],
+        "mrp": 232.0,
+        "offer_price": 187.0,
+        "unit_level_price": 187.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/8d99cc0d-5161-4e9e-9743-2d6e0534f436",
+        "id": "8d99cc0d-5161-4e9e-9743-2d6e0534f436",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "8d99cc0d-5161-4e9e-9743-2d6e0534f436"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "491168269",
+        "name": "Dabur Anardana Hajmola 120 Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.jiomart.com/images/product/150x150/491168269/dabur-anardana-hajmola-120-pcs-product-images-o491168269-p491168269-0-202203151001.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 66,
+        "unit_level_price": "",
+        "quantity": "",
+        "deeplink": "https://www.jiomart.com//p/groceries/dabur-anardana-hajmola-120-pcs/491168269",
+        "id": "491168269",
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Jiomart",
+          "sla": "",
+          "storeId": "6219",
+          "open": true,
+          "icon": "https://qcsearch.s3.ap-south-1.amazonaws.com/platforms/jiomart.webp"
+        },
+        "siblings": [
+          "491168269"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LTDPH3J5VQ",
+        "name": "Britannia Nutrichoice 5 Grain Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/f1ae01c6ae2bda868ac5980f69cb818c"
+        ],
+        "mrp": 150,
+        "x_available": true,
+        "available": true,
+        "offer_price": 136,
+        "unit_level_price": "34/100 g",
+        "quantity": "200 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IHKE9GOC0V",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5JVHNF4IHU",
+          "LTDPH3J5VQ",
+          "FWZXWGPP8I"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 483006,
+        "name": "Dabur Hajmola Anardana Digestive Tablets - Pack of 2",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b1449455-ce04-47d0-bd42-79e80b06ca11.jpg?ts=1716873874",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006a.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006b.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006c.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006d.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006e.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483006f.jpg?ts=1710347305"
+        ],
+        "mrp": 140,
+        "offer_price": 132,
+        "unit_level_price": "",
+        "quantity": "2 x 120 units",
+        "deeplink": "https://blinkit.com/prn/x/prid/483006",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 1,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          32496,
+          483006
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "96d7a15e-eb8a-4c86-bc90-a985a629ea8a",
+        "name": "Mr Muscle Sparkling Floor Cleaner Liquid Lemon Citrus, Kills 99.9% Germs",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/90e8a2c2-450d-4a59-9ea3-e055dff4c657.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f8df39f5-e16c-4987-80ef-0345937a0473.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ba879840-02b3-4209-9f0f-831d50d2591d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/29b2b79a-14ce-43b3-8359-5e1e46e43d36.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9a9b3f05-de4e-4e57-920b-ce5dd57bdd2a.jpeg"
+        ],
+        "mrp": 232.0,
+        "offer_price": 187.0,
+        "unit_level_price": 187.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/4231465c-927a-4bc9-8464-0d99694710ce",
+        "id": "4231465c-927a-4bc9-8464-0d99694710ce",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "4231465c-927a-4bc9-8464-0d99694710ce"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "FWZXWGPP8I",
+        "name": "Britannia Nutrichoice 5 Grain Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/5d7ecc23-f525-44cf-b351-91f99dd1d180_88_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/7ccba439-fe7f-4059-8824-bf791d413704_88_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/56844155-3cf8-4a99-bd73-e7927dfec2a6_88_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/ad8fb1cc-11bc-4d63-bb91-42780dfdd22b_88_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/bb6e202c-797d-48dc-9238-c6c80fc2bed4_88_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/22/21ce5902-40f2-41b5-924f-e868701368fb_88_6.png"
+        ],
+        "mrp": 75,
+        "x_available": true,
+        "available": true,
+        "offer_price": 69,
+        "unit_level_price": "34.5/100 g",
+        "quantity": "200 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IHKE9GOC0V",
+        "rank": 1,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 0,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "5JVHNF4IHU",
+          "LTDPH3J5VQ",
+          "FWZXWGPP8I"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "263896",
+        "name": "Regular Digestive Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/263896_6-dabur-hajmola-regular-digestive-tablets.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "66.5",
+        "unit_level_price": "",
+        "quantity": "120 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/263896",
+        "rank": 3,
+        "is_ad": false,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "263896"
+        ]
+      },
+      {
+        "id": 358589,
+        "name": "Dabur Hajmola Regular Digestive Tablets",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5cf43365-0827-4882-bcb3-19e611e5e1a9.jpg?ts=1735822670",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5cc84ca1-67ea-45af-9625-16218d125a53.jpg?ts=1735822671",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/64e0e7d6-2b24-4803-b4f0-04128005f52e.jpg?ts=1735822671",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f2bf5a5d-f595-4af5-820e-f9d2ae8754cb.jpg?ts=1735822672",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/289beac3-e8ca-4641-942b-0455d07b6f85.jpg?ts=1735822672",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/69e63ca3-a521-4917-a0e0-ba063fe2d8c9.jpg?ts=1735822673",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fda23e39-4000-40b8-aee2-7c00d3cd7939.jpg?ts=1735822674",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6caf152d-36d7-4fb4-8f60-5f692e4902e3.jpg?ts=1735822674",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9919bf50-a060-4171-a41a-2aa1ab198d23.jpg?ts=1735822675",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/541c910e-a450-4210-9b66-dc8c7c67e702.jpg?ts=1735822675",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f75f2af2-fb16-40d2-a763-d19a142d6b5b.jpg?ts=1735822676",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3d2413f2-af1b-4104-ae4b-ff74028d0ce0.jpg?ts=1735822676",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cf5b6294-2b18-47fb-8818-690022888945.jpg?ts=1735822677"
+        ],
+        "mrp": 70,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "120 pieces",
+        "deeplink": "https://blinkit.com/prn/x/prid/358589",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 6,
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          358589,
+          483007
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "02238ab5-53dd-4ccb-b376-43ab63b172aa",
+        "name": "Mr Muscle Floor Cleaner Liquid, Floral Perfection, Kills 99.9% Germs",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/807ae24d-7ea5-43d8-970c-f953f92fc631.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1OPhyOX0PwR_I3AjyfOTDP3lTrlhXBEFx.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1K8nDhDpcP7d7Fuy5cAjYxYF28Og_Oeiv.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1Afk073vbh4WdHWx1e9FVoyCI2VKAlasY.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1Mb7kK-xAY68UAKzPO79zI_EN4IGUiB-g.jpeg"
+        ],
+        "mrp": 232.0,
+        "offer_price": 192.0,
+        "unit_level_price": 192.0,
+        "quantity": "1 L",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6e31afea-996a-4057-8f28-2d45e673b103",
+        "id": "6e31afea-996a-4057-8f28-2d45e673b103",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6e31afea-996a-4057-8f28-2d45e673b103"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "TJ51WMOSQI",
+        "name": "Wickedgud Masala Noodles | Healthy & Tasty | No Maida | No Oil | High Protein |Cholesterol Free",
+        "brand": "WickedGud",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/9/288cff10-576b-4c86-a1d2-12bebb9daa46_instantnoodlesandpasta_TJ51WMOSQI_MN.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/9/0ca17a0a-d512-4455-943d-01377abe01d4_instantnoodlesandpasta_TJ51WMOSQI_AL1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/9/eb28fb5c-885a-4a1f-9632-9f895257d078_instantnoodlesandpasta_TJ51WMOSQI_AL2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/9/81e2e03c-02a3-46c9-bd55-a8b0265c37f8_instantnoodlesandpasta_TJ51WMOSQI_AL3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/7/9/f88c978c-948a-40b6-b0b9-1a6024baa45a_instantnoodlesandpasta_TJ51WMOSQI_AL4.jpg"
+        ],
+        "mrp": 135,
+        "x_available": true,
+        "available": true,
+        "offer_price": 81,
+        "unit_level_price": "",
+        "quantity": "207 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/JI1WR2K6N9",
+        "rank": 2,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "TJ51WMOSQI"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 483007,
+        "name": "Dabur Hajmola Regular Digestive Tablets - Pack of 2",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ff390cb4-d763-4b16-8704-3ac188980b10.jpg?ts=1716873874",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007a.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007b.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007c.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007d.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007e.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007f.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007g.jpg?ts=1710347305",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483007h.jpg?ts=1710347305"
+        ],
+        "mrp": 140,
+        "offer_price": 132,
+        "unit_level_price": "",
+        "quantity": "2 x 120 pieces",
+        "deeplink": "https://blinkit.com/prn/x/prid/483007",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          358589,
+          483007
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cb9c5db2-1a2a-43e0-9a7f-7b13a09f7590",
+        "name": "Paldo Mr. Kimchi Spicy Korean Noodles (Pack Of 4)(536gms) & Pororo Korean Drink Milk Flavor Flavor(235ml) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e9e0ba38-41bb-4512-b6a0-35873ca2df8a.jpg"
+        ],
+        "mrp": 699.0,
+        "offer_price": 470.0,
+        "unit_level_price": 470.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1ccd71dd-b0db-40ad-a68b-b19d27e1bb2c",
+        "id": "1ccd71dd-b0db-40ad-a68b-b19d27e1bb2c",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1ccd71dd-b0db-40ad-a68b-b19d27e1bb2c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "0G9K73WB7T",
+        "name": "Britannia Nutrichoice Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/029c204b9b246301462aeda4bfccf838"
+        ],
+        "mrp": 398,
+        "x_available": true,
+        "available": true,
+        "offer_price": 275,
+        "unit_level_price": "14.3/100 g",
+        "quantity": "960 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8JHF5YKXHD",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0G9K73WB7T",
+          "QJO9COCRG9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "40229973",
+        "name": "Hajmola - Limcola, Lemon Flavour Digestive Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/40229973_1-dabur-hajmola-limcola-lemon-flavour-digestive-tablets.jpg"
+        ],
+        "mrp": "75",
+        "offer_price": "71.25",
+        "unit_level_price": "",
+        "quantity": "120 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/40229973",
+        "rank": 1,
+        "is_ad": false,
+        "parentIndex": 1,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "40229973"
+        ]
+      },
+      {
+        "id": 485442,
+        "name": "Dabur Hajmola Limcola Digestive Tablets",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4f30d9a7-1e07-4b1e-a1df-2557c556d778.jpg?ts=1735822683",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/51479a05-db79-42fd-9aba-908853cec3b9.jpg?ts=1735822684",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ef31a281-0c5d-40f5-a9ed-3047e154d15e.jpg?ts=1735822684",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6ad11553-8bc7-4649-9306-5350d7bdb756.jpg?ts=1735822685",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8923b820-01a2-427a-8ab6-ee491847a685.jpg?ts=1735822686",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1aa7bacc-1ebb-4821-a19b-28a1f8cd1449.jpg?ts=1735822687",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a6cd3684-7f23-4df0-b3fc-a8a9a075c978.jpg?ts=1735822688",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/27578630-57a7-4d6a-ad8d-0b681105d93b.jpg?ts=1735822688"
+        ],
+        "mrp": 75,
+        "offer_price": 72,
+        "unit_level_price": "",
+        "quantity": "120 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/485442",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          485442
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e44921cc-6634-495c-b9ec-18a9b6e55644",
+        "name": "Paldo Mr. Kimchi Spicy Korean Noodles (Pack Of 4)(536gms) & Pororo Korean Drink Strawberry Flavor(235ml) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0bbbabc7-a811-4093-b24f-dbb221dd2187.jpg"
+        ],
+        "mrp": 699.0,
+        "offer_price": 470.0,
+        "unit_level_price": 470.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/6fe4341e-ee94-45f7-bfc8-7ac7e66960f8",
+        "id": "6fe4341e-ee94-45f7-bfc8-7ac7e66960f8",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "6fe4341e-ee94-45f7-bfc8-7ac7e66960f8"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "QJO9COCRG9",
+        "name": "Britannia Nutrichoice Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/5/844a720f-da19-4707-b42f-bb24043af113_6676_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/5/f9a11267-20cf-4cac-b2e5-387608bdf673_6676_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/5/3106855b-2378-488f-9e4b-6dddd9e0531a_6676_3.png"
+        ],
+        "mrp": 199,
+        "x_available": true,
+        "available": true,
+        "offer_price": 139,
+        "unit_level_price": "14.5/100 g",
+        "quantity": "960 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/8JHF5YKXHD",
+        "rank": 3,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 2,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "0G9K73WB7T",
+          "QJO9COCRG9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "263775",
+        "name": "Imli Digestive Tablets",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "https://www.bbassets.com/media/uploads/p/m/263775_8-dabur-hajmola-imli-digestive-tablets.jpg"
+        ],
+        "mrp": "70",
+        "offer_price": "67.9",
+        "unit_level_price": "",
+        "quantity": "120 pcs",
+        "deeplink": "https://bbnow.bigbasket.com/pd/263775",
+        "rank": 4,
+        "is_ad": false,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BigBasket",
+          "sla": "11 mins",
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/bigbasket.webp",
+          "open": true,
+          "storeId": ""
+        },
+        "siblings": [
+          "263775"
+        ]
+      },
+      {
+        "id": 23827,
+        "name": "Dabur Hajmola Imli Digestive Tablets",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/d6f4917e-afba-4103-8070-c352fde8a39e.jpg?ts=1735822642",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/266c7d69-5206-4781-9a91-56efb7b7f487.jpg?ts=1735822643",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/de2b69b9-bb27-4c4d-9ce9-1696839f5af2.jpg?ts=1735822643",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/cfe38eb3-551c-4d22-9dd9-25bf181dde8e.jpg?ts=1735822644",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/b602876a-c3ad-4dbf-a215-07de6432d38b.jpg?ts=1735822644",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/355ed5ba-ef01-4c04-a4e3-6dd845e96e51.jpg?ts=1735822645",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/80d80056-dee1-4658-9159-250b49caf5d7.jpg?ts=1735822645",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fb27a453-ac36-45ae-a94f-245dd8d2ad2a.jpg?ts=1735822646",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/abd8a29d-6985-4e6f-aebb-612a390d98b0.jpg?ts=1735822646"
+        ],
+        "mrp": 70,
+        "offer_price": 68,
+        "unit_level_price": "",
+        "quantity": "120 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/23827",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 5,
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          23827,
+          518840
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "79d759eb-2591-4d3e-8bdd-abab6277f673",
+        "name": "Pledge Wood Floor Cleaner(475ml) & Mr Muscle Floor Cleaner Lavender(2l) Combo",
+        "brand": "BUNDLE",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7e1bbca1-29fa-4e0e-bacb-5f2397701f4d.jpg"
+        ],
+        "mrp": 645.0,
+        "offer_price": 534.0,
+        "unit_level_price": 534.0,
+        "quantity": "2 combo",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/607151b1-99e8-4839-878b-1cccf540ce14",
+        "id": "607151b1-99e8-4839-878b-1cccf540ce14",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "607151b1-99e8-4839-878b-1cccf540ce14"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ZK7MIMOJ0M",
+        "name": "Philips MG7920/65 | 13-in-1 | Face, Body & Private Parts | Patented Twin Trim Blades | 120 min Runtime",
+        "brand": "Philips",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/483a0168-e56a-4951-9cea-64cbbb56ce32_51306_1.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/95020fc4-c2d2-4057-817c-1e7775ccd31e_51306_2.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/3744647a-8193-4df1-b321-af751587be49_51306_3.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/4064e93b-9ba8-4e6e-9e9a-822e17ce1ca6_51306_4.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/7cbaf2d4-f9ce-4bd3-9ce2-385bd00c7ff1_51306_5.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/c1c42e7a-c39d-4d77-bed3-a37356cd3cba_51306_6.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/c55cda0c-46fe-4aee-97a2-47dafdcba744_51306_7.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/0f641606-54d1-4215-a7ec-db341b1601a4_51306_8.jpg",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/16/f4245ff5-77ec-4940-b652-f12f61cebe03_51306_9.jpg"
+        ],
+        "mrp": 4695,
+        "x_available": true,
+        "available": true,
+        "offer_price": 3849,
+        "unit_level_price": "",
+        "quantity": "1 unit",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/LM3NV2ISN6",
+        "rank": 4,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 3,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "ZK7MIMOJ0M"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 518840,
+        "name": "Dabur Hajmola Imli Digestive Tablets - Pack of 2",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24d78caa-613e-4fa2-9ccc-19a3b8c23cd9.jpg?ts=1716876749",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840a.jpg?ts=1710349375",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840b.jpg?ts=1710349375",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840c.jpg?ts=1710349375",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840d.jpg?ts=1710349375",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840e.jpg?ts=1710349375",
+          "http://cdn.grofers.com/app/images/products/sliding_image/518840f.jpg?ts=1710349375"
+        ],
+        "mrp": 140,
+        "offer_price": 132,
+        "unit_level_price": "",
+        "quantity": "2 x 120 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/518840",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 4,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          23827,
+          518840
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "63b0de59-fb23-4ea1-8eb7-604ee8cbe3a9",
+        "name": "Mr Muscle Glass Cleaner",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ea9a868e-a83f-4a52-80d5-c8adf3798ce7.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1745b0e5-5ae6-4429-925f-613163e8846f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a6647c7d-70c7-4c32-8db9-399d06f47d4a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a32d9ba4-7322-421f-bde2-8991f12ff173.jpeg"
+        ],
+        "mrp": 99.0,
+        "offer_price": 83.0,
+        "unit_level_price": 83.0,
+        "quantity": "500 ml",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/789732a8-82e4-4b06-bd07-a385c092ad69",
+        "id": "789732a8-82e4-4b06-bd07-a385c092ad69",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "789732a8-82e4-4b06-bd07-a385c092ad69"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "AOOBCHI0NH",
+        "name": "Parle Nutricrunch Digestive Cookies Pouch",
+        "brand": "Parle",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/eae7a245-3425-47f0-9ada-2425b2cb710d_19873_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/1235648b-2969-4215-94a6-0e5ee57c3a7f_19873_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/3/26/bb43d73a-b49b-48db-ae7a-1cdcfcfd8482_19873_3.png"
+        ],
+        "mrp": 320,
+        "x_available": true,
+        "available": true,
+        "offer_price": 160,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/5APPLKT6E7",
+        "rank": 5,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 4,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "AOOBCHI0NH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 81080,
+        "name": "Dabur Hajmola Pudina Tablets",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/38e171b5-a8df-464a-bb20-e5cc4aa39fd3.jpg?ts=1735822660",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1b59b090-99bc-45e1-ab46-ee09007267fd.jpg?ts=1735822661",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e62d78de-f28a-4aa3-98fd-8fcb16151986.jpg?ts=1735822661",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/31f8e685-9dd8-492a-ab35-97431ef4b319.jpg?ts=1735822662",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/12e3baf5-dd7a-41d4-a536-6f2e4b4493ef.jpg?ts=1735822663",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/291ca884-850f-43fd-a712-8f12d69f8be9.jpg?ts=1735822663",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3c60b1af-875e-422f-ac6c-3f3d26e102d3.jpg?ts=1735822664",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e21200a9-49d7-4e02-b504-4187d9a52563.jpg?ts=1735822665",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1895b6f5-f2db-4b1e-adb8-28afa609b0c3.jpg?ts=1735822665"
+        ],
+        "mrp": 70,
+        "offer_price": 67,
+        "unit_level_price": "",
+        "quantity": "120 units",
+        "deeplink": "https://blinkit.com/prn/x/prid/81080",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          81080
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "e3b72b17-72a2-4450-b3f5-6be36e10c13c",
+        "name": "Mr White Detergent Powder",
+        "brand": "Mr. White",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f86e5e7a-4f2e-4210-b615-1d9891f3256f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/37964f87-6e64-4836-850f-e934464b2872.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a7bf5424-9dbf-4d72-98b8-4a7d0944ec13.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a9bf0fe2-362e-4088-95d8-3ffa6a0555f6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/46d0683d-2553-4991-b6f0-b660bafa30ed.jpeg"
+        ],
+        "mrp": 860.0,
+        "offer_price": 663.0,
+        "unit_level_price": 663.0,
+        "quantity": "10 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/b998bfa8-0380-400e-877b-8d7b7b30bb92",
+        "id": "b998bfa8-0380-400e-877b-8d7b7b30bb92",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "b998bfa8-0380-400e-877b-8d7b7b30bb92"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "OLMASD76B9",
+        "name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/9/26/6db404f4-7651-4611-965e-e1737d53d89c_45061.png"
+        ],
+        "mrp": 720,
+        "x_available": true,
+        "available": true,
+        "offer_price": 324,
+        "unit_level_price": "13.5/100 g",
+        "quantity": "800 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/F5AD74N2S0",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OLMASD76B9",
+          "4QHBY5Y0YH",
+          "V8Z88PBPQS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 483110,
+        "name": "Pudin Hara Pearls Digestive Tablets",
+        "brand": "Pudin Hara",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/483110a.jpg?ts=1687524138",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483110b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/483110c.jpg"
+        ],
+        "mrp": 70,
+        "offer_price": 63,
+        "unit_level_price": "",
+        "quantity": "2 x 10 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/483110",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": 10,
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          483110
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9239cae4-af3a-4773-b076-32e027098726",
+        "name": "Mr. White Detergent Powder",
+        "brand": "Mr. White",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cac354db-f67f-464b-b634-307df76f56cb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cc53d5a8-70bb-4cb1-bcf6-1c4d04004ef8.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f41fe3bf-43fd-4b34-b588-669746c9fb31.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1ae7372b-7dd2-4ae1-8b41-5e2af275a4cb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/77436b9c-1e96-496a-81d1-ea097b7f2ed1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1600a37a-b7bf-4a73-a3e5-6e49e1f4cc86.jpeg"
+        ],
+        "mrp": 360.0,
+        "offer_price": 317.0,
+        "unit_level_price": 317.0,
+        "quantity": "4 kg",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/0abea33e-a7f7-4b93-9c38-1e646f713db7",
+        "id": "0abea33e-a7f7-4b93-9c38-1e646f713db7",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "0abea33e-a7f7-4b93-9c38-1e646f713db7"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4QHBY5Y0YH",
+        "name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/cdb70449144ff55a88968ef9afb5893e"
+        ],
+        "mrp": 480,
+        "x_available": true,
+        "available": true,
+        "offer_price": 221,
+        "unit_level_price": "13.8/100 g",
+        "quantity": "800 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/F5AD74N2S0",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OLMASD76B9",
+          "4QHBY5Y0YH",
+          "V8Z88PBPQS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 103718,
+        "name": "Chandan Sweety Imli Digestive Tablets",
+        "brand": "Chandan",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718a.jpg?ts=1688443500",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718b.jpg?ts=1610622158",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718c.jpg?ts=1610622158",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718d.jpg?ts=1610622158",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718g.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/103718h.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 145,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/103718",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          103718
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "41558d54-07e3-4f1f-8aee-9f34b17d0d42",
+        "name": "Mr Makhana Buttor Tomato",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9d15bd17-5e9a-4288-bc31-e4a6d7d6ab90.jpeg"
+        ],
+        "mrp": 130.0,
+        "offer_price": 112.0,
+        "unit_level_price": 112.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/81834a5a-33f0-4b57-886f-b2c5bbf01b7e",
+        "id": "81834a5a-33f0-4b57-886f-b2c5bbf01b7e",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "81834a5a-33f0-4b57-886f-b2c5bbf01b7e"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "V8Z88PBPQS",
+        "name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/1b853064-6acd-411c-949f-fefc9140e724_21281_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/a1effdc5-3a50-4d85-ab04-ecbc113b2717_21281_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/5f5247f3-020a-43bf-a833-c685554d5c7d_21281_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/ad1bb288-8b0f-49ff-b625-ae1096f373c0_21281_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/11/fa533914-522f-4c85-95af-59216a497289_21281_5.png"
+        ],
+        "mrp": 240,
+        "x_available": true,
+        "available": true,
+        "offer_price": 113,
+        "unit_level_price": "14.1/100 g",
+        "quantity": "800 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/F5AD74N2S0",
+        "rank": 6,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 5,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "OLMASD76B9",
+          "4QHBY5Y0YH",
+          "V8Z88PBPQS"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "9Y1N0IID5L",
+        "name": "Eno Chewy Bites: Tasty Chewable Antacid For Gentle & Effective Relief From Acidity- Lemon Flavour",
+        "brand": "Eno",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/de795fd4d606eb18398defc69646cec2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a69abb0e20ba2951e72dc9c961fda7ae",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/0bb8c6ba703c88e237f2626d0fadb51e",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/24d9783e81bbcab63ca59159787f6169",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8dad51a2ff3fd67d3dc9207f9858463f",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c03890c29d2746029c4c237d20b15732"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "10 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/7PQRID6DHN",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "9Y1N0IID5L"
+        ]
+      },
+      {
+        "id": 525524,
+        "name": "Eno Chewy Bites Tangy Lemon Digestive Tablets (10 pieces)",
+        "brand": "Eno Chewy Bites",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6370ae1e-dac2-4956-8734-85dc85e86e7c.jpg?ts=1738892515",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a88f4f34-c58c-42ef-a348-64d55389979d.jpg?ts=1738892516",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2c2e0f3b-9881-4e60-9166-1fb87056b665.jpg?ts=1738892516",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9896d843-f91a-4dc8-bfd4-0719c79217c3.jpg?ts=1738892517",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ed0537ee-ece2-42b8-96ce-9fcfb5c0199d.jpg?ts=1738892517",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/fe3d8539-0f50-4fe5-8e57-a515cb0e2be4.jpg?ts=1738892518",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/94ba2fcd-5d20-4135-8f74-1af49b601f88.jpg?ts=1738892519",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2045cc50-a9a7-4162-b600-907c229c1e16.jpg?ts=1738892519",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8f84caa0-4a15-4ae7-9af3-76e5abd65fdc.jpg?ts=1738892519"
+        ],
+        "mrp": 70,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "1 pack (10 pieces)",
+        "deeplink": "https://blinkit.com/prn/x/prid/525524",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525524
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0a35f8ee-c2e6-4889-b5e2-ce38145a6436",
+        "name": "Mr. White Detergent Powder",
+        "brand": "Mr. White",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/af291467-760c-4f93-9daf-e1ba1152dc0f.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a5ae6a70-a9b5-45b9-a601-557ea4cf6464.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9c9f483b-78df-4632-ab1a-cbd0f1f0eeda.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bf52cb98-ca78-47d6-bf62-d56ae985bd3d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ef754172-60c2-43e7-bd1b-97a7afa1c571.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/346cc87b-6374-4e8b-bccc-febd47643af6.jpeg"
+        ],
+        "mrp": 620.0,
+        "offer_price": 492.0,
+        "unit_level_price": 492.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/48c77c71-58f9-48ba-98d5-50e091c98f39",
+        "id": "48c77c71-58f9-48ba-98d5-50e091c98f39",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "48c77c71-58f9-48ba-98d5-50e091c98f39"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "GQ1IG7GSQA",
+        "name": "iD Fresh - Idli & Dosa Batter",
+        "brand": "iD Fresh",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/772822ca-042e-4f42-96a0-39a30a576390_275_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/7f42f7f6-0655-4b21-824c-21c9c90494e8_275_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/6c1d37d8-d07d-440a-8050-e58d3f2cefa2_275_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/a9220f20-8b83-422a-93ae-0a48b816fc76_275_4.png"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 100,
+        "unit_level_price": "",
+        "quantity": "1 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/LGD5AMBI9L",
+        "rank": 7,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 6,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "GQ1IG7GSQA"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525522,
+        "name": "Eno Chewy Bites Tangy Lemon Digestive Tablets",
+        "brand": "Eno Chewy Bites",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3e0efd5d-43cb-44eb-b509-f56e1584929b.jpg?ts=1740744683",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2ca73df0-624f-4097-821b-5e803d04b237.jpg?ts=1738892497",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/620b4b79-c88b-49a7-bc18-00866bc5bf56.jpg?ts=1738892497",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/93b539ed-3017-47ef-b47d-e533391be46d.jpg?ts=1738892498",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/97b16311-7b83-4baa-89bb-241f841234d6.jpg?ts=1738892498",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/90b62a7a-7e38-4738-b46f-79721a4178e3.jpg?ts=1738892499",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/9b8847f0-7a77-4e6b-b212-e7babc27a43a.jpg?ts=1738892499",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8a76a4cf-5c9f-486a-b91e-378797ec9f60.jpg?ts=1738892500",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8895f0ac-8830-44b0-99e6-c49719160222.jpg?ts=1738892501"
+        ],
+        "mrp": 180,
+        "offer_price": 167,
+        "unit_level_price": "",
+        "quantity": "1 pack (30 pieces)",
+        "deeplink": "https://blinkit.com/prn/x/prid/525522",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525522
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "be668d25-6736-4fb7-bb3a-7bed500637a7",
+        "name": "Mr. Munchies Afghani Soya Chaap",
+        "brand": "Mr. Munchies",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4a2f838a-9573-469c-b13e-9218025279c6.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b565bbc8-fdaa-4347-bb3e-c35b5e28d4d8.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ecd033dc-a816-4d8e-a9b4-9d642a1306e7.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ecbe8048-002b-4ebf-b262-1fa59f15fb34.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4f08cd8c-0fec-42a5-be80-ffa8fe8644a0.jpg"
+        ],
+        "mrp": 189.0,
+        "offer_price": 133.0,
+        "unit_level_price": 133.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/3eb5a228-2068-40b2-8988-0ed5a5e8c053",
+        "id": "3eb5a228-2068-40b2-8988-0ed5a5e8c053",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "3eb5a228-2068-40b2-8988-0ed5a5e8c053"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "4MY2MV6DLR",
+        "name": "Eno Nimbu Masala Digestive Anatacid",
+        "brand": "Eno",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/66921ed1712f1592f8fceaefa1bfa815",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/7787f876f7bf3ef2584e1a3e71a19fd4",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9e4164762a940c12f32c2879cc7afd5e",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/8d4a538d926a929d779f4fccb587f6a6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/437ebee4461c29637eb32f4449084d19",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ee11ff67b6527badd5d16c3534d27b25"
+        ],
+        "mrp": 10,
+        "x_available": true,
+        "available": true,
+        "offer_price": 10,
+        "unit_level_price": "",
+        "quantity": "5 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/SSR8DVLJWT",
+        "rank": 8,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 7,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "4MY2MV6DLR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 103716,
+        "name": "Chandan Abajpati Digestive Tablets",
+        "brand": "Chandan",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716a.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716b.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716c.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716d.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716e.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716f.jpg?ts=1692691817",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716g.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/103716h.jpg"
+        ],
+        "mrp": 150,
+        "offer_price": 143,
+        "unit_level_price": "",
+        "quantity": "150 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/103716",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          103716
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "278463c8-0536-4e42-b250-6ef9516db096",
+        "name": "Mirana Mr Robot Talkback Toy-Red",
+        "brand": "Mirana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e6e148f7-63a5-4770-bae9-7e7c956fc92d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/11463a2c-a836-4412-b484-31a970689997.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/10b2bc4b-6876-4cb1-9849-23e9d513fa6c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0790dc0b-a839-4034-992d-d0ee24dbc01d.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/285c9374-4bc1-45ea-8086-74a178dba520.jpeg"
+        ],
+        "mrp": 799.0,
+        "offer_price": 799.0,
+        "unit_level_price": 799.0,
+        "quantity": "1 pc",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/1afbf264-dad1-4bdf-950c-fe5f16e63ef6",
+        "id": "1afbf264-dad1-4bdf-950c-fe5f16e63ef6",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "1afbf264-dad1-4bdf-950c-fe5f16e63ef6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "987CAV1F8K",
+        "name": "Britannia Nutrichoice Hi-Fibre Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/9a210185d15cdd541a5b8c15f7cfe8bd"
+        ],
+        "mrp": 100,
+        "x_available": true,
+        "available": true,
+        "offer_price": 97,
+        "unit_level_price": "24.3/100 g",
+        "quantity": "100 g x 4",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/I42H9J79TZ",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "987CAV1F8K",
+          "LTXGVG61KI",
+          "93NDEHIXC9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 439873,
+        "name": "Dabur Nature Care Double Action Isabgol/ Psyllium Husk",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873a.jpg?ts=1687330077",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873b.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873c.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873d.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873e.jpg",
+          "http://cdn.grofers.com/app/images/products/sliding_image/439873f.jpg"
+        ],
+        "mrp": 205,
+        "offer_price": 195,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/439873",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          439873
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "340aba04-5a29-4dc0-9b00-beb9d472e1b6",
+        "name": "Mr. Munchies Crunchy Thread Paneer",
+        "brand": "Mr. Munchies",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d79c5943-d63c-4d36-9b25-c6d7624fadb4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f2b9865c-f375-496e-a63a-22cccd13aeaf.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/84f3e41a-953a-4ff4-849b-4295cdf3e418.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a305d8b3-0213-4a76-9a1f-4bab717fd3c6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/e93713ff-8708-4556-a2f1-dddac3470437.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0cdb2ff0-5b04-4a3b-bfd7-7650f2f8fccd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fa2f364f-a413-4770-bd91-5763d438d476.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/044ad662-990e-412b-a487-9eca1e087ff6.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a9cae029-8c49-4c4e-bf15-fccf18c8ef06.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/47ff9d1e-487d-4f78-a4c0-b365b23cdb5b.jpeg"
+        ],
+        "mrp": 209.0,
+        "offer_price": 147.0,
+        "unit_level_price": 147.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/352d3d07-5f86-4702-a9a0-bd8ae50679ff",
+        "id": "352d3d07-5f86-4702-a9a0-bd8ae50679ff",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "352d3d07-5f86-4702-a9a0-bd8ae50679ff"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "LTXGVG61KI",
+        "name": "Britannia Nutrichoice Hi-Fibre Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/4cdfbb2dd9b576a6e4db4b3b6026c55a"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 49,
+        "unit_level_price": "24.5/100 g",
+        "quantity": "100 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/I42H9J79TZ",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "987CAV1F8K",
+          "LTXGVG61KI",
+          "93NDEHIXC9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "X2IIHFOLBT",
+        "name": "Eno Chewy Bites Tasty Chewable Antacid For Effective Relief From Acidity Orange Flavour",
+        "brand": "Eno",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/29500793d1754cdbbbbd8d880c9b70dc",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/fd89e515a4fec3a9b6089c2a53cdea98",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a127986f02467b59df0a68a52b643838",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/c2781d0809357702b9ecb69e3dfe41e2",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a5e199b3d4940ac29ff0e77ef3ca85cd",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/82e771d258d0195b96b147fe058fe6f6"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "10 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/GW43YUYCNA",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "X2IIHFOLBT"
+        ]
+      },
+      {
+        "id": 525525,
+        "name": "Eno Chewy Bites Zesty Orange Digestive Tablets (10 pieces)",
+        "brand": "Eno Chewy Bites",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/398d6c42-c9f0-430f-ade1-693feebd63c4.jpg?ts=1738892524",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/47d90836-bc5c-4cad-b59b-fa5caf022acf.jpg?ts=1738892525",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/62aed8b2-74c9-4c42-b277-8b8eac0147dc.jpg?ts=1738892525",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/38b040d7-9fe3-422a-afd1-86cabaa15e8c.jpg?ts=1738892526",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/79bf52e7-d6f6-44b3-bb33-3915c1e38c9e.jpg?ts=1738892527",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/2df733f9-fad6-4df2-8860-5437399e429a.jpg?ts=1738892527",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0868076d-3a14-41f1-bdb4-136373c387d5.jpg?ts=1738892527",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/066a06ea-d828-4178-b68d-772038d8de0b.jpg?ts=1738892528",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/f98a164f-c702-409a-a597-57840d75ea01.jpg?ts=1738892528"
+        ],
+        "mrp": 70,
+        "offer_price": 65,
+        "unit_level_price": "",
+        "quantity": "1 pack (10 pieces)",
+        "deeplink": "https://blinkit.com/prn/x/prid/525525",
+        "rank": 13,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 12,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525525
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "f6d33e86-4ae9-4268-903c-ed1545deb0f8",
+        "name": "Paldo Mr. Kimchi Spicy Korean Noodles Veg",
+        "brand": "Paldo",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/88ba909b-afd4-42c9-8a7c-838a5dc8a7f4.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0602bb66-b36b-4672-a24c-57a49dc6f3ac.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/477b506c-79f7-4a9c-99ca-a1f513ac7dc1.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d4d62e08-e868-4ad7-b4cb-a0e1ff6496b1.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bb999d4f-6514-40cb-b675-6d666fd12c86.jpg"
+        ],
+        "mrp": 600.0,
+        "offer_price": 390.0,
+        "unit_level_price": 390.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/5be8fb47-2b71-48f8-97e5-d8db1db690e1",
+        "id": "5be8fb47-2b71-48f8-97e5-d8db1db690e1",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "5be8fb47-2b71-48f8-97e5-d8db1db690e1"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "93NDEHIXC9",
+        "name": "Britannia Nutrichoice Hi-Fibre Digestive Biscuits",
+        "brand": "Britannia",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/30/adcf5d02-71e4-49bf-92e8-aae87e666a49_1577_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/30/a3663b00-662a-4f4d-b926-2d3973dd8841_1577_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/30/a7dc8a18-641e-4e6e-b52e-bd97e9889556_1577_3.png"
+        ],
+        "mrp": 25,
+        "x_available": true,
+        "available": true,
+        "offer_price": 25,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/I42H9J79TZ",
+        "rank": 9,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 8,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "987CAV1F8K",
+          "LTXGVG61KI",
+          "93NDEHIXC9"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 525523,
+        "name": "Eno Chewy Bites Zesty Orange Digestive Tablets",
+        "brand": "Eno Chewy Bites",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/836ef938-998b-4021-891a-cbb8867b00d7.jpg?ts=1738892507",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8c6d10e4-b70b-4c65-8a00-5ed8d4d55984.jpg?ts=1738892507",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/eeb3d95c-7110-49ca-a72f-963b786879d8.jpg?ts=1738892507",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/374fbeb2-3cb0-4a3b-8e29-1fbc1d697c46.jpg?ts=1738892508",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/35501883-d488-40a4-9330-924e62ca3f79.jpg?ts=1738892509",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/37f531a8-6ad5-4604-9a8c-2fe7423f07b9.jpg?ts=1738892510",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/59f33efd-3d29-45c0-b6c1-8e7a667073fa.jpg?ts=1738892510",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/6e01c67b-5bef-4b30-af82-fe3789b01e91.jpg?ts=1738892510",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/445cb834-0b15-4538-97a1-0b78fbb877f7.jpg?ts=1738892511"
+        ],
+        "mrp": 180,
+        "offer_price": 167,
+        "unit_level_price": "",
+        "quantity": "1 pack (30 pieces)",
+        "deeplink": "https://blinkit.com/prn/x/prid/525523",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          525523
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "56b25f2b-f167-42ff-9cf9-c6a7ad56fc18",
+        "name": "Mr Makhana Cheesy Peezy",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b2d0e976-bec9-467d-82b2-ad1ac2701999.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 129.0,
+        "unit_level_price": 129.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/222c9f17-33a2-4aeb-a884-e4614aa0e2b6",
+        "id": "222c9f17-33a2-4aeb-a884-e4614aa0e2b6",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "222c9f17-33a2-4aeb-a884-e4614aa0e2b6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "XJ2NBWB0PR",
+        "name": "Coriander - Without Roots (Kotthambari)",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5abfb3f08ea92d31125ca290bb0edc1b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a01953a99d8667c79ad7d8574bc73819"
+        ],
+        "mrp": 50,
+        "x_available": true,
+        "available": true,
+        "offer_price": 15,
+        "unit_level_price": "7.5/bunch",
+        "quantity": "1 Bunch x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RC72JAN6NK",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XJ2NBWB0PR",
+          "ICK9J8FKB2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 22601,
+        "name": "Chandan Jeera Goli Digestive Tablets",
+        "brand": "Chandan",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ddaa1d84-f4ba-41cb-9bf1-e1f840050c81.jpg?ts=1707557498",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601b.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601c.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601d.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601e.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601f.jpg",
+          "https://cdn.grofers.com/app/images/products/sliding_image/22601g.jpg"
+        ],
+        "mrp": 50,
+        "offer_price": 48,
+        "unit_level_price": "",
+        "quantity": "100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/22601",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          22601,
+          482999
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "48386837-8063-4366-abb1-d22945eb9500",
+        "name": "Mr Makhana Piri Piri",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/cab66ce7-a0df-4d3a-901a-521d712704fd.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 129.0,
+        "unit_level_price": 129.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/9f7d673e-0b34-4b93-b9eb-dc5071f3e812",
+        "id": "9f7d673e-0b34-4b93-b9eb-dc5071f3e812",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "9f7d673e-0b34-4b93-b9eb-dc5071f3e812"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "ICK9J8FKB2",
+        "name": "Coriander - Without Roots (Kotthambari)",
+        "brand": "",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/5abfb3f08ea92d31125ca290bb0edc1b",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a01953a99d8667c79ad7d8574bc73819"
+        ],
+        "mrp": 25,
+        "x_available": true,
+        "available": true,
+        "offer_price": 9,
+        "unit_level_price": "",
+        "quantity": "1 Bunch",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/RC72JAN6NK",
+        "rank": 10,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 9,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "XJ2NBWB0PR",
+          "ICK9J8FKB2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 482999,
+        "name": "Chandan Jeera Goli Digestive Tablets - Pack of 2",
+        "brand": "Chandan",
+        "available": false,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/87156afe-7888-4d5f-940e-941de55afa94.jpg?ts=1742968695",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999a.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999b.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999c.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999d.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999e.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999f.jpg?ts=1710347304",
+          "https://cdn.grofers.com/app/images/products/sliding_image/482999g.jpg?ts=1710347304"
+        ],
+        "mrp": 100,
+        "offer_price": 95,
+        "unit_level_price": "",
+        "quantity": "2 x 100 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/482999",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": 0,
+        "parentIndex": 14,
+        "childIndex": 1,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          22601,
+          482999
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "a17796a3-972b-480d-9e9e-0b892568e602",
+        "name": "Mr Makhana Fox Nuts Sea Salt And Vinegar - Popped Lotus Seeds | Roasted In Olive Oil",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4e5b7ea8-78b2-4d67-b6eb-722f7030ea8f.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 128.0,
+        "unit_level_price": 128.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/a380380d-7cfe-4fa8-9c61-c5d77f797070",
+        "id": "a380380d-7cfe-4fa8-9c61-c5d77f797070",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "a380380d-7cfe-4fa8-9c61-c5d77f797070"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "G73H0OX0AQ",
+        "name": "iD Fresh - Idli & Dosa Batter",
+        "brand": "iD Fresh",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/997a670c-726b-410f-9db4-ff16c6f6df66_6738_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/56a267a2-b4dd-4fe9-a553-956fe1188a64_6738_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/6/e961579d-2327-4079-9410-f381df9d529b_6738_3.png"
+        ],
+        "mrp": 175,
+        "x_available": true,
+        "available": true,
+        "offer_price": 175,
+        "unit_level_price": "",
+        "quantity": "2 kg",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/87CV3K89GD",
+        "rank": 11,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 10,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "G73H0OX0AQ"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 110116,
+        "name": "Dabur GlucoPlus-C Orange Energy Drink Mix",
+        "brand": "Dabur GlucoPlus-C",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/38a2f0e9-13c0-4ce2-836b-157bb7a600f7.jpg?ts=1743498039",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/3e61d754-a68e-4173-a656-e2ae761a90bd.jpg?ts=1743498040",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/4faea90e-1740-460c-8d87-5dc20b1a67ae.jpg?ts=1743498040",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/702790e5-7ffd-44ef-98e4-fb842572b49d.jpg?ts=1743498041",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/abc5e692-2c60-42be-8a72-9a92efe935a8.jpg?ts=1743498041",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/58d4f34a-366c-4261-9f84-6e1677fbc802.jpg?ts=1743498042",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1d4b1835-973b-4ff9-abbb-892b3171a092.jpg?ts=1743498043",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1e153d48-cb8c-469a-ba45-a863afc77cae.jpg?ts=1743498044"
+        ],
+        "mrp": 255,
+        "offer_price": 182,
+        "unit_level_price": "",
+        "quantity": "400 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/110116",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": 4,
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          110116
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "67eb6b88-6b4b-409d-9cc7-19a9a9ea1397",
+        "name": "Mr Makhana Lime Chilli",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/797cb847-444a-4b54-bc9e-4379cac59ff8.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 134.0,
+        "unit_level_price": 134.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/54da7dac-b5ae-4d94-ac9e-c6f76980236a",
+        "id": "54da7dac-b5ae-4d94-ac9e-c6f76980236a",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "54da7dac-b5ae-4d94-ac9e-c6f76980236a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JD3BU3QLZR",
+        "name": "Mcvitie's Digestive High Fibre Biscuits With Goodness Of Wholewheat",
+        "brand": "Mcvitie's",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/14/4552fa93-4fdf-4f28-9007-8c4c6da9703f_3069_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/14/df984ae4-5187-4058-ba53-50e18b4a487f_3069_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/14/55b824a0-053f-4b70-9747-df2e2b6248ab_3069_3.png"
+        ],
+        "mrp": 199,
+        "x_available": true,
+        "available": true,
+        "offer_price": 139,
+        "unit_level_price": "",
+        "quantity": "959.1 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/XV2LWEAB85",
+        "rank": 12,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 11,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "JD3BU3QLZR"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 202146,
+        "name": "Glucose-D Energy Drink Mix - with Dabur Red Paste 175g free",
+        "brand": "Glucose-D",
+        "available": true,
+        "images": [
+          "https://cdn.grofers.com/da/cms-assets/cms/product/12acbeb8-ace3-41b9-8875-3e287426ed72.jpg?ts=1742709163",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/ed570076-c6f3-4b24-882e-5f2379565385.jpg?ts=1742709164",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/a1f7903b-6d16-44aa-9345-690c62b36efd.jpg?ts=1742709164",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/8c4dabfa-86a4-4ddb-9b19-ccc43e834d96.jpg?ts=1742709165",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/5735cfd2-e753-49cd-baaf-302054d3bab7.jpg?ts=1742709165",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/7868e28a-40a5-45fc-bb7d-0b216dd104d7.jpg?ts=1742709166",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/986bc03c-1168-4d02-9aac-9981ff41ff34.jpg?ts=1742709167",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/1063992f-6cca-4fcb-803f-c971a95655f5.jpg?ts=1742709167",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/e942f4d5-4882-4dab-b674-6f817ac0c1eb.jpg?ts=1742709168",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/0a39d8d5-20d7-4e85-966a-2951b90b6198.jpg",
+          "https://cdn.grofers.com/da/cms-assets/cms/product/c28c6f9a-d750-4cf8-b0de-4bfde2e41b2b.jpg"
+        ],
+        "mrp": 280,
+        "offer_price": 228,
+        "unit_level_price": "",
+        "quantity": "1 kg + 175 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/202146",
+        "rank": 17,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 16,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          202146
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "32c6713b-71bd-43b3-8e9d-8e12d0493b81",
+        "name": "Mr. Munchies Premium Cheese Jalapeno Popper",
+        "brand": "Mr. Munchies",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b0381332-0fed-43ed-92d5-4770cd20e0de.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/29c78018-0fbe-4050-8a97-7fbafbe2ec59-19FP2Eak3yabq1IFxNpwMrkee5GcYTdYm.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/29c78018-0fbe-4050-8a97-7fbafbe2ec59-1eWIVBMo0WenrwNQSOb96yrQjJGPHBlvI.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/29c78018-0fbe-4050-8a97-7fbafbe2ec59-1hLUr5KHirgu8ZvcALsJmH--RsyFa5rEo.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/29c78018-0fbe-4050-8a97-7fbafbe2ec59-1yiwUd1oYPxrNblq0FnK2LEAxDq-5BTKQ.jpeg"
+        ],
+        "mrp": 169.0,
+        "offer_price": 154.0,
+        "unit_level_price": 154.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/29c78018-0fbe-4050-8a97-7fbafbe2ec59",
+        "id": "29c78018-0fbe-4050-8a97-7fbafbe2ec59",
+        "rank": 21,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 20,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "29c78018-0fbe-4050-8a97-7fbafbe2ec59"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 536413,
+        "name": "Hajmola Regular Digestive Tablets + Pudina Tablets + Imli Digestive Tablets Combo",
+        "brand": "Dabur Hajmola",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1dd3f9e4-e920-460e-a1ad-7401bcfbec63.jpg?ts=1716973605",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413a.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413b.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413c.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413d.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413e.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413f.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413g.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413h.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413i.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413j.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413k.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413l.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413m.jpg?ts=1710350819",
+          "http://cdn.grofers.com/app/images/products/sliding_image/536413n.jpg?ts=1710350819"
+        ],
+        "mrp": 210,
+        "offer_price": 195,
+        "unit_level_price": "",
+        "quantity": "120 pieces + 120 units + 120 tablets",
+        "deeplink": "https://blinkit.com/prn/x/prid/536413",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          536413
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "cbcdad6a-ef07-4259-92d8-da912dde3afc",
+        "name": "Mr Makhana Pudina Party",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/0e1cd754-665c-4ba1-80b7-72e092e6505c.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 125.0,
+        "unit_level_price": 125.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/21a079b7-9995-40a9-b0c5-0e8052c087ac",
+        "id": "21a079b7-9995-40a9-b0c5-0e8052c087ac",
+        "rank": 22,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 21,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "21a079b7-9995-40a9-b0c5-0e8052c087ac"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "TSCND560O2",
+        "name": "NIVEA Nourishing Body Lotion Body Milk | 48 H Moisturization | For Very Dry Skin",
+        "brand": "Nivea",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e35eb7c6a3b8e397248235dd2f2d03cb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/36eafe5c975692b52f175457fb8182eb",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e3773162f50af75a85bba774c434e5a5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/dca7823dc288c79c86ed1beb374b66bf",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/a48877ef957d121827196beedfbfe8ae",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/df1ef246e301d362e3caf6547cd5460f"
+        ],
+        "mrp": 724,
+        "x_available": true,
+        "available": true,
+        "offer_price": 429,
+        "unit_level_price": "",
+        "quantity": "600 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/DS6DRUWMF1",
+        "rank": 14,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 13,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "TSCND560O2"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": 546236,
+        "name": "Dabur Sitopaladi Churna",
+        "brand": "Dabur",
+        "available": true,
+        "images": [
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4b872429-0ddf-4c1c-8116-b0c77420bbff.jpg?ts=1716319759",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a6e54f25-8105-4066-96fb-d78a4b5a227c.jpg?ts=1716319760",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3b172a95-7580-4f1f-b247-fc008ee77737.jpg?ts=1716319760",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/22f8d309-ad91-49dc-a81e-81ad04a6f170.jpg?ts=1716319760",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d5075e83-ab2b-4d96-9f43-bfec43b45d34.jpg",
+          "http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9806e675-1448-4694-a940-3c41efffc1fc.jpg"
+        ],
+        "mrp": 158,
+        "offer_price": 143,
+        "unit_level_price": "",
+        "quantity": "60 g",
+        "deeplink": "https://blinkit.com/prn/x/prid/546236",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "BlinkIt",
+          "sla": "8 Mins",
+          "storeId": "",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/blinkit.webp"
+        },
+        "siblings": [
+          546236
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "78e2cfbb-897f-45f5-beba-362b518f873e",
+        "name": "Mr. Munchies Spicy Paneer Burger Patty",
+        "brand": "Mr. Munchies",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d5ed876e-33c3-47be-8e33-f0ed0e79a2a4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/440dc682-9bdb-469f-97db-cc6ae5790ed0-1W4MkFNhAskTrSfpWKEz7lyHK8rFvXt2e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/440dc682-9bdb-469f-97db-cc6ae5790ed0-1TvIM1534NJjzs-rALT2abfUWtrNA3fQ1.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/440dc682-9bdb-469f-97db-cc6ae5790ed0-1NusXT7elEQzqNMQryM-yng68sz13k1dI.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/inventory/product/440dc682-9bdb-469f-97db-cc6ae5790ed0-1QU7aGmXakQSpaphVxv2TN94WjEjsVRsL.jpeg"
+        ],
+        "mrp": 209.0,
+        "offer_price": 190.0,
+        "unit_level_price": 190.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/440dc682-9bdb-469f-97db-cc6ae5790ed0",
+        "id": "440dc682-9bdb-469f-97db-cc6ae5790ed0",
+        "rank": 23,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 22,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "440dc682-9bdb-469f-97db-cc6ae5790ed0"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "N4UAO1IMN6",
+        "name": "NIVEA Aloe Hydration Body Lotion 48 H Moisturization | Non Sticky Feel | For Men & Women",
+        "brand": "Nivea",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/baae7198-7391-4915-b22d-84c9cdd5cd77_86186_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/ec350066-2284-4c0c-881e-b28c2d2b3ddf_86186_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/18d10cc1-eb30-4668-b858-597006088200_86186_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/60a61b69-5f3b-4ac6-b732-31f1245fe581_86186_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/2b360567-dcc3-40f1-b9fc-859008bc9ca6_86186_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/5/d8325516-c1a3-4d3d-9c00-71c61a05aa2f_86186_6.png"
+        ],
+        "mrp": 699,
+        "x_available": true,
+        "available": true,
+        "offer_price": 409,
+        "unit_level_price": "",
+        "quantity": "600 ml",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/IXZ990NALS",
+        "rank": 15,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 14,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "N4UAO1IMN6"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "ffa1040c-1853-4c8e-baee-735ed085b567",
+        "name": "Mr. Muscle Kiwi Dranex Drain Cleaner Powder, Removes Clogs, Blockages In Just 30 Minutes",
+        "brand": "Kiwi",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/83d1dca0-618d-46c5-b210-68a151c9f6b4.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9ee077dc-5106-47eb-8de4-57f0220e80dd.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ce2066cd-342d-4ef2-be09-408646523b0e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/9c4035c0-490f-446d-8b0d-ff5b901a274c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/132d02f5-a5e6-4a06-b188-ad388feb1b4f.jpeg"
+        ],
+        "mrp": 200.0,
+        "offer_price": 169.0,
+        "unit_level_price": 169.0,
+        "quantity": "375 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/51a1eec0-b958-46ee-b421-8b5c7b88322c",
+        "id": "51a1eec0-b958-46ee-b421-8b5c7b88322c",
+        "rank": 24,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 23,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "51a1eec0-b958-46ee-b421-8b5c7b88322c"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "MWNJQDJDFQ",
+        "name": "Sunfeast Farmlite Oats with Almonds Digestive Biscuits",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/b346427e2e85f85deb152254f4b1f2c6",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/88a164c51416e1a4f45dbfc5ac2486ca",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/04ce5b66fbd290a53e607b8f5a30dddd"
+        ],
+        "mrp": 280,
+        "x_available": true,
+        "available": true,
+        "offer_price": 232,
+        "unit_level_price": "38.7/100 g",
+        "quantity": "150 g x 4",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H6Z9HDQVJ8",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "MWNJQDJDFQ",
+          "HJC9QVL9UM",
+          "81FVTC4FY0",
+          "P01MVATQMM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "4fe59c83-fad2-4ec4-b97e-e57018525d08",
+        "name": "Mr. Munchies Tandoori Soya Chaap",
+        "brand": "Mr. Munchies",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/4735ab00-4cf8-4707-8428-e21685ab557b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fff1dc30-8ea7-4331-91fb-e00c210901a2.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/2fc5b1c6-8d07-480b-9a15-f2ea0dcee11e.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c6f9f973-4ced-409f-8d14-18dd88230fbe.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/1bc9be39-df38-45d5-a9e7-8267d34b1b8a.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f00a1669-7b99-4342-8159-60494c078b87.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/f677643d-bece-477f-b963-a08936dfd8b9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/751db016-23b1-4536-b3a5-cccd43d2659b.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7c0d5f12-11db-4554-8805-b45f9d5d91d6.jpeg"
+        ],
+        "mrp": 189.0,
+        "offer_price": 167.0,
+        "unit_level_price": 167.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/efd405d6-2e86-440e-94ac-e7f81869617a",
+        "id": "efd405d6-2e86-440e-94ac-e7f81869617a",
+        "rank": 25,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 24,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "efd405d6-2e86-440e-94ac-e7f81869617a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "HJC9QVL9UM",
+        "name": "Sunfeast Farmlite Oats with Almonds Digestive Biscuits",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/e58be8cccbbb9fb01eda55d320b9e2da"
+        ],
+        "mrp": 210,
+        "x_available": true,
+        "available": true,
+        "offer_price": 176,
+        "unit_level_price": "39.1/100 g",
+        "quantity": "150 g x 3",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H6Z9HDQVJ8",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "MWNJQDJDFQ",
+          "HJC9QVL9UM",
+          "81FVTC4FY0",
+          "P01MVATQMM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "62c09996-05b4-4140-939c-317f6e0f9306",
+        "name": "Mr. Muscle Kiwi Dranex Drain Cleaner Powder, Removes Clogs, Blockages In Just 30 Minutes",
+        "brand": "Kiwi",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/503f409d-f793-48b6-8b4b-f831206e456c.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c24efa14-cd89-427e-a966-5eee01e416b0.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/bad22378-e4bc-41ff-8918-ac678724da84.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/ae9f32bb-d14d-4347-a51b-f636a00fd0bb.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/c9034a13-b312-4649-9c46-67c4d2d2aaf9.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a52afce8-708e-4d71-aadd-f1e946206338.jpeg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/833016e4-b7ff-46e9-b9cd-3ebdd9f5ef4d.jpeg"
+        ],
+        "mrp": 165.0,
+        "offer_price": 142.0,
+        "unit_level_price": 142.0,
+        "quantity": "6 x 50 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/05f1631f-17bc-4335-9212-3188da84485a",
+        "id": "05f1631f-17bc-4335-9212-3188da84485a",
+        "rank": 26,
+        "is_ad": false,
+        "inventory": 3,
+        "parentIndex": 25,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "05f1631f-17bc-4335-9212-3188da84485a"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "81FVTC4FY0",
+        "name": "Sunfeast Farmlite Oats with Almonds Digestive Biscuits",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/421007666e91ac04826c3839024da363",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/88a164c51416e1a4f45dbfc5ac2486ca",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/04ce5b66fbd290a53e607b8f5a30dddd"
+        ],
+        "mrp": 140,
+        "x_available": true,
+        "available": true,
+        "offer_price": 119,
+        "unit_level_price": "39.7/100 g",
+        "quantity": "150 g x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H6Z9HDQVJ8",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 2,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "MWNJQDJDFQ",
+          "HJC9QVL9UM",
+          "81FVTC4FY0",
+          "P01MVATQMM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "72f8bcf1-8540-4d50-9306-4124bebbd484",
+        "name": "Mr South Medium Roast Filter Coffee",
+        "brand": "Mr South",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/78029fc1-0daf-4be0-a90b-e0b9fa52d704.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/b3f3f4ae-fd2f-484c-8e1d-9f8ff1a9d2a3.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/fb0941f6-3e18-4904-8573-e8354f391612.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/a059075d-7fde-478a-bf24-e95d9f8c8540.jpg"
+        ],
+        "mrp": 85.0,
+        "offer_price": 68.0,
+        "unit_level_price": 68.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/53d8eb27-4fd9-4b74-8c09-1458cf0f3015",
+        "id": "53d8eb27-4fd9-4b74-8c09-1458cf0f3015",
+        "rank": 27,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 26,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "53d8eb27-4fd9-4b74-8c09-1458cf0f3015"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "P01MVATQMM",
+        "name": "Sunfeast Farmlite Oats with Almonds Digestive Biscuits",
+        "brand": "Sunfeast",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/8e620953-b4a4-4878-9fdc-ee71360258d2_938_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/f2ae71dd-e843-4f1f-928a-03afb0d0801c_938_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/58757ca0-4fce-4538-a20d-4c0d9aa4df6b_938_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/1bc2d381-a8b6-4344-8ccb-b227f18a36f9_938_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/c0c4820e-cc8c-4fd1-acb3-a281573a43d9_938_5.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2025/4/3/9cbbd4fd-9e55-4809-91eb-80dba4c7ebb7_938_6.png"
+        ],
+        "mrp": 70,
+        "x_available": true,
+        "available": true,
+        "offer_price": 60,
+        "unit_level_price": "40/100 g",
+        "quantity": "150 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H6Z9HDQVJ8",
+        "rank": 16,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 15,
+        "childIndex": 3,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "MWNJQDJDFQ",
+          "HJC9QVL9UM",
+          "81FVTC4FY0",
+          "P01MVATQMM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "0833ccd9-31cf-474f-a356-9991ae9706b4",
+        "name": "Mr Muscle Toilet Cleaner",
+        "brand": "Mr. Muscle",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/7a478d68-3abd-4bc7-bfcc-3fb08fe966ca.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/8eef3a09-a44c-4c94-a115-7d1d941239cf.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3dfa77d2-15b6-4007-ba62-fa9e73ccf6bf.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/3288c4de-6f26-4f67-a8a3-9bc01d01d633.jpg",
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/35b492a8-1531-42bd-92df-8c5266323417.jpg"
+        ],
+        "mrp": 90.0,
+        "offer_price": 82.0,
+        "unit_level_price": 82.0,
+        "quantity": "",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/36d61d7f-2079-43fb-8ea6-583965d73183",
+        "id": "36d61d7f-2079-43fb-8ea6-583965d73183",
+        "rank": 28,
+        "is_ad": false,
+        "inventory": 1,
+        "parentIndex": 27,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "36d61d7f-2079-43fb-8ea6-583965d73183"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "9034cb48-81eb-4034-9702-cc87922606db",
+        "name": "MR. MAKHANA Fox Nuts Black Salt - Delicious Teatime Snack, Popped Lotus Seeds, Roasted In Olive Oil",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/d6b39bcd-6f5b-40d6-b498-705073ae43c5.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 134.0,
+        "unit_level_price": 134.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/ea49816e-f71f-4666-b183-fae31f4076ea",
+        "id": "ea49816e-f71f-4666-b183-fae31f4076ea",
+        "rank": 29,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 28,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "ea49816e-f71f-4666-b183-fae31f4076ea"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "KCPIJRE2CC",
+        "name": "Delfrez Suguna Nourish - Vitamins & Minerals Egg",
+        "brand": "Delfrez",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/67ac73ac-9788-40e6-8a21-2f709d68038e_774_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/db8a36da-01ef-4953-aa38-c485caf9ea4d_774_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/16de3b73-3c00-47ce-abaa-c45f09235670_774_3.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/70bc7d95-406f-45a1-bb7c-ce2214695e60_774_4.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/8/31/7feb0922-c6d3-4cfd-96d7-ac401a8aebe0_774_5.png"
+        ],
+        "mrp": 85,
+        "x_available": true,
+        "available": true,
+        "offer_price": 64,
+        "unit_level_price": "10.7/piece",
+        "quantity": "6 pieces",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/E03H65CYWL",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 17,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "KCPIJRE2CC",
+          "46WHK94MQH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "xid": "90b25c8a-f9c0-42ce-bbec-f11690a0b17a",
+        "name": "Mr Makhana Cream And Onion",
+        "brand": "Mr Makhana",
+        "available": true,
+        "images": [
+          "https://cdn.zeptonow.com/production///tr:w-400,ar-1600-1600,pr-true,f-auto,q-80/cms/product_variant/753a0662-85f7-4cd6-812f-b328d034fbec.jpeg"
+        ],
+        "mrp": 150.0,
+        "offer_price": 129.0,
+        "unit_level_price": 129.0,
+        "quantity": "55 g",
+        "deeplink": "https://www.zeptonow.com/pn/x/pvid/2b92d7e7-de33-4c0c-872c-583c47ee496f",
+        "id": "2b92d7e7-de33-4c0c-872c-583c47ee496f",
+        "rank": 30,
+        "is_ad": false,
+        "inventory": 2,
+        "parentIndex": 29,
+        "childIndex": 0,
+        "platform": {
+          "name": "Zepto",
+          "sla": "8 Mins",
+          "storeId": "edbcfecc-a753-4fc8-ab8a-eb7b7d3dfbd7",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/zepto.webp"
+        },
+        "siblings": [
+          "2b92d7e7-de33-4c0c-872c-583c47ee496f"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "46WHK94MQH",
+        "name": "Delfrez Suguna Nourish - Vitamins & Minerals Egg",
+        "brand": "Delfrez",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/47a69311b0ec127db86d76694e33ae3b"
+        ],
+        "mrp": 170,
+        "x_available": true,
+        "available": false,
+        "offer_price": 128,
+        "unit_level_price": "10.7/piece",
+        "quantity": "6 pieces x 2",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/E03H65CYWL",
+        "rank": 18,
+        "is_ad": false,
+        "inventory": {
+          "total": 0,
+          "remaining": 0,
+          "message": "",
+          "in_stock": false
+        },
+        "parentIndex": 17,
+        "childIndex": 1,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "KCPIJRE2CC",
+          "46WHK94MQH"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "PJVGBQ6HSX",
+        "name": "Cerelac Nestle Rice Baby cereal 300g | No Refined Sugar |With Protein Iron Calcium ALA-Omega 3 | Stage 1, 6 - 24 Months, Bag-in-Box Pack",
+        "brand": "Cerelac",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/11/4d39acbe-d069-483e-9470-c8e19bea30ab_435470_1.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/11/2a821fcf-8092-483d-8306-29a474a3f713_435470_2.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/11/11/a1c4e0e9-e52b-419a-8a73-fd45f231ee4e_435470_3.png"
+        ],
+        "mrp": 265,
+        "x_available": true,
+        "available": true,
+        "offer_price": 265,
+        "unit_level_price": "",
+        "quantity": "300 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/H3NB83R55T",
+        "rank": 19,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 18,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "PJVGBQ6HSX"
+        ]
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "id": "JWO2WVTDIP",
+        "name": "Nestle a+ Dahi, 380g | Thick & Creamy Curd | Perfect with Your Everyday Meal",
+        "brand": "Nestle",
+        "images": [
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/NI_CATALOG/IMAGES/CIW/2024/10/10/aa021c39-b27e-403f-8d09-9fbfd185d172_42636.png",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3b69ac362a8d4415136ca79c79b8a768",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/3982a004420aa995c2518be0dac156c5",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/ea7f7545e27c57d4a400acf105553840",
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_252,h_272/61837dbd0d94174529947693164b4a3b"
+        ],
+        "mrp": 80,
+        "x_available": true,
+        "available": true,
+        "offer_price": 80,
+        "unit_level_price": "",
+        "quantity": "380 g",
+        "deeplink": "https://www.swiggy.com/stores/instamart/item/J2VYNILQCS",
+        "rank": 20,
+        "is_ad": false,
+        "inventory": {
+          "total": 1,
+          "remaining": 1,
+          "message": "",
+          "in_stock": true
+        },
+        "parentIndex": 19,
+        "childIndex": 0,
+        "platform": {
+          "name": "Swiggy",
+          "sla": "7 Mins",
+          "storeId": "1382965",
+          "open": true,
+          "icon": "https://d2chhaxkq6tvay.cloudfront.net/platforms/swiggy.webp"
+        },
+        "siblings": [
+          "JWO2WVTDIP"
+        ]
+      }
+    ]
+  }
+]
