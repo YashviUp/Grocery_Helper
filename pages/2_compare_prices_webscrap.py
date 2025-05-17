@@ -56,7 +56,7 @@ def clean_product_name(name, exclude_keywords):
     Clean product name using Azure Cognitive Services key phrase extraction
     and remove exclude keywords.
     """
-   
+
     name_clean = name
     for kw in exclude_keywords:
         # Remove keyword as a word or part of a word, case-insensitive
@@ -119,7 +119,7 @@ def process_platform_data(data):
             try:
                 image_url = next((img for img in item.get('images', []) 
                                 if img.startswith(('http://', 'https://'))), 
-                               'https://via.placeholder.com/100x100.png?text=No+Image')
+                            'https://via.placeholder.com/100x100.png?text=No+Image')
 
                 # Platform handling
                 platform_name = item.get('platform', {}).get('name', '').title()
@@ -145,11 +145,8 @@ def process_platform_data(data):
                     'grams': grams,
                     'image_url': image_url,
                     'delivery_time': '1 day' if PLATFORM_CONFIG[platform_name]['delivery_time']==1440 else f"{PLATFORM_CONFIG[platform_name]['delivery_time']} mins",
-                    'id' : unique_id,
                     'price_per_g': price_per_g
                 }
-                if unique_id in st.session_state.get('removed_ids', set()):
-                    continue
                 
                 platform_items[platform_name].append(entry)
                 current_top = platform_top_items.get(platform_name, {'price_per_g': float('inf')})
@@ -176,7 +173,7 @@ def display_product_card(item, preferences):
     # Create a container for the card
     with st.container():
         # Main content row
-        col1, col2, col3 = st.columns([1, 3, 1])
+        col1, col2 = st.columns([1, 3])
         
         with col1:
             st.image(item['image_url'], width=100)
@@ -195,18 +192,10 @@ def display_product_card(item, preferences):
             st.markdown(f"**Price/g:** ₹{item['price_per_g']:.3f}")
             st.markdown(f"**Delivery Time:** {item['delivery_time']}")
             
-        
-        with col3:
-            if st.button("âŒ", key=f"remove_{item['id']}"):
-                if 'removed_ids' not in st.session_state:
-                    st.session_state['removed_ids'] = set()
-                    st.session_state['removed_ids'].add(item['id'])
-                    st.success(f"Removed {item['title']} from cart.")
-
 
 
 def page_2():
-    st.title("🛒 Price Comparison")
+    st.title("🛒Price Comparison")
     
     # Get location and preferences from Page 1
     lat = st.session_state.get('latitude', 19.0760)
@@ -219,8 +208,6 @@ def page_2():
     "20 minutes": 20,
     "45 minutes": 45,
     "1 day": 1440}[delivery]
-    if 'removed_ids' not in st.session_state:
-        st.session_state.removed_ids = set()
 
     allowed_platforms = [p for p, config in PLATFORM_CONFIG.items() 
                         if config.get('delivery_time', 1440) <= max_minutes]
@@ -231,12 +218,10 @@ def page_2():
         st.warning("Upload your bill on Page 1 first")
         return
 
-    # Initialize cart matrix
-    cart_matrix = {platform: [] for platform in allowed_platforms}
-    platform_totals = {platform: 0.0 for platform in allowed_platforms}
+    cart_matrix = defaultdict(list)
+    platform_totals = defaultdict(float)
     
     for item in cart:
-        # Use product_title instead of title
         product_query = f"{item['product_title']}".lower().strip()
         
         with st.expander(f"🔍 {product_query}", expanded=True):
@@ -253,10 +238,10 @@ def page_2():
                 continue
                 
             filtered_df = [
-                item for item in results
-                if item['platform'] in allowed_platforms
-                and item['id'] not in st.session_state.get('removed_ids', set())
-            ]
+            item for item in results
+            if item['platform'] in allowed_platforms
+        ]
+
             
             platform_groups = defaultdict(list)
             for item in filtered_df:
@@ -271,11 +256,11 @@ def page_2():
                     cart_matrix[platform].append(top_items[platform])
                     platform_totals[platform] += top_items[platform]['price']
             
+
             if not top_items:
                 st.info("No products match your delivery time filter")
                 continue            
             
-            # Display products in a grid
             cols = st.columns(2)
             for idx, (platform, product) in enumerate(top_items.items()):
                 with cols[idx % 2]:
@@ -285,6 +270,12 @@ def page_2():
                     )
             
             st.divider()
+    cart_matrix = {plat: items for plat, items in cart_matrix.items() if items}
+    st.session_state['cart_matrix'] = cart_matrix
+    st.session_state['platform_totals'] = dict(platform_totals)
+
+    if not cart_matrix:
+        st.warning("No cart data found for your selected products and filters.")
 
 if __name__ == "__main__":
     page_2()
