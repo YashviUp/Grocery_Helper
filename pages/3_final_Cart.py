@@ -161,37 +161,6 @@ def render_page_3():
             best_platform = df_matrix.loc[df_matrix['total_cost'].idxmin()]
             st.success(f"Best Option: {best_platform['platform']} - ₹{best_platform['total_cost']:.2f} (Delivery in {best_platform['delivery_time_mins']} mins)")
     
-    # Display platform-wise totals with different metrics
-    st.header("📊 Platform-wise Summary")
-    for platform, items in cart_matrix.items():
-        if items:
-            total = sum(item['price'] for item in items)
-            items_count = len(items)
-            avg_price = total / items_count
-            
-            st.markdown(f"### {platform}")
-            col1, col2, col3 = st.columns(3)
-            
-            with col1:
-                st.metric("Total Cost", f"₹{total:.2f}")
-            with col2:
-                st.metric("Items", str(items_count))
-            with col3:
-                st.metric("Avg Price/Item", f"₹{avg_price:.2f}")
-            
-            # Display items in a table
-            items_df = pd.DataFrame([{
-                'Product': item['title'],
-                'Price': f"₹{item['price']:.2f}",
-                'Quantity': item['quantity'],
-                'Delivery': item['delivery_time']
-            } for item in items])
-            
-            st.dataframe(
-                items_df.style.background_gradient(subset=['Price'], cmap='RdYlGn_r'),
-                use_container_width=True
-            )
-            st.divider()
     # 3. Cart Summary Table
     st.subheader("🛒 Cart Summary")
     cart_data = []
